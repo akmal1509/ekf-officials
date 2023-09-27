@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Dapil 1",
+        "deleted_at": "NULL",
+        "created_at": "NULL",
+        "updated_at": "2023-09-08 04:10:31"
+    },
+    {
+        "id": "2",
+        "name": "Dapil 2",
+        "deleted_at": "NULL",
+        "created_at": "NULL",
+        "updated_at": "2023-09-08 04:10:50"
+    },
+    {
+        "id": "3",
+        "name": "Dapil 3",
+        "deleted_at": "NULL",
+        "created_at": "NULL",
+        "updated_at": "2023-09-08 04:11:00"
+    },
+    {
+        "id": "4",
+        "name": "Dapil 4",
+        "deleted_at": "NULL",
+        "created_at": "NULL",
+        "updated_at": "2023-09-08 04:11:11"
+    },
+    {
+        "id": "5",
+        "name": "Dapil 5",
+        "deleted_at": "NULL",
+        "created_at": "NULL",
+        "updated_at": "2023-09-08 04:11:22"
+    },
+    {
+        "id": "6",
+        "name": "Dapil 6",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:10:21",
+        "updated_at": "2023-09-08 04:10:21"
+    }
+]

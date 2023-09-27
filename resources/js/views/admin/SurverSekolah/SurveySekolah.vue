@@ -1,0 +1,110 @@
+<template>
+    <div>
+        <p class="text-lg font-semibold">Data Survey Sekolah</p>
+        <div>
+            <CardTotalData
+                :data="total"
+                :isLoading="isLoading"
+                label="Survey Sekolah"
+                icon="school"
+            />
+        </div>
+        <div>
+            <input
+                type="text"
+                v-model="searchQuery.name"
+                class="form-control w-full mb-4"
+                placeholder="Cari nama sekolah..."
+            />
+        </div>
+        <div class="flex flex-col space-y-5">
+            <router-link
+                v-for="data in stepOnes.data"
+                :to="`/admin/survey-sekolah/${data.id}`"
+            >
+                <Card class="flex flex-row">
+                    <div class="basis-3/12">
+                        <img
+                            :src="data.image"
+                            class="object-cover w-full aspect-square rounded-md"
+                            alt=""
+                        />
+                    </div>
+                    <div class="pl-2 basis-9/12">
+                        <p class="font-semibold">{{ data.schools.name }}</p>
+                        <div class="text-sm pt-2">
+                            <p>Kelapa Sekolah</p>
+                            <p class="">{{ data.headmaster }}</p>
+                        </div>
+                    </div>
+                </Card>
+            </router-link>
+        </div>
+        <div class="my-10">
+            <Paginate
+                :current-page="currentPage"
+                :total-items="total"
+                :per-page="pageSize"
+                @update:current-page="currentPage = $event"
+            />
+        </div>
+        <div>
+            <ButtonCreate link="/admin/survey-sekolah/create" />
+        </div>
+    </div>
+</template>
+<script>
+import { CardTotalData, Card, Paginate, ButtonCreate } from "@/components";
+import { useStepOnesComposables as stepOne } from "@/composables";
+import { ref, onMounted, watchEffect } from "vue";
+export default {
+    setup() {
+        const { stepOnes, isLoading, getStepOnes } = stepOne();
+        const total = ref(0);
+        const currentPage = ref(1);
+        const pageSize = ref("5");
+        const searchQuery = ref({
+            name: "",
+        });
+        const queryParams = ref("");
+        const fetchData = async () => {
+            await getStepOnes(
+                currentPage.value,
+                pageSize.value,
+                queryParams.value
+            );
+            // console.log("h");
+            total.value = stepOnes.value.paginate.total;
+        };
+
+        watchEffect(() => {
+            const searchParams = [
+                { key: "name", value: searchQuery.value.name },
+            ];
+            queryParams.value = searchParams
+                .filter((param) => param.value !== "")
+                .map((param) => `search[${param.key}]=${param.value}`)
+                .join("&");
+            fetchData(currentPage.value, pageSize.value, queryParams.value);
+        });
+        onMounted(() => {
+            fetchData();
+        });
+        console.log(total);
+        return {
+            stepOnes,
+            total,
+            isLoading,
+            searchQuery,
+            currentPage,
+            pageSize,
+        };
+    },
+    components: {
+        CardTotalData,
+        Card,
+        Paginate,
+        ButtonCreate,
+    },
+};
+</script>

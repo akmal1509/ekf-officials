@@ -1,0 +1,191 @@
+[
+    {
+        "id": "2",
+        "dapilCategoryId": "1",
+        "provinceId": "12",
+        "cityId": "168",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:00:31",
+        "updated_at": "2023-09-08 04:00:31"
+    },
+    {
+        "id": "3",
+        "dapilCategoryId": "2",
+        "provinceId": "12",
+        "cityId": "168",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:01:44",
+        "updated_at": "2023-09-08 04:01:44"
+    },
+    {
+        "id": "4",
+        "dapilCategoryId": "3",
+        "provinceId": "12",
+        "cityId": "168",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:02:55",
+        "updated_at": "2023-09-08 04:02:55"
+    },
+    {
+        "id": "5",
+        "dapilCategoryId": "3",
+        "provinceId": "12",
+        "cityId": "168",
+        "deleted_at": "2023-09-08 04:05:15",
+        "created_at": "2023-09-08 04:03:34",
+        "updated_at": "2023-09-08 04:05:15"
+    },
+    {
+        "id": "6",
+        "dapilCategoryId": "4",
+        "provinceId": "12",
+        "cityId": "168",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:05:45",
+        "updated_at": "2023-09-08 04:05:45"
+    },
+    {
+        "id": "7",
+        "dapilCategoryId": "5",
+        "provinceId": "12",
+        "cityId": "168",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:06:28",
+        "updated_at": "2023-09-08 04:06:28"
+    },
+    {
+        "id": "8",
+        "dapilCategoryId": "1",
+        "provinceId": "12",
+        "cityId": "167",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:07:16",
+        "updated_at": "2023-09-08 04:07:16"
+    },
+    {
+        "id": "9",
+        "dapilCategoryId": "2",
+        "provinceId": "12",
+        "cityId": "167",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:07:51",
+        "updated_at": "2023-09-08 04:07:51"
+    },
+    {
+        "id": "10",
+        "dapilCategoryId": "3",
+        "provinceId": "12",
+        "cityId": "167",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:08:30",
+        "updated_at": "2023-09-08 04:08:30"
+    },
+    {
+        "id": "11",
+        "dapilCategoryId": "4",
+        "provinceId": "12",
+        "cityId": "167",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:09:09",
+        "updated_at": "2023-09-08 04:09:09"
+    },
+    {
+        "id": "12",
+        "dapilCategoryId": "5",
+        "provinceId": "12",
+        "cityId": "167",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:10:01",
+        "updated_at": "2023-09-08 04:10:01"
+    },
+    {
+        "id": "13",
+        "dapilCategoryId": "6",
+        "provinceId": "12",
+        "cityId": "167",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:12:04",
+        "updated_at": "2023-09-08 04:12:04"
+    },
+    {
+        "id": "14",
+        "dapilCategoryId": "1",
+        "provinceId": "12",
+        "cityId": "178",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:12:38",
+        "updated_at": "2023-09-08 04:12:38"
+    },
+    {
+        "id": "15",
+        "dapilCategoryId": "2",
+        "provinceId": "12",
+        "cityId": "178",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:13:00",
+        "updated_at": "2023-09-08 04:13:00"
+    },
+    {
+        "id": "16",
+        "dapilCategoryId": "3",
+        "provinceId": "12",
+        "cityId": "178",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:13:23",
+        "updated_at": "2023-09-08 04:13:23"
+    },
+    {
+        "id": "17",
+        "dapilCategoryId": "4",
+        "provinceId": "12",
+        "cityId": "178",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:13:50",
+        "updated_at": "2023-09-08 04:13:50"
+    },
+    {
+        "id": "18",
+        "dapilCategoryId": "5",
+        "provinceId": "12",
+        "cityId": "178",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:14:12",
+        "updated_at": "2023-09-08 04:14:12"
+    },
+    {
+        "id": "19",
+        "dapilCategoryId": "1",
+        "provinceId": "12",
+        "cityId": "187",
+        "deleted_at": "2023-09-08 04:17:39",
+        "created_at": "2023-09-08 04:16:54",
+        "updated_at": "2023-09-08 04:17:39"
+    },
+    {
+        "id": "20",
+        "dapilCategoryId": "1",
+        "provinceId": "12",
+        "cityId": "187",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:17:58",
+        "updated_at": "2023-09-08 04:17:58"
+    },
+    {
+        "id": "21",
+        "dapilCategoryId": "2",
+        "provinceId": "12",
+        "cityId": "187",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:18:18",
+        "updated_at": "2023-09-08 04:18:18"
+    },
+    {
+        "id": "22",
+        "dapilCategoryId": "3",
+        "provinceId": "12",
+        "cityId": "187",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:18:40",
+        "updated_at": "2023-09-08 04:18:40"
+    }
+]

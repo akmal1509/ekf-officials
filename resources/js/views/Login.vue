@@ -1,0 +1,78 @@
+<template>
+    <div class="flex justify-center relative px-8 xl:px-0">
+        <div class="w-96 h-full px-5 rounded-xl xl:shadow">
+            <!-- <div class="border-b border-slate-700 pb-5 text-center">
+                <p class="text-rkRed font-semibold">Welcome to Rkf Official</p>
+            </div> -->
+            <div class="flex justify-center">
+                <div class="pb-5 flex flex-col items-center">
+                    <img :src="Logo" class="w-[150px]" alt="" />
+                    <p class="text-rkRed font-semibold text-2xl mt-2">
+                        Welcome Back!
+                    </p>
+                </div>
+            </div>
+            <template v-if="error">
+                <Alert type="danger" class="mt-5">{{ error }} </Alert>
+            </template>
+            <form @submit.prevent="useAuth.handleLogin(form)">
+                <div class="mt-5 mb-2">
+                    <!-- <input type="text" v-model="form.username" /> -->
+                    <Input
+                        required
+                        v-model="form.username"
+                        placeholder="Username"
+                    />
+                </div>
+                <div class="">
+                    <Input
+                        required
+                        v-model="form.password"
+                        type="password"
+                        placeholder="Password"
+                    />
+                </div>
+                <!-- <a href="javascript:;" type="button">Submit</a> -->
+                <Button typeButton="submit" class="mt-8">Masuk</Button>
+            </form>
+        </div>
+    </div>
+</template>
+<script>
+import { ref, watch, computed, onMounted } from "vue";
+import { Input, Button } from "../components";
+import { useAuthStore } from "@/store";
+import { Alert } from "flowbite-vue";
+import { Logo } from "@/assets";
+
+export default {
+    setup() {
+        const useAuth = useAuthStore();
+        const token = computed(() => useAuth.token);
+        const error = computed(() => useAuth.error);
+        const form = ref({
+            username: "",
+            password: "",
+        });
+        watch(error, () => {
+            form.value.password = "";
+        });
+        return {
+            form,
+            useAuth,
+            token,
+            error,
+        };
+    },
+    data() {
+        return {
+            Logo,
+        };
+    },
+    components: {
+        Input,
+        Button,
+        Alert,
+    },
+};
+</script>

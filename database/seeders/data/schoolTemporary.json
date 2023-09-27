@@ -1,0 +1,6742 @@
+[
+    {
+        "name": "SD AISYIYAH KUNINGAN",
+        "village": "PURWAWINANGUN"
+    },
+    {
+        "name": "SD BUDI BHAKTI",
+        "village": "CIAMPEA"
+    },
+    {
+        "name": "SD ISLAM MUMTAZ",
+        "village": "CIHIDEUNGHILIR"
+    },
+    {
+        "name": "SD ISLAM PLUS BAITUSSALAM",
+        "village": "CIRENDANG"
+    },
+    {
+        "name": "SD ISLAM TERPADU AL-ADHA",
+        "village": "BAKOM"
+    },
+    {
+        "name": "SD IT AL ISTIQOMAH",
+        "village": "KUNINGAN"
+    },
+    {
+        "name": "SD IT AL MADANI",
+        "village": "SIDANGAGUNG"
+    },
+    {
+        "name": "SD IT AL MULTAZAM",
+        "village": "MANISKIDUL"
+    },
+    {
+        "name": "SD IT AL-FATTAH",
+        "village": "LENGKONG"
+    },
+    {
+        "name": "SD IT AL-HUDA",
+        "village": "KERTAWANGUN"
+    },
+    {
+        "name": "SD IT AL-IMAM",
+        "village": "PURWAWINANGUN"
+    },
+    {
+        "name": "SD IT AL-KAUTSAR",
+        "village": "BAYUNING"
+    },
+    {
+        "name": "SD IT AN-NAHAR",
+        "village": "MARGACINTA"
+    },
+    {
+        "name": "SD IT BINAUL UMMAH KUNINGAN",
+        "village": "CIPARI"
+    },
+    {
+        "name": "SD IT DARUL AMANAH",
+        "village": "AWIRARANGAN"
+    },
+    {
+        "name": "SD IT IBNU AHKAM KALIPUCANG",
+        "village": "BAGOLO"
+    },
+    {
+        "name": "SD IT TUNAS QUR`ANI",
+        "village": "CISANTANA"
+    },
+    {
+        "name": "SD LINIMASA",
+        "village": "AWIRARANGAN"
+    },
+    {
+        "name": "SD MODEL AULADY",
+        "village": "PAMALAYAN"
+    },
+    {
+        "name": "SD NEGERI 1 ANCARAN",
+        "village": "ANCARAN"
+    },
+    {
+        "name": "SD NEGERI 1 AWIRARANGAN",
+        "village": "AWIRARANGAN"
+    },
+    {
+        "name": "SD NEGERI 1 BABAKAN",
+        "village": "BABAKAN"
+    },
+    {
+        "name": "SD NEGERI 1 BABAKANMULYA",
+        "village": "BABAKANMULYA"
+    },
+    {
+        "name": "SD NEGERI 1 BABAKANMULYA",
+        "village": "BABAKANMULYA"
+    },
+    {
+        "name": "SD NEGERI 1 BABAKANREUMA",
+        "village": "BABAKANREUMA"
+    },
+    {
+        "name": "SD NEGERI 1 BAGAWAT",
+        "village": "BAGAWAT"
+    },
+    {
+        "name": "SD NEGERI 1 BAGOLO",
+        "village": "BAGOLO"
+    },
+    {
+        "name": "SD NEGERI 1 BAHARA",
+        "village": "BAHARA"
+    },
+    {
+        "name": "SD NEGERI 1 BAKOM",
+        "village": "BAKOM"
+    },
+    {
+        "name": "SD NEGERI 1 BANDORASA KULON",
+        "village": "BANDORASA KULON"
+    },
+    {
+        "name": "SD NEGERI 1 BANDORASAWETAN",
+        "village": "BANDORASAWETAN"
+    },
+    {
+        "name": "SD NEGERI 1 BANGUNJAYA",
+        "village": "BANGUNJAYA"
+    },
+    {
+        "name": "SD NEGERI 1 BANGUNKARYA",
+        "village": "BANGUNKARYA"
+    },
+    {
+        "name": "SD NEGERI 1 BANJARHARJA",
+        "village": "BANJARHARJA"
+    },
+    {
+        "name": "SD NEGERI 1 BAOK",
+        "village": "BAOK"
+    },
+    {
+        "name": "SD NEGERI 1 BAREGBEG",
+        "village": "BAREGBEG"
+    },
+    {
+        "name": "SD NEGERI 1 BATUKARAS",
+        "village": "BATUKARAS"
+    },
+    {
+        "name": "SD NEGERI 1 BATUMALANG",
+        "village": "BATUMALANG"
+    },
+    {
+        "name": "SD NEGERI 1 BAYUNING",
+        "village": "BAYUNING"
+    },
+    {
+        "name": "SD NEGERI 1 BEBER",
+        "village": "BEBER"
+    },
+    {
+        "name": "SD NEGERI 1 BENDUNGAN",
+        "village": "BENDUNGAN"
+    },
+    {
+        "name": "SD NEGERI 1 BOJONG",
+        "village": "BOJONG"
+    },
+    {
+        "name": "SD NEGERI 1 BOJONG",
+        "village": "BOJONG"
+    },
+    {
+        "name": "SD NEGERI 1 BOJONG",
+        "village": "BOJONG"
+    },
+    {
+        "name": "SD NEGERI 1 BOJONGKONDANG",
+        "village": "BOJONGKONDANG"
+    },
+    {
+        "name": "SD NEGERI 1 BOJONGSARI",
+        "village": "BOJONGSARI"
+    },
+    {
+        "name": "SD NEGERI 1 BUNGURBERES",
+        "village": "BUNGURBERES"
+    },
+    {
+        "name": "SD NEGERI 1 BUNIGEULIS",
+        "village": "BUNIGEULIS"
+    },
+    {
+        "name": "SD NEGERI 1 BUNISARI",
+        "village": "BUNISARI"
+    },
+    {
+        "name": "SD NEGERI 1 CAMPAKA",
+        "village": "CAMPAKA"
+    },
+    {
+        "name": "SD NEGERI 1 CANTILAN",
+        "village": "CANTILAN"
+    },
+    {
+        "name": "SD NEGERI 1 CARACAS",
+        "village": "CARACAS"
+    },
+    {
+        "name": "SD NEGERI 1 CENGAL",
+        "village": "CENGAL"
+    },
+    {
+        "name": "SD NEGERI 1 CIAKAR",
+        "village": "CIAKAR"
+    },
+    {
+        "name": "SD NEGERI 1 CIANGIR",
+        "village": "CIANGIR"
+    },
+    {
+        "name": "SD NEGERI 1 CIAWIGEBANG",
+        "village": "CIAWIGEBANG"
+    },
+    {
+        "name": "SD NEGERI 1 CIAWILOR",
+        "village": "CIAWILOR"
+    },
+    {
+        "name": "SD NEGERI 1 CIBANTEN",
+        "village": "CIBANTEN"
+    },
+    {
+        "name": "SD NEGERI 1 CIBENDA",
+        "village": "CIBENDA"
+    },
+    {
+        "name": "SD NEGERI 1 CIBERUNG",
+        "village": "CIBERUNG"
+    },
+    {
+        "name": "SD NEGERI 1 CIBEUREUM",
+        "village": "CIBEUREUM"
+    },
+    {
+        "name": "SD NEGERI 1 CIBINGBIN",
+        "village": "CIBINGBIN"
+    },
+    {
+        "name": "SD NEGERI 1 CIBINUANG",
+        "village": "CIBINUANG"
+    },
+    {
+        "name": "SD NEGERI 1 CIBOGO",
+        "village": "CIBOGO"
+    },
+    {
+        "name": "SD NEGERI 1 CIBULAN",
+        "village": "CIBULAN"
+    },
+    {
+        "name": "SD NEGERI 1 CIBULUH",
+        "village": "CIBULUH"
+    },
+    {
+        "name": "SD NEGERI 1 CIBUNTU",
+        "village": "CIBUNTU"
+    },
+    {
+        "name": "SD NEGERI 1 CIDAHU",
+        "village": "CIDAHU"
+    },
+    {
+        "name": "SD NEGERI 1 CIEURIH",
+        "village": "CIEURIH"
+    },
+    {
+        "name": "SD NEGERI 1 CIGADUNG",
+        "village": "CIGADUNG"
+    },
+    {
+        "name": "SD NEGERI 1 CIGANJENG",
+        "village": "CIGANJENG"
+    },
+    {
+        "name": "SD NEGERI 1 CIGARUKGAK",
+        "village": "CIGARUKGAK"
+    },
+    {
+        "name": "SD NEGERI 1 CIGUGUR",
+        "village": "CIGUGUR"
+    },
+    {
+        "name": "SD NEGERI 1 CIHAUR",
+        "village": "CIHAUR"
+    },
+    {
+        "name": "SD NEGERI 1 CIHERANG",
+        "village": "CIHERANG"
+    },
+    {
+        "name": "SD NEGERI 1 CIHIDEUNGGIRANG",
+        "village": "CIHIDEUNGGIRANG"
+    },
+    {
+        "name": "SD NEGERI 1 CIHIDEUNGHILIR",
+        "village": "CIHIDEUNGHILIR"
+    },
+    {
+        "name": "SD NEGERI 1 CIHIRUP",
+        "village": "CIHIRUP"
+    },
+    {
+        "name": "SD NEGERI 1 CIJEMIT",
+        "village": "CIJEMIT"
+    },
+    {
+        "name": "SD NEGERI 1 CIJULANG",
+        "village": "CIJULANG"
+    },
+    {
+        "name": "SD NEGERI 1 CIKADU",
+        "village": "CIKADU"
+    },
+    {
+        "name": "SD NEGERI 1 CIKADUWETAN",
+        "village": "CIKADUWETAN"
+    },
+    {
+        "name": "SD NEGERI 1 CIKALONG",
+        "village": "CIKALONG"
+    },
+    {
+        "name": "SD NEGERI 1 CIKANDANG",
+        "village": "CIKANDANG"
+    },
+    {
+        "name": "SD NEGERI 1 CIKELENG",
+        "village": "CIKELENG"
+    },
+    {
+        "name": "SD NEGERI 1 CIKEMBULAN",
+        "village": "CIKEMBULAN"
+    },
+    {
+        "name": "SD NEGERI 1 CIKEUSAL",
+        "village": "CIKEUSAL"
+    },
+    {
+        "name": "SD NEGERI 1 CIKEUSIK",
+        "village": "CIKEUSIK"
+    },
+    {
+        "name": "SD NEGERI 1 CIKUBANGMULYA",
+        "village": "CIKUBANGMULYA"
+    },
+    {
+        "name": "SD NEGERI 1 CILAJA",
+        "village": "CILAJA"
+    },
+    {
+        "name": "SD NEGERI 1 CILEULEUY",
+        "village": "CILEULEUY"
+    },
+    {
+        "name": "SD NEGERI 1 CILEUYA",
+        "village": "CILEUYA"
+    },
+    {
+        "name": "SD NEGERI 1 CILIANG",
+        "village": "CILIANG"
+    },
+    {
+        "name": "SD NEGERI 1 CILIMUS",
+        "village": "CILIMUS"
+    },
+    {
+        "name": "SD NEGERI 1 CILOA",
+        "village": "CILOA"
+    },
+    {
+        "name": "SD NEGERI 1 CIMAHI",
+        "village": "CIMAHI"
+    },
+    {
+        "name": "SD NEGERI 1 CIMANGGU",
+        "village": "CIMANGGU"
+    },
+    {
+        "name": "SD NEGERI 1 CIMARA",
+        "village": "CIMARA"
+    },
+    {
+        "name": "SD NEGERI 1 CIMARAGAS",
+        "village": "CIMARAGAS"
+    },
+    {
+        "name": "SD NEGERI 1 CIMARANTEN",
+        "village": "CIMARANTEN"
+    },
+    {
+        "name": "SD NEGERI 1 CIMENGA",
+        "village": "CIMENGA"
+    },
+    {
+        "name": "SD NEGERI 1 CIMERAK",
+        "village": "CIMERAK"
+    },
+    {
+        "name": "SD NEGERI 1 CIMINDI",
+        "village": "CIMINDI"
+    },
+    {
+        "name": "SD NEGERI 1 CINAGARA",
+        "village": "CINAGARA"
+    },
+    {
+        "name": "SD NEGERI 1 CINEUMBEUY",
+        "village": "CINEUMBEUY"
+    },
+    {
+        "name": "SD NEGERI 1 CINTAJAYA",
+        "village": "CINTAJAYA"
+    },
+    {
+        "name": "SD NEGERI 1 CINTAKARYA",
+        "village": "CINTAKARYA"
+    },
+    {
+        "name": "SD NEGERI 1 CINTARATU",
+        "village": "CINTARATU"
+    },
+    {
+        "name": "SD NEGERI 1 CIOMAS",
+        "village": "CIOMAS"
+    },
+    {
+        "name": "SD NEGERI 1 CIOMAS",
+        "village": "CIOMAS"
+    },
+    {
+        "name": "SD NEGERI 1 CIPAKEM",
+        "village": "CIPAKEM"
+    },
+    {
+        "name": "SD NEGERI 1 CIPANCUR",
+        "village": "CIPANCUR"
+    },
+    {
+        "name": "SD NEGERI 1 CIPARAKAN",
+        "village": "CIPARAKAN"
+    },
+    {
+        "name": "SD NEGERI 1 CIPARANTI",
+        "village": "CIPARANTI"
+    },
+    {
+        "name": "SD NEGERI 1 CIPEDES",
+        "village": "CIPEDES"
+    },
+    {
+        "name": "SD NEGERI 1 CIPONDOK",
+        "village": "CIPONDOK"
+    },
+    {
+        "name": "SD NEGERI 1 CIPORANG",
+        "village": "CIPORANG"
+    },
+    {
+        "name": "SD NEGERI 1 CIPORANG",
+        "village": "CIPORANG"
+    },
+    {
+        "name": "SD NEGERI 1 CIPUTAT",
+        "village": "CIPUTAT"
+    },
+    {
+        "name": "SD NEGERI 1 CIRAHAYU",
+        "village": "CIRAHAYU"
+    },
+    {
+        "name": "SD NEGERI 1 CIRENDANG",
+        "village": "CIRENDANG"
+    },
+    {
+        "name": "SD NEGERI 1 CISANTANA",
+        "village": "CISANTANA"
+    },
+    {
+        "name": "SD NEGERI 1 CITANGTU",
+        "village": "CITANGTU"
+    },
+    {
+        "name": "SD NEGERI 1 CITENJO",
+        "village": "CITENJO"
+    },
+    {
+        "name": "SD NEGERI 1 CITUNDUN",
+        "village": "CITUNDUN"
+    },
+    {
+        "name": "SD NEGERI 1 CIWARU",
+        "village": "CIWARU"
+    },
+    {
+        "name": "SD NEGERI 1 CIWIRU",
+        "village": "CIWIRU"
+    },
+    {
+        "name": "SD NEGERI 1 DARMA",
+        "village": "DARMA"
+    },
+    {
+        "name": "SD NEGERI 1 DARMARAJA",
+        "village": "DARMARAJA"
+    },
+    {
+        "name": "SD NEGERI 1 DUKUHMAJA",
+        "village": "DUKUHMAJA"
+    },
+    {
+        "name": "SD NEGERI 1 EMPLAK",
+        "village": "EMPLAK"
+    },
+    {
+        "name": "SD NEGERI 1 GALAHERANG",
+        "village": "GALAHERANG"
+    },
+    {
+        "name": "SD NEGERI 1 GANDASOLI",
+        "village": "GANDASOLI"
+    },
+    {
+        "name": "SD NEGERI 1 GARAJATI",
+        "village": "GARAJATI"
+    },
+    {
+        "name": "SD NEGERI 1 GERESIK",
+        "village": "GERESIK"
+    },
+    {
+        "name": "SD NEGERI 1 GUNUNGKARUNG",
+        "village": "GUNUNGKARUNG"
+    },
+    {
+        "name": "SD NEGERI 1 GUNUNGSARI",
+        "village": "GUNUNGSARI"
+    },
+    {
+        "name": "SD NEGERI 1 HANTARA",
+        "village": "HANTARA"
+    },
+    {
+        "name": "SD NEGERI 1 HARUMANDALA",
+        "village": "HARUMANDALA"
+    },
+    {
+        "name": "SD NEGERI 1 HUJUNGTIWU",
+        "village": "HUJUNGTIWU"
+    },
+    {
+        "name": "SD NEGERI 1 JABRANTI",
+        "village": "JABRANTI"
+    },
+    {
+        "name": "SD NEGERI 1 JADIKARYA",
+        "village": "JADIKARYA"
+    },
+    {
+        "name": "SD NEGERI 1 JADIMULYA",
+        "village": "JADIMULYA"
+    },
+    {
+        "name": "SD NEGERI 1 JALAKSANA",
+        "village": "JALAKSANA"
+    },
+    {
+        "name": "SD NEGERI 1 JAMBAR",
+        "village": "JAMBAR"
+    },
+    {
+        "name": "SD NEGERI 1 JANGRAGA",
+        "village": "JANGRAGA"
+    },
+    {
+        "name": "SD NEGERI 1 JAPARA",
+        "village": "JAPARA"
+    },
+    {
+        "name": "SD NEGERI 1 JATIMULYA",
+        "village": "JATIMULYA"
+    },
+    {
+        "name": "SD NEGERI 1 JATISARI",
+        "village": "JATISARI"
+    },
+    {
+        "name": "SD NEGERI 1 JAYASARI",
+        "village": "JAYASARI"
+    },
+    {
+        "name": "SD NEGERI 1 KADUELA",
+        "village": "KADUELA"
+    },
+    {
+        "name": "SD NEGERI 1 KADUGEDE",
+        "village": "KADUGEDE"
+    },
+    {
+        "name": "SD NEGERI 1 KADURAMA",
+        "village": "KADURAMA"
+    },
+    {
+        "name": "SD NEGERI 1 KALAPAGUNUNG",
+        "village": "KALAPAGUNUNG"
+    },
+    {
+        "name": "SD NEGERI 1 KALAPASAWIT",
+        "village": "KALAPASAWIT"
+    },
+    {
+        "name": "SD NEGERI 1 KALIJATI",
+        "village": "KALIJATI"
+    },
+    {
+        "name": "SD NEGERI 1 KALIMANGGISKULON",
+        "village": "KALIMANGGISKULON"
+    },
+    {
+        "name": "SD NEGERI 1 KALIMANGGISWETAN",
+        "village": "KALIMANGGISWETAN"
+    },
+    {
+        "name": "SD NEGERI 1 KALIPUCANG",
+        "village": "KALIPUCANG"
+    },
+    {
+        "name": "SD NEGERI 1 KANANGA",
+        "village": "KANANGA"
+    },
+    {
+        "name": "SD NEGERI 1 KARANGBENDA",
+        "village": "KARANGBENDA"
+    },
+    {
+        "name": "SD NEGERI 1 KARANGJALADRI",
+        "village": "KARANGJALADRI"
+    },
+    {
+        "name": "SD NEGERI 1 KARANGKAMIRI",
+        "village": "KARANGKAMIRI"
+    },
+    {
+        "name": "SD NEGERI 1 KARANGKAMULYAN",
+        "village": "KARANGKAMULYAN"
+    },
+    {
+        "name": "SD NEGERI 1 KARANGKANCANA",
+        "village": "KARANGKANCANA"
+    },
+    {
+        "name": "SD NEGERI 1 KARANGMANGU",
+        "village": "KARANGMANGU"
+    },
+    {
+        "name": "SD NEGERI 1 KARANGMULYA",
+        "village": "KARANGMULYA"
+    },
+    {
+        "name": "SD NEGERI 1 KARANGMUNCANG",
+        "village": "KARANGMUNCANG"
+    },
+    {
+        "name": "SD NEGERI 1 KARANGSARI",
+        "village": "KARANGSARI"
+    },
+    {
+        "name": "SD NEGERI 1 KARANGTAWANG",
+        "village": "KARANGTAWANG"
+    },
+    {
+        "name": "SD NEGERI 1 KAROYA",
+        "village": "KAROYA"
+    },
+    {
+        "name": "SD NEGERI 1 KASTURI",
+        "village": "KASTURI"
+    },
+    {
+        "name": "SD NEGERI 1 KEDUNGARUM",
+        "village": "KEDUNGARUM"
+    },
+    {
+        "name": "SD NEGERI 1 KEDUNGWULUH",
+        "village": "KEDUNGWULUH"
+    },
+    {
+        "name": "SD NEGERI 1 KERSARATU",
+        "village": "KERSARATU"
+    },
+    {
+        "name": "SD NEGERI 1 KERTAHARJA",
+        "village": "KERTAHARJA"
+    },
+    {
+        "name": "SD NEGERI 1 KERTAJAYA",
+        "village": "KERTAJAYA"
+    },
+    {
+        "name": "SD NEGERI 1 KERTAMANDALA",
+        "village": "KERTAMANDALA"
+    },
+    {
+        "name": "SD NEGERI 1 KERTAMUKTI",
+        "village": "KERTAMUKTI"
+    },
+    {
+        "name": "SD NEGERI 1 KERTAWANA",
+        "village": "KERTAWANA"
+    },
+    {
+        "name": "SD NEGERI 1 KERTAWANGUNAN",
+        "village": "KERTAWANGUNAN"
+    },
+    {
+        "name": "SD NEGERI 1 KERTAWINANGUN",
+        "village": "KERTAWINANGUN"
+    },
+    {
+        "name": "SD NEGERI 1 KERTAWINANGUN",
+        "village": "KERTAWINANGUN"
+    },
+    {
+        "name": "SD NEGERI 1 KERTAWIRAMA",
+        "village": "KERTAWIRAMA"
+    },
+    {
+        "name": "SD NEGERI 1 KERTAYASA",
+        "village": "KERTAYASA"
+    },
+    {
+        "name": "SD NEGERI 1 KONDANGJAJAR",
+        "village": "KONDANGJAJAR"
+    },
+    {
+        "name": "SD NEGERI 1 KOREAK",
+        "village": "KOREAK"
+    },
+    {
+        "name": "SD NEGERI 1 KRAMATMULYA",
+        "village": "KRAMATMULYA"
+    },
+    {
+        "name": "SD NEGERI 1 KUTAKEMBARAN",
+        "village": "KUTAKEMBARAN"
+    },
+    {
+        "name": "SD NEGERI 1 KUTAWARINGIN",
+        "village": "KUTAWARINGIN"
+    },
+    {
+        "name": "SD NEGERI 1 LANGKAPLANCAR",
+        "village": "LANGKAPLANCAR"
+    },
+    {
+        "name": "SD NEGERI 1 LANGSEB",
+        "village": "LANGSEB"
+    },
+    {
+        "name": "SD NEGERI 1 LEBAKSIUH",
+        "village": "LEBAKSIUH"
+    },
+    {
+        "name": "SD NEGERI 1 LEBAKWANGI",
+        "village": "LEBAKWANGI"
+    },
+    {
+        "name": "SD NEGERI 1 LEGOK",
+        "village": "LEGOK"
+    },
+    {
+        "name": "SD NEGERI 1 LEGOKHERANG",
+        "village": "LEGOKHERANG"
+    },
+    {
+        "name": "SD NEGERI 1 LEGOKJAWA",
+        "village": "LEGOKJAWA"
+    },
+    {
+        "name": "SD NEGERI 1 LENGKONG",
+        "village": "LENGKONG"
+    },
+    {
+        "name": "SD NEGERI 1 LINGGAJATI",
+        "village": "LINGGAJATI"
+    },
+    {
+        "name": "SD NEGERI 1 LUMBUNG",
+        "village": "LUMBUNG"
+    },
+    {
+        "name": "SD NEGERI 1 LUMBUNGSARI",
+        "village": "LUMBUNGSARI"
+    },
+    {
+        "name": "SD NEGERI 1 LURAGUNGLANDEUH",
+        "village": "LURAGUNGLANDEUH"
+    },
+    {
+        "name": "SD NEGERI 1 MANDALAJAYA",
+        "village": "MANDALAJAYA"
+    },
+    {
+        "name": "SD NEGERI 1 MANDAPAJAYA",
+        "village": "MANDAPAJAYA"
+    },
+    {
+        "name": "SD NEGERI 1 MANISKIDUL",
+        "village": "MANISKIDUL"
+    },
+    {
+        "name": "SD NEGERI 1 MANISLOR",
+        "village": "MANISLOR"
+    },
+    {
+        "name": "SD NEGERI 1 MAPARAH",
+        "village": "MAPARAH"
+    },
+    {
+        "name": "SD NEGERI 1 MARGACINA",
+        "village": "MARGACINA"
+    },
+    {
+        "name": "SD NEGERI 1 MARGACINTA",
+        "village": "MARGACINTA"
+    },
+    {
+        "name": "SD NEGERI 1 MARGAMUKTI",
+        "village": "MARGAMUKTI"
+    },
+    {
+        "name": "SD NEGERI 1 MARUYUNGSARI",
+        "village": "MARUYUNGSARI"
+    },
+    {
+        "name": "SD NEGERI 1 MASAWAH",
+        "village": "MASAWAH"
+    },
+    {
+        "name": "SD NEGERI 1 MEKARJAYA",
+        "village": "MEKARJAYA"
+    },
+    {
+        "name": "SD NEGERI 1 MEKARSARI",
+        "village": "MEKARSARI"
+    },
+    {
+        "name": "SD NEGERI 1 MEKARWANGI",
+        "village": "MEKARWANGI"
+    },
+    {
+        "name": "SD NEGERI 1 MEKARWANGI",
+        "village": "MEKARWANGI"
+    },
+    {
+        "name": "SD NEGERI 1 MULYAJAYA",
+        "village": "MULYAJAYA"
+    },
+    {
+        "name": "SD NEGERI 1 MUNCANGELA",
+        "village": "MUNCANGELA"
+    },
+    {
+        "name": "SD NEGERI 1 NANGGELA",
+        "village": "NANGGELA"
+    },
+    {
+        "name": "SD NEGERI 1 NANGGELA",
+        "village": "NANGGELA"
+    },
+    {
+        "name": "SD NEGERI 1 NUSAHERANG",
+        "village": "NUSAHERANG"
+    },
+    {
+        "name": "SD NEGERI 1 PADABEUNGHAR",
+        "village": "PADABEUNGHAR"
+    },
+    {
+        "name": "SD NEGERI 1 PADAHERANG",
+        "village": "PADAHERANG"
+    },
+    {
+        "name": "SD NEGERI 1 PADAHURIP",
+        "village": "PADAHURIP"
+    },
+    {
+        "name": "SD NEGERI 1 PADAMULYA",
+        "village": "PADAMULYA"
+    },
+    {
+        "name": "SD NEGERI 1 PADAREK",
+        "village": "PADAREK"
+    },
+    {
+        "name": "SD NEGERI 1 PAGERBUMI",
+        "village": "PAGERBUMI"
+    },
+    {
+        "name": "SD NEGERI 1 PAGUNDAN",
+        "village": "PAGUNDAN"
+    },
+    {
+        "name": "SD NEGERI 1 PAJATEN",
+        "village": "PAJATEN"
+    },
+    {
+        "name": "SD NEGERI 1 PALEDAH",
+        "village": "PALEDAH"
+    },
+    {
+        "name": "SD NEGERI 1 PAMOTAN",
+        "village": "PAMOTAN"
+    },
+    {
+        "name": "SD NEGERI 1 PAMULIHAN",
+        "village": "PAMULIHAN"
+    },
+    {
+        "name": "SD NEGERI 1 PAMULIHAN",
+        "village": "PAMULIHAN"
+    },
+    {
+        "name": "SD NEGERI 1 PAMUPUKAN",
+        "village": "PAMUPUKAN"
+    },
+    {
+        "name": "SD NEGERI 1 PANAWUAN",
+        "village": "PANAWUAN"
+    },
+    {
+        "name": "SD NEGERI 1 PANGANDARAN",
+        "village": "PANGANDARAN"
+    },
+    {
+        "name": "SD NEGERI 1 PANGKALAN",
+        "village": "PANGKALAN"
+    },
+    {
+        "name": "SD NEGERI 1 PANIIS",
+        "village": "PANIIS"
+    },
+    {
+        "name": "SD NEGERI 1 PANYOSOGAN",
+        "village": "PANYOSOGAN"
+    },
+    {
+        "name": "SD NEGERI 1 PANYUTRAN",
+        "village": "PANYUTRAN"
+    },
+    {
+        "name": "SD NEGERI 1 PARAKANMANGGU",
+        "village": "PARAKANMANGGU"
+    },
+    {
+        "name": "SD NEGERI 1 PARIGI",
+        "village": "PARIGI"
+    },
+    {
+        "name": "SD NEGERI 1 PASIRGEULIS",
+        "village": "PASIRGEULIS"
+    },
+    {
+        "name": "SD NEGERI 1 PATALA",
+        "village": "PATALA"
+    },
+    {
+        "name": "SD NEGERI 1 PATALAGAN",
+        "village": "PATALAGAN"
+    },
+    {
+        "name": "SD NEGERI 1 PEUSING",
+        "village": "PEUSING"
+    },
+    {
+        "name": "SD NEGERI 1 PULOERANG",
+        "village": "PULOERANG"
+    },
+    {
+        "name": "SD NEGERI 1 PUNCAK",
+        "village": "PUNCAK"
+    },
+    {
+        "name": "SD NEGERI 1 PURBAHAYU",
+        "village": "PURBAHAYU"
+    },
+    {
+        "name": "SD NEGERI 1 PURWASARI",
+        "village": "PURWASARI"
+    },
+    {
+        "name": "SD NEGERI 1 PURWAWINANGUN",
+        "village": "PURWAWINANGUN"
+    },
+    {
+        "name": "SD NEGERI 1 PUTRAPINGGAN",
+        "village": "PUTRAPINGGAN"
+    },
+    {
+        "name": "SD NEGERI 1 RAGAWACANA",
+        "village": "RAGAWACANA"
+    },
+    {
+        "name": "SD NEGERI 1 RAJADANU",
+        "village": "RAJADANU"
+    },
+    {
+        "name": "SD NEGERI 1 RAKSABAYA",
+        "village": "RAKSABAYA"
+    },
+    {
+        "name": "SD NEGERI 1 RAMBATAN",
+        "village": "RAMBATAN"
+    },
+    {
+        "name": "SD NEGERI 1 RANDUSARI",
+        "village": "RANDUSARI"
+    },
+    {
+        "name": "SD NEGERI 1 RAWA",
+        "village": "RAWA"
+    },
+    {
+        "name": "SD NEGERI 1 SADEWATA",
+        "village": "SADEWATA"
+    },
+    {
+        "name": "SD NEGERI 1 SAGARAHIANG",
+        "village": "SAGARAHIANG"
+    },
+    {
+        "name": "SD NEGERI 1 SAKERTA TIMUR",
+        "village": "SAKERTA TIMUR"
+    },
+    {
+        "name": "SD NEGERI 1 SALAREUMA",
+        "village": "SALAREUMA"
+    },
+    {
+        "name": "SD NEGERI 1 SAMPORA",
+        "village": "SAMPORA"
+    },
+    {
+        "name": "SD NEGERI 1 SANGKANERANG",
+        "village": "SANGKANERANG"
+    },
+    {
+        "name": "SD NEGERI 1 SEGONG",
+        "village": "SEGONG"
+    },
+    {
+        "name": "SD NEGERI 1 SELAJAMBE",
+        "village": "SELAJAMBE"
+    },
+    {
+        "name": "SD NEGERI 1 SEMBAWA",
+        "village": "SEMBAWA"
+    },
+    {
+        "name": "SD NEGERI 1 SETIANEGARA",
+        "village": "SETIANEGARA"
+    },
+    {
+        "name": "SD NEGERI 1 SIDAMULIH",
+        "village": "SIDAMULIH"
+    },
+    {
+        "name": "SD NEGERI 1 SIDAMULYA",
+        "village": "SIDAMULYA"
+    },
+    {
+        "name": "SD NEGERI 1 SIDARAJA",
+        "village": "SIDARAJA"
+    },
+    {
+        "name": "SD NEGERI 1 SIDOMULYO",
+        "village": "SIDOMULYO"
+    },
+    {
+        "name": "SD NEGERI 1 SINDANG",
+        "village": "SINDANG"
+    },
+    {
+        "name": "SD NEGERI 1 SINDANGANGIN",
+        "village": "SINDANGANGIN"
+    },
+    {
+        "name": "SD NEGERI 1 SINDANGBARANG",
+        "village": "SINDANGBARANG"
+    },
+    {
+        "name": "SD NEGERI 1 SINDANGJAWA",
+        "village": "SINDANGJAWA"
+    },
+    {
+        "name": "SD NEGERI 1 SINDANGJAYA",
+        "village": "SINDANGJAYA"
+    },
+    {
+        "name": "SD NEGERI 1 SINDANGWANGI",
+        "village": "SINDANGWANGI"
+    },
+    {
+        "name": "SD NEGERI 1 SITUGEDE",
+        "village": "SITUGEDE"
+    },
+    {
+        "name": "SD NEGERI 1 SUBANG",
+        "village": "SUBANG"
+    },
+    {
+        "name": "SD NEGERI 1 SUGANANGAN",
+        "village": "SUGANANGAN"
+    },
+    {
+        "name": "SD NEGERI 1 SUKADANA",
+        "village": "SUKADANA"
+    },
+    {
+        "name": "SD NEGERI 1 SUKAJAYA",
+        "village": "SUKAJAYA"
+    },
+    {
+        "name": "SD NEGERI 1 SUKAMAJU",
+        "village": "SUKAMAJU"
+    },
+    {
+        "name": "SD NEGERI 1 SUKAMUKTI",
+        "village": "SUKAMUKTI"
+    },
+    {
+        "name": "SD NEGERI 1 SUKAMULYA",
+        "village": "SUKAMULYA"
+    },
+    {
+        "name": "SD NEGERI 1 SUKANAGARA",
+        "village": "SUKANAGARA"
+    },
+    {
+        "name": "SD NEGERI 1 SUKARAJA",
+        "village": "SUKARAJA"
+    },
+    {
+        "name": "SD NEGERI 1 SUKARAPIH",
+        "village": "SUKARAPIH"
+    },
+    {
+        "name": "SD NEGERI 1 SUKASARI",
+        "village": "SUKASARI"
+    },
+    {
+        "name": "SD NEGERI 1 SUMBERJAYA",
+        "village": "SUMBERJAYA"
+    },
+    {
+        "name": "SD NEGERI 1 SUSUKAN",
+        "village": "SUSUKAN"
+    },
+    {
+        "name": "SD NEGERI 1 TAMBAKREJA",
+        "village": "TAMBAKREJA"
+    },
+    {
+        "name": "SD NEGERI 1 TANGKOLO",
+        "village": "TANGKOLO"
+    },
+    {
+        "name": "SD NEGERI 1 TANJUNGKERTA",
+        "village": "TANJUNGKERTA"
+    },
+    {
+        "name": "SD NEGERI 1 TARAJU",
+        "village": "TARAJU"
+    },
+    {
+        "name": "SD NEGERI 1 TENJOLAYAR",
+        "village": "TENJOLAYAR"
+    },
+    {
+        "name": "SD NEGERI 1 TUGUMULYA",
+        "village": "TUGUMULYA"
+    },
+    {
+        "name": "SD NEGERI 1 TUNGGILIS",
+        "village": "TUNGGILIS"
+    },
+    {
+        "name": "SD NEGERI 1 WILANAGARA",
+        "village": "WILANAGARA"
+    },
+    {
+        "name": "SD NEGERI 1 WINDUHAJI",
+        "village": "WINDUHAJI"
+    },
+    {
+        "name": "SD NEGERI 1 WINDUHERANG",
+        "village": "WINDUHERANG"
+    },
+    {
+        "name": "SD NEGERI 1 WINDUJANTEN",
+        "village": "WINDUJANTEN"
+    },
+    {
+        "name": "SD NEGERI 1 WINDUSENGKAHAN",
+        "village": "WINDUSENGKAHAN"
+    },
+    {
+        "name": "SD NEGERI 1 WONOHARJO",
+        "village": "WONOHARJO"
+    },
+    {
+        "name": "SD NEGERI 10 KUNINGAN",
+        "village": "KUNINGAN"
+    },
+    {
+        "name": "SD NEGERI 11 KUNINGAN",
+        "village": "KUNINGAN"
+    },
+    {
+        "name": "SD NEGERI 17 KUNINGAN",
+        "village": "KUNINGAN"
+    },
+    {
+        "name": "SD NEGERI 2 ANCARAN",
+        "village": "ANCARAN"
+    },
+    {
+        "name": "SD NEGERI 2 BABAKAN",
+        "village": "BABAKAN"
+    },
+    {
+        "name": "SD NEGERI 2 BABAKANMULYA",
+        "village": "BABAKANMULYA"
+    },
+    {
+        "name": "SD NEGERI 2 BABAKANMULYA",
+        "village": "BABAKANMULYA"
+    },
+    {
+        "name": "SD NEGERI 2 BABAKANREUMA",
+        "village": "BABAKANREUMA"
+    },
+    {
+        "name": "SD NEGERI 2 BAGAWAT",
+        "village": "BAGAWAT"
+    },
+    {
+        "name": "SD NEGERI 2 BAGOLO",
+        "village": "BAGOLO"
+    },
+    {
+        "name": "SD NEGERI 2 BAKOM",
+        "village": "BAKOM"
+    },
+    {
+        "name": "SD NEGERI 2 BANDORASA KULON",
+        "village": "BANDORASA KULON"
+    },
+    {
+        "name": "SD NEGERI 2 BANDORASAWETAN",
+        "village": "BANDORASAWETAN"
+    },
+    {
+        "name": "SD NEGERI 2 BANGUNJAYA",
+        "village": "BANGUNJAYA"
+    },
+    {
+        "name": "SD NEGERI 2 BANGUNKARYA",
+        "village": "BANGUNKARYA"
+    },
+    {
+        "name": "SD NEGERI 2 BANJARHARJA",
+        "village": "BANJARHARJA"
+    },
+    {
+        "name": "SD NEGERI 2 BAOK",
+        "village": "BAOK"
+    },
+    {
+        "name": "SD NEGERI 2 BATUKARAS",
+        "village": "BATUKARAS"
+    },
+    {
+        "name": "SD NEGERI 2 BATUMALANG",
+        "village": "BATUMALANG"
+    },
+    {
+        "name": "SD NEGERI 2 BAYUNING",
+        "village": "BAYUNING"
+    },
+    {
+        "name": "SD NEGERI 2 BEBER",
+        "village": "BEBER"
+    },
+    {
+        "name": "SD NEGERI 2 BENDUNGAN",
+        "village": "BENDUNGAN"
+    },
+    {
+        "name": "SD NEGERI 2 BOJONG",
+        "village": "BOJONG"
+    },
+    {
+        "name": "SD NEGERI 2 BOJONG",
+        "village": "BOJONG"
+    },
+    {
+        "name": "SD NEGERI 2 BOJONGKONDANG",
+        "village": "BOJONGKONDANG"
+    },
+    {
+        "name": "SD NEGERI 2 BOJONGSARI",
+        "village": "BOJONGSARI"
+    },
+    {
+        "name": "SD NEGERI 2 BUNGURBERES",
+        "village": "BUNGURBERES"
+    },
+    {
+        "name": "SD NEGERI 2 BUNIGEULIS",
+        "village": "BUNIGEULIS"
+    },
+    {
+        "name": "SD NEGERI 2 CAMPAKA",
+        "village": "CAMPAKA"
+    },
+    {
+        "name": "SD NEGERI 2 CANTILAN",
+        "village": "CANTILAN"
+    },
+    {
+        "name": "SD NEGERI 2 CARACAS",
+        "village": "CARACAS"
+    },
+    {
+        "name": "SD NEGERI 2 CENGAL",
+        "village": "CENGAL"
+    },
+    {
+        "name": "SD NEGERI 2 CIANGIR",
+        "village": "CIANGIR"
+    },
+    {
+        "name": "SD NEGERI 2 CIAWIGEBANG",
+        "village": "CIAWIGEBANG"
+    },
+    {
+        "name": "SD NEGERI 2 CIAWILOR",
+        "village": "CIAWILOR"
+    },
+    {
+        "name": "SD NEGERI 2 CIBANTEN",
+        "village": "CIBANTEN"
+    },
+    {
+        "name": "SD NEGERI 2 CIBENDA",
+        "village": "CIBENDA"
+    },
+    {
+        "name": "SD NEGERI 2 CIBINGBIN",
+        "village": "CIBINGBIN"
+    },
+    {
+        "name": "SD NEGERI 2 CIBINUANG",
+        "village": "CIBINUANG"
+    },
+    {
+        "name": "SD NEGERI 2 CIBULUH",
+        "village": "CIBULUH"
+    },
+    {
+        "name": "SD NEGERI 2 CIBUNTU",
+        "village": "CIBUNTU"
+    },
+    {
+        "name": "SD NEGERI 2 CIDAHU",
+        "village": "CIDAHU"
+    },
+    {
+        "name": "SD NEGERI 2 CIEURIH",
+        "village": "CIEURIH"
+    },
+    {
+        "name": "SD NEGERI 2 CIGANJENG",
+        "village": "CIGANJENG"
+    },
+    {
+        "name": "SD NEGERI 2 CIGARUKGAK",
+        "village": "CIGARUKGAK"
+    },
+    {
+        "name": "SD NEGERI 2 CIHAUR",
+        "village": "CIHAUR"
+    },
+    {
+        "name": "SD NEGERI 2 CIHERANG",
+        "village": "CIHERANG"
+    },
+    {
+        "name": "SD NEGERI 2 CIHIDEUNGGIRANG",
+        "village": "CIHIDEUNGGIRANG"
+    },
+    {
+        "name": "SD NEGERI 2 CIHIDEUNGHILIR",
+        "village": "CIHIDEUNGHILIR"
+    },
+    {
+        "name": "SD NEGERI 2 CIHIRUP",
+        "village": "CIHIRUP"
+    },
+    {
+        "name": "SD NEGERI 2 CIJEMIT",
+        "village": "CIJEMIT"
+    },
+    {
+        "name": "SD NEGERI 2 CIKADU",
+        "village": "CIKADU"
+    },
+    {
+        "name": "SD NEGERI 2 CIKADUWETAN",
+        "village": "CIKADUWETAN"
+    },
+    {
+        "name": "SD NEGERI 2 CIKALONG",
+        "village": "CIKALONG"
+    },
+    {
+        "name": "SD NEGERI 2 CIKANDANG",
+        "village": "CIKANDANG"
+    },
+    {
+        "name": "SD NEGERI 2 CIKELENG",
+        "village": "CIKELENG"
+    },
+    {
+        "name": "SD NEGERI 2 CIKEMBULAN",
+        "village": "CIKEMBULAN"
+    },
+    {
+        "name": "SD NEGERI 2 CIKEUSAL",
+        "village": "CIKEUSAL"
+    },
+    {
+        "name": "SD NEGERI 2 CIKEUSIK",
+        "village": "CIKEUSIK"
+    },
+    {
+        "name": "SD NEGERI 2 CIKUBANGMULYA",
+        "village": "CIKUBANGMULYA"
+    },
+    {
+        "name": "SD NEGERI 2 CILAJA",
+        "village": "CILAJA"
+    },
+    {
+        "name": "SD NEGERI 2 CILEULEUY",
+        "village": "CILEULEUY"
+    },
+    {
+        "name": "SD NEGERI 2 CILEUYA",
+        "village": "CILEUYA"
+    },
+    {
+        "name": "SD NEGERI 2 CILIANG",
+        "village": "CILIANG"
+    },
+    {
+        "name": "SD NEGERI 2 CILIMUS",
+        "village": "CILIMUS"
+    },
+    {
+        "name": "SD NEGERI 2 CILOA",
+        "village": "CILOA"
+    },
+    {
+        "name": "SD NEGERI 2 CIMAHI",
+        "village": "CIMAHI"
+    },
+    {
+        "name": "SD NEGERI 2 CIMANGGU",
+        "village": "CIMANGGU"
+    },
+    {
+        "name": "SD NEGERI 2 CIMARA",
+        "village": "CIMARA"
+    },
+    {
+        "name": "SD NEGERI 2 CIMARAGAS",
+        "village": "CIMARAGAS"
+    },
+    {
+        "name": "SD NEGERI 2 CIMARANTEN",
+        "village": "CIMARANTEN"
+    },
+    {
+        "name": "SD NEGERI 2 CIMENGA",
+        "village": "CIMENGA"
+    },
+    {
+        "name": "SD NEGERI 2 CIMERAK",
+        "village": "CIMERAK"
+    },
+    {
+        "name": "SD NEGERI 2 CIMINDI",
+        "village": "CIMINDI"
+    },
+    {
+        "name": "SD NEGERI 2 CINAGARA",
+        "village": "CINAGARA"
+    },
+    {
+        "name": "SD NEGERI 2 CINEUMBEUY",
+        "village": "CINEUMBEUY"
+    },
+    {
+        "name": "SD NEGERI 2 CINTAJAYA",
+        "village": "CINTAJAYA"
+    },
+    {
+        "name": "SD NEGERI 2 CINTAKARYA",
+        "village": "CINTAKARYA"
+    },
+    {
+        "name": "SD NEGERI 2 CIOMAS",
+        "village": "CIOMAS"
+    },
+    {
+        "name": "SD NEGERI 2 CIOMAS",
+        "village": "CIOMAS"
+    },
+    {
+        "name": "SD NEGERI 2 CIPAKEM",
+        "village": "CIPAKEM"
+    },
+    {
+        "name": "SD NEGERI 2 CIPANCUR",
+        "village": "CIPANCUR"
+    },
+    {
+        "name": "SD NEGERI 2 CIPARAKAN",
+        "village": "CIPARAKAN"
+    },
+    {
+        "name": "SD NEGERI 2 CIPARANTI",
+        "village": "CIPARANTI"
+    },
+    {
+        "name": "SD NEGERI 2 CIPONDOK",
+        "village": "CIPONDOK"
+    },
+    {
+        "name": "SD NEGERI 2 CIPORANG",
+        "village": "CIPORANG"
+    },
+    {
+        "name": "SD NEGERI 2 CIPUTAT",
+        "village": "CIPUTAT"
+    },
+    {
+        "name": "SD NEGERI 2 CIRAHAYU",
+        "village": "CIRAHAYU"
+    },
+    {
+        "name": "SD NEGERI 2 CIRENDANG",
+        "village": "CIRENDANG"
+    },
+    {
+        "name": "SD NEGERI 2 CISANTANA",
+        "village": "CISANTANA"
+    },
+    {
+        "name": "SD NEGERI 2 CITANGTU",
+        "village": "CITANGTU"
+    },
+    {
+        "name": "SD NEGERI 2 CITENJO",
+        "village": "CITENJO"
+    },
+    {
+        "name": "SD NEGERI 2 CITUNDUN",
+        "village": "CITUNDUN"
+    },
+    {
+        "name": "SD NEGERI 2 CIWARU",
+        "village": "CIWARU"
+    },
+    {
+        "name": "SD NEGERI 2 CIWIRU",
+        "village": "CIWIRU"
+    },
+    {
+        "name": "SD NEGERI 2 DARMA",
+        "village": "DARMA"
+    },
+    {
+        "name": "SD NEGERI 2 DARMARAJA",
+        "village": "DARMARAJA"
+    },
+    {
+        "name": "SD NEGERI 2 DUKUHMAJA",
+        "village": "DUKUHMAJA"
+    },
+    {
+        "name": "SD NEGERI 2 EMPLAK",
+        "village": "EMPLAK"
+    },
+    {
+        "name": "SD NEGERI 2 GALAHERANG",
+        "village": "GALAHERANG"
+    },
+    {
+        "name": "SD NEGERI 2 GANDASOLI",
+        "village": "GANDASOLI"
+    },
+    {
+        "name": "SD NEGERI 2 GARAJATI",
+        "village": "GARAJATI"
+    },
+    {
+        "name": "SD NEGERI 2 GERESIK",
+        "village": "GERESIK"
+    },
+    {
+        "name": "SD NEGERI 2 GUNUNGKARUNG",
+        "village": "GUNUNGKARUNG"
+    },
+    {
+        "name": "SD NEGERI 2 GUNUNGSARI",
+        "village": "GUNUNGSARI"
+    },
+    {
+        "name": "SD NEGERI 2 HANTARA",
+        "village": "HANTARA"
+    },
+    {
+        "name": "SD NEGERI 2 JABRANTI",
+        "village": "JABRANTI"
+    },
+    {
+        "name": "SD NEGERI 2 JADIKARYA",
+        "village": "JADIKARYA"
+    },
+    {
+        "name": "SD NEGERI 2 JADIMULYA",
+        "village": "JADIMULYA"
+    },
+    {
+        "name": "SD NEGERI 2 JAMBAR",
+        "village": "JAMBAR"
+    },
+    {
+        "name": "SD NEGERI 2 JAPARA",
+        "village": "JAPARA"
+    },
+    {
+        "name": "SD NEGERI 2 JATIMULYA",
+        "village": "JATIMULYA"
+    },
+    {
+        "name": "SD NEGERI 2 JATISARI",
+        "village": "JATISARI"
+    },
+    {
+        "name": "SD NEGERI 2 JAYASARI",
+        "village": "JAYASARI"
+    },
+    {
+        "name": "SD NEGERI 2 KADUELA",
+        "village": "KADUELA"
+    },
+    {
+        "name": "SD NEGERI 2 KADUGEDE",
+        "village": "KADUGEDE"
+    },
+    {
+        "name": "SD NEGERI 2 KADURAMA",
+        "village": "KADURAMA"
+    },
+    {
+        "name": "SD NEGERI 2 KALAPAGUNUNG",
+        "village": "KALAPAGUNUNG"
+    },
+    {
+        "name": "SD NEGERI 2 KALIJATI",
+        "village": "KALIJATI"
+    },
+    {
+        "name": "SD NEGERI 2 KALIMANGGISKULON",
+        "village": "KALIMANGGISKULON"
+    },
+    {
+        "name": "SD NEGERI 2 KALIMANGGISWETAN",
+        "village": "KALIMANGGISWETAN"
+    },
+    {
+        "name": "SD NEGERI 2 KALIPUCANG",
+        "village": "KALIPUCANG"
+    },
+    {
+        "name": "SD NEGERI 2 KANANGA",
+        "village": "KANANGA"
+    },
+    {
+        "name": "SD NEGERI 2 KARANGBENDA",
+        "village": "KARANGBENDA"
+    },
+    {
+        "name": "SD NEGERI 2 KARANGJALADRI",
+        "village": "KARANGJALADRI"
+    },
+    {
+        "name": "SD NEGERI 2 KARANGKAMIRI",
+        "village": "KARANGKAMIRI"
+    },
+    {
+        "name": "SD NEGERI 2 KARANGKAMULYAN",
+        "village": "KARANGKAMULYAN"
+    },
+    {
+        "name": "SD NEGERI 2 KARANGKANCANA",
+        "village": "KARANGKANCANA"
+    },
+    {
+        "name": "SD NEGERI 2 KARANGMANGU",
+        "village": "KARANGMANGU"
+    },
+    {
+        "name": "SD NEGERI 2 KARANGMULYA",
+        "village": "KARANGMULYA"
+    },
+    {
+        "name": "SD NEGERI 2 KARANGMUNCANG",
+        "village": "KARANGMUNCANG"
+    },
+    {
+        "name": "SD NEGERI 2 KARANGSARI",
+        "village": "KARANGSARI"
+    },
+    {
+        "name": "SD NEGERI 2 KARANGTAWANG",
+        "village": "KARANGTAWANG"
+    },
+    {
+        "name": "SD NEGERI 2 KAROYA",
+        "village": "KAROYA"
+    },
+    {
+        "name": "SD NEGERI 2 KASTURI",
+        "village": "KASTURI"
+    },
+    {
+        "name": "SD NEGERI 2 KEDUNGARUM",
+        "village": "KEDUNGARUM"
+    },
+    {
+        "name": "SD NEGERI 2 KEDUNGWULUH",
+        "village": "KEDUNGWULUH"
+    },
+    {
+        "name": "SD NEGERI 2 KERSARATU",
+        "village": "KERSARATU"
+    },
+    {
+        "name": "SD NEGERI 2 KERTAJAYA",
+        "village": "KERTAJAYA"
+    },
+    {
+        "name": "SD NEGERI 2 KERTAMANDALA",
+        "village": "KERTAMANDALA"
+    },
+    {
+        "name": "SD NEGERI 2 KERTAMUKTI",
+        "village": "KERTAMUKTI"
+    },
+    {
+        "name": "SD NEGERI 2 KERTAWANGUNAN",
+        "village": "KERTAWANGUNAN"
+    },
+    {
+        "name": "SD NEGERI 2 KERTAWINANGUN",
+        "village": "KERTAWINANGUN"
+    },
+    {
+        "name": "SD NEGERI 2 KERTAWINANGUN",
+        "village": "KERTAWINANGUN"
+    },
+    {
+        "name": "SD NEGERI 2 KERTAWIRAMA",
+        "village": "KERTAWIRAMA"
+    },
+    {
+        "name": "SD NEGERI 2 KERTAYASA",
+        "village": "KERTAYASA"
+    },
+    {
+        "name": "SD NEGERI 2 KONDANGJAJAR",
+        "village": "KONDANGJAJAR"
+    },
+    {
+        "name": "SD NEGERI 2 KOREAK",
+        "village": "KOREAK"
+    },
+    {
+        "name": "SD NEGERI 2 KRAMATMULYA",
+        "village": "KRAMATMULYA"
+    },
+    {
+        "name": "SD NEGERI 2 KUNINGAN",
+        "village": "KUNINGAN"
+    },
+    {
+        "name": "SD NEGERI 2 KUTAKEMBARAN",
+        "village": "KUTAKEMBARAN"
+    },
+    {
+        "name": "SD NEGERI 2 KUTAWARINGIN",
+        "village": "KUTAWARINGIN"
+    },
+    {
+        "name": "SD NEGERI 2 LANGKAPLANCAR",
+        "village": "LANGKAPLANCAR"
+    },
+    {
+        "name": "SD NEGERI 2 LANGSEB",
+        "village": "LANGSEB"
+    },
+    {
+        "name": "SD NEGERI 2 LEBAKSIUH",
+        "village": "LEBAKSIUH"
+    },
+    {
+        "name": "SD NEGERI 2 LEBAKWANGI",
+        "village": "LEBAKWANGI"
+    },
+    {
+        "name": "SD NEGERI 2 LEGOK",
+        "village": "LEGOK"
+    },
+    {
+        "name": "SD NEGERI 2 LEGOKHERANG",
+        "village": "LEGOKHERANG"
+    },
+    {
+        "name": "SD NEGERI 2 LEGOKJAWA",
+        "village": "LEGOKJAWA"
+    },
+    {
+        "name": "SD NEGERI 2 LINGGAJATI",
+        "village": "LINGGAJATI"
+    },
+    {
+        "name": "SD NEGERI 2 LURAGUNGLANDEUH",
+        "village": "LURAGUNGLANDEUH"
+    },
+    {
+        "name": "SD NEGERI 2 MANDALAJAYA",
+        "village": "MANDALAJAYA"
+    },
+    {
+        "name": "SD NEGERI 2 MANDAPAJAYA",
+        "village": "MANDAPAJAYA"
+    },
+    {
+        "name": "SD NEGERI 2 MANGUNJAYA",
+        "village": "MANGUNJAYA"
+    },
+    {
+        "name": "SD NEGERI 2 MANISKIDUL",
+        "village": "MANISKIDUL"
+    },
+    {
+        "name": "SD NEGERI 2 MANISLOR",
+        "village": "MANISLOR"
+    },
+    {
+        "name": "SD NEGERI 2 MAPARAH",
+        "village": "MAPARAH"
+    },
+    {
+        "name": "SD NEGERI 2 MARGACINA",
+        "village": "MARGACINA"
+    },
+    {
+        "name": "SD NEGERI 2 MARGACINTA",
+        "village": "MARGACINTA"
+    },
+    {
+        "name": "SD NEGERI 2 MARUYUNGSARI",
+        "village": "MARUYUNGSARI"
+    },
+    {
+        "name": "SD NEGERI 2 MASAWAH",
+        "village": "MASAWAH"
+    },
+    {
+        "name": "SD NEGERI 2 MEKARJAYA",
+        "village": "MEKARJAYA"
+    },
+    {
+        "name": "SD NEGERI 2 MEKARSARI",
+        "village": "MEKARSARI"
+    },
+    {
+        "name": "SD NEGERI 2 MEKARWANGI",
+        "village": "MEKARWANGI"
+    },
+    {
+        "name": "SD NEGERI 2 MULYAJAYA",
+        "village": "MULYAJAYA"
+    },
+    {
+        "name": "SD NEGERI 2 MUNCANGELA",
+        "village": "MUNCANGELA"
+    },
+    {
+        "name": "SD NEGERI 2 NANGGELA",
+        "village": "NANGGELA"
+    },
+    {
+        "name": "SD NEGERI 2 NANGGELA",
+        "village": "NANGGELA"
+    },
+    {
+        "name": "SD NEGERI 2 PADAHERANG",
+        "village": "PADAHERANG"
+    },
+    {
+        "name": "SD NEGERI 2 PADAHURIP",
+        "village": "PADAHURIP"
+    },
+    {
+        "name": "SD NEGERI 2 PADAMULYA",
+        "village": "PADAMULYA"
+    },
+    {
+        "name": "SD NEGERI 2 PADAREK",
+        "village": "PADAREK"
+    },
+    {
+        "name": "SD NEGERI 2 PAGERBUMI",
+        "village": "PAGERBUMI"
+    },
+    {
+        "name": "SD NEGERI 2 PAGUNDAN",
+        "village": "PAGUNDAN"
+    },
+    {
+        "name": "SD NEGERI 2 PAJATEN",
+        "village": "PAJATEN"
+    },
+    {
+        "name": "SD NEGERI 2 PALEDAH",
+        "village": "PALEDAH"
+    },
+    {
+        "name": "SD NEGERI 2 PAMOTAN",
+        "village": "PAMOTAN"
+    },
+    {
+        "name": "SD NEGERI 2 PAMULIHAN",
+        "village": "PAMULIHAN"
+    },
+    {
+        "name": "SD NEGERI 2 PAMULIHAN",
+        "village": "PAMULIHAN"
+    },
+    {
+        "name": "SD NEGERI 2 PAMUPUKAN",
+        "village": "PAMUPUKAN"
+    },
+    {
+        "name": "SD NEGERI 2 PANANJUNG",
+        "village": "PANANJUNG"
+    },
+    {
+        "name": "SD NEGERI 2 PANAWUAN",
+        "village": "PANAWUAN"
+    },
+    {
+        "name": "SD NEGERI 2 PANGANDARAN",
+        "village": "PANGANDARAN"
+    },
+    {
+        "name": "SD NEGERI 2 PANGKALAN",
+        "village": "PANGKALAN"
+    },
+    {
+        "name": "SD NEGERI 2 PANIIS",
+        "village": "PANIIS"
+    },
+    {
+        "name": "SD NEGERI 2 PANJALU",
+        "village": "PANJALU"
+    },
+    {
+        "name": "SD NEGERI 2 PANYOSOGAN",
+        "village": "PANYOSOGAN"
+    },
+    {
+        "name": "SD NEGERI 2 PANYUTRAN",
+        "village": "PANYUTRAN"
+    },
+    {
+        "name": "SD NEGERI 2 PARAKANMANGGU",
+        "village": "PARAKANMANGGU"
+    },
+    {
+        "name": "SD NEGERI 2 PARIGI",
+        "village": "PARIGI"
+    },
+    {
+        "name": "SD NEGERI 2 PASIRGEULIS",
+        "village": "PASIRGEULIS"
+    },
+    {
+        "name": "SD NEGERI 2 PATALA",
+        "village": "PATALA"
+    },
+    {
+        "name": "SD NEGERI 2 PATALAGAN",
+        "village": "PATALAGAN"
+    },
+    {
+        "name": "SD NEGERI 2 PEUSING",
+        "village": "PEUSING"
+    },
+    {
+        "name": "SD NEGERI 2 PUNCAK",
+        "village": "PUNCAK"
+    },
+    {
+        "name": "SD NEGERI 2 PURBAHAYU",
+        "village": "PURBAHAYU"
+    },
+    {
+        "name": "SD NEGERI 2 PURWASARI",
+        "village": "PURWASARI"
+    },
+    {
+        "name": "SD NEGERI 2 PURWAWINANGUN",
+        "village": "PURWAWINANGUN"
+    },
+    {
+        "name": "SD NEGERI 2 PUTRAPINGGAN",
+        "village": "PUTRAPINGGAN"
+    },
+    {
+        "name": "SD NEGERI 2 RAGAWACANA",
+        "village": "RAGAWACANA"
+    },
+    {
+        "name": "SD NEGERI 2 RAJADANU",
+        "village": "RAJADANU"
+    },
+    {
+        "name": "SD NEGERI 2 RAMBATAN",
+        "village": "RAMBATAN"
+    },
+    {
+        "name": "SD NEGERI 2 RANDUSARI",
+        "village": "RANDUSARI"
+    },
+    {
+        "name": "SD NEGERI 2 RAWA",
+        "village": "RAWA"
+    },
+    {
+        "name": "SD NEGERI 2 SADEWATA",
+        "village": "SADEWATA"
+    },
+    {
+        "name": "SD NEGERI 2 SAGARAHIANG",
+        "village": "SAGARAHIANG"
+    },
+    {
+        "name": "SD NEGERI 2 SAKERTA TIMUR",
+        "village": "SAKERTA TIMUR"
+    },
+    {
+        "name": "SD NEGERI 2 SALAREUMA",
+        "village": "SALAREUMA"
+    },
+    {
+        "name": "SD NEGERI 2 SAMPORA",
+        "village": "SAMPORA"
+    },
+    {
+        "name": "SD NEGERI 2 SANDINGTAMAN",
+        "village": "SANDINGTAMAN"
+    },
+    {
+        "name": "SD NEGERI 2 SANGKANERANG",
+        "village": "SANGKANERANG"
+    },
+    {
+        "name": "SD NEGERI 2 SEGONG",
+        "village": "SEGONG"
+    },
+    {
+        "name": "SD NEGERI 2 SELAJAMBE",
+        "village": "SELAJAMBE"
+    },
+    {
+        "name": "SD NEGERI 2 SELASARI",
+        "village": "SELASARI"
+    },
+    {
+        "name": "SD NEGERI 2 SEMBAWA",
+        "village": "SEMBAWA"
+    },
+    {
+        "name": "SD NEGERI 2 SETIANEGARA",
+        "village": "SETIANEGARA"
+    },
+    {
+        "name": "SD NEGERI 2 SIDAMULIH",
+        "village": "SIDAMULIH"
+    },
+    {
+        "name": "SD NEGERI 2 SIDAMULYA",
+        "village": "SIDAMULYA"
+    },
+    {
+        "name": "SD NEGERI 2 SIDARAJA",
+        "village": "SIDARAJA"
+    },
+    {
+        "name": "SD NEGERI 2 SIDOMULYO",
+        "village": "SIDOMULYO"
+    },
+    {
+        "name": "SD NEGERI 2 SINDANG",
+        "village": "SINDANG"
+    },
+    {
+        "name": "SD NEGERI 2 SINDANGANGIN",
+        "village": "SINDANGANGIN"
+    },
+    {
+        "name": "SD NEGERI 2 SINDANGBARANG",
+        "village": "SINDANGBARANG"
+    },
+    {
+        "name": "SD NEGERI 2 SINDANGJAWA",
+        "village": "SINDANGJAWA"
+    },
+    {
+        "name": "SD NEGERI 2 SINDANGJAYA",
+        "village": "SINDANGJAYA"
+    },
+    {
+        "name": "SD NEGERI 2 SINDANGWANGI",
+        "village": "SINDANGWANGI"
+    },
+    {
+        "name": "SD NEGERI 2 SITUGEDE",
+        "village": "SITUGEDE"
+    },
+    {
+        "name": "SD NEGERI 2 SUBANG",
+        "village": "SUBANG"
+    },
+    {
+        "name": "SD NEGERI 2 SUGANANGAN",
+        "village": "SUGANANGAN"
+    },
+    {
+        "name": "SD NEGERI 2 SUKADANA",
+        "village": "SUKADANA"
+    },
+    {
+        "name": "SD NEGERI 2 SUKAMAJU",
+        "village": "SUKAMAJU"
+    },
+    {
+        "name": "SD NEGERI 2 SUKAMAJU",
+        "village": "SUKAMAJU"
+    },
+    {
+        "name": "SD NEGERI 2 SUKAMUKTI",
+        "village": "SUKAMUKTI"
+    },
+    {
+        "name": "SD NEGERI 2 SUKAMULYA",
+        "village": "SUKAMULYA"
+    },
+    {
+        "name": "SD NEGERI 2 SUKANAGARA",
+        "village": "SUKANAGARA"
+    },
+    {
+        "name": "SD NEGERI 2 SUKARAJA",
+        "village": "SUKARAJA"
+    },
+    {
+        "name": "SD NEGERI 2 SUKARAPIH",
+        "village": "SUKARAPIH"
+    },
+    {
+        "name": "SD NEGERI 2 SUKARESIK",
+        "village": "SUKARESIK"
+    },
+    {
+        "name": "SD NEGERI 2 SUMBERJAYA",
+        "village": "SUMBERJAYA"
+    },
+    {
+        "name": "SD NEGERI 2 TAMBAKREJA",
+        "village": "TAMBAKREJA"
+    },
+    {
+        "name": "SD NEGERI 2 TANGKOLO",
+        "village": "TANGKOLO"
+    },
+    {
+        "name": "SD NEGERI 2 TANJUNGKERTA",
+        "village": "TANJUNGKERTA"
+    },
+    {
+        "name": "SD NEGERI 2 TARAJU",
+        "village": "TARAJU"
+    },
+    {
+        "name": "SD NEGERI 2 TENJOLAYAR",
+        "village": "TENJOLAYAR"
+    },
+    {
+        "name": "SD NEGERI 2 TUGUMULYA",
+        "village": "TUGUMULYA"
+    },
+    {
+        "name": "SD NEGERI 2 TUNGGILIS",
+        "village": "TUNGGILIS"
+    },
+    {
+        "name": "SD NEGERI 2 WILANAGARA",
+        "village": "WILANAGARA"
+    },
+    {
+        "name": "SD NEGERI 2 WINDUHAJI",
+        "village": "WINDUHAJI"
+    },
+    {
+        "name": "SD NEGERI 2 WINDUHERANG",
+        "village": "WINDUHERANG"
+    },
+    {
+        "name": "SD NEGERI 2 WINDUJANTEN",
+        "village": "WINDUJANTEN"
+    },
+    {
+        "name": "SD NEGERI 2 WINDUSENGKAHAN",
+        "village": "WINDUSENGKAHAN"
+    },
+    {
+        "name": "SD NEGERI 3 ANCARAN",
+        "village": "ANCARAN"
+    },
+    {
+        "name": "SD NEGERI 3 AWIRARANGAN",
+        "village": "AWIRARANGAN"
+    },
+    {
+        "name": "SD NEGERI 3 BANDORASA KULON",
+        "village": "BANDORASA KULON"
+    },
+    {
+        "name": "SD NEGERI 3 BANJARHARJA",
+        "village": "BANJARHARJA"
+    },
+    {
+        "name": "SD NEGERI 3 BAREGBEG",
+        "village": "BAREGBEG"
+    },
+    {
+        "name": "SD NEGERI 3 BATUKARAS",
+        "village": "BATUKARAS"
+    },
+    {
+        "name": "SD NEGERI 3 BEBER",
+        "village": "BEBER"
+    },
+    {
+        "name": "SD NEGERI 3 BOJONG",
+        "village": "BOJONG"
+    },
+    {
+        "name": "SD NEGERI 3 BOJONG",
+        "village": "BOJONG"
+    },
+    {
+        "name": "SD NEGERI 3 BOJONGKONDANG",
+        "village": "BOJONGKONDANG"
+    },
+    {
+        "name": "SD NEGERI 3 BOJONGSARI",
+        "village": "BOJONGSARI"
+    },
+    {
+        "name": "SD NEGERI 3 BUNIGEULIS",
+        "village": "BUNIGEULIS"
+    },
+    {
+        "name": "SD NEGERI 3 BUNTER",
+        "village": "BUNTER"
+    },
+    {
+        "name": "SD NEGERI 3 CARACAS",
+        "village": "CARACAS"
+    },
+    {
+        "name": "SD NEGERI 3 CENGAL",
+        "village": "CENGAL"
+    },
+    {
+        "name": "SD NEGERI 3 CIAKAR",
+        "village": "CIAKAR"
+    },
+    {
+        "name": "SD NEGERI 3 CIAWIGEBANG",
+        "village": "CIAWIGEBANG"
+    },
+    {
+        "name": "SD NEGERI 3 CIBANTEN",
+        "village": "CIBANTEN"
+    },
+    {
+        "name": "SD NEGERI 3 CIBENDA",
+        "village": "CIBENDA"
+    },
+    {
+        "name": "SD NEGERI 3 CIBERUNG",
+        "village": "CIBERUNG"
+    },
+    {
+        "name": "SD NEGERI 3 CIBEUREUM",
+        "village": "CIBEUREUM"
+    },
+    {
+        "name": "SD NEGERI 3 CIBINGBIN",
+        "village": "CIBINGBIN"
+    },
+    {
+        "name": "SD NEGERI 3 CIEURIH",
+        "village": "CIEURIH"
+    },
+    {
+        "name": "SD NEGERI 3 CIGADUNG",
+        "village": "CIGADUNG"
+    },
+    {
+        "name": "SD NEGERI 3 CIGUGUR",
+        "village": "CIGUGUR"
+    },
+    {
+        "name": "SD NEGERI 3 CIHERANG",
+        "village": "CIHERANG"
+    },
+    {
+        "name": "SD NEGERI 3 CIHIRUP",
+        "village": "CIHIRUP"
+    },
+    {
+        "name": "SD NEGERI 3 CIJEMIT",
+        "village": "CIJEMIT"
+    },
+    {
+        "name": "SD NEGERI 3 CIKADU",
+        "village": "CIKADU"
+    },
+    {
+        "name": "SD NEGERI 3 CIKADUWETAN",
+        "village": "CIKADUWETAN"
+    },
+    {
+        "name": "SD NEGERI 3 CILEULEUY",
+        "village": "CILEULEUY"
+    },
+    {
+        "name": "SD NEGERI 3 CILEUYA",
+        "village": "CILEUYA"
+    },
+    {
+        "name": "SD NEGERI 3 CIMANGGU",
+        "village": "CIMANGGU"
+    },
+    {
+        "name": "SD NEGERI 3 CIMARA",
+        "village": "CIMARA"
+    },
+    {
+        "name": "SD NEGERI 3 CIMERAK",
+        "village": "CIMERAK"
+    },
+    {
+        "name": "SD NEGERI 3 CINTAJAYA",
+        "village": "CINTAJAYA"
+    },
+    {
+        "name": "SD NEGERI 3 CINTAKARYA",
+        "village": "CINTAKARYA"
+    },
+    {
+        "name": "SD NEGERI 3 CINTARATU",
+        "village": "CINTARATU"
+    },
+    {
+        "name": "SD NEGERI 3 CIPAKEM",
+        "village": "CIPAKEM"
+    },
+    {
+        "name": "SD NEGERI 3 CIPARAKAN",
+        "village": "CIPARAKAN"
+    },
+    {
+        "name": "SD NEGERI 3 CIPEDES",
+        "village": "CIPEDES"
+    },
+    {
+        "name": "SD NEGERI 3 CIPORANG",
+        "village": "CIPORANG"
+    },
+    {
+        "name": "SD NEGERI 3 CIPUTAT",
+        "village": "CIPUTAT"
+    },
+    {
+        "name": "SD NEGERI 3 CISANTANA",
+        "village": "CISANTANA"
+    },
+    {
+        "name": "SD NEGERI 3 CITANGTU",
+        "village": "CITANGTU"
+    },
+    {
+        "name": "SD NEGERI 3 CIWARU",
+        "village": "CIWARU"
+    },
+    {
+        "name": "SD NEGERI 3 GARAJATI",
+        "village": "GARAJATI"
+    },
+    {
+        "name": "SD NEGERI 3 GERESIK",
+        "village": "GERESIK"
+    },
+    {
+        "name": "SD NEGERI 3 HAURKUNING",
+        "village": "HAURKUNING"
+    },
+    {
+        "name": "SD NEGERI 3 JABRANTI",
+        "village": "JABRANTI"
+    },
+    {
+        "name": "SD NEGERI 3 JADIKARYA",
+        "village": "JADIKARYA"
+    },
+    {
+        "name": "SD NEGERI 3 JADIMULYA",
+        "village": "JADIMULYA"
+    },
+    {
+        "name": "SD NEGERI 3 JALAKSANA",
+        "village": "JALAKSANA"
+    },
+    {
+        "name": "SD NEGERI 3 JAMBAR",
+        "village": "JAMBAR"
+    },
+    {
+        "name": "SD NEGERI 3 JANGRAGA",
+        "village": "JANGRAGA"
+    },
+    {
+        "name": "SD NEGERI 3 KADUGEDE",
+        "village": "KADUGEDE"
+    },
+    {
+        "name": "SD NEGERI 3 KALAPASAWIT",
+        "village": "KALAPASAWIT"
+    },
+    {
+        "name": "SD NEGERI 3 KALIMANGGISKULON",
+        "village": "KALIMANGGISKULON"
+    },
+    {
+        "name": "SD NEGERI 3 KALIPUCANG",
+        "village": "KALIPUCANG"
+    },
+    {
+        "name": "SD NEGERI 3 KARANGBENDA",
+        "village": "KARANGBENDA"
+    },
+    {
+        "name": "SD NEGERI 3 KARANGKAMIRI",
+        "village": "KARANGKAMIRI"
+    },
+    {
+        "name": "SD NEGERI 3 KARANGKANCANA",
+        "village": "KARANGKANCANA"
+    },
+    {
+        "name": "SD NEGERI 3 KARANGMULYA",
+        "village": "KARANGMULYA"
+    },
+    {
+        "name": "SD NEGERI 3 KARANGPAWITAN",
+        "village": "KARANGPAWITAN"
+    },
+    {
+        "name": "SD NEGERI 3 KARANGTAWANG",
+        "village": "KARANGTAWANG"
+    },
+    {
+        "name": "SD NEGERI 3 KEDUNGWULUH",
+        "village": "KEDUNGWULUH"
+    },
+    {
+        "name": "SD NEGERI 3 KERSARATU",
+        "village": "KERSARATU"
+    },
+    {
+        "name": "SD NEGERI 3 KERTAHARJA",
+        "village": "KERTAHARJA"
+    },
+    {
+        "name": "SD NEGERI 3 KERTAJAYA",
+        "village": "KERTAJAYA"
+    },
+    {
+        "name": "SD NEGERI 3 KERTAMUKTI",
+        "village": "KERTAMUKTI"
+    },
+    {
+        "name": "SD NEGERI 3 KERTAWANA",
+        "village": "KERTAWANA"
+    },
+    {
+        "name": "SD NEGERI 3 KUTAWARINGIN",
+        "village": "KUTAWARINGIN"
+    },
+    {
+        "name": "SD NEGERI 3 LANGKAPLANCAR",
+        "village": "LANGKAPLANCAR"
+    },
+    {
+        "name": "SD NEGERI 3 LEGOKJAWA",
+        "village": "LEGOKJAWA"
+    },
+    {
+        "name": "SD NEGERI 3 LENGKONG",
+        "village": "LENGKONG"
+    },
+    {
+        "name": "SD NEGERI 3 LIMUSGEDE",
+        "village": "LIMUSGEDE"
+    },
+    {
+        "name": "SD NEGERI 3 LUMBUNG",
+        "village": "LUMBUNG"
+    },
+    {
+        "name": "SD NEGERI 3 LURAGUNGLANDEUH",
+        "village": "LURAGUNGLANDEUH"
+    },
+    {
+        "name": "SD NEGERI 3 MANISKIDUL",
+        "village": "MANISKIDUL"
+    },
+    {
+        "name": "SD NEGERI 3 MANISLOR",
+        "village": "MANISLOR"
+    },
+    {
+        "name": "SD NEGERI 3 MARGAMUKTI",
+        "village": "MARGAMUKTI"
+    },
+    {
+        "name": "SD NEGERI 3 MARUYUNGSARI",
+        "village": "MARUYUNGSARI"
+    },
+    {
+        "name": "SD NEGERI 3 MASAWAH",
+        "village": "MASAWAH"
+    },
+    {
+        "name": "SD NEGERI 3 MEKARWANGI",
+        "village": "MEKARWANGI"
+    },
+    {
+        "name": "SD NEGERI 3 PADAHERANG",
+        "village": "PADAHERANG"
+    },
+    {
+        "name": "SD NEGERI 3 PAJATEN",
+        "village": "PAJATEN"
+    },
+    {
+        "name": "SD NEGERI 3 PALEDAH",
+        "village": "PALEDAH"
+    },
+    {
+        "name": "SD NEGERI 3 PAMOTAN",
+        "village": "PAMOTAN"
+    },
+    {
+        "name": "SD NEGERI 3 PAMULIHAN",
+        "village": "PAMULIHAN"
+    },
+    {
+        "name": "SD NEGERI 3 PANGANDARAN",
+        "village": "PANGANDARAN"
+    },
+    {
+        "name": "SD NEGERI 3 PANYUTRAN",
+        "village": "PANYUTRAN"
+    },
+    {
+        "name": "SD NEGERI 3 PARAKANMANGGU",
+        "village": "PARAKANMANGGU"
+    },
+    {
+        "name": "SD NEGERI 3 PARIGI",
+        "village": "PARIGI"
+    },
+    {
+        "name": "SD NEGERI 3 PASAWAHAN",
+        "village": "PASAWAHAN"
+    },
+    {
+        "name": "SD NEGERI 3 PASIRGEULIS",
+        "village": "PASIRGEULIS"
+    },
+    {
+        "name": "SD NEGERI 3 PULOERANG",
+        "village": "PULOERANG"
+    },
+    {
+        "name": "SD NEGERI 3 PUNCAK",
+        "village": "PUNCAK"
+    },
+    {
+        "name": "SD NEGERI 3 PURBAHAYU",
+        "village": "PURBAHAYU"
+    },
+    {
+        "name": "SD NEGERI 3 PURWASARI",
+        "village": "PURWASARI"
+    },
+    {
+        "name": "SD NEGERI 3 PURWAWINANGUN",
+        "village": "PURWAWINANGUN"
+    },
+    {
+        "name": "SD NEGERI 3 PUTRAPINGGAN",
+        "village": "PUTRAPINGGAN"
+    },
+    {
+        "name": "SD NEGERI 3 RAKSABAYA",
+        "village": "RAKSABAYA"
+    },
+    {
+        "name": "SD NEGERI 3 SAMPORA",
+        "village": "SAMPORA"
+    },
+    {
+        "name": "SD NEGERI 3 SANDINGTAMAN",
+        "village": "SANDINGTAMAN"
+    },
+    {
+        "name": "SD NEGERI 3 SELAJAMBE",
+        "village": "SELAJAMBE"
+    },
+    {
+        "name": "SD NEGERI 3 SELASARI",
+        "village": "SELASARI"
+    },
+    {
+        "name": "SD NEGERI 3 SIDAHARJA",
+        "village": "SIDAHARJA"
+    },
+    {
+        "name": "SD NEGERI 3 SIDAMULIH",
+        "village": "SIDAMULIH"
+    },
+    {
+        "name": "SD NEGERI 3 SIDOMULYO",
+        "village": "SIDOMULYO"
+    },
+    {
+        "name": "SD NEGERI 3 SINDANGJAYA",
+        "village": "SINDANGJAYA"
+    },
+    {
+        "name": "SD NEGERI 3 SINDANGRASA",
+        "village": "SINDANGRASA"
+    },
+    {
+        "name": "SD NEGERI 3 SUBANG",
+        "village": "SUBANG"
+    },
+    {
+        "name": "SD NEGERI 3 SUKADANA",
+        "village": "SUKADANA"
+    },
+    {
+        "name": "SD NEGERI 3 SUKAMAJU",
+        "village": "SUKAMAJU"
+    },
+    {
+        "name": "SD NEGERI 3 SUKANAGARA",
+        "village": "SUKANAGARA"
+    },
+    {
+        "name": "SD NEGERI 3 SUKARAPIH",
+        "village": "SUKARAPIH"
+    },
+    {
+        "name": "SD NEGERI 3 SUSUKAN",
+        "village": "SUSUKAN"
+    },
+    {
+        "name": "SD NEGERI 3 TANGKOLO",
+        "village": "TANGKOLO"
+    },
+    {
+        "name": "SD NEGERI 3 TUNGGILIS",
+        "village": "TUNGGILIS"
+    },
+    {
+        "name": "SD NEGERI 3 WINDUHAJI",
+        "village": "WINDUHAJI"
+    },
+    {
+        "name": "SD NEGERI 3 WONOHARJO",
+        "village": "WONOHARJO"
+    },
+    {
+        "name": "SD NEGERI 4 AWIRARANGAN",
+        "village": "AWIRARANGAN"
+    },
+    {
+        "name": "SD NEGERI 4 BABAKAN",
+        "village": "BABAKAN"
+    },
+    {
+        "name": "SD NEGERI 4 BANGUNJAYA",
+        "village": "BANGUNJAYA"
+    },
+    {
+        "name": "SD NEGERI 4 BANJARHARJA",
+        "village": "BANJARHARJA"
+    },
+    {
+        "name": "SD NEGERI 4 BEBER",
+        "village": "BEBER"
+    },
+    {
+        "name": "SD NEGERI 4 BOJONG",
+        "village": "BOJONG"
+    },
+    {
+        "name": "SD NEGERI 4 BOJONGKONDANG",
+        "village": "BOJONGKONDANG"
+    },
+    {
+        "name": "SD NEGERI 4 CIBENDA",
+        "village": "CIBENDA"
+    },
+    {
+        "name": "SD NEGERI 4 CIGADUNG",
+        "village": "CIGADUNG"
+    },
+    {
+        "name": "SD NEGERI 4 CIGUGUR",
+        "village": "CIGUGUR"
+    },
+    {
+        "name": "SD NEGERI 4 CIHIDEUNGHILIR",
+        "village": "CIHIDEUNGHILIR"
+    },
+    {
+        "name": "SD NEGERI 4 CIJOHO",
+        "village": "CIJOHO"
+    },
+    {
+        "name": "SD NEGERI 4 CIJULANG",
+        "village": "CIJULANG"
+    },
+    {
+        "name": "SD NEGERI 4 CIKEMBULAN",
+        "village": "CIKEMBULAN"
+    },
+    {
+        "name": "SD NEGERI 4 CILIMUS",
+        "village": "CILIMUS"
+    },
+    {
+        "name": "SD NEGERI 4 CIMANGGU",
+        "village": "CIMANGGU"
+    },
+    {
+        "name": "SD NEGERI 4 CIMARA",
+        "village": "CIMARA"
+    },
+    {
+        "name": "SD NEGERI 4 CIMINDI",
+        "village": "CIMINDI"
+    },
+    {
+        "name": "SD NEGERI 4 CINTARATU",
+        "village": "CINTARATU"
+    },
+    {
+        "name": "SD NEGERI 4 CIOMAS",
+        "village": "CIOMAS"
+    },
+    {
+        "name": "SD NEGERI 4 CIPAKEM",
+        "village": "CIPAKEM"
+    },
+    {
+        "name": "SD NEGERI 4 CIPARAKAN",
+        "village": "CIPARAKAN"
+    },
+    {
+        "name": "SD NEGERI 4 CIPEDES",
+        "village": "CIPEDES"
+    },
+    {
+        "name": "SD NEGERI 4 CITANGTU",
+        "village": "CITANGTU"
+    },
+    {
+        "name": "SD NEGERI 4 CIWARU",
+        "village": "CIWARU"
+    },
+    {
+        "name": "SD NEGERI 4 JADIMULYA",
+        "village": "JADIMULYA"
+    },
+    {
+        "name": "SD NEGERI 4 JALAKSANA",
+        "village": "JALAKSANA"
+    },
+    {
+        "name": "SD NEGERI 4 JANGRAGA",
+        "village": "JANGRAGA"
+    },
+    {
+        "name": "SD NEGERI 4 KALIPUCANG",
+        "village": "KALIPUCANG"
+    },
+    {
+        "name": "SD NEGERI 4 KARANGBENDA",
+        "village": "KARANGBENDA"
+    },
+    {
+        "name": "SD NEGERI 4 KARANGJALADRI",
+        "village": "KARANGJALADRI"
+    },
+    {
+        "name": "SD NEGERI 4 KARANGKAMIRI",
+        "village": "KARANGKAMIRI"
+    },
+    {
+        "name": "SD NEGERI 4 KARANGPAWITAN",
+        "village": "KARANGPAWITAN"
+    },
+    {
+        "name": "SD NEGERI 4 KERTAHARJA",
+        "village": "KERTAHARJA"
+    },
+    {
+        "name": "SD NEGERI 4 KERTAMUKTI.",
+        "village": "KERTAMUKTI."
+    },
+    {
+        "name": "SD NEGERI 4 KUNINGAN",
+        "village": "KUNINGAN"
+    },
+    {
+        "name": "SD NEGERI 4 LANGKAPLANCAR",
+        "village": "LANGKAPLANCAR"
+    },
+    {
+        "name": "SD NEGERI 4 MANGUNJAYA",
+        "village": "MANGUNJAYA"
+    },
+    {
+        "name": "SD NEGERI 4 MARGAMUKTI",
+        "village": "MARGAMUKTI"
+    },
+    {
+        "name": "SD NEGERI 4 MARUYUNGSARI",
+        "village": "MARUYUNGSARI"
+    },
+    {
+        "name": "SD NEGERI 4 MEKARSARI",
+        "village": "MEKARSARI"
+    },
+    {
+        "name": "SD NEGERI 4 PADAHERANG",
+        "village": "PADAHERANG"
+    },
+    {
+        "name": "SD NEGERI 4 PALEDAH",
+        "village": "PALEDAH"
+    },
+    {
+        "name": "SD NEGERI 4 PAMOTAN",
+        "village": "PAMOTAN"
+    },
+    {
+        "name": "SD NEGERI 4 PANGANDARAN",
+        "village": "PANGANDARAN"
+    },
+    {
+        "name": "SD NEGERI 4 PURWAWINANGUN",
+        "village": "PURWAWINANGUN"
+    },
+    {
+        "name": "SD NEGERI 4 PUTRAPINGGAN",
+        "village": "PUTRAPINGGAN"
+    },
+    {
+        "name": "SD NEGERI 4 RAKSABAYA",
+        "village": "RAKSABAYA"
+    },
+    {
+        "name": "SD NEGERI 4 RAMBATAN",
+        "village": "RAMBATAN"
+    },
+    {
+        "name": "SD NEGERI 4 RAWA",
+        "village": "RAWA"
+    },
+    {
+        "name": "SD NEGERI 4 SELASARI",
+        "village": "SELASARI"
+    },
+    {
+        "name": "SD NEGERI 4 SIDAHARJA",
+        "village": "SIDAHARJA"
+    },
+    {
+        "name": "SD NEGERI 4 SIDOMULYO",
+        "village": "SIDOMULYO"
+    },
+    {
+        "name": "SD NEGERI 4 SINDANGJAYA",
+        "village": "SINDANGJAYA"
+    },
+    {
+        "name": "SD NEGERI 4 SINDANGSARI",
+        "village": "SINDANGSARI"
+    },
+    {
+        "name": "SD NEGERI 4 SUBANG",
+        "village": "SUBANG"
+    },
+    {
+        "name": "SD NEGERI 4 SUKAMAJU",
+        "village": "SUKAMAJU"
+    },
+    {
+        "name": "SD NEGERI 4 SUKANAGARA",
+        "village": "SUKANAGARA"
+    },
+    {
+        "name": "SD NEGERI 4 TUNGGILIS",
+        "village": "TUNGGILIS"
+    },
+    {
+        "name": "SD NEGERI 4 WONOHARJO",
+        "village": "WONOHARJO"
+    },
+    {
+        "name": "SD NEGERI 5 BANGUNJAYA",
+        "village": "BANGUNJAYA"
+    },
+    {
+        "name": "SD NEGERI 5 CIBENDA",
+        "village": "CIBENDA"
+    },
+    {
+        "name": "SD NEGERI 5 CILIMUS",
+        "village": "CILIMUS"
+    },
+    {
+        "name": "SD NEGERI 5 CIMANGGU",
+        "village": "CIMANGGU"
+    },
+    {
+        "name": "SD NEGERI 5 KARANGKAMIRI",
+        "village": "KARANGKAMIRI"
+    },
+    {
+        "name": "SD NEGERI 5 KUNINGAN",
+        "village": "KUNINGAN"
+    },
+    {
+        "name": "SD NEGERI 5 MANGUNJAYA",
+        "village": "MANGUNJAYA"
+    },
+    {
+        "name": "SD NEGERI 5 PAMOTAN",
+        "village": "PAMOTAN"
+    },
+    {
+        "name": "SD NEGERI 5 PANGANDARAN",
+        "village": "PANGANDARAN"
+    },
+    {
+        "name": "SD NEGERI 5 PURWAWINANGUN",
+        "village": "PURWAWINANGUN"
+    },
+    {
+        "name": "SD NEGERI 5 SELASARI",
+        "village": "SELASARI"
+    },
+    {
+        "name": "SD NEGERI 5 SINDANGJAYA",
+        "village": "SINDANGJAYA"
+    },
+    {
+        "name": "SD NEGERI 5 SINDANGSARI",
+        "village": "SINDANGSARI"
+    },
+    {
+        "name": "SD NEGERI 5 SUKANAGARA",
+        "village": "SUKANAGARA"
+    },
+    {
+        "name": "SD NEGERI 6 BANGUNJAYA",
+        "village": "BANGUNJAYA"
+    },
+    {
+        "name": "SD NEGERI 6 CIBINGBIN",
+        "village": "CIBINGBIN"
+    },
+    {
+        "name": "SD NEGERI 6 PANGANDARAN",
+        "village": "PANGANDARAN"
+    },
+    {
+        "name": "SD NEGERI 6 PURWAWINANGUN",
+        "village": "PURWAWINANGUN"
+    },
+    {
+        "name": "SD NEGERI 6 SELASARI",
+        "village": "SELASARI"
+    },
+    {
+        "name": "SD NEGERI 7 CIBINGBIN",
+        "village": "CIBINGBIN"
+    },
+    {
+        "name": "SD NEGERI 7 PURWAWINANGUN",
+        "village": "PURWAWINANGUN"
+    },
+    {
+        "name": "SD NEGERI ANDAMUI",
+        "village": "ANDAMUI"
+    },
+    {
+        "name": "SD NEGERI BABAKANJATI",
+        "village": "BABAKANJATI"
+    },
+    {
+        "name": "SD NEGERI BABATAN",
+        "village": "BABATAN"
+    },
+    {
+        "name": "SD NEGERI BALONG",
+        "village": "BALONG"
+    },
+    {
+        "name": "SD NEGERI BANGUNJAYA",
+        "village": "BANGUNJAYA"
+    },
+    {
+        "name": "SD NEGERI BANTARPANJANG",
+        "village": "BANTARPANJANG"
+    },
+    {
+        "name": "SD NEGERI BENDA",
+        "village": "BENDA"
+    },
+    {
+        "name": "SD NEGERI BUNDER",
+        "village": "BUNDER"
+    },
+    {
+        "name": "SD NEGERI BUNIASIH",
+        "village": "BUNIASIH"
+    },
+    {
+        "name": "SD NEGERI BUNIGEULIS",
+        "village": "BUNIGEULIS"
+    },
+    {
+        "name": "SD NEGERI CAGEUR",
+        "village": "CAGEUR"
+    },
+    {
+        "name": "SD NEGERI CIASIH",
+        "village": "CIASIH"
+    },
+    {
+        "name": "SD NEGERI CIBENTANG",
+        "village": "CIBENTANG"
+    },
+    {
+        "name": "SD NEGERI CIBEUREUM",
+        "village": "CIBEUREUM"
+    },
+    {
+        "name": "SD NEGERI CIBUNTU",
+        "village": "CIBUNTU"
+    },
+    {
+        "name": "SD NEGERI CIDAHU",
+        "village": "CIDAHU"
+    },
+    {
+        "name": "SD NEGERI CIGEDANG",
+        "village": "CIGEDANG"
+    },
+    {
+        "name": "SD NEGERI CIGINTUNG",
+        "village": "CIGINTUNG"
+    },
+    {
+        "name": "SD NEGERI CIGUGUR",
+        "village": "CIGUGUR"
+    },
+    {
+        "name": "SD NEGERI CIHANJARO",
+        "village": "CIHANJARO"
+    },
+    {
+        "name": "SD NEGERI CIJAGAMULYA",
+        "village": "CIJAGAMULYA"
+    },
+    {
+        "name": "SD NEGERI CIJOHO",
+        "village": "CIJOHO"
+    },
+    {
+        "name": "SD NEGERI CIKAHURIPAN",
+        "village": "CIKAHURIPAN"
+    },
+    {
+        "name": "SD NEGERI CIKANANGA",
+        "village": "CIKANANGA"
+    },
+    {
+        "name": "SD NEGERI CIKASO",
+        "village": "CIKASO"
+    },
+    {
+        "name": "SD NEGERI CIKETAK",
+        "village": "CIKETAK"
+    },
+    {
+        "name": "SD NEGERI CIKONDANG",
+        "village": "CIKONDANG"
+    },
+    {
+        "name": "SD NEGERI CIKUBANGSARI",
+        "village": "CIKUBANGSARI"
+    },
+    {
+        "name": "SD NEGERI CIKUPA",
+        "village": "CIKUPA"
+    },
+    {
+        "name": "SD NEGERI CILAYUNG",
+        "village": "CILAYUNG"
+    },
+    {
+        "name": "SD NEGERI CILEBAK",
+        "village": "CILEBAK"
+    },
+    {
+        "name": "SD NEGERI CILIMUSARI",
+        "village": "CILIMUSARI"
+    },
+    {
+        "name": "SD NEGERI CIMARA",
+        "village": "CIMARA"
+    },
+    {
+        "name": "SD NEGERI CIMULYA",
+        "village": "CIMULYA"
+    },
+    {
+        "name": "SD NEGERI CINIRU",
+        "village": "CINIRU"
+    },
+    {
+        "name": "SD NEGERI CINIRU",
+        "village": "CINIRU"
+    },
+    {
+        "name": "SD NEGERI CIPARI",
+        "village": "CIPARI"
+    },
+    {
+        "name": "SD NEGERI CIPASUNG",
+        "village": "CIPASUNG"
+    },
+    {
+        "name": "SD NEGERI CIPETIR",
+        "village": "CIPETIR"
+    },
+    {
+        "name": "SD NEGERI CIPICUNG",
+        "village": "CIPICUNG"
+    },
+    {
+        "name": "SD NEGERI CIPONDOK",
+        "village": "CIPONDOK"
+    },
+    {
+        "name": "SD NEGERI CIREA",
+        "village": "CIREA"
+    },
+    {
+        "name": "SD NEGERI CIRUKEM",
+        "village": "CIRUKEM"
+    },
+    {
+        "name": "SD NEGERI CISAAT",
+        "village": "CISAAT"
+    },
+    {
+        "name": "SD NEGERI CISUKADANA",
+        "village": "CISUKADANA"
+    },
+    {
+        "name": "SD NEGERI CITAPEN",
+        "village": "CITAPEN"
+    },
+    {
+        "name": "SD NEGERI CITAPEN",
+        "village": "CITAPEN"
+    },
+    {
+        "name": "SD NEGERI CITIKUR",
+        "village": "CITIKUR"
+    },
+    {
+        "name": "SD NEGERI DANALAMPAH",
+        "village": "DANALAMPAH"
+    },
+    {
+        "name": "SD NEGERI DATAR",
+        "village": "DATAR"
+    },
+    {
+        "name": "SD NEGERI DUKUHBADAG",
+        "village": "DUKUHBADAG"
+    },
+    {
+        "name": "SD NEGERI DUKUHDALEM",
+        "village": "DUKUHDALEM"
+    },
+    {
+        "name": "SD NEGERI DUKUHDALEM",
+        "village": "DUKUHDALEM"
+    },
+    {
+        "name": "SD NEGERI DUKUHLOR",
+        "village": "DUKUHLOR"
+    },
+    {
+        "name": "SD NEGERI DUKUHPICUNG",
+        "village": "DUKUHPICUNG"
+    },
+    {
+        "name": "SD NEGERI DUKUHTENGAH",
+        "village": "DUKUHTENGAH"
+    },
+    {
+        "name": "SD NEGERI GARAHAJI",
+        "village": "GARAHAJI"
+    },
+    {
+        "name": "SD NEGERI GARATENGAH",
+        "village": "GARATENGAH"
+    },
+    {
+        "name": "SD NEGERI GARAWANGI",
+        "village": "GARAWANGI"
+    },
+    {
+        "name": "SD NEGERI GEREBA",
+        "village": "GEREBA"
+    },
+    {
+        "name": "SD NEGERI GEWOK",
+        "village": "GEWOK"
+    },
+    {
+        "name": "SD NEGERI GIRIWARINGIN",
+        "village": "GIRIWARINGIN"
+    },
+    {
+        "name": "SD NEGERI GUNUNGACI",
+        "village": "GUNUNGACI"
+    },
+    {
+        "name": "SD NEGERI GUNUNGKELING",
+        "village": "GUNUNGKELING"
+    },
+    {
+        "name": "SD NEGERI GUNUNGMANIK",
+        "village": "GUNUNGMANIK"
+    },
+    {
+        "name": "SD NEGERI GUNUNGSIRAH",
+        "village": "GUNUNGSIRAH"
+    },
+    {
+        "name": "SD NEGERI HAURKUNING",
+        "village": "HAURKUNING"
+    },
+    {
+        "name": "SD NEGERI I KERTAJAYA",
+        "village": "I KERTAJAYA"
+    },
+    {
+        "name": "SD NEGERI INDAPATRA",
+        "village": "INDAPATRA"
+    },
+    {
+        "name": "SD NEGERI JAGARA",
+        "village": "JAGARA"
+    },
+    {
+        "name": "SD NEGERI JALATRANG",
+        "village": "JALATRANG"
+    },
+    {
+        "name": "SD NEGERI JAMBERAMA",
+        "village": "JAMBERAMA"
+    },
+    {
+        "name": "SD NEGERI JAMBUGEULIS",
+        "village": "JAMBUGEULIS"
+    },
+    {
+        "name": "SD NEGERI KADATUAN",
+        "village": "KADATUAN"
+    },
+    {
+        "name": "SD NEGERI KADUAGUNG",
+        "village": "KADUAGUNG"
+    },
+    {
+        "name": "SD NEGERI KADUAGUNG",
+        "village": "KADUAGUNG"
+    },
+    {
+        "name": "SD NEGERI KAHIYANGAN",
+        "village": "KAHIYANGAN"
+    },
+    {
+        "name": "SD NEGERI KALIAREN",
+        "village": "KALIAREN"
+    },
+    {
+        "name": "SD NEGERI KALIMATI",
+        "village": "KALIMATI"
+    },
+    {
+        "name": "SD NEGERI KAPANDAYAN",
+        "village": "KAPANDAYAN"
+    },
+    {
+        "name": "SD NEGERI KARAMATWANGI",
+        "village": "KARAMATWANGI"
+    },
+    {
+        "name": "SD NEGERI KARANGANYAR",
+        "village": "KARANGANYAR"
+    },
+    {
+        "name": "SD NEGERI KARANGBARU",
+        "village": "KARANGBARU"
+    },
+    {
+        "name": "SD NEGERI KARANGSARI",
+        "village": "KARANGSARI"
+    },
+    {
+        "name": "SD NEGERI KARANGTENGAH",
+        "village": "KARANGTENGAH"
+    },
+    {
+        "name": "SD NEGERI KAWAHMANUK",
+        "village": "KAWAHMANUK"
+    },
+    {
+        "name": "SD NEGERI KAWUNGSARI",
+        "village": "KAWUNGSARI"
+    },
+    {
+        "name": "SD NEGERI KERTAUNGARAN",
+        "village": "KERTAUNGARAN"
+    },
+    {
+        "name": "SD NEGERI KERTAYUGA",
+        "village": "KERTAYUGA"
+    },
+    {
+        "name": "SD NEGERI KRAMATMULYA",
+        "village": "KRAMATMULYA"
+    },
+    {
+        "name": "SD NEGERI KUTAMANDARAKAN",
+        "village": "KUTAMANDARAKAN"
+    },
+    {
+        "name": "SD NEGERI KUTARAJA",
+        "village": "KUTARAJA"
+    },
+    {
+        "name": "SD NEGERI LEBAKHERANG",
+        "village": "LEBAKHERANG"
+    },
+    {
+        "name": "SD NEGERI LINGGAINDAH",
+        "village": "LINGGAINDAH"
+    },
+    {
+        "name": "SD NEGERI LINGGAJAYA",
+        "village": "LINGGAJAYA"
+    },
+    {
+        "name": "SD NEGERI LINGGAMEKAR",
+        "village": "LINGGAMEKAR"
+    },
+    {
+        "name": "SD NEGERI LINGGASANA",
+        "village": "LINGGASANA"
+    },
+    {
+        "name": "SD NEGERI LONGKEWANG",
+        "village": "LONGKEWANG"
+    },
+    {
+        "name": "SD NEGERI LURAGUNGTONGGOH",
+        "village": "LURAGUNGTONGGOH"
+    },
+    {
+        "name": "SD NEGERI MALEBER",
+        "village": "MALEBER"
+    },
+    {
+        "name": "SD NEGERI MANCAGAR",
+        "village": "MANCAGAR"
+    },
+    {
+        "name": "SD NEGERI MANCAGAR",
+        "village": "MANCAGAR"
+    },
+    {
+        "name": "SD NEGERI MANDIRANCAN",
+        "village": "MANDIRANCAN"
+    },
+    {
+        "name": "SD NEGERI MANGGARI",
+        "village": "MANGGARI"
+    },
+    {
+        "name": "SD NEGERI MARGABAKTI",
+        "village": "MARGABAKTI"
+    },
+    {
+        "name": "SD NEGERI MARGASARI",
+        "village": "MARGASARI"
+    },
+    {
+        "name": "SD NEGERI MEKARJAYA",
+        "village": "MEKARJAYA"
+    },
+    {
+        "name": "SD NEGERI MEKARJAYA",
+        "village": "MEKARJAYA"
+    },
+    {
+        "name": "SD NEGERI MEKARMULYA",
+        "village": "MEKARMULYA"
+    },
+    {
+        "name": "SD NEGERI MEKARSARI",
+        "village": "MEKARSARI"
+    },
+    {
+        "name": "SD NEGERI MEKARSARI",
+        "village": "MEKARSARI"
+    },
+    {
+        "name": "SD NEGERI MUNGKAL DATAR",
+        "village": "MUNGKAL DATAR"
+    },
+    {
+        "name": "SD NEGERI NANGGERANG",
+        "village": "NANGGERANG"
+    },
+    {
+        "name": "SD NEGERI NANGGERANGJAYA",
+        "village": "NANGGERANGJAYA"
+    },
+    {
+        "name": "SD NEGERI NANGKA",
+        "village": "NANGKA"
+    },
+    {
+        "name": "SD NEGERI PADAMENAK",
+        "village": "PADAMENAK"
+    },
+    {
+        "name": "SD NEGERI PADARAMA",
+        "village": "PADARAMA"
+    },
+    {
+        "name": "SD NEGERI PAGERGUNUNG",
+        "village": "PAGERGUNUNG"
+    },
+    {
+        "name": "SD NEGERI PAJAMBON",
+        "village": "PAJAMBON"
+    },
+    {
+        "name": "SD NEGERI PAJAWANKIDUL",
+        "village": "PAJAWANKIDUL"
+    },
+    {
+        "name": "SD NEGERI PAJAWANLOR",
+        "village": "PAJAWANLOR"
+    },
+    {
+        "name": "SD NEGERI PAKAPASAN GIRANG",
+        "village": "PAKAPASAN GIRANG"
+    },
+    {
+        "name": "SD NEGERI PAKAPASAN HILIR",
+        "village": "PAKAPASAN HILIR"
+    },
+    {
+        "name": "SD NEGERI PAKEMBANGAN",
+        "village": "PAKEMBANGAN"
+    },
+    {
+        "name": "SD NEGERI PAKEMBANGAN",
+        "village": "PAKEMBANGAN"
+    },
+    {
+        "name": "SD NEGERI PAMIJAHAN",
+        "village": "PAMIJAHAN"
+    },
+    {
+        "name": "SD NEGERI PANCALANG",
+        "village": "PANCALANG"
+    },
+    {
+        "name": "SD NEGERI PANGKALAN",
+        "village": "PANGKALAN"
+    },
+    {
+        "name": "SD NEGERI PANINGGARAN",
+        "village": "PANINGGARAN"
+    },
+    {
+        "name": "SD NEGERI PARAKAN",
+        "village": "PARAKAN"
+    },
+    {
+        "name": "SD NEGERI PARTAWANGUNAN",
+        "village": "PARTAWANGUNAN"
+    },
+    {
+        "name": "SD NEGERI PARUNG",
+        "village": "PARUNG"
+    },
+    {
+        "name": "SD NEGERI PASAWAHAN",
+        "village": "PASAWAHAN"
+    },
+    {
+        "name": "SD NEGERI PASAYANGAN",
+        "village": "PASAYANGAN"
+    },
+    {
+        "name": "SD NEGERI PASIRAGUNG",
+        "village": "PASIRAGUNG"
+    },
+    {
+        "name": "SD NEGERI PINARA",
+        "village": "PINARA"
+    },
+    {
+        "name": "SD NEGERI RAJAWETAN",
+        "village": "RAJAWETAN"
+    },
+    {
+        "name": "SD NEGERI RANDOBAWAGIRANG",
+        "village": "RANDOBAWAGIRANG"
+    },
+    {
+        "name": "SD NEGERI RANDOBAWAILIR",
+        "village": "RANDOBAWAILIR"
+    },
+    {
+        "name": "SD NEGERI SADAMANTRA",
+        "village": "SADAMANTRA"
+    },
+    {
+        "name": "SD NEGERI SAGARANTEN",
+        "village": "SAGARANTEN"
+    },
+    {
+        "name": "SD NEGERI SAKERTA BARAT",
+        "village": "SAKERTA BARAT"
+    },
+    {
+        "name": "SD NEGERI SALAKADOMAS",
+        "village": "SALAKADOMAS"
+    },
+    {
+        "name": "SD NEGERI SANGKANMULYA",
+        "village": "SANGKANMULYA"
+    },
+    {
+        "name": "SD NEGERI SANGKANURIP",
+        "village": "SANGKANURIP"
+    },
+    {
+        "name": "SD NEGERI SAREWU",
+        "village": "SAREWU"
+    },
+    {
+        "name": "SD NEGERI SAYANA",
+        "village": "SAYANA"
+    },
+    {
+        "name": "SD NEGERI SEDA",
+        "village": "SEDA"
+    },
+    {
+        "name": "SD NEGERI SILEBU",
+        "village": "SILEBU"
+    },
+    {
+        "name": "SD NEGERI SIMPAYJAYA",
+        "village": "SIMPAYJAYA"
+    },
+    {
+        "name": "SD NEGERI SINDANGAGUNG",
+        "village": "SINDANGAGUNG"
+    },
+    {
+        "name": "SD NEGERI SINDANGJAWA",
+        "village": "SINDANGJAWA"
+    },
+    {
+        "name": "SD NEGERI SINDANGKEMPENG",
+        "village": "SINDANGKEMPENG"
+    },
+    {
+        "name": "SD NEGERI SINDANGSARI",
+        "village": "SINDANGSARI"
+    },
+    {
+        "name": "SD NEGERI SINDANGSARI",
+        "village": "SINDANGSARI"
+    },
+    {
+        "name": "SD NEGERI SINDANGSUKA",
+        "village": "SINDANGSUKA"
+    },
+    {
+        "name": "SD NEGERI SINGKUP",
+        "village": "SINGKUP"
+    },
+    {
+        "name": "SD NEGERI SINGKUP",
+        "village": "SINGKUP"
+    },
+    {
+        "name": "SD NEGERI SITUSARI",
+        "village": "SITUSARI"
+    },
+    {
+        "name": "SD NEGERI SUKADANA",
+        "village": "SUKADANA"
+    },
+    {
+        "name": "SD NEGERI SUKAHARJA",
+        "village": "SUKAHARJA"
+    },
+    {
+        "name": "SD NEGERI SUKAIMUT",
+        "village": "SUKAIMUT"
+    },
+    {
+        "name": "SD NEGERI SUKAJAYA",
+        "village": "SUKAJAYA"
+    },
+    {
+        "name": "SD NEGERI SUKAMUKTI",
+        "village": "SUKAMUKTI"
+    },
+    {
+        "name": "SD NEGERI SUKAMULYA",
+        "village": "SUKAMULYA"
+    },
+    {
+        "name": "SD NEGERI SUKARASA",
+        "village": "SUKARASA"
+    },
+    {
+        "name": "SD NEGERI SUKASARI",
+        "village": "SUKASARI"
+    },
+    {
+        "name": "SD NEGERI SUMBAKELING",
+        "village": "SUMBAKELING"
+    },
+    {
+        "name": "SD NEGERI SUMURWIRU",
+        "village": "SUMURWIRU"
+    },
+    {
+        "name": "SD NEGERI TAJURBUNTU",
+        "village": "TAJURBUNTU"
+    },
+    {
+        "name": "SD NEGERI TAMBAKBAYA",
+        "village": "TAMBAKBAYA"
+    },
+    {
+        "name": "SD NEGERI TARIKOLOT",
+        "village": "TARIKOLOT"
+    },
+    {
+        "name": "SD NEGERI TARIKOLOT",
+        "village": "TARIKOLOT"
+    },
+    {
+        "name": "SD NEGERI TEMBONG",
+        "village": "TEMBONG"
+    },
+    {
+        "name": "SD NEGERI TIMBANG",
+        "village": "TIMBANG"
+    },
+    {
+        "name": "SD NEGERI TINGGAR",
+        "village": "TINGGAR"
+    },
+    {
+        "name": "SD NEGERI TIRTAWANGUNAN",
+        "village": "TIRTAWANGUNAN"
+    },
+    {
+        "name": "SD NEGERI TRIJAYA",
+        "village": "TRIJAYA"
+    },
+    {
+        "name": "SD NEGERI TUNDAGAN",
+        "village": "TUNDAGAN"
+    },
+    {
+        "name": "SD NEGERI UNGGULAN",
+        "village": "UNGGULAN"
+    },
+    {
+        "name": "SD NEGERI WALAHARCAGEUR",
+        "village": "WALAHARCAGEUR"
+    },
+    {
+        "name": "SD NEGERI WANASARAYA",
+        "village": "WANASARAYA"
+    },
+    {
+        "name": "SD NEGERI WANO",
+        "village": "WANO"
+    },
+    {
+        "name": "SD NEGERI WIDARASARI",
+        "village": "WIDARASARI"
+    },
+    {
+        "name": "SD NEGERI WINDUSARI",
+        "village": "WINDUSARI"
+    },
+    {
+        "name": "SD PLUS AL HUDA",
+        "village": "Buniseuri"
+    },
+    {
+        "name": "SD PLUS ALMUAAWANAH",
+        "village": "Rajadesa"
+    },
+    {
+        "name": "SD TAHFIDZ GRAHA QURAN",
+        "village": "CIJOHO"
+    },
+    {
+        "name": "SD YOS SUDARSO",
+        "village": "CIRUKEM"
+    },
+    {
+        "name": "SD YOS SUDARSO CIGUGUR",
+        "village": "CIGUGUR"
+    },
+    {
+        "name": "SD YOS SUDARSO CISANTANA",
+        "village": "CISANTANA"
+    },
+    {
+        "name": "SDIT AL-AMIN",
+        "village": "Sindangkasih"
+    },
+    {
+        "name": "SDIT AL-BASYAR",
+        "village": "MEKARWANGI"
+    },
+    {
+        "name": "SDIT AS-SALAM",
+        "village": "Ciherang"
+    },
+    {
+        "name": "SDN 1 ANDAPRAJA",
+        "village": "ANDAPRAJA"
+    },
+    {
+        "name": "SDN 1 AWILUAR",
+        "village": "AWILUAR"
+    },
+    {
+        "name": "SDN 1 BANGBAYANG",
+        "village": "BANGBAYANG"
+    },
+    {
+        "name": "SDN 1 BANGUNHARJA",
+        "village": "BANGUNHARJA"
+    },
+    {
+        "name": "SDN 1 BANGUNSARI",
+        "village": "BANGUNSARI"
+    },
+    {
+        "name": "SDN 1 BANJARANGSANA",
+        "village": "BANJARANGSANA"
+    },
+    {
+        "name": "SDN 1 BANJARANYAR",
+        "village": "BANJARANYAR"
+    },
+    {
+        "name": "SDN 1 BANJARSARI",
+        "village": "BANJARSARI"
+    },
+    {
+        "name": "SDN 1 BANTARDAWA",
+        "village": "BANTARDAWA"
+    },
+    {
+        "name": "SDN 1 BANTARSARI",
+        "village": "BANTARSARI"
+    },
+    {
+        "name": "SDN 1 BAREGBEG",
+        "village": "BAREGBEG"
+    },
+    {
+        "name": "SDN 1 BAYASARI",
+        "village": "BAYASARI"
+    },
+    {
+        "name": "SDN 1 BENDASARI",
+        "village": "BENDASARI"
+    },
+    {
+        "name": "SDN 1 BENTENG",
+        "village": "BENTENG"
+    },
+    {
+        "name": "SDN 1 BOJONG",
+        "village": "BOJONG"
+    },
+    {
+        "name": "SDN 1 BOJONGGEDANG",
+        "village": "BOJONGGEDANG"
+    },
+    {
+        "name": "SDN 1 BOJONGMALANG",
+        "village": "BOJONGMALANG"
+    },
+    {
+        "name": "SDN 1 BOJONGMENGGER",
+        "village": "BOJONGMENGGER"
+    },
+    {
+        "name": "SDN 1 BUANAMEKAR",
+        "village": "BUANAMEKAR"
+    },
+    {
+        "name": "SDN 1 BUDIASIH",
+        "village": "BUDIASIH"
+    },
+    {
+        "name": "SDN 1 BUDIHARJA",
+        "village": "BUDIHARJA"
+    },
+    {
+        "name": "SDN 1 BUNISEURI",
+        "village": "BUNISEURI"
+    },
+    {
+        "name": "SDN 1 BUNTER",
+        "village": "BUNTER"
+    },
+    {
+        "name": "SDN 1 Ciakar",
+        "village": "Ciakar"
+    },
+    {
+        "name": "SDN 1 CIAMIS",
+        "village": "CIAMIS"
+    },
+    {
+        "name": "SDN 1 CIBADAK",
+        "village": "CIBADAK"
+    },
+    {
+        "name": "SDN 1 CIBEUREUM",
+        "village": "CIBEUREUM"
+    },
+    {
+        "name": "SDN 1 CICAPAR",
+        "village": "CICAPAR"
+    },
+    {
+        "name": "SDN 1 CIDOLOG",
+        "village": "CIDOLOG"
+    },
+    {
+        "name": "SDN 1 CIEURIH",
+        "village": "CIEURIH"
+    },
+    {
+        "name": "SDN 1 CIGAYAM",
+        "village": "CIGAYAM"
+    },
+    {
+        "name": "SDN 1 CIGEMBOR",
+        "village": "CIGEMBOR"
+    },
+    {
+        "name": "SDN 1 CIHARALANG",
+        "village": "CIHARALANG"
+    },
+    {
+        "name": "SDN 1 CIHAURBEUTI",
+        "village": "CIHAURBEUTI"
+    },
+    {
+        "name": "SDN 1 CIHERANG",
+        "village": "CIHERANG"
+    },
+    {
+        "name": "SDN 1 CIJEUNGJING",
+        "village": "CIJEUNGJING"
+    },
+    {
+        "name": "SDN 1 CIJULANG",
+        "village": "CIJULANG"
+    },
+    {
+        "name": "SDN 1 CIKASO",
+        "village": "CIKASO"
+    },
+    {
+        "name": "SDN 1 CIKONENG",
+        "village": "CIKONENG"
+    },
+    {
+        "name": "SDN 1 CIKUPA",
+        "village": "CIKUPA"
+    },
+    {
+        "name": "SDN 1 CIKUPA",
+        "village": "CIKUPA"
+    },
+    {
+        "name": "SDN 1 CILEUNGSIR",
+        "village": "CILEUNGSIR"
+    },
+    {
+        "name": "SDN 1 CIMARI",
+        "village": "CIMARI"
+    },
+    {
+        "name": "SDN 1 CINTANAGARA",
+        "village": "CINTANAGARA"
+    },
+    {
+        "name": "SDN 1 CINTARATU",
+        "village": "CINTARATU"
+    },
+    {
+        "name": "SDN 1 CINYASAG",
+        "village": "CINYASAG"
+    },
+    {
+        "name": "SDN 1 CIPAKU",
+        "village": "CIPAKU"
+    },
+    {
+        "name": "SDN 1 CIPARAY",
+        "village": "CIPARAY"
+    },
+    {
+        "name": "SDN 1 CIPARIGI",
+        "village": "CIPARIGI"
+    },
+    {
+        "name": "SDN 1 CISADAP",
+        "village": "CISADAP"
+    },
+    {
+        "name": "SDN 1 CISAGA",
+        "village": "CISAGA"
+    },
+    {
+        "name": "SDN 1 CISONTROL",
+        "village": "CISONTROL"
+    },
+    {
+        "name": "SDN 1 CITEUREUP",
+        "village": "CITEUREUP"
+    },
+    {
+        "name": "SDN 1 CIULU",
+        "village": "CIULU"
+    },
+    {
+        "name": "SDN 1 DADIHARJA",
+        "village": "DADIHARJA"
+    },
+    {
+        "name": "SDN 1 DANASARI",
+        "village": "DANASARI"
+    },
+    {
+        "name": "SDN 1 DARMACAANG",
+        "village": "DARMACAANG"
+    },
+    {
+        "name": "SDN 1 DAYEUHLUHUR",
+        "village": "DAYEUHLUHUR"
+    },
+    {
+        "name": "SDN 1 DEWASARI",
+        "village": "DEWASARI"
+    },
+    {
+        "name": "SDN 1 GARDUJAYA",
+        "village": "GARDUJAYA"
+    },
+    {
+        "name": "SDN 1 GEGEMPALAN",
+        "village": "GEGEMPALAN"
+    },
+    {
+        "name": "SDN 1 GEREBA",
+        "village": "GEREBA"
+    },
+    {
+        "name": "SDN 1 GIRIHARJA",
+        "village": "GIRIHARJA"
+    },
+    {
+        "name": "SDN 1 GIRIMUKTI",
+        "village": "GIRIMUKTI"
+    },
+    {
+        "name": "SDN 1 GOLAT",
+        "village": "GOLAT"
+    },
+    {
+        "name": "SDN 1 GUNUNGCUPU",
+        "village": "GUNUNGCUPU"
+    },
+    {
+        "name": "SDN 1 GUNUNGSARI",
+        "village": "GUNUNGSARI"
+    },
+    {
+        "name": "SDN 1 HANDAPHERANG",
+        "village": "HANDAPHERANG"
+    },
+    {
+        "name": "SDN 1 HEGARMANAH",
+        "village": "HEGARMANAH"
+    },
+    {
+        "name": "SDN 1 IMBANAGARA",
+        "village": "IMBANAGARA"
+    },
+    {
+        "name": "SDN 1 IMBANAGARA RAYA",
+        "village": "IMBANAGARA RAYA"
+    },
+    {
+        "name": "SDN 1 INDRAGIRI",
+        "village": "INDRAGIRI"
+    },
+    {
+        "name": "SDN 1 JAGABAYA",
+        "village": "JAGABAYA"
+    },
+    {
+        "name": "SDN 1 JALATRANG",
+        "village": "JALATRANG"
+    },
+    {
+        "name": "SDN 1 JANGALAHARJA",
+        "village": "JANGALAHARJA"
+    },
+    {
+        "name": "SDN 1 JANGGALA",
+        "village": "JANGGALA"
+    },
+    {
+        "name": "SDN 1 JATINAGARA",
+        "village": "JATINAGARA"
+    },
+    {
+        "name": "SDN 1 JAYAGIRI",
+        "village": "JAYAGIRI"
+    },
+    {
+        "name": "SDN 1 JELAT",
+        "village": "JELAT"
+    },
+    {
+        "name": "SDN 1 JELEGONG",
+        "village": "JELEGONG"
+    },
+    {
+        "name": "SDN 1 KADUPANDAK",
+        "village": "KADUPANDAK"
+    },
+    {
+        "name": "SDN 1 KALIJAYA",
+        "village": "KALIJAYA"
+    },
+    {
+        "name": "SDN 1 KARANGAMPEL",
+        "village": "KARANGAMPEL"
+    },
+    {
+        "name": "SDN 1 KARANGANYAR",
+        "village": "KARANGANYAR"
+    },
+    {
+        "name": "SDN 1 KARANGKAMULYAN",
+        "village": "KARANGKAMULYAN"
+    },
+    {
+        "name": "SDN 1 KARANGPANINGAL",
+        "village": "KARANGPANINGAL"
+    },
+    {
+        "name": "SDN 1 KARANGPANINGAL",
+        "village": "KARANGPANINGAL"
+    },
+    {
+        "name": "SDN 1 KARANGPANINGAL",
+        "village": "KARANGPANINGAL"
+    },
+    {
+        "name": "SDN 1 KARANGPARI",
+        "village": "KARANGPARI"
+    },
+    {
+        "name": "SDN 1 KARANGPAWITAN",
+        "village": "KARANGPAWITAN"
+    },
+    {
+        "name": "SDN 1 KARANGPAWITAN",
+        "village": "KARANGPAWITAN"
+    },
+    {
+        "name": "SDN 1 KARYAMUKTI",
+        "village": "KARYAMUKTI"
+    },
+    {
+        "name": "SDN 1 KASO",
+        "village": "KASO"
+    },
+    {
+        "name": "SDN 1 KAWALI",
+        "village": "KAWALI"
+    },
+    {
+        "name": "SDN 1 KAWALIMUKTI",
+        "village": "KAWALIMUKTI"
+    },
+    {
+        "name": "SDN 1 KAWASEN",
+        "village": "KAWASEN"
+    },
+    {
+        "name": "SDN 1 KAWUNGLARANG",
+        "village": "KAWUNGLARANG"
+    },
+    {
+        "name": "SDN 1 KEPEL",
+        "village": "KEPEL"
+    },
+    {
+        "name": "SDN 1 KERTABUMI",
+        "village": "KERTABUMI"
+    },
+    {
+        "name": "SDN 1 KERTAHARJA",
+        "village": "KERTAHARJA"
+    },
+    {
+        "name": "SDN 1 KERTAHAYU",
+        "village": "KERTAHAYU"
+    },
+    {
+        "name": "SDN 1 KERTAJAYA",
+        "village": "KERTAJAYA"
+    },
+    {
+        "name": "SDN 1 KERTARAHARJA",
+        "village": "KERTARAHARJA"
+    },
+    {
+        "name": "SDN 1 KERTASARI",
+        "village": "KERTASARI"
+    },
+    {
+        "name": "SDN 1 KERTAYASA",
+        "village": "KERTAYASA"
+    },
+    {
+        "name": "SDN 1 KERTAYASA",
+        "village": "KERTAYASA"
+    },
+    {
+        "name": "SDN 1 KIARAPAYUNG",
+        "village": "KIARAPAYUNG"
+    },
+    {
+        "name": "SDN 1 KUJANG",
+        "village": "KUJANG"
+    },
+    {
+        "name": "SDN 1 KUTAWARINGIN",
+        "village": "KUTAWARINGIN"
+    },
+    {
+        "name": "SDN 1 LANGKAPSARI",
+        "village": "LANGKAPSARI"
+    },
+    {
+        "name": "SDN 1 LINGGASARI",
+        "village": "LINGGASARI"
+    },
+    {
+        "name": "SDN 1 MALEBER",
+        "village": "MALEBER"
+    },
+    {
+        "name": "SDN 1 MANDALARE",
+        "village": "MANDALARE"
+    },
+    {
+        "name": "SDN 1 MANGKUBUMI",
+        "village": "MANGKUBUMI"
+    },
+    {
+        "name": "SDN 1 MARGAHARJA",
+        "village": "MARGAHARJA"
+    },
+    {
+        "name": "SDN 1 MARGAJAYA",
+        "village": "MARGAJAYA"
+    },
+    {
+        "name": "SDN 1 MARGAJAYA",
+        "village": "MARGAJAYA"
+    },
+    {
+        "name": "SDN 1 MARGALUYU",
+        "village": "MARGALUYU"
+    },
+    {
+        "name": "SDN 1 MARGAMULYA",
+        "village": "MARGAMULYA"
+    },
+    {
+        "name": "SDN 1 MEDANGLAYANG",
+        "village": "MEDANGLAYANG"
+    },
+    {
+        "name": "SDN 1 MEKARJADI",
+        "village": "MEKARJADI"
+    },
+    {
+        "name": "SDN 1 MEKARJAYA",
+        "village": "MEKARJAYA"
+    },
+    {
+        "name": "SDN 1 MEKARMUKTI",
+        "village": "MEKARMUKTI"
+    },
+    {
+        "name": "SDN 1 MEKARSARI",
+        "village": "MEKARSARI"
+    },
+    {
+        "name": "SDN 1 MEKARSARI",
+        "village": "MEKARSARI"
+    },
+    {
+        "name": "SDN 1 MEKARWANGI",
+        "village": "MEKARWANGI"
+    },
+    {
+        "name": "SDN 1 MUKTISARI",
+        "village": "MUKTISARI"
+    },
+    {
+        "name": "SDN 1 MULYASARI",
+        "village": "MULYASARI"
+    },
+    {
+        "name": "SDN 1 NAGARAJATI",
+        "village": "NAGARAJATI"
+    },
+    {
+        "name": "SDN 1 NAGARAJAYA",
+        "village": "NAGARAJAYA"
+    },
+    {
+        "name": "SDN 1 NAGARAPAGEUH",
+        "village": "NAGARAPAGEUH"
+    },
+    {
+        "name": "SDN 1 NASOL",
+        "village": "NASOL"
+    },
+    {
+        "name": "SDN 1 NEGLASARI",
+        "village": "NEGLASARI"
+    },
+    {
+        "name": "SDN 1 PADAMULYA",
+        "village": "PADAMULYA"
+    },
+    {
+        "name": "SDN 1 PADARINGAN",
+        "village": "PADARINGAN"
+    },
+    {
+        "name": "SDN 1 PAMALAYAN",
+        "village": "PAMALAYAN"
+    },
+    {
+        "name": "SDN 1 PAMARICAN",
+        "village": "PAMARICAN"
+    },
+    {
+        "name": "SDN 1 PAMOKOLAN",
+        "village": "PAMOKOLAN"
+    },
+    {
+        "name": "SDN 1 PANARAGAN",
+        "village": "PANARAGAN"
+    },
+    {
+        "name": "SDN 1 PANAWANGAN",
+        "village": "PANAWANGAN"
+    },
+    {
+        "name": "SDN 1 PANJALU",
+        "village": "PANJALU"
+    },
+    {
+        "name": "SDN 1 PANUMBANGAN",
+        "village": "PANUMBANGAN"
+    },
+    {
+        "name": "SDN 1 PANYINGKIRAN",
+        "village": "PANYINGKIRAN"
+    },
+    {
+        "name": "SDN 1 PASAWAHAN",
+        "village": "PASAWAHAN"
+    },
+    {
+        "name": "SDN 1 PASIRLAWANG",
+        "village": "PASIRLAWANG"
+    },
+    {
+        "name": "SDN 1 PASIRNAGARA",
+        "village": "PASIRNAGARA"
+    },
+    {
+        "name": "SDN 1 PASIRTAMIANG",
+        "village": "PASIRTAMIANG"
+    },
+    {
+        "name": "SDN 1 PATAKAHARJA",
+        "village": "PATAKAHARJA"
+    },
+    {
+        "name": "SDN 1 PAWINDAN",
+        "village": "PAWINDAN"
+    },
+    {
+        "name": "SDN 1 PAYUNGAGUNG",
+        "village": "PAYUNGAGUNG"
+    },
+    {
+        "name": "SDN 1 PAYUNGSARI",
+        "village": "PAYUNGSARI"
+    },
+    {
+        "name": "SDN 1 PETIRHILIR",
+        "village": "PETIRHILIR"
+    },
+    {
+        "name": "SDN 1 PURWADADI",
+        "village": "PURWADADI"
+    },
+    {
+        "name": "SDN 1 PURWAJAYA",
+        "village": "PURWAJAYA"
+    },
+    {
+        "name": "SDN 1 PURWARAJA",
+        "village": "PURWARAJA"
+    },
+    {
+        "name": "SDN 1 PURWASARI",
+        "village": "PURWASARI"
+    },
+    {
+        "name": "SDN 1 PURWASARI",
+        "village": "PURWASARI"
+    },
+    {
+        "name": "SDN 1 PUSAKANAGARA",
+        "village": "PUSAKANAGARA"
+    },
+    {
+        "name": "SDN 1 PUSAKASARI",
+        "village": "PUSAKASARI"
+    },
+    {
+        "name": "SDN 1 RAJADESA",
+        "village": "RAJADESA"
+    },
+    {
+        "name": "SDN 1 RANCAH",
+        "village": "RANCAH"
+    },
+    {
+        "name": "SDN 1 RATAWANGI",
+        "village": "RATAWANGI"
+    },
+    {
+        "name": "SDN 1 SADANANYA",
+        "village": "SADANANYA"
+    },
+    {
+        "name": "SDN 1 SADAPAINGAN",
+        "village": "SADAPAINGAN"
+    },
+    {
+        "name": "SDN 1 SAGALAHERANG",
+        "village": "SAGALAHERANG"
+    },
+    {
+        "name": "SDN 1 SAGULING",
+        "village": "SAGULING"
+    },
+    {
+        "name": "SDN 1 SALAKARIA",
+        "village": "SALAKARIA"
+    },
+    {
+        "name": "SDN 1 SANDINGTAMAN",
+        "village": "SANDINGTAMAN"
+    },
+    {
+        "name": "SDN 1 SELACAI",
+        "village": "SELACAI"
+    },
+    {
+        "name": "SDN 1 SELAMANIK",
+        "village": "SELAMANIK"
+    },
+    {
+        "name": "SDN 1 SELASARI",
+        "village": "SELASARI"
+    },
+    {
+        "name": "SDN 1 SELASARI",
+        "village": "SELASARI"
+    },
+    {
+        "name": "SDN 1 SIDAHARJA",
+        "village": "SIDAHARJA"
+    },
+    {
+        "name": "SDN 1 SIDAHARJA",
+        "village": "SIDAHARJA"
+    },
+    {
+        "name": "SDN 1 SIDAMULIH",
+        "village": "SIDAMULIH"
+    },
+    {
+        "name": "SDN 1 SIDAMULYA",
+        "village": "SIDAMULYA"
+    },
+    {
+        "name": "SDN 1 SIDARAHAYU",
+        "village": "SIDARAHAYU"
+    },
+    {
+        "name": "SDN 1 SINDANGASIH",
+        "village": "SINDANGASIH"
+    },
+    {
+        "name": "SDN 1 SINDANGBARANG",
+        "village": "SINDANGBARANG"
+    },
+    {
+        "name": "SDN 1 SINDANGHAYU",
+        "village": "SINDANGHAYU"
+    },
+    {
+        "name": "SDN 1 SINDANGHERANG",
+        "village": "SINDANGHERANG"
+    },
+    {
+        "name": "SDN 1 SINDANGKASIH",
+        "village": "SINDANGKASIH"
+    },
+    {
+        "name": "SDN 1 SINDANGLAYA",
+        "village": "SINDANGLAYA"
+    },
+    {
+        "name": "SDN 1 SINDANGMUKTI",
+        "village": "SINDANGMUKTI"
+    },
+    {
+        "name": "SDN 1 SINDANGRASA",
+        "village": "SINDANGRASA"
+    },
+    {
+        "name": "SDN 1 SINDANGRASA",
+        "village": "SINDANGRASA"
+    },
+    {
+        "name": "SDN 1 SINDANGSARI",
+        "village": "SINDANGSARI"
+    },
+    {
+        "name": "SDN 1 SINDANGSARI",
+        "village": "SINDANGSARI"
+    },
+    {
+        "name": "SDN 1 SINDANGSARI",
+        "village": "SINDANGSARI"
+    },
+    {
+        "name": "SDN 1 SINDANGSARI",
+        "village": "SINDANGSARI"
+    },
+    {
+        "name": "SDN 1 SIRNABAYA",
+        "village": "SIRNABAYA"
+    },
+    {
+        "name": "SDN 1 SIRNAJAYA",
+        "village": "SIRNAJAYA"
+    },
+    {
+        "name": "SDN 1 SITUMANDALA",
+        "village": "SITUMANDALA"
+    },
+    {
+        "name": "SDN 1 SUKADANA",
+        "village": "SUKADANA"
+    },
+    {
+        "name": "SDN 1 SUKAHAJI",
+        "village": "SUKAHAJI"
+    },
+    {
+        "name": "SDN 1 SUKAHARJA",
+        "village": "SUKAHARJA"
+    },
+    {
+        "name": "SDN 1 SUKAHURIP",
+        "village": "SUKAHURIP"
+    },
+    {
+        "name": "SDN 1 SUKAHURIP",
+        "village": "SUKAHURIP"
+    },
+    {
+        "name": "SDN 1 SUKAHURIP",
+        "village": "SUKAHURIP"
+    },
+    {
+        "name": "SDN 1 SUKAHURIP",
+        "village": "SUKAHURIP"
+    },
+    {
+        "name": "SDN 1 SUKAJADI",
+        "village": "SUKAJADI"
+    },
+    {
+        "name": "SDN 1 SUKAJADI",
+        "village": "SUKAJADI"
+    },
+    {
+        "name": "SDN 1 SUKAJAYA",
+        "village": "SUKAJAYA"
+    },
+    {
+        "name": "SDN 1 SUKAJAYA",
+        "village": "SUKAJAYA"
+    },
+    {
+        "name": "SDN 1 SUKAKERTA",
+        "village": "SUKAKERTA"
+    },
+    {
+        "name": "SDN 1 SUKAMAJU",
+        "village": "SUKAMAJU"
+    },
+    {
+        "name": "SDN 1 SUKAMAJU",
+        "village": "SUKAMAJU"
+    },
+    {
+        "name": "SDN 1 SUKAMAJU",
+        "village": "SUKAMAJU"
+    },
+    {
+        "name": "SDN 1 SUKAMANAH",
+        "village": "SUKAMANAH"
+    },
+    {
+        "name": "SDN 1 SUKAMANTRI",
+        "village": "SUKAMANTRI"
+    },
+    {
+        "name": "SDN 1 SUKAMUKTI",
+        "village": "SUKAMUKTI"
+    },
+    {
+        "name": "SDN 1 SUKAMULYA",
+        "village": "SUKAMULYA"
+    },
+    {
+        "name": "SDN 1 SUKAMULYA",
+        "village": "SUKAMULYA"
+    },
+    {
+        "name": "SDN 1 SUKAMULYA",
+        "village": "SUKAMULYA"
+    },
+    {
+        "name": "SDN 1 SUKAMULYA",
+        "village": "SUKAMULYA"
+    },
+    {
+        "name": "SDN 1 SUKANAGARA",
+        "village": "SUKANAGARA"
+    },
+    {
+        "name": "SDN 1 SUKANAGARA",
+        "village": "SUKANAGARA"
+    },
+    {
+        "name": "SDN 1 SUKARAHARJA",
+        "village": "SUKARAHARJA"
+    },
+    {
+        "name": "SDN 1 SUKARAJA",
+        "village": "SUKARAJA"
+    },
+    {
+        "name": "SDN 1 SUKARESIK",
+        "village": "SUKARESIK"
+    },
+    {
+        "name": "SDN 1 SUKARESIK",
+        "village": "SUKARESIK"
+    },
+    {
+        "name": "SDN 1 SUKASARI",
+        "village": "SUKASARI"
+    },
+    {
+        "name": "SDN 1 SUKASARI",
+        "village": "SUKASARI"
+    },
+    {
+        "name": "SDN 1 SUKASENANG",
+        "village": "SUKASENANG"
+    },
+    {
+        "name": "SDN 1 SUKASETIA",
+        "village": "SUKASETIA"
+    },
+    {
+        "name": "SDN 1 SUKAWENING",
+        "village": "SUKAWENING"
+    },
+    {
+        "name": "SDN 1 SUMBERJAYA",
+        "village": "SUMBERJAYA"
+    },
+    {
+        "name": "SDN 1 TALAGASARI",
+        "village": "TALAGASARI"
+    },
+    {
+        "name": "SDN 1 TAMBAKSARI",
+        "village": "TAMBAKSARI"
+    },
+    {
+        "name": "SDN 1 TANJUNGJAYA",
+        "village": "TANJUNGJAYA"
+    },
+    {
+        "name": "SDN 1 TANJUNGJAYA",
+        "village": "TANJUNGJAYA"
+    },
+    {
+        "name": "SDN 1 TANJUNGMULYA",
+        "village": "TANJUNGMULYA"
+    },
+    {
+        "name": "SDN 1 TANJUNGSARI",
+        "village": "TANJUNGSARI"
+    },
+    {
+        "name": "SDN 1 TANJUNGSARI",
+        "village": "TANJUNGSARI"
+    },
+    {
+        "name": "SDN 1 TANJUNGSUKUR",
+        "village": "TANJUNGSUKUR"
+    },
+    {
+        "name": "SDN 1 TENGGERRAHARJA",
+        "village": "TENGGERRAHARJA"
+    },
+    {
+        "name": "SDN 1 TIGAHERANG",
+        "village": "TIGAHERANG"
+    },
+    {
+        "name": "SDN 1 UTAMA",
+        "village": "UTAMA"
+    },
+    {
+        "name": "SDN 1 WANASIGRA",
+        "village": "WANASIGRA"
+    },
+    {
+        "name": "SDN 1 WANGUNJAYA",
+        "village": "WANGUNJAYA"
+    },
+    {
+        "name": "SDN 1 WERASARI",
+        "village": "WERASARI"
+    },
+    {
+        "name": "SDN 1 WINDURAJA",
+        "village": "WINDURAJA"
+    },
+    {
+        "name": "SDN 10 CIAMIS",
+        "village": "CIAMIS"
+    },
+    {
+        "name": "SDN 2 ANDAPRAJA",
+        "village": "ANDAPRAJA"
+    },
+    {
+        "name": "SDN 2 AWILUAR",
+        "village": "AWILUAR"
+    },
+    {
+        "name": "SDN 2 BAHARA",
+        "village": "BAHARA"
+    },
+    {
+        "name": "SDN 2 BANGBAYANG",
+        "village": "BANGBAYANG"
+    },
+    {
+        "name": "SDN 2 BANGUNHARJA",
+        "village": "BANGUNHARJA"
+    },
+    {
+        "name": "SDN 2 BANGUNSARI",
+        "village": "BANGUNSARI"
+    },
+    {
+        "name": "SDN 2 BANJARANGSANA",
+        "village": "BANJARANGSANA"
+    },
+    {
+        "name": "SDN 2 BANJARANYAR",
+        "village": "BANJARANYAR"
+    },
+    {
+        "name": "SDN 2 BANJARSARI",
+        "village": "BANJARSARI"
+    },
+    {
+        "name": "SDN 2 BANTARDAWA",
+        "village": "BANTARDAWA"
+    },
+    {
+        "name": "SDN 2 BAREGBEG",
+        "village": "BAREGBEG"
+    },
+    {
+        "name": "SDN 2 BAREGBEG",
+        "village": "BAREGBEG"
+    },
+    {
+        "name": "SDN 2 BAYASARI",
+        "village": "BAYASARI"
+    },
+    {
+        "name": "SDN 2 BOJONG",
+        "village": "BOJONG"
+    },
+    {
+        "name": "SDN 2 BOJONG",
+        "village": "BOJONG"
+    },
+    {
+        "name": "SDN 2 BOJONGGEDANG",
+        "village": "BOJONGGEDANG"
+    },
+    {
+        "name": "SDN 2 BOJONGMENGGER",
+        "village": "BOJONGMENGGER"
+    },
+    {
+        "name": "SDN 2 BUANAMEKAR",
+        "village": "BUANAMEKAR"
+    },
+    {
+        "name": "SDN 2 BUDIASIH",
+        "village": "BUDIASIH"
+    },
+    {
+        "name": "SDN 2 BUDIHARJA",
+        "village": "BUDIHARJA"
+    },
+    {
+        "name": "SDN 2 BUNISARI",
+        "village": "BUNISARI"
+    },
+    {
+        "name": "SDN 2 BUNISEURI",
+        "village": "BUNISEURI"
+    },
+    {
+        "name": "SDN 2 BUNTER",
+        "village": "BUNTER"
+    },
+    {
+        "name": "SDN 2 CIAKAR",
+        "village": "CIAKAR"
+    },
+    {
+        "name": "SDN 2 CIAKAR",
+        "village": "CIAKAR"
+    },
+    {
+        "name": "SDN 2 CIAMIS",
+        "village": "CIAMIS"
+    },
+    {
+        "name": "SDN 2 CIBADAK",
+        "village": "CIBADAK"
+    },
+    {
+        "name": "SDN 2 CIBEUREUM",
+        "village": "CIBEUREUM"
+    },
+    {
+        "name": "SDN 2 CICAPAR",
+        "village": "CICAPAR"
+    },
+    {
+        "name": "SDN 2 CIDOLOG",
+        "village": "CIDOLOG"
+    },
+    {
+        "name": "SDN 2 CIEURIH",
+        "village": "CIEURIH"
+    },
+    {
+        "name": "SDN 2 CIGAYAM",
+        "village": "CIGAYAM"
+    },
+    {
+        "name": "SDN 2 CIGEMBOR",
+        "village": "CIGEMBOR"
+    },
+    {
+        "name": "SDN 2 CIHARALANG",
+        "village": "CIHARALANG"
+    },
+    {
+        "name": "SDN 2 CIHAURBEUTI",
+        "village": "CIHAURBEUTI"
+    },
+    {
+        "name": "SDN 2 CIHERANG",
+        "village": "CIHERANG"
+    },
+    {
+        "name": "SDN 2 CIJULANG",
+        "village": "CIJULANG"
+    },
+    {
+        "name": "SDN 2 CIJULANG",
+        "village": "CIJULANG"
+    },
+    {
+        "name": "SDN 2 CIKONENG",
+        "village": "CIKONENG"
+    },
+    {
+        "name": "SDN 2 CIKUPA",
+        "village": "CIKUPA"
+    },
+    {
+        "name": "SDN 2 CILEUNGSIR",
+        "village": "CILEUNGSIR"
+    },
+    {
+        "name": "SDN 2 CIMARI",
+        "village": "CIMARI"
+    },
+    {
+        "name": "SDN 2 CINTANAGARA",
+        "village": "CINTANAGARA"
+    },
+    {
+        "name": "SDN 2 CINTARATU",
+        "village": "CINTARATU"
+    },
+    {
+        "name": "SDN 2 CINTARATU",
+        "village": "CINTARATU"
+    },
+    {
+        "name": "SDN 2 CINYASAG",
+        "village": "CINYASAG"
+    },
+    {
+        "name": "SDN 2 CIPAKU",
+        "village": "CIPAKU"
+    },
+    {
+        "name": "SDN 2 CIPARAY",
+        "village": "CIPARAY"
+    },
+    {
+        "name": "SDN 2 CIPARIGI",
+        "village": "CIPARIGI"
+    },
+    {
+        "name": "SDN 2 CISADAP",
+        "village": "CISADAP"
+    },
+    {
+        "name": "SDN 2 CISAGA",
+        "village": "CISAGA"
+    },
+    {
+        "name": "SDN 2 CISONTROL",
+        "village": "CISONTROL"
+    },
+    {
+        "name": "SDN 2 CITEUREUP",
+        "village": "CITEUREUP"
+    },
+    {
+        "name": "SDN 2 CIULU",
+        "village": "CIULU"
+    },
+    {
+        "name": "SDN 2 DADIHARJA",
+        "village": "DADIHARJA"
+    },
+    {
+        "name": "SDN 2 DARMACAANG",
+        "village": "DARMACAANG"
+    },
+    {
+        "name": "SDN 2 DAYEUHLUHUR",
+        "village": "DAYEUHLUHUR"
+    },
+    {
+        "name": "SDN 2 DEWASARI",
+        "village": "DEWASARI"
+    },
+    {
+        "name": "SDN 2 GARDUJAYA",
+        "village": "GARDUJAYA"
+    },
+    {
+        "name": "SDN 2 GEGEMPALAN",
+        "village": "GEGEMPALAN"
+    },
+    {
+        "name": "SDN 2 GEREBA",
+        "village": "GEREBA"
+    },
+    {
+        "name": "SDN 2 GIRIMUKTI",
+        "village": "GIRIMUKTI"
+    },
+    {
+        "name": "SDN 2 GOLAT",
+        "village": "GOLAT"
+    },
+    {
+        "name": "SDN 2 GUNUNGCUPU",
+        "village": "GUNUNGCUPU"
+    },
+    {
+        "name": "SDN 2 HANDAPHERANG",
+        "village": "HANDAPHERANG"
+    },
+    {
+        "name": "SDN 2 HEGARMANAH",
+        "village": "HEGARMANAH"
+    },
+    {
+        "name": "SDN 2 IMBANAGARA",
+        "village": "IMBANAGARA"
+    },
+    {
+        "name": "SDN 2 IMBANAGARA RAYA",
+        "village": "IMBANAGARA RAYA"
+    },
+    {
+        "name": "SDN 2 INDRAGIRI",
+        "village": "INDRAGIRI"
+    },
+    {
+        "name": "SDN 2 JAGABAYA",
+        "village": "JAGABAYA"
+    },
+    {
+        "name": "SDN 2 JALATRANG",
+        "village": "JALATRANG"
+    },
+    {
+        "name": "SDN 2 JANGGALA",
+        "village": "JANGGALA"
+    },
+    {
+        "name": "SDN 2 JATINAGARA",
+        "village": "JATINAGARA"
+    },
+    {
+        "name": "SDN 2 JAYAGIRI",
+        "village": "JAYAGIRI"
+    },
+    {
+        "name": "SDN 2 JELAT",
+        "village": "JELAT"
+    },
+    {
+        "name": "SDN 2 JELEGONG",
+        "village": "JELEGONG"
+    },
+    {
+        "name": "SDN 2 KADUPANDAK",
+        "village": "KADUPANDAK"
+    },
+    {
+        "name": "SDN 2 KALAPASAWIT",
+        "village": "KALAPASAWIT"
+    },
+    {
+        "name": "SDN 2 KALIJAYA",
+        "village": "KALIJAYA"
+    },
+    {
+        "name": "SDN 2 KARANGANYAR",
+        "village": "KARANGANYAR"
+    },
+    {
+        "name": "SDN 2 KARANGKAMULYAN",
+        "village": "KARANGKAMULYAN"
+    },
+    {
+        "name": "SDN 2 KARANGPANINGAL",
+        "village": "KARANGPANINGAL"
+    },
+    {
+        "name": "SDN 2 KARANGPANINGAL",
+        "village": "KARANGPANINGAL"
+    },
+    {
+        "name": "SDN 2 KARANGPANINGAL",
+        "village": "KARANGPANINGAL"
+    },
+    {
+        "name": "SDN 2 KARANGPARI",
+        "village": "KARANGPARI"
+    },
+    {
+        "name": "SDN 2 KARANGPAWITAN",
+        "village": "KARANGPAWITAN"
+    },
+    {
+        "name": "SDN 2 KARANGPAWITAN",
+        "village": "KARANGPAWITAN"
+    },
+    {
+        "name": "SDN 2 KARYAMUKTI",
+        "village": "KARYAMUKTI"
+    },
+    {
+        "name": "SDN 2 KASO",
+        "village": "KASO"
+    },
+    {
+        "name": "SDN 2 KAWALI",
+        "village": "KAWALI"
+    },
+    {
+        "name": "SDN 2 KAWALIMUKTI",
+        "village": "KAWALIMUKTI"
+    },
+    {
+        "name": "SDN 2 KAWASEN",
+        "village": "KAWASEN"
+    },
+    {
+        "name": "SDN 2 KAWUNGLARANG",
+        "village": "KAWUNGLARANG"
+    },
+    {
+        "name": "SDN 2 KEPEL",
+        "village": "KEPEL"
+    },
+    {
+        "name": "SDN 2 KERTAHARJA",
+        "village": "KERTAHARJA"
+    },
+    {
+        "name": "SDN 2 KERTAHARJA",
+        "village": "KERTAHARJA"
+    },
+    {
+        "name": "SDN 2 KERTAHAYU",
+        "village": "KERTAHAYU"
+    },
+    {
+        "name": "SDN 2 KERTAJAYA",
+        "village": "KERTAJAYA"
+    },
+    {
+        "name": "SDN 2 KERTAJAYA",
+        "village": "KERTAJAYA"
+    },
+    {
+        "name": "SDN 2 KERTARAHARJA",
+        "village": "KERTARAHARJA"
+    },
+    {
+        "name": "SDN 2 KERTASARI",
+        "village": "KERTASARI"
+    },
+    {
+        "name": "SDN 2 KERTAYASA",
+        "village": "KERTAYASA"
+    },
+    {
+        "name": "SDN 2 KERTAYASA",
+        "village": "KERTAYASA"
+    },
+    {
+        "name": "SDN 2 KIARAPAYUNG",
+        "village": "KIARAPAYUNG"
+    },
+    {
+        "name": "SDN 2 KUJANG",
+        "village": "KUJANG"
+    },
+    {
+        "name": "SDN 2 KUTAWARINGIN",
+        "village": "KUTAWARINGIN"
+    },
+    {
+        "name": "SDN 2 LANGKAPSARI",
+        "village": "LANGKAPSARI"
+    },
+    {
+        "name": "SDN 2 LINGGASARI",
+        "village": "LINGGASARI"
+    },
+    {
+        "name": "SDN 2 LUMBUNGSARI",
+        "village": "LUMBUNGSARI"
+    },
+    {
+        "name": "SDN 2 MALEBER",
+        "village": "MALEBER"
+    },
+    {
+        "name": "SDN 2 MANDALARE",
+        "village": "MANDALARE"
+    },
+    {
+        "name": "SDN 2 MANGKUBUMI",
+        "village": "MANGKUBUMI"
+    },
+    {
+        "name": "SDN 2 MARGAHARJA",
+        "village": "MARGAHARJA"
+    },
+    {
+        "name": "SDN 2 MARGAJAYA",
+        "village": "MARGAJAYA"
+    },
+    {
+        "name": "SDN 2 MARGAJAYA",
+        "village": "MARGAJAYA"
+    },
+    {
+        "name": "SDN 2 MARGAMULYA",
+        "village": "MARGAMULYA"
+    },
+    {
+        "name": "SDN 2 MEDANGLAYANG",
+        "village": "MEDANGLAYANG"
+    },
+    {
+        "name": "SDN 2 MEKARJADI",
+        "village": "MEKARJADI"
+    },
+    {
+        "name": "SDN 2 MEKARJAYA",
+        "village": "MEKARJAYA"
+    },
+    {
+        "name": "SDN 2 MEKARMUKTI",
+        "village": "MEKARMUKTI"
+    },
+    {
+        "name": "SDN 2 MEKARSARI",
+        "village": "MEKARSARI"
+    },
+    {
+        "name": "SDN 2 MEKARSARI",
+        "village": "MEKARSARI"
+    },
+    {
+        "name": "SDN 2 MEKARWANGI",
+        "village": "MEKARWANGI"
+    },
+    {
+        "name": "SDN 2 MUKTISARI",
+        "village": "MUKTISARI"
+    },
+    {
+        "name": "SDN 2 MULYASARI",
+        "village": "MULYASARI"
+    },
+    {
+        "name": "SDN 2 NAGARAJATI",
+        "village": "NAGARAJATI"
+    },
+    {
+        "name": "SDN 2 NAGARAJAYA",
+        "village": "NAGARAJAYA"
+    },
+    {
+        "name": "SDN 2 NAGARAPAGEUH",
+        "village": "NAGARAPAGEUH"
+    },
+    {
+        "name": "SDN 2 NASOL",
+        "village": "NASOL"
+    },
+    {
+        "name": "SDN 2 NEGLASARI",
+        "village": "NEGLASARI"
+    },
+    {
+        "name": "SDN 2 PADAMULYA",
+        "village": "PADAMULYA"
+    },
+    {
+        "name": "SDN 2 PADARINGAN",
+        "village": "PADARINGAN"
+    },
+    {
+        "name": "SDN 2 PAMALAYAN",
+        "village": "PAMALAYAN"
+    },
+    {
+        "name": "SDN 2 PAMARICAN",
+        "village": "PAMARICAN"
+    },
+    {
+        "name": "SDN 2 PAMOKOLAN",
+        "village": "PAMOKOLAN"
+    },
+    {
+        "name": "SDN 2 PANARAGAN",
+        "village": "PANARAGAN"
+    },
+    {
+        "name": "SDN 2 PANAWANGAN",
+        "village": "PANAWANGAN"
+    },
+    {
+        "name": "SDN 2 PANUMBANGAN",
+        "village": "PANUMBANGAN"
+    },
+    {
+        "name": "SDN 2 PANYINGKIRAN",
+        "village": "PANYINGKIRAN"
+    },
+    {
+        "name": "SDN 2 PASAWAHAN",
+        "village": "PASAWAHAN"
+    },
+    {
+        "name": "SDN 2 PASIRLAWANG",
+        "village": "PASIRLAWANG"
+    },
+    {
+        "name": "SDN 2 PASIRNAGARA",
+        "village": "PASIRNAGARA"
+    },
+    {
+        "name": "SDN 2 PASIRTAMIANG",
+        "village": "PASIRTAMIANG"
+    },
+    {
+        "name": "SDN 2 PATAKAHARJA",
+        "village": "PATAKAHARJA"
+    },
+    {
+        "name": "SDN 2 PAYUNGAGUNG",
+        "village": "PAYUNGAGUNG"
+    },
+    {
+        "name": "SDN 2 PAYUNGSARI",
+        "village": "PAYUNGSARI"
+    },
+    {
+        "name": "SDN 2 PETIRHILIR",
+        "village": "PETIRHILIR"
+    },
+    {
+        "name": "SDN 2 PULOERANG",
+        "village": "PULOERANG"
+    },
+    {
+        "name": "SDN 2 PURWADADI",
+        "village": "PURWADADI"
+    },
+    {
+        "name": "SDN 2 PURWAJAYA",
+        "village": "PURWAJAYA"
+    },
+    {
+        "name": "SDN 2 PURWARAJA",
+        "village": "PURWARAJA"
+    },
+    {
+        "name": "SDN 2 PURWASARI",
+        "village": "PURWASARI"
+    },
+    {
+        "name": "SDN 2 PURWASARI",
+        "village": "PURWASARI"
+    },
+    {
+        "name": "SDN 2 PUSAKASARI",
+        "village": "PUSAKASARI"
+    },
+    {
+        "name": "SDN 2 RANCAH",
+        "village": "RANCAH"
+    },
+    {
+        "name": "SDN 2 RATAWANGI",
+        "village": "RATAWANGI"
+    },
+    {
+        "name": "SDN 2 SADANANYA",
+        "village": "SADANANYA"
+    },
+    {
+        "name": "SDN 2 SADAPAINGAN",
+        "village": "SADAPAINGAN"
+    },
+    {
+        "name": "SDN 2 SAGALAHERANG",
+        "village": "SAGALAHERANG"
+    },
+    {
+        "name": "SDN 2 SAGULING",
+        "village": "SAGULING"
+    },
+    {
+        "name": "SDN 2 SALAKARIA",
+        "village": "SALAKARIA"
+    },
+    {
+        "name": "SDN 2 SELACAI",
+        "village": "SELACAI"
+    },
+    {
+        "name": "SDN 2 SELAMANIK",
+        "village": "SELAMANIK"
+    },
+    {
+        "name": "SDN 2 SIDAHARJA",
+        "village": "SIDAHARJA"
+    },
+    {
+        "name": "SDN 2 SIDAHARJA",
+        "village": "SIDAHARJA"
+    },
+    {
+        "name": "SDN 2 SIDAMULIH",
+        "village": "SIDAMULIH"
+    },
+    {
+        "name": "SDN 2 SIDARAHAYU",
+        "village": "SIDARAHAYU"
+    },
+    {
+        "name": "SDN 2 SINDANGASIH",
+        "village": "SINDANGASIH"
+    },
+    {
+        "name": "SDN 2 SINDANGBARANG",
+        "village": "SINDANGBARANG"
+    },
+    {
+        "name": "SDN 2 SINDANGHAYU",
+        "village": "SINDANGHAYU"
+    },
+    {
+        "name": "SDN 2 SINDANGHERANG",
+        "village": "SINDANGHERANG"
+    },
+    {
+        "name": "SDN 2 SINDANGLAYA",
+        "village": "SINDANGLAYA"
+    },
+    {
+        "name": "SDN 2 SINDANGMUKTI",
+        "village": "SINDANGMUKTI"
+    },
+    {
+        "name": "SDN 2 SINDANGRASA",
+        "village": "SINDANGRASA"
+    },
+    {
+        "name": "SDN 2 SINDANGSARI",
+        "village": "SINDANGSARI"
+    },
+    {
+        "name": "SDN 2 SINDANGSARI",
+        "village": "SINDANGSARI"
+    },
+    {
+        "name": "SDN 2 SINDANGSARI",
+        "village": "SINDANGSARI"
+    },
+    {
+        "name": "SDN 2 SINDANGSARI",
+        "village": "SINDANGSARI"
+    },
+    {
+        "name": "SDN 2 SIRNABAYA",
+        "village": "SIRNABAYA"
+    },
+    {
+        "name": "SDN 2 SIRNAJAYA",
+        "village": "SIRNAJAYA"
+    },
+    {
+        "name": "SDN 2 SITUMANDALA",
+        "village": "SITUMANDALA"
+    },
+    {
+        "name": "SDN 2 SUKADANA",
+        "village": "SUKADANA"
+    },
+    {
+        "name": "SDN 2 SUKAHAJI",
+        "village": "SUKAHAJI"
+    },
+    {
+        "name": "SDN 2 SUKAHARJA",
+        "village": "SUKAHARJA"
+    },
+    {
+        "name": "SDN 2 SUKAHURIP",
+        "village": "SUKAHURIP"
+    },
+    {
+        "name": "SDN 2 SUKAHURIP",
+        "village": "SUKAHURIP"
+    },
+    {
+        "name": "SDN 2 SUKAJADI",
+        "village": "SUKAJADI"
+    },
+    {
+        "name": "SDN 2 SUKAJAYA",
+        "village": "SUKAJAYA"
+    },
+    {
+        "name": "SDN 2 SUKAJAYA",
+        "village": "SUKAJAYA"
+    },
+    {
+        "name": "SDN 2 SUKAJAYA",
+        "village": "SUKAJAYA"
+    },
+    {
+        "name": "SDN 2 SUKAKERTA",
+        "village": "SUKAKERTA"
+    },
+    {
+        "name": "SDN 2 SUKAMAJU",
+        "village": "SUKAMAJU"
+    },
+    {
+        "name": "SDN 2 SUKAMANAH",
+        "village": "SUKAMANAH"
+    },
+    {
+        "name": "SDN 2 SUKAMANTRI",
+        "village": "SUKAMANTRI"
+    },
+    {
+        "name": "SDN 2 SUKAMUKTI",
+        "village": "SUKAMUKTI"
+    },
+    {
+        "name": "SDN 2 SUKAMULYA",
+        "village": "SUKAMULYA"
+    },
+    {
+        "name": "SDN 2 SUKAMULYA",
+        "village": "SUKAMULYA"
+    },
+    {
+        "name": "SDN 2 SUKAMULYA",
+        "village": "SUKAMULYA"
+    },
+    {
+        "name": "SDN 2 SUKANAGARA",
+        "village": "SUKANAGARA"
+    },
+    {
+        "name": "SDN 2 SUKANAGARA",
+        "village": "SUKANAGARA"
+    },
+    {
+        "name": "SDN 2 SUKARAJA",
+        "village": "SUKARAJA"
+    },
+    {
+        "name": "SDN 2 SUKARESIK",
+        "village": "SUKARESIK"
+    },
+    {
+        "name": "SDN 2 SUKASARI",
+        "village": "SUKASARI"
+    },
+    {
+        "name": "SDN 2 SUKASARI",
+        "village": "SUKASARI"
+    },
+    {
+        "name": "SDN 2 SUKASENANG",
+        "village": "SUKASENANG"
+    },
+    {
+        "name": "SDN 2 SUKASETIA",
+        "village": "SUKASETIA"
+    },
+    {
+        "name": "SDN 2 SUMBERJAYA",
+        "village": "SUMBERJAYA"
+    },
+    {
+        "name": "SDN 2 TALAGASARI",
+        "village": "TALAGASARI"
+    },
+    {
+        "name": "SDN 2 TAMBAKSARI",
+        "village": "TAMBAKSARI"
+    },
+    {
+        "name": "SDN 2 TANJUNGJAYA",
+        "village": "TANJUNGJAYA"
+    },
+    {
+        "name": "SDN 2 TANJUNGMULYA",
+        "village": "TANJUNGMULYA"
+    },
+    {
+        "name": "SDN 2 TANJUNGSARI",
+        "village": "TANJUNGSARI"
+    },
+    {
+        "name": "SDN 2 TANJUNGSARI",
+        "village": "TANJUNGSARI"
+    },
+    {
+        "name": "SDN 2 TANJUNGSUKUR",
+        "village": "TANJUNGSUKUR"
+    },
+    {
+        "name": "SDN 2 TENGGERRAHARJA",
+        "village": "TENGGERRAHARJA"
+    },
+    {
+        "name": "SDN 2 TIGAHERANG",
+        "village": "TIGAHERANG"
+    },
+    {
+        "name": "SDN 2 WANASIGRA",
+        "village": "WANASIGRA"
+    },
+    {
+        "name": "SDN 2 WANGUNJAYA",
+        "village": "WANGUNJAYA"
+    },
+    {
+        "name": "SDN 2 WERASARI",
+        "village": "WERASARI"
+    },
+    {
+        "name": "SDN 2 WINDURAJA",
+        "village": "WINDURAJA"
+    },
+    {
+        "name": "SDN 3 BANGBAYANG",
+        "village": "BANGBAYANG"
+    },
+    {
+        "name": "SDN 3 BANGUNHARJA",
+        "village": "BANGUNHARJA"
+    },
+    {
+        "name": "SDN 3 BANGUNSARI",
+        "village": "BANGUNSARI"
+    },
+    {
+        "name": "SDN 3 BANJARANGSANA",
+        "village": "BANJARANGSANA"
+    },
+    {
+        "name": "SDN 3 BANJARANYAR",
+        "village": "BANJARANYAR"
+    },
+    {
+        "name": "SDN 3 BAREGBEG",
+        "village": "BAREGBEG"
+    },
+    {
+        "name": "SDN 3 BAYASARI",
+        "village": "BAYASARI"
+    },
+    {
+        "name": "SDN 3 BENTENG",
+        "village": "BENTENG"
+    },
+    {
+        "name": "SDN 3 BOJONGGEDANG",
+        "village": "BOJONGGEDANG"
+    },
+    {
+        "name": "SDN 3 BOJONGMENGGER",
+        "village": "BOJONGMENGGER"
+    },
+    {
+        "name": "SDN 3 BUDIHARJA",
+        "village": "BUDIHARJA"
+    },
+    {
+        "name": "SDN 3 BUNISEURI",
+        "village": "BUNISEURI"
+    },
+    {
+        "name": "SDN 3 CIAMIS",
+        "village": "CIAMIS"
+    },
+    {
+        "name": "SDN 3 CIBADAK",
+        "village": "CIBADAK"
+    },
+    {
+        "name": "SDN 3 CIBEUREUM",
+        "village": "CIBEUREUM"
+    },
+    {
+        "name": "SDN 3 CIDOLOG",
+        "village": "CIDOLOG"
+    },
+    {
+        "name": "SDN 3 CIEURIH",
+        "village": "CIEURIH"
+    },
+    {
+        "name": "SDN 3 CIGEMBOR",
+        "village": "CIGEMBOR"
+    },
+    {
+        "name": "SDN 3 CIHAURBEUTI",
+        "village": "CIHAURBEUTI"
+    },
+    {
+        "name": "SDN 3 CIJULANG",
+        "village": "CIJULANG"
+    },
+    {
+        "name": "SDN 3 CIJULANG",
+        "village": "CIJULANG"
+    },
+    {
+        "name": "SDN 3 CIKASO",
+        "village": "CIKASO"
+    },
+    {
+        "name": "SDN 3 CIKONENG",
+        "village": "CIKONENG"
+    },
+    {
+        "name": "SDN 3 CIKUPA",
+        "village": "CIKUPA"
+    },
+    {
+        "name": "SDN 3 CILEUNGSIR",
+        "village": "CILEUNGSIR"
+    },
+    {
+        "name": "SDN 3 CIMARAGAS",
+        "village": "CIMARAGAS"
+    },
+    {
+        "name": "SDN 3 CIMARI",
+        "village": "CIMARI"
+    },
+    {
+        "name": "SDN 3 CIMINDI",
+        "village": "CIMINDI"
+    },
+    {
+        "name": "SDN 3 CINTANAGARA",
+        "village": "CINTANAGARA"
+    },
+    {
+        "name": "SDN 3 CINTARATU",
+        "village": "CINTARATU"
+    },
+    {
+        "name": "SDN 3 CINYASAG",
+        "village": "CINYASAG"
+    },
+    {
+        "name": "SDN 3 CIOMAS",
+        "village": "CIOMAS"
+    },
+    {
+        "name": "SDN 3 CIPAKU",
+        "village": "CIPAKU"
+    },
+    {
+        "name": "SDN 3 CISADAP",
+        "village": "CISADAP"
+    },
+    {
+        "name": "SDN 3 CISAGA",
+        "village": "CISAGA"
+    },
+    {
+        "name": "SDN 3 CISONTROL",
+        "village": "CISONTROL"
+    },
+    {
+        "name": "SDN 3 CITEUREUP",
+        "village": "CITEUREUP"
+    },
+    {
+        "name": "SDN 3 DARMACAANG",
+        "village": "DARMACAANG"
+    },
+    {
+        "name": "SDN 3 DEWASARI",
+        "village": "DEWASARI"
+    },
+    {
+        "name": "SDN 3 GARDUJAYA",
+        "village": "GARDUJAYA"
+    },
+    {
+        "name": "SDN 3 GIRIMUKTI",
+        "village": "GIRIMUKTI"
+    },
+    {
+        "name": "SDN 3 GOLAT",
+        "village": "GOLAT"
+    },
+    {
+        "name": "SDN 3 GUNUNGCUPU",
+        "village": "GUNUNGCUPU"
+    },
+    {
+        "name": "SDN 3 JAGABAYA",
+        "village": "JAGABAYA"
+    },
+    {
+        "name": "SDN 3 JALATRANG",
+        "village": "JALATRANG"
+    },
+    {
+        "name": "SDN 3 JAYAGIRI",
+        "village": "JAYAGIRI"
+    },
+    {
+        "name": "SDN 3 JELAT",
+        "village": "JELAT"
+    },
+    {
+        "name": "SDN 3 JELEGONG",
+        "village": "JELEGONG"
+    },
+    {
+        "name": "SDN 3 KADUPANDAK",
+        "village": "KADUPANDAK"
+    },
+    {
+        "name": "SDN 3 KARANGKAMULYAN",
+        "village": "KARANGKAMULYAN"
+    },
+    {
+        "name": "SDN 3 KARANGPANINGAL",
+        "village": "KARANGPANINGAL"
+    },
+    {
+        "name": "SDN 3 KARANGPARI",
+        "village": "KARANGPARI"
+    },
+    {
+        "name": "SDN 3 KARANGPAWITAN",
+        "village": "KARANGPAWITAN"
+    },
+    {
+        "name": "SDN 3 KASO",
+        "village": "KASO"
+    },
+    {
+        "name": "SDN 3 KAWALI",
+        "village": "KAWALI"
+    },
+    {
+        "name": "SDN 3 KAWASEN",
+        "village": "KAWASEN"
+    },
+    {
+        "name": "SDN 3 KAWUNGLARANG",
+        "village": "KAWUNGLARANG"
+    },
+    {
+        "name": "SDN 3 KERTAHARJA",
+        "village": "KERTAHARJA"
+    },
+    {
+        "name": "SDN 3 KERTAHAYU",
+        "village": "KERTAHAYU"
+    },
+    {
+        "name": "SDN 3 KERTAJAYA",
+        "village": "KERTAJAYA"
+    },
+    {
+        "name": "SDN 3 KERTAMANDALA",
+        "village": "KERTAMANDALA"
+    },
+    {
+        "name": "SDN 3 KERTASARI",
+        "village": "KERTASARI"
+    },
+    {
+        "name": "SDN 3 KERTAYASA",
+        "village": "KERTAYASA"
+    },
+    {
+        "name": "SDN 3 KERTAYASA",
+        "village": "KERTAYASA"
+    },
+    {
+        "name": "SDN 3 KIARAPAYUNG",
+        "village": "KIARAPAYUNG"
+    },
+    {
+        "name": "SDN 3 KUJANG",
+        "village": "KUJANG"
+    },
+    {
+        "name": "SDN 3 LANGKAPSARI",
+        "village": "LANGKAPSARI"
+    },
+    {
+        "name": "SDN 3 LINGGASARI",
+        "village": "LINGGASARI"
+    },
+    {
+        "name": "SDN 3 LUMBUNGSARI",
+        "village": "LUMBUNGSARI"
+    },
+    {
+        "name": "SDN 3 MANGKUBUMI",
+        "village": "MANGKUBUMI"
+    },
+    {
+        "name": "SDN 3 MAPARAH",
+        "village": "MAPARAH"
+    },
+    {
+        "name": "SDN 3 MARGAHARJA",
+        "village": "MARGAHARJA"
+    },
+    {
+        "name": "SDN 3 MARGAJAYA",
+        "village": "MARGAJAYA"
+    },
+    {
+        "name": "SDN 3 MARGAJAYA",
+        "village": "MARGAJAYA"
+    },
+    {
+        "name": "SDN 3 MARGALUYU",
+        "village": "MARGALUYU"
+    },
+    {
+        "name": "SDN 3 MEDANGLAYANG",
+        "village": "MEDANGLAYANG"
+    },
+    {
+        "name": "SDN 3 MEKARMUKTI",
+        "village": "MEKARMUKTI"
+    },
+    {
+        "name": "SDN 3 MEKARSARI",
+        "village": "MEKARSARI"
+    },
+    {
+        "name": "SDN 3 MEKARSARI",
+        "village": "MEKARSARI"
+    },
+    {
+        "name": "SDN 3 MEKARSARI",
+        "village": "MEKARSARI"
+    },
+    {
+        "name": "SDN 3 MUKTISARI",
+        "village": "MUKTISARI"
+    },
+    {
+        "name": "SDN 3 MULYASARI",
+        "village": "MULYASARI"
+    },
+    {
+        "name": "SDN 3 NAGARAJATI",
+        "village": "NAGARAJATI"
+    },
+    {
+        "name": "SDN 3 NAGARAJAYA",
+        "village": "NAGARAJAYA"
+    },
+    {
+        "name": "SDN 3 NAGARAPAGEUH",
+        "village": "NAGARAPAGEUH"
+    },
+    {
+        "name": "SDN 3 NASOL",
+        "village": "NASOL"
+    },
+    {
+        "name": "SDN 3 NEGLASARI",
+        "village": "NEGLASARI"
+    },
+    {
+        "name": "SDN 3 PAMALAYAN",
+        "village": "PAMALAYAN"
+    },
+    {
+        "name": "SDN 3 PAMOKOLAN",
+        "village": "PAMOKOLAN"
+    },
+    {
+        "name": "SDN 3 PANARAGAN",
+        "village": "PANARAGAN"
+    },
+    {
+        "name": "SDN 3 PANAWANGAN",
+        "village": "PANAWANGAN"
+    },
+    {
+        "name": "SDN 3 PANJALU",
+        "village": "PANJALU"
+    },
+    {
+        "name": "SDN 3 PANUMBANGAN",
+        "village": "PANUMBANGAN"
+    },
+    {
+        "name": "SDN 3 PASAWAHAN",
+        "village": "PASAWAHAN"
+    },
+    {
+        "name": "SDN 3 PASIRTAMIANG",
+        "village": "PASIRTAMIANG"
+    },
+    {
+        "name": "SDN 3 PAWINDAN",
+        "village": "PAWINDAN"
+    },
+    {
+        "name": "SDN 3 PAYUNGAGUNG",
+        "village": "PAYUNGAGUNG"
+    },
+    {
+        "name": "SDN 3 PAYUNGSARI",
+        "village": "PAYUNGSARI"
+    },
+    {
+        "name": "SDN 3 PURWADADI",
+        "village": "PURWADADI"
+    },
+    {
+        "name": "SDN 3 PURWAJAYA",
+        "village": "PURWAJAYA"
+    },
+    {
+        "name": "SDN 3 PURWARAJA",
+        "village": "PURWARAJA"
+    },
+    {
+        "name": "SDN 3 PURWASARI",
+        "village": "PURWASARI"
+    },
+    {
+        "name": "SDN 3 PUSAKASARI",
+        "village": "PUSAKASARI"
+    },
+    {
+        "name": "SDN 3 RANCAH",
+        "village": "RANCAH"
+    },
+    {
+        "name": "SDN 3 RAWA",
+        "village": "RAWA"
+    },
+    {
+        "name": "SDN 3 SADANANYA",
+        "village": "SADANANYA"
+    },
+    {
+        "name": "SDN 3 SADAPAINGAN",
+        "village": "SADAPAINGAN"
+    },
+    {
+        "name": "SDN 3 SADEWATA",
+        "village": "SADEWATA"
+    },
+    {
+        "name": "SDN 3 SAGALAHERANG",
+        "village": "SAGALAHERANG"
+    },
+    {
+        "name": "SDN 3 SALAKARIA",
+        "village": "SALAKARIA"
+    },
+    {
+        "name": "SDN 3 SELACAI",
+        "village": "SELACAI"
+    },
+    {
+        "name": "SDN 3 SELAMANIK",
+        "village": "SELAMANIK"
+    },
+    {
+        "name": "SDN 3 SIDAMULIH",
+        "village": "SIDAMULIH"
+    },
+    {
+        "name": "SDN 3 SIDARAHAYU",
+        "village": "SIDARAHAYU"
+    },
+    {
+        "name": "SDN 3 SINDANGASIH",
+        "village": "SINDANGASIH"
+    },
+    {
+        "name": "SDN 3 SINDANGHERANG",
+        "village": "SINDANGHERANG"
+    },
+    {
+        "name": "SDN 3 SINDANGKASIH",
+        "village": "SINDANGKASIH"
+    },
+    {
+        "name": "SDN 3 SINDANGLAYA",
+        "village": "SINDANGLAYA"
+    },
+    {
+        "name": "SDN 3 SINDANGRASA",
+        "village": "SINDANGRASA"
+    },
+    {
+        "name": "SDN 3 SINDANGSARI",
+        "village": "SINDANGSARI"
+    },
+    {
+        "name": "SDN 3 SINDANGSARI",
+        "village": "SINDANGSARI"
+    },
+    {
+        "name": "SDN 3 SINDANGSARI",
+        "village": "SINDANGSARI"
+    },
+    {
+        "name": "SDN 3 SIRNAJAYA",
+        "village": "SIRNAJAYA"
+    },
+    {
+        "name": "SDN 3 SITUMANDALA",
+        "village": "SITUMANDALA"
+    },
+    {
+        "name": "SDN 3 SUKAHURIP",
+        "village": "SUKAHURIP"
+    },
+    {
+        "name": "SDN 3 SUKAHURIP",
+        "village": "SUKAHURIP"
+    },
+    {
+        "name": "SDN 3 SUKAHURIP",
+        "village": "SUKAHURIP"
+    },
+    {
+        "name": "SDN 3 SUKAJADI",
+        "village": "SUKAJADI"
+    },
+    {
+        "name": "SDN 3 SUKAJAYA",
+        "village": "SUKAJAYA"
+    },
+    {
+        "name": "SDN 3 SUKAJAYA",
+        "village": "SUKAJAYA"
+    },
+    {
+        "name": "SDN 3 SUKAJAYA",
+        "village": "SUKAJAYA"
+    },
+    {
+        "name": "SDN 3 SUKAMAJU",
+        "village": "SUKAMAJU"
+    },
+    {
+        "name": "SDN 3 SUKAMAJU",
+        "village": "SUKAMAJU"
+    },
+    {
+        "name": "SDN 3 SUKAMANAH",
+        "village": "SUKAMANAH"
+    },
+    {
+        "name": "SDN 3 SUKAMANTRI",
+        "village": "SUKAMANTRI"
+    },
+    {
+        "name": "SDN 3 SUKAMUKTI",
+        "village": "SUKAMUKTI"
+    },
+    {
+        "name": "SDN 3 SUKAMULYA",
+        "village": "SUKAMULYA"
+    },
+    {
+        "name": "SDN 3 SUKAMULYA",
+        "village": "SUKAMULYA"
+    },
+    {
+        "name": "SDN 3 SUKANAGARA",
+        "village": "SUKANAGARA"
+    },
+    {
+        "name": "SDN 3 SUKANAGARA",
+        "village": "SUKANAGARA"
+    },
+    {
+        "name": "SDN 3 SUKARAJA",
+        "village": "SUKARAJA"
+    },
+    {
+        "name": "SDN 3 SUKASARI",
+        "village": "SUKASARI"
+    },
+    {
+        "name": "SDN 3 SUKASARI",
+        "village": "SUKASARI"
+    },
+    {
+        "name": "SDN 3 SUKASENANG",
+        "village": "SUKASENANG"
+    },
+    {
+        "name": "SDN 3 SUMBERJAYA",
+        "village": "SUMBERJAYA"
+    },
+    {
+        "name": "SDN 3 TANJUNGJAYA",
+        "village": "TANJUNGJAYA"
+    },
+    {
+        "name": "SDN 3 TANJUNGMULYA",
+        "village": "TANJUNGMULYA"
+    },
+    {
+        "name": "SDN 3 TANJUNGSARI",
+        "village": "TANJUNGSARI"
+    },
+    {
+        "name": "SDN 3 TANJUNGSUKUR",
+        "village": "TANJUNGSUKUR"
+    },
+    {
+        "name": "SDN 3 TIGAHERANG",
+        "village": "TIGAHERANG"
+    },
+    {
+        "name": "SDN 3 WANGUNJAYA",
+        "village": "WANGUNJAYA"
+    },
+    {
+        "name": "SDN 3 WERASARI",
+        "village": "WERASARI"
+    },
+    {
+        "name": "SDN 4 BANJARANGSANA",
+        "village": "BANJARANGSANA"
+    },
+    {
+        "name": "SDN 4 BANJARANYAR",
+        "village": "BANJARANYAR"
+    },
+    {
+        "name": "SDN 4 BAYASARI",
+        "village": "BAYASARI"
+    },
+    {
+        "name": "SDN 4 BOJONGMENGGER",
+        "village": "BOJONGMENGGER"
+    },
+    {
+        "name": "SDN 4 BUNISEURI",
+        "village": "BUNISEURI"
+    },
+    {
+        "name": "SDN 4 BUNTER",
+        "village": "BUNTER"
+    },
+    {
+        "name": "SDN 4 CIAMIS",
+        "village": "CIAMIS"
+    },
+    {
+        "name": "SDN 4 CIHAURBEUTI",
+        "village": "CIHAURBEUTI"
+    },
+    {
+        "name": "SDN 4 CIKONENG",
+        "village": "CIKONENG"
+    },
+    {
+        "name": "SDN 4 CIKUPA",
+        "village": "CIKUPA"
+    },
+    {
+        "name": "SDN 4 CILEUNGSIR",
+        "village": "CILEUNGSIR"
+    },
+    {
+        "name": "SDN 4 CINTANAGARA",
+        "village": "CINTANAGARA"
+    },
+    {
+        "name": "SDN 4 CINYASAG",
+        "village": "CINYASAG"
+    },
+    {
+        "name": "SDN 4 CISADAP",
+        "village": "CISADAP"
+    },
+    {
+        "name": "SDN 4 CISAGA",
+        "village": "CISAGA"
+    },
+    {
+        "name": "SDN 4 CISONTROL",
+        "village": "CISONTROL"
+    },
+    {
+        "name": "SDN 4 GARDUJAYA",
+        "village": "GARDUJAYA"
+    },
+    {
+        "name": "SDN 4 GUNUNGCUPU",
+        "village": "GUNUNGCUPU"
+    },
+    {
+        "name": "SDN 4 IMBANAGARA RAYA",
+        "village": "IMBANAGARA RAYA"
+    },
+    {
+        "name": "SDN 4 JELEGONG",
+        "village": "JELEGONG"
+    },
+    {
+        "name": "SDN 4 KARANGPANINGAL",
+        "village": "KARANGPANINGAL"
+    },
+    {
+        "name": "SDN 4 KARANGPAWITAN",
+        "village": "KARANGPAWITAN"
+    },
+    {
+        "name": "SDN 4 KASO",
+        "village": "KASO"
+    },
+    {
+        "name": "SDN 4 KAWASEN",
+        "village": "KAWASEN"
+    },
+    {
+        "name": "SDN 4 KAWUNGLARANG",
+        "village": "KAWUNGLARANG"
+    },
+    {
+        "name": "SDN 4 KERTAHAYU",
+        "village": "KERTAHAYU"
+    },
+    {
+        "name": "SDN 4 KERTASARI",
+        "village": "KERTASARI"
+    },
+    {
+        "name": "SDN 4 KERTAYASA",
+        "village": "KERTAYASA"
+    },
+    {
+        "name": "SDN 4 KIARAPAYUNG",
+        "village": "KIARAPAYUNG"
+    },
+    {
+        "name": "SDN 4 KUJANG",
+        "village": "KUJANG"
+    },
+    {
+        "name": "SDN 4 LANGKAPSARI",
+        "village": "LANGKAPSARI"
+    },
+    {
+        "name": "SDN 4 MALEBER",
+        "village": "MALEBER"
+    },
+    {
+        "name": "SDN 4 MEDANGLAYANG",
+        "village": "MEDANGLAYANG"
+    },
+    {
+        "name": "SDN 4 MEKARMUKTI",
+        "village": "MEKARMUKTI"
+    },
+    {
+        "name": "SDN 4 MEKARSARI",
+        "village": "MEKARSARI"
+    },
+    {
+        "name": "SDN 4 MEKARSARI",
+        "village": "MEKARSARI"
+    },
+    {
+        "name": "SDN 4 MUKTISARI",
+        "village": "MUKTISARI"
+    },
+    {
+        "name": "SDN 4 NAGARAJATI",
+        "village": "NAGARAJATI"
+    },
+    {
+        "name": "SDN 4 NASOL",
+        "village": "NASOL"
+    },
+    {
+        "name": "SDN 4 PAMALAYAN",
+        "village": "PAMALAYAN"
+    },
+    {
+        "name": "SDN 4 PANAWANGAN",
+        "village": "PANAWANGAN"
+    },
+    {
+        "name": "SDN 4 PANJALU",
+        "village": "PANJALU"
+    },
+    {
+        "name": "SDN 4 PASIRTAMIANG",
+        "village": "PASIRTAMIANG"
+    },
+    {
+        "name": "SDN 4 PAYUNGAGUNG",
+        "village": "PAYUNGAGUNG"
+    },
+    {
+        "name": "SDN 4 PURWAJAYA",
+        "village": "PURWAJAYA"
+    },
+    {
+        "name": "SDN 4 RANCAH",
+        "village": "RANCAH"
+    },
+    {
+        "name": "SDN 4 SADANANYA",
+        "village": "SADANANYA"
+    },
+    {
+        "name": "SDN 4 SADAPAINGAN",
+        "village": "SADAPAINGAN"
+    },
+    {
+        "name": "SDN 4 SAGALAHERANG",
+        "village": "SAGALAHERANG"
+    },
+    {
+        "name": "SDN 4 SANDINGTAMAN",
+        "village": "SANDINGTAMAN"
+    },
+    {
+        "name": "SDN 4 SELAMANIK",
+        "village": "SELAMANIK"
+    },
+    {
+        "name": "SDN 4 SIDAMULIH",
+        "village": "SIDAMULIH"
+    },
+    {
+        "name": "SDN 4 SINDANGKASIH",
+        "village": "SINDANGKASIH"
+    },
+    {
+        "name": "SDN 4 SINDANGRASA",
+        "village": "SINDANGRASA"
+    },
+    {
+        "name": "SDN 4 SINDANGSARI",
+        "village": "SINDANGSARI"
+    },
+    {
+        "name": "SDN 4 SITUMANDALA",
+        "village": "SITUMANDALA"
+    },
+    {
+        "name": "SDN 4 SUKAJADI",
+        "village": "SUKAJADI"
+    },
+    {
+        "name": "SDN 4 SUKAJAYA",
+        "village": "SUKAJAYA"
+    },
+    {
+        "name": "SDN 4 SUKAMANTRI",
+        "village": "SUKAMANTRI"
+    },
+    {
+        "name": "SDN 4 SUKAMULYA",
+        "village": "SUKAMULYA"
+    },
+    {
+        "name": "SDN 4 SUKASARI",
+        "village": "SUKASARI"
+    },
+    {
+        "name": "SDN 4 TANJUNGJAYA",
+        "village": "TANJUNGJAYA"
+    },
+    {
+        "name": "SDN 4 TANJUNGSARI",
+        "village": "TANJUNGSARI"
+    },
+    {
+        "name": "SDN 4 TANJUNGSUKUR",
+        "village": "TANJUNGSUKUR"
+    },
+    {
+        "name": "SDN 4 TIGAHERANG",
+        "village": "TIGAHERANG"
+    },
+    {
+        "name": "SDN 4 WANGUNJAYA",
+        "village": "WANGUNJAYA"
+    },
+    {
+        "name": "SDN 5 BANJARANYAR",
+        "village": "BANJARANYAR"
+    },
+    {
+        "name": "SDN 5 BUNISEURI",
+        "village": "BUNISEURI"
+    },
+    {
+        "name": "SDN 5 CIBADAK",
+        "village": "CIBADAK"
+    },
+    {
+        "name": "SDN 5 CIKUPA",
+        "village": "CIKUPA"
+    },
+    {
+        "name": "SDN 5 CILEUNGSIR",
+        "village": "CILEUNGSIR"
+    },
+    {
+        "name": "SDN 5 CINTARATU",
+        "village": "CINTARATU"
+    },
+    {
+        "name": "SDN 5 CISONTROL",
+        "village": "CISONTROL"
+    },
+    {
+        "name": "SDN 5 GARDUJAYA",
+        "village": "GARDUJAYA"
+    },
+    {
+        "name": "SDN 5 IMBANAGARA RAYA",
+        "village": "IMBANAGARA RAYA"
+    },
+    {
+        "name": "SDN 5 JELEGONG",
+        "village": "JELEGONG"
+    },
+    {
+        "name": "SDN 5 KARANGPAWITAN",
+        "village": "KARANGPAWITAN"
+    },
+    {
+        "name": "SDN 5 KARANGPAWITAN",
+        "village": "KARANGPAWITAN"
+    },
+    {
+        "name": "SDN 5 KASO",
+        "village": "KASO"
+    },
+    {
+        "name": "SDN 5 KAWUNGLARANG",
+        "village": "KAWUNGLARANG"
+    },
+    {
+        "name": "SDN 5 KERTAHAYU",
+        "village": "KERTAHAYU"
+    },
+    {
+        "name": "SDN 5 KIARAPAYUNG",
+        "village": "KIARAPAYUNG"
+    },
+    {
+        "name": "SDN 5 LINGGASARI",
+        "village": "LINGGASARI"
+    },
+    {
+        "name": "SDN 5 MALEBER",
+        "village": "MALEBER"
+    },
+    {
+        "name": "SDN 5 NASOL",
+        "village": "NASOL"
+    },
+    {
+        "name": "SDN 5 PANJALU",
+        "village": "PANJALU"
+    },
+    {
+        "name": "SDN 5 RANCAH",
+        "village": "RANCAH"
+    },
+    {
+        "name": "SDN 5 SADAPAINGAN",
+        "village": "SADAPAINGAN"
+    },
+    {
+        "name": "SDN 5 SANDINGTAMAN",
+        "village": "SANDINGTAMAN"
+    },
+    {
+        "name": "SDN 5 SIDAMULIH",
+        "village": "SIDAMULIH"
+    },
+    {
+        "name": "SDN 5 SINDANGRASA",
+        "village": "SINDANGRASA"
+    },
+    {
+        "name": "SDN 5 SUKAJADI",
+        "village": "SUKAJADI"
+    },
+    {
+        "name": "SDN 5 SUKAMULYA",
+        "village": "SUKAMULYA"
+    },
+    {
+        "name": "SDN 5 TANJUNGJAYA",
+        "village": "TANJUNGJAYA"
+    },
+    {
+        "name": "SDN 5 WANGUNJAYA",
+        "village": "WANGUNJAYA"
+    },
+    {
+        "name": "SDN 5 WONOHARJO",
+        "village": "WONOHARJO"
+    },
+    {
+        "name": "SDN 6 CIAMIS",
+        "village": "CIAMIS"
+    },
+    {
+        "name": "SDN 6 CISONTROL",
+        "village": "CISONTROL"
+    },
+    {
+        "name": "SDN 6 KAWUNGLARANG",
+        "village": "KAWUNGLARANG"
+    },
+    {
+        "name": "SDN 6 MALEBER",
+        "village": "MALEBER"
+    },
+    {
+        "name": "SDN 6 PANJALU",
+        "village": "PANJALU"
+    },
+    {
+        "name": "SDN 6 RANCAH",
+        "village": "RANCAH"
+    },
+    {
+        "name": "SDN 6 SITUMANDALA",
+        "village": "SITUMANDALA"
+    },
+    {
+        "name": "SDN 7 CIAMIS",
+        "village": "CIAMIS"
+    },
+    {
+        "name": "SDN 7 KAWUNGLARANG",
+        "village": "KAWUNGLARANG"
+    },
+    {
+        "name": "SDN 7 PANJALU",
+        "village": "PANJALU"
+    },
+    {
+        "name": "SDN 8 KAWUNGLARANG",
+        "village": "KAWUNGLARANG"
+    },
+    {
+        "name": "SDN 8 PANJALU",
+        "village": "PANJALU"
+    }
+]

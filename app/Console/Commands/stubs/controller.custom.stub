@@ -1,0 +1,64 @@
+<?php
+
+namespace {namespace};
+
+use Illuminate\Http\Request;
+use App\Http\Controllers\Controller;
+use App\Repositories\{ModelName}Repository;
+use App\Http\Resources\{ModelName}Resource;
+use App\Http\Requests\{ModelName}\Update{ModelName}Request;
+use App\Http\Requests\{ModelName}\Store{ModelName}Request;
+use App\Models\{ModelName};
+
+class {ControllerName} extends Controller
+{
+
+    /**
+     * For identity menu dashboard active
+     *
+     * @var [string]
+     */
+    private ${RepoName}Repository;
+
+    public function __construct({ModelName}Repository ${RepoName}Repository)
+    {
+        $this->{RepoName}Repository = ${RepoName}Repository;
+    }
+
+    /**
+     * Display a listing of the resource.
+     *
+     * @return mixed|\Illuminate\Contracts\View\View
+     */
+    public function index(Request $request)
+    {
+        $result = $this->{RepoName}Repository->filter($request->all())->toJson();
+        // return $result;
+        return {ModelName}Resource::paginateCollection($result);
+    }
+
+    public function show($id)
+    {
+        $result = $this->{RepoName}Repository->findOrFail($id)->toJson();
+        // return $result;
+        return {ModelName}Resource::otherCollection($result);
+    }
+
+    public function store(Store{ModelName}Request $request)
+    {
+        $result = $this->{RepoName}Repository->create($request)->toJson();
+         // return $result;
+        return {ModelName}Resource::otherCollection($result);
+    }
+
+      public function update(Update{ModelName}Request $request, $id)
+    {
+        $result = $this->{RepoName}Repository->update($id, $request)->toJson();
+        return {ModelName}Resource::otherCollection($result);
+    }
+
+    public function delete($id)
+    {
+        return $this->{RepoName}Repository->delete($id)->toJson();
+    }
+}

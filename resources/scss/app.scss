@@ -1,0 +1,71 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;0,1000;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900;1,1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap");
+
+body {
+    @apply bg-slate-50;
+    font-family: "Poppins", sans-serif !important;
+    color: rgb(100, 100, 100);
+}
+
+.form-control {
+    @apply rounded-md border-gray-200 bg-white placeholder:text-gray-400 placeholder:text-[14px] focus:border-rkYellow focus:ring-rkYellow;
+}
+
+.bg-gd {
+    background: linear-gradient(127deg, #e31e28 28.31%, #f3cd1b 91.65%);
+}
+
+.btn-akm {
+    @apply px-6 py-2 rounded-md text-white text-sm;
+}
+
+.bottom-nav {
+    a {
+        @apply text-gray-500 hover:text-rkRed flex flex-col items-center;
+        &.isActive {
+            @apply text-rkRed font-semibold;
+        }
+    }
+    i {
+        @apply mb-2;
+    }
+}
+aside {
+    a {
+        &.isActive {
+            .bg-icon {
+                @apply bg-gd text-white;
+            }
+            p {
+                @apply font-semibold;
+            }
+        }
+    }
+}
+
+.dropdown-head {
+    &.isOpen {
+        .chev-dropdown {
+            @apply rotate-180;
+        }
+    }
+}
+
+.vs__dropdown-toggle {
+    @apply rounded-md border-gray-200 placeholder:text-gray-400 placeholder:text-[14px] focus:border-rkYellow focus:ring-rkYellow px-3 py-2 min-h-fit bg-white #{!important};
+}
+
+.vs__selected {
+    @apply m-0 #{!important};
+}
+
+.akm-dropdown {
+    a {
+        &.isActive {
+            @apply font-semibold;
+        }
+    }
+}

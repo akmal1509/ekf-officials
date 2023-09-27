@@ -1,0 +1,642 @@
+[
+    {
+        "id": "2",
+        "dapilDistrictId": "1",
+        "districtId": "2225",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-07 10:00:43",
+        "updated_at": "2023-09-07 10:00:43"
+    },
+    {
+        "id": "3",
+        "dapilDistrictId": "2",
+        "districtId": "2252",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:00:31",
+        "updated_at": "2023-09-08 04:00:31"
+    },
+    {
+        "id": "4",
+        "dapilDistrictId": "2",
+        "districtId": "2258",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:00:31",
+        "updated_at": "2023-09-08 04:00:31"
+    },
+    {
+        "id": "5",
+        "dapilDistrictId": "2",
+        "districtId": "2259",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:00:31",
+        "updated_at": "2023-09-08 04:00:31"
+    },
+    {
+        "id": "6",
+        "dapilDistrictId": "2",
+        "districtId": "2268",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:00:31",
+        "updated_at": "2023-09-08 04:00:31"
+    },
+    {
+        "id": "7",
+        "dapilDistrictId": "2",
+        "districtId": "2276",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:00:31",
+        "updated_at": "2023-09-08 04:00:31"
+    },
+    {
+        "id": "8",
+        "dapilDistrictId": "3",
+        "districtId": "2262",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:01:44",
+        "updated_at": "2023-09-08 04:01:44"
+    },
+    {
+        "id": "9",
+        "dapilDistrictId": "3",
+        "districtId": "2263",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:01:44",
+        "updated_at": "2023-09-08 04:01:44"
+    },
+    {
+        "id": "10",
+        "dapilDistrictId": "3",
+        "districtId": "2264",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:01:44",
+        "updated_at": "2023-09-08 04:01:44"
+    },
+    {
+        "id": "11",
+        "dapilDistrictId": "3",
+        "districtId": "2266",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:01:44",
+        "updated_at": "2023-09-08 04:01:44"
+    },
+    {
+        "id": "12",
+        "dapilDistrictId": "3",
+        "districtId": "2269",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:01:44",
+        "updated_at": "2023-09-08 04:01:44"
+    },
+    {
+        "id": "13",
+        "dapilDistrictId": "3",
+        "districtId": "2272",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:01:44",
+        "updated_at": "2023-09-08 04:01:44"
+    },
+    {
+        "id": "14",
+        "dapilDistrictId": "3",
+        "districtId": "2273",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:01:44",
+        "updated_at": "2023-09-08 04:01:44"
+    },
+    {
+        "id": "15",
+        "dapilDistrictId": "3",
+        "districtId": "2282",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:01:44",
+        "updated_at": "2023-09-08 04:01:44"
+    },
+    {
+        "id": "16",
+        "dapilDistrictId": "4",
+        "districtId": "2257",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:02:55",
+        "updated_at": "2023-09-08 04:02:55"
+    },
+    {
+        "id": "17",
+        "dapilDistrictId": "4",
+        "districtId": "2260",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:02:55",
+        "updated_at": "2023-09-08 04:02:55"
+    },
+    {
+        "id": "18",
+        "dapilDistrictId": "4",
+        "districtId": "2261",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:02:55",
+        "updated_at": "2023-09-08 04:02:55"
+    },
+    {
+        "id": "19",
+        "dapilDistrictId": "4",
+        "districtId": "2271",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:02:55",
+        "updated_at": "2023-09-08 04:02:55"
+    },
+    {
+        "id": "20",
+        "dapilDistrictId": "4",
+        "districtId": "2277",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:02:55",
+        "updated_at": "2023-09-08 04:02:55"
+    },
+    {
+        "id": "21",
+        "dapilDistrictId": "4",
+        "districtId": "2280",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:02:55",
+        "updated_at": "2023-09-08 04:02:55"
+    },
+    {
+        "id": "22",
+        "dapilDistrictId": "5",
+        "districtId": "2254",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:03:34",
+        "updated_at": "2023-09-08 04:03:34"
+    },
+    {
+        "id": "23",
+        "dapilDistrictId": "5",
+        "districtId": "2255",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:03:34",
+        "updated_at": "2023-09-08 04:03:34"
+    },
+    {
+        "id": "24",
+        "dapilDistrictId": "5",
+        "districtId": "2256",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:03:34",
+        "updated_at": "2023-09-08 04:03:34"
+    },
+    {
+        "id": "25",
+        "dapilDistrictId": "5",
+        "districtId": "2274",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:03:34",
+        "updated_at": "2023-09-08 04:03:34"
+    },
+    {
+        "id": "26",
+        "dapilDistrictId": "5",
+        "districtId": "2278",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:03:34",
+        "updated_at": "2023-09-08 04:03:34"
+    },
+    {
+        "id": "27",
+        "dapilDistrictId": "5",
+        "districtId": "2279",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:03:34",
+        "updated_at": "2023-09-08 04:03:34"
+    },
+    {
+        "id": "28",
+        "dapilDistrictId": "6",
+        "districtId": "2254",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:05:45",
+        "updated_at": "2023-09-08 04:05:45"
+    },
+    {
+        "id": "29",
+        "dapilDistrictId": "6",
+        "districtId": "2255",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:05:45",
+        "updated_at": "2023-09-08 04:05:45"
+    },
+    {
+        "id": "30",
+        "dapilDistrictId": "6",
+        "districtId": "2256",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:05:45",
+        "updated_at": "2023-09-08 04:05:45"
+    },
+    {
+        "id": "31",
+        "dapilDistrictId": "6",
+        "districtId": "2274",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:05:45",
+        "updated_at": "2023-09-08 04:05:45"
+    },
+    {
+        "id": "32",
+        "dapilDistrictId": "6",
+        "districtId": "2278",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:05:45",
+        "updated_at": "2023-09-08 04:05:45"
+    },
+    {
+        "id": "33",
+        "dapilDistrictId": "6",
+        "districtId": "2279",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:05:45",
+        "updated_at": "2023-09-08 04:05:45"
+    },
+    {
+        "id": "34",
+        "dapilDistrictId": "7",
+        "districtId": "2251",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:06:28",
+        "updated_at": "2023-09-08 04:06:28"
+    },
+    {
+        "id": "35",
+        "dapilDistrictId": "7",
+        "districtId": "2253",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:06:28",
+        "updated_at": "2023-09-08 04:06:28"
+    },
+    {
+        "id": "36",
+        "dapilDistrictId": "7",
+        "districtId": "2265",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:06:28",
+        "updated_at": "2023-09-08 04:06:28"
+    },
+    {
+        "id": "37",
+        "dapilDistrictId": "7",
+        "districtId": "2267",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:06:28",
+        "updated_at": "2023-09-08 04:06:28"
+    },
+    {
+        "id": "38",
+        "dapilDistrictId": "7",
+        "districtId": "2270",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:06:28",
+        "updated_at": "2023-09-08 04:06:28"
+    },
+    {
+        "id": "39",
+        "dapilDistrictId": "7",
+        "districtId": "2275",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:06:28",
+        "updated_at": "2023-09-08 04:06:28"
+    },
+    {
+        "id": "40",
+        "dapilDistrictId": "8",
+        "districtId": "2224",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:07:16",
+        "updated_at": "2023-09-08 04:07:16"
+    },
+    {
+        "id": "41",
+        "dapilDistrictId": "8",
+        "districtId": "2225",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:07:16",
+        "updated_at": "2023-09-08 04:07:16"
+    },
+    {
+        "id": "42",
+        "dapilDistrictId": "8",
+        "districtId": "2227",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:07:16",
+        "updated_at": "2023-09-08 04:07:16"
+    },
+    {
+        "id": "43",
+        "dapilDistrictId": "8",
+        "districtId": "2246",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:07:16",
+        "updated_at": "2023-09-08 04:07:16"
+    },
+    {
+        "id": "44",
+        "dapilDistrictId": "9",
+        "districtId": "2229",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:07:51",
+        "updated_at": "2023-09-08 04:07:51"
+    },
+    {
+        "id": "45",
+        "dapilDistrictId": "9",
+        "districtId": "2230",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:07:51",
+        "updated_at": "2023-09-08 04:07:51"
+    },
+    {
+        "id": "46",
+        "dapilDistrictId": "9",
+        "districtId": "2234",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:07:51",
+        "updated_at": "2023-09-08 04:07:51"
+    },
+    {
+        "id": "47",
+        "dapilDistrictId": "9",
+        "districtId": "2235",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:07:51",
+        "updated_at": "2023-09-08 04:07:51"
+    },
+    {
+        "id": "48",
+        "dapilDistrictId": "9",
+        "districtId": "2248",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:07:51",
+        "updated_at": "2023-09-08 04:07:51"
+    },
+    {
+        "id": "49",
+        "dapilDistrictId": "10",
+        "districtId": "2232",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:08:30",
+        "updated_at": "2023-09-08 04:08:30"
+    },
+    {
+        "id": "50",
+        "dapilDistrictId": "10",
+        "districtId": "2233",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:08:30",
+        "updated_at": "2023-09-08 04:08:30"
+    },
+    {
+        "id": "51",
+        "dapilDistrictId": "10",
+        "districtId": "2234",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:08:30",
+        "updated_at": "2023-09-08 04:08:30"
+    },
+    {
+        "id": "52",
+        "dapilDistrictId": "10",
+        "districtId": "2235",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:08:30",
+        "updated_at": "2023-09-08 04:08:30"
+    },
+    {
+        "id": "53",
+        "dapilDistrictId": "10",
+        "districtId": "2248",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:08:30",
+        "updated_at": "2023-09-08 04:08:30"
+    },
+    {
+        "id": "54",
+        "dapilDistrictId": "11",
+        "districtId": "2236",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:09:09",
+        "updated_at": "2023-09-08 04:09:09"
+    },
+    {
+        "id": "55",
+        "dapilDistrictId": "11",
+        "districtId": "2237",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:09:09",
+        "updated_at": "2023-09-08 04:09:09"
+    },
+    {
+        "id": "56",
+        "dapilDistrictId": "11",
+        "districtId": "2238",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:09:09",
+        "updated_at": "2023-09-08 04:09:09"
+    },
+    {
+        "id": "57",
+        "dapilDistrictId": "11",
+        "districtId": "2239",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:09:09",
+        "updated_at": "2023-09-08 04:09:09"
+    },
+    {
+        "id": "58",
+        "dapilDistrictId": "11",
+        "districtId": "2244",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:09:09",
+        "updated_at": "2023-09-08 04:09:09"
+    },
+    {
+        "id": "59",
+        "dapilDistrictId": "12",
+        "districtId": "2240",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:10:01",
+        "updated_at": "2023-09-08 04:10:01"
+    },
+    {
+        "id": "60",
+        "dapilDistrictId": "12",
+        "districtId": "2241",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:10:01",
+        "updated_at": "2023-09-08 04:10:01"
+    },
+    {
+        "id": "61",
+        "dapilDistrictId": "12",
+        "districtId": "2249",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:10:01",
+        "updated_at": "2023-09-08 04:10:01"
+    },
+    {
+        "id": "62",
+        "dapilDistrictId": "12",
+        "districtId": "2250",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:10:01",
+        "updated_at": "2023-09-08 04:10:01"
+    },
+    {
+        "id": "63",
+        "dapilDistrictId": "13",
+        "districtId": "2226",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:12:04",
+        "updated_at": "2023-09-08 04:12:04"
+    },
+    {
+        "id": "64",
+        "dapilDistrictId": "13",
+        "districtId": "2228",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:12:04",
+        "updated_at": "2023-09-08 04:12:04"
+    },
+    {
+        "id": "65",
+        "dapilDistrictId": "13",
+        "districtId": "2242",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:12:04",
+        "updated_at": "2023-09-08 04:12:04"
+    },
+    {
+        "id": "66",
+        "dapilDistrictId": "13",
+        "districtId": "2243",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:12:04",
+        "updated_at": "2023-09-08 04:12:04"
+    },
+    {
+        "id": "67",
+        "dapilDistrictId": "14",
+        "districtId": "2522",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:12:38",
+        "updated_at": "2023-09-08 04:12:38"
+    },
+    {
+        "id": "68",
+        "dapilDistrictId": "14",
+        "districtId": "2531",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:12:38",
+        "updated_at": "2023-09-08 04:12:38"
+    },
+    {
+        "id": "69",
+        "dapilDistrictId": "15",
+        "districtId": "2527",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:13:00",
+        "updated_at": "2023-09-08 04:13:00"
+    },
+    {
+        "id": "70",
+        "dapilDistrictId": "15",
+        "districtId": "2528",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:13:00",
+        "updated_at": "2023-09-08 04:13:00"
+    },
+    {
+        "id": "71",
+        "dapilDistrictId": "16",
+        "districtId": "2529",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:13:23",
+        "updated_at": "2023-09-08 04:13:23"
+    },
+    {
+        "id": "72",
+        "dapilDistrictId": "16",
+        "districtId": "2530",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:13:23",
+        "updated_at": "2023-09-08 04:13:23"
+    },
+    {
+        "id": "73",
+        "dapilDistrictId": "17",
+        "districtId": "2523",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:13:50",
+        "updated_at": "2023-09-08 04:13:50"
+    },
+    {
+        "id": "74",
+        "dapilDistrictId": "17",
+        "districtId": "2524",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:13:50",
+        "updated_at": "2023-09-08 04:13:50"
+    },
+    {
+        "id": "75",
+        "dapilDistrictId": "18",
+        "districtId": "2525",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:14:12",
+        "updated_at": "2023-09-08 04:14:12"
+    },
+    {
+        "id": "76",
+        "dapilDistrictId": "18",
+        "districtId": "2526",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:14:12",
+        "updated_at": "2023-09-08 04:14:12"
+    },
+    {
+        "id": "77",
+        "dapilDistrictId": "19",
+        "districtId": "2618",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:16:54",
+        "updated_at": "2023-09-08 04:16:54"
+    },
+    {
+        "id": "78",
+        "dapilDistrictId": "20",
+        "districtId": "2616",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:17:58",
+        "updated_at": "2023-09-08 04:17:58"
+    },
+    {
+        "id": "79",
+        "dapilDistrictId": "20",
+        "districtId": "2617",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:17:58",
+        "updated_at": "2023-09-08 04:17:58"
+    },
+    {
+        "id": "80",
+        "dapilDistrictId": "21",
+        "districtId": "2617",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:18:18",
+        "updated_at": "2023-09-08 04:18:18"
+    },
+    {
+        "id": "81",
+        "dapilDistrictId": "22",
+        "districtId": "2619",
+        "deleted_at": "NULL",
+        "created_at": "2023-09-08 04:18:40",
+        "updated_at": "2023-09-08 04:18:40"
+    }
+]

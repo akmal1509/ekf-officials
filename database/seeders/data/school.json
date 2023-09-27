@@ -1,0 +1,8217 @@
+[
+    {
+        "id": "1433",
+        "name": "SDN 3 BENTENG",
+        "vilId": "75132"
+    },
+    {
+        "id": "976",
+        "name": "SDN 1 BENTENG",
+        "vilId": "75132"
+    },
+    {
+        "id": "1530",
+        "name": "SDN 3 RAWA",
+        "vilId": "81472"
+    },
+    {
+        "id": "737",
+        "name": "SD NEGERI 4 RAWA",
+        "vilId": "81472"
+    },
+    {
+        "id": "519",
+        "name": "SD NEGERI 2 RAWA",
+        "vilId": "81472"
+    },
+    {
+        "id": "258",
+        "name": "SD NEGERI 1 RAWA",
+        "vilId": "81472"
+    },
+    {
+        "id": "896",
+        "name": "SD NEGERI PANGKALAN",
+        "vilId": "50072"
+    },
+    {
+        "id": "499",
+        "name": "SD NEGERI 2 PANGKALAN",
+        "vilId": "50072"
+    },
+    {
+        "id": "237",
+        "name": "SD NEGERI 1 PANGKALAN",
+        "vilId": "50072"
+    },
+    {
+        "id": "641",
+        "name": "SD NEGERI 3 LENGKONG",
+        "vilId": "69329"
+    },
+    {
+        "id": "198",
+        "name": "SD NEGERI 1 LENGKONG",
+        "vilId": "69329"
+    },
+    {
+        "id": "9",
+        "name": "SD IT AL-FATTAH",
+        "vilId": "69329"
+    },
+    {
+        "id": "740",
+        "name": "SD NEGERI 4 SIDOMULYO",
+        "vilId": "83559"
+    },
+    {
+        "id": "675",
+        "name": "SD NEGERI 3 SIDOMULYO",
+        "vilId": "83559"
+    },
+    {
+        "id": "535",
+        "name": "SD NEGERI 2 SIDOMULYO",
+        "vilId": "83559"
+    },
+    {
+        "id": "272",
+        "name": "SD NEGERI 1 SIDOMULYO",
+        "vilId": "83559"
+    },
+    {
+        "id": "1558",
+        "name": "SDN 3 SUKAMAJU",
+        "vilId": "75550"
+    },
+    {
+        "id": "1557",
+        "name": "SDN 3 SUKAMAJU",
+        "vilId": "75550"
+    },
+    {
+        "id": "1397",
+        "name": "SDN 2 SUKAMAJU",
+        "vilId": "75550"
+    },
+    {
+        "id": "1170",
+        "name": "SDN 1 SUKAMAJU",
+        "vilId": "75550"
+    },
+    {
+        "id": "1169",
+        "name": "SDN 1 SUKAMAJU",
+        "vilId": "75550"
+    },
+    {
+        "id": "1168",
+        "name": "SDN 1 SUKAMAJU",
+        "vilId": "75550"
+    },
+    {
+        "id": "744",
+        "name": "SD NEGERI 4 SUKAMAJU",
+        "vilId": "75550"
+    },
+    {
+        "id": "680",
+        "name": "SD NEGERI 3 SUKAMAJU",
+        "vilId": "75550"
+    },
+    {
+        "id": "547",
+        "name": "SD NEGERI 2 SUKAMAJU",
+        "vilId": "75550"
+    },
+    {
+        "id": "546",
+        "name": "SD NEGERI 2 SUKAMAJU",
+        "vilId": "75550"
+    },
+    {
+        "id": "284",
+        "name": "SD NEGERI 1 SUKAMAJU",
+        "vilId": "75550"
+    },
+    {
+        "id": "372",
+        "name": "SD NEGERI 2 CIMAHI",
+        "vilId": "31663"
+    },
+    {
+        "id": "96",
+        "name": "SD NEGERI 1 CIMAHI",
+        "vilId": "31663"
+    },
+    {
+        "id": "1669",
+        "name": "SDN 5 SUKAJADI",
+        "vilId": "50606"
+    },
+    {
+        "id": "1634",
+        "name": "SDN 4 SUKAJADI",
+        "vilId": "50606"
+    },
+    {
+        "id": "1553",
+        "name": "SDN 3 SUKAJADI",
+        "vilId": "50606"
+    },
+    {
+        "id": "1392",
+        "name": "SDN 2 SUKAJADI",
+        "vilId": "50606"
+    },
+    {
+        "id": "1164",
+        "name": "SDN 1 SUKAJADI",
+        "vilId": "50606"
+    },
+    {
+        "id": "1163",
+        "name": "SDN 1 SUKAJADI",
+        "vilId": "50606"
+    },
+    {
+        "id": "1638",
+        "name": "SDN 4 SUKASARI",
+        "vilId": "50555"
+    },
+    {
+        "id": "1568",
+        "name": "SDN 3 SUKASARI",
+        "vilId": "50555"
+    },
+    {
+        "id": "1567",
+        "name": "SDN 3 SUKASARI",
+        "vilId": "50555"
+    },
+    {
+        "id": "1409",
+        "name": "SDN 2 SUKASARI",
+        "vilId": "50555"
+    },
+    {
+        "id": "1408",
+        "name": "SDN 2 SUKASARI",
+        "vilId": "50555"
+    },
+    {
+        "id": "1185",
+        "name": "SDN 1 SUKASARI",
+        "vilId": "50555"
+    },
+    {
+        "id": "1184",
+        "name": "SDN 1 SUKASARI",
+        "vilId": "50555"
+    },
+    {
+        "id": "935",
+        "name": "SD NEGERI SUKASARI",
+        "vilId": "50555"
+    },
+    {
+        "id": "290",
+        "name": "SD NEGERI 1 SUKASARI",
+        "vilId": "50555"
+    },
+    {
+        "id": "1566",
+        "name": "SDN 3 SUKARAJA",
+        "vilId": "74798"
+    },
+    {
+        "id": "1406",
+        "name": "SDN 2 SUKARAJA",
+        "vilId": "74798"
+    },
+    {
+        "id": "1181",
+        "name": "SDN 1 SUKARAJA",
+        "vilId": "74798"
+    },
+    {
+        "id": "551",
+        "name": "SD NEGERI 2 SUKARAJA",
+        "vilId": "74798"
+    },
+    {
+        "id": "288",
+        "name": "SD NEGERI 1 SUKARAJA",
+        "vilId": "74798"
+    },
+    {
+        "id": "1572",
+        "name": "SDN 3 TANJUNGMULYA",
+        "vilId": "29682"
+    },
+    {
+        "id": "1416",
+        "name": "SDN 2 TANJUNGMULYA",
+        "vilId": "29682"
+    },
+    {
+        "id": "1194",
+        "name": "SDN 1 TANJUNGMULYA",
+        "vilId": "29682"
+    },
+    {
+        "id": "659",
+        "name": "SD NEGERI 3 PARIGI",
+        "vilId": "76196"
+    },
+    {
+        "id": "505",
+        "name": "SD NEGERI 2 PARIGI",
+        "vilId": "76196"
+    },
+    {
+        "id": "242",
+        "name": "SD NEGERI 1 PARIGI",
+        "vilId": "76196"
+    },
+    {
+        "id": "1640",
+        "name": "SDN 4 TANJUNGSARI",
+        "vilId": "50464"
+    },
+    {
+        "id": "1573",
+        "name": "SDN 3 TANJUNGSARI",
+        "vilId": "50464"
+    },
+    {
+        "id": "1418",
+        "name": "SDN 2 TANJUNGSARI",
+        "vilId": "50464"
+    },
+    {
+        "id": "1417",
+        "name": "SDN 2 TANJUNGSARI",
+        "vilId": "50464"
+    },
+    {
+        "id": "1196",
+        "name": "SDN 1 TANJUNGSARI",
+        "vilId": "50464"
+    },
+    {
+        "id": "1195",
+        "name": "SDN 1 TANJUNGSARI",
+        "vilId": "50464"
+    },
+    {
+        "id": "883",
+        "name": "SD NEGERI NANGKA",
+        "vilId": "57640"
+    },
+    {
+        "id": "736",
+        "name": "SD NEGERI 4 RAMBATAN",
+        "vilId": "28340"
+    },
+    {
+        "id": "517",
+        "name": "SD NEGERI 2 RAMBATAN",
+        "vilId": "28340"
+    },
+    {
+        "id": "256",
+        "name": "SD NEGERI 1 RAMBATAN",
+        "vilId": "28340"
+    },
+    {
+        "id": "1670",
+        "name": "SDN 5 SUKAMULYA",
+        "vilId": "50171"
+    },
+    {
+        "id": "1637",
+        "name": "SDN 4 SUKAMULYA",
+        "vilId": "50171"
+    },
+    {
+        "id": "1563",
+        "name": "SDN 3 SUKAMULYA",
+        "vilId": "50171"
+    },
+    {
+        "id": "1562",
+        "name": "SDN 3 SUKAMULYA",
+        "vilId": "50171"
+    },
+    {
+        "id": "1403",
+        "name": "SDN 2 SUKAMULYA",
+        "vilId": "50171"
+    },
+    {
+        "id": "1402",
+        "name": "SDN 2 SUKAMULYA",
+        "vilId": "50171"
+    },
+    {
+        "id": "1401",
+        "name": "SDN 2 SUKAMULYA",
+        "vilId": "50171"
+    },
+    {
+        "id": "1177",
+        "name": "SDN 1 SUKAMULYA",
+        "vilId": "50171"
+    },
+    {
+        "id": "1176",
+        "name": "SDN 1 SUKAMULYA",
+        "vilId": "50171"
+    },
+    {
+        "id": "1175",
+        "name": "SDN 1 SUKAMULYA",
+        "vilId": "50171"
+    },
+    {
+        "id": "1174",
+        "name": "SDN 1 SUKAMULYA",
+        "vilId": "50171"
+    },
+    {
+        "id": "933",
+        "name": "SD NEGERI SUKAMULYA",
+        "vilId": "50171"
+    },
+    {
+        "id": "549",
+        "name": "SD NEGERI 2 SUKAMULYA",
+        "vilId": "50171"
+    },
+    {
+        "id": "286",
+        "name": "SD NEGERI 1 SUKAMULYA",
+        "vilId": "50171"
+    },
+    {
+        "id": "1613",
+        "name": "SDN 4 MEKARSARI",
+        "vilId": "82454"
+    },
+    {
+        "id": "1612",
+        "name": "SDN 4 MEKARSARI",
+        "vilId": "82454"
+    },
+    {
+        "id": "1505",
+        "name": "SDN 3 MEKARSARI",
+        "vilId": "82454"
+    },
+    {
+        "id": "1504",
+        "name": "SDN 3 MEKARSARI",
+        "vilId": "82454"
+    },
+    {
+        "id": "1503",
+        "name": "SDN 3 MEKARSARI",
+        "vilId": "82454"
+    },
+    {
+        "id": "1327",
+        "name": "SDN 2 MEKARSARI",
+        "vilId": "82454"
+    },
+    {
+        "id": "1326",
+        "name": "SDN 2 MEKARSARI",
+        "vilId": "82454"
+    },
+    {
+        "id": "1087",
+        "name": "SDN 1 MEKARSARI",
+        "vilId": "82454"
+    },
+    {
+        "id": "1086",
+        "name": "SDN 1 MEKARSARI",
+        "vilId": "82454"
+    },
+    {
+        "id": "879",
+        "name": "SD NEGERI MEKARSARI",
+        "vilId": "82454"
+    },
+    {
+        "id": "878",
+        "name": "SD NEGERI MEKARSARI",
+        "vilId": "82454"
+    },
+    {
+        "id": "728",
+        "name": "SD NEGERI 4 MEKARSARI",
+        "vilId": "82454"
+    },
+    {
+        "id": "478",
+        "name": "SD NEGERI 2 MEKARSARI",
+        "vilId": "82454"
+    },
+    {
+        "id": "214",
+        "name": "SD NEGERI 1 MEKARSARI",
+        "vilId": "82454"
+    },
+    {
+        "id": "818",
+        "name": "SD NEGERI DATAR",
+        "vilId": "39412"
+    },
+    {
+        "id": "462",
+        "name": "SD NEGERI 2 LEGOK",
+        "vilId": "50147"
+    },
+    {
+        "id": "195",
+        "name": "SD NEGERI 1 LEGOK",
+        "vilId": "50147"
+    },
+    {
+        "id": "1214",
+        "name": "SDN 2 BANJARSARI",
+        "vilId": "60056"
+    },
+    {
+        "id": "970",
+        "name": "SDN 1 BANJARSARI",
+        "vilId": "60056"
+    },
+    {
+        "id": "1561",
+        "name": "SDN 3 SUKAMUKTI",
+        "vilId": "71234"
+    },
+    {
+        "id": "1400",
+        "name": "SDN 2 SUKAMUKTI",
+        "vilId": "71234"
+    },
+    {
+        "id": "1173",
+        "name": "SDN 1 SUKAMUKTI",
+        "vilId": "71234"
+    },
+    {
+        "id": "932",
+        "name": "SD NEGERI SUKAMUKTI",
+        "vilId": "71234"
+    },
+    {
+        "id": "548",
+        "name": "SD NEGERI 2 SUKAMUKTI",
+        "vilId": "71234"
+    },
+    {
+        "id": "285",
+        "name": "SD NEGERI 1 SUKAMUKTI",
+        "vilId": "71234"
+    },
+    {
+        "id": "1387",
+        "name": "SDN 2 SUKADANA",
+        "vilId": "60047"
+    },
+    {
+        "id": "1156",
+        "name": "SDN 1 SUKADANA",
+        "vilId": "60047"
+    },
+    {
+        "id": "928",
+        "name": "SD NEGERI SUKADANA",
+        "vilId": "60047"
+    },
+    {
+        "id": "679",
+        "name": "SD NEGERI 3 SUKADANA",
+        "vilId": "60047"
+    },
+    {
+        "id": "545",
+        "name": "SD NEGERI 2 SUKADANA",
+        "vilId": "60047"
+    },
+    {
+        "id": "282",
+        "name": "SD NEGERI 1 SUKADANA",
+        "vilId": "60047"
+    },
+    {
+        "id": "860",
+        "name": "SD NEGERI KUTARAJA",
+        "vilId": "30569"
+    },
+    {
+        "id": "581",
+        "name": "SD NEGERI 3 CENGAL",
+        "vilId": "29204"
+    },
+    {
+        "id": "337",
+        "name": "SD NEGERI 2 CENGAL",
+        "vilId": "29204"
+    },
+    {
+        "id": "53",
+        "name": "SD NEGERI 1 CENGAL",
+        "vilId": "29204"
+    },
+    {
+        "id": "636",
+        "name": "SD NEGERI 3 KERTAMUKTI",
+        "vilId": "49267"
+    },
+    {
+        "id": "446",
+        "name": "SD NEGERI 2 KERTAMUKTI",
+        "vilId": "49267"
+    },
+    {
+        "id": "179",
+        "name": "SD NEGERI 1 KERTAMUKTI",
+        "vilId": "49267"
+    },
+    {
+        "id": "1614",
+        "name": "SDN 4 MUKTISARI",
+        "vilId": "69653"
+    },
+    {
+        "id": "1506",
+        "name": "SDN 3 MUKTISARI",
+        "vilId": "69653"
+    },
+    {
+        "id": "1329",
+        "name": "SDN 2 MUKTISARI",
+        "vilId": "69653"
+    },
+    {
+        "id": "1089",
+        "name": "SDN 1 MUKTISARI",
+        "vilId": "69653"
+    },
+    {
+        "id": "771",
+        "name": "SD NEGERI BABATAN",
+        "vilId": "49190"
+    },
+    {
+        "id": "1526",
+        "name": "SDN 3 PURWARAJA",
+        "vilId": "49386"
+    },
+    {
+        "id": "1356",
+        "name": "SDN 2 PURWARAJA",
+        "vilId": "49386"
+    },
+    {
+        "id": "1117",
+        "name": "SDN 1 PURWARAJA",
+        "vilId": "49386"
+    },
+    {
+        "id": "1635",
+        "name": "SDN 4 SUKAJAYA",
+        "vilId": "50741"
+    },
+    {
+        "id": "1556",
+        "name": "SDN 3 SUKAJAYA",
+        "vilId": "50741"
+    },
+    {
+        "id": "1555",
+        "name": "SDN 3 SUKAJAYA",
+        "vilId": "50741"
+    },
+    {
+        "id": "1554",
+        "name": "SDN 3 SUKAJAYA",
+        "vilId": "50741"
+    },
+    {
+        "id": "1395",
+        "name": "SDN 2 SUKAJAYA",
+        "vilId": "50741"
+    },
+    {
+        "id": "1394",
+        "name": "SDN 2 SUKAJAYA",
+        "vilId": "50741"
+    },
+    {
+        "id": "1393",
+        "name": "SDN 2 SUKAJAYA",
+        "vilId": "50741"
+    },
+    {
+        "id": "1166",
+        "name": "SDN 1 SUKAJAYA",
+        "vilId": "50741"
+    },
+    {
+        "id": "1165",
+        "name": "SDN 1 SUKAJAYA",
+        "vilId": "50741"
+    },
+    {
+        "id": "931",
+        "name": "SD NEGERI SUKAJAYA",
+        "vilId": "50741"
+    },
+    {
+        "id": "283",
+        "name": "SD NEGERI 1 SUKAJAYA",
+        "vilId": "50741"
+    },
+    {
+        "id": "953",
+        "name": "SD NEGERI WINDUSARI",
+        "vilId": "34465"
+    },
+    {
+        "id": "1512",
+        "name": "SDN 3 NEGLASARI",
+        "vilId": "50620"
+    },
+    {
+        "id": "1335",
+        "name": "SDN 2 NEGLASARI",
+        "vilId": "50620"
+    },
+    {
+        "id": "1095",
+        "name": "SDN 1 NEGLASARI",
+        "vilId": "50620"
+    },
+    {
+        "id": "874",
+        "name": "SD NEGERI MARGASARI",
+        "vilId": "50602"
+    },
+    {
+        "id": "655",
+        "name": "SD NEGERI 3 PAMULIHAN",
+        "vilId": "39947"
+    },
+    {
+        "id": "494",
+        "name": "SD NEGERI 2 PAMULIHAN",
+        "vilId": "39947"
+    },
+    {
+        "id": "493",
+        "name": "SD NEGERI 2 PAMULIHAN",
+        "vilId": "39947"
+    },
+    {
+        "id": "233",
+        "name": "SD NEGERI 1 PAMULIHAN",
+        "vilId": "39947"
+    },
+    {
+        "id": "232",
+        "name": "SD NEGERI 1 PAMULIHAN",
+        "vilId": "39947"
+    },
+    {
+        "id": "1681",
+        "name": "SDN 7 CIAMIS",
+        "vilId": "28059"
+    },
+    {
+        "id": "1674",
+        "name": "SDN 6 CIAMIS",
+        "vilId": "28059"
+    },
+    {
+        "id": "1584",
+        "name": "SDN 4 CIAMIS",
+        "vilId": "28059"
+    },
+    {
+        "id": "1438",
+        "name": "SDN 3 CIAMIS",
+        "vilId": "28059"
+    },
+    {
+        "id": "1231",
+        "name": "SDN 2 CIAMIS",
+        "vilId": "28059"
+    },
+    {
+        "id": "1205",
+        "name": "SDN 10 CIAMIS",
+        "vilId": "28059"
+    },
+    {
+        "id": "987",
+        "name": "SDN 1 CIAMIS",
+        "vilId": "28059"
+    },
+    {
+        "id": "689",
+        "name": "SD NEGERI 4 BABAKAN",
+        "vilId": "52626"
+    },
+    {
+        "id": "310",
+        "name": "SD NEGERI 2 BABAKAN",
+        "vilId": "52626"
+    },
+    {
+        "id": "22",
+        "name": "SD NEGERI 1 BABAKAN",
+        "vilId": "52626"
+    },
+    {
+        "id": "1673",
+        "name": "SDN 5 WONOHARJO",
+        "vilId": "35459"
+    },
+    {
+        "id": "747",
+        "name": "SD NEGERI 4 WONOHARJO",
+        "vilId": "35459"
+    },
+    {
+        "id": "687",
+        "name": "SD NEGERI 3 WONOHARJO",
+        "vilId": "35459"
+    },
+    {
+        "id": "305",
+        "name": "SD NEGERI 1 WONOHARJO",
+        "vilId": "35459"
+    },
+    {
+        "id": "1241",
+        "name": "SDN 2 CIHERANG",
+        "vilId": "50525"
+    },
+    {
+        "id": "997",
+        "name": "SDN 1 CIHERANG",
+        "vilId": "50525"
+    },
+    {
+        "id": "962",
+        "name": "SDIT AS-SALAM",
+        "vilId": "50525"
+    },
+    {
+        "id": "592",
+        "name": "SD NEGERI 3 CIHERANG",
+        "vilId": "50525"
+    },
+    {
+        "id": "352",
+        "name": "SD NEGERI 2 CIHERANG",
+        "vilId": "50525"
+    },
+    {
+        "id": "75",
+        "name": "SD NEGERI 1 CIHERANG",
+        "vilId": "50525"
+    },
+    {
+        "id": "1220",
+        "name": "SDN 2 BOJONG",
+        "vilId": "50133"
+    },
+    {
+        "id": "1219",
+        "name": "SDN 2 BOJONG",
+        "vilId": "50133"
+    },
+    {
+        "id": "977",
+        "name": "SDN 1 BOJONG",
+        "vilId": "50133"
+    },
+    {
+        "id": "693",
+        "name": "SD NEGERI 4 BOJONG",
+        "vilId": "50133"
+    },
+    {
+        "id": "575",
+        "name": "SD NEGERI 3 BOJONG",
+        "vilId": "50133"
+    },
+    {
+        "id": "574",
+        "name": "SD NEGERI 3 BOJONG",
+        "vilId": "50133"
+    },
+    {
+        "id": "329",
+        "name": "SD NEGERI 2 BOJONG",
+        "vilId": "50133"
+    },
+    {
+        "id": "328",
+        "name": "SD NEGERI 2 BOJONG",
+        "vilId": "50133"
+    },
+    {
+        "id": "44",
+        "name": "SD NEGERI 1 BOJONG",
+        "vilId": "50133"
+    },
+    {
+        "id": "43",
+        "name": "SD NEGERI 1 BOJONG",
+        "vilId": "50133"
+    },
+    {
+        "id": "42",
+        "name": "SD NEGERI 1 BOJONG",
+        "vilId": "50133"
+    },
+    {
+        "id": "750",
+        "name": "SD NEGERI 5 CILIMUS",
+        "vilId": "28492"
+    },
+    {
+        "id": "702",
+        "name": "SD NEGERI 4 CILIMUS",
+        "vilId": "28492"
+    },
+    {
+        "id": "370",
+        "name": "SD NEGERI 2 CILIMUS",
+        "vilId": "28492"
+    },
+    {
+        "id": "94",
+        "name": "SD NEGERI 1 CILIMUS",
+        "vilId": "28492"
+    },
+    {
+        "id": "852",
+        "name": "SD NEGERI KARANGSARI",
+        "vilId": "49325"
+    },
+    {
+        "id": "437",
+        "name": "SD NEGERI 2 KARANGSARI",
+        "vilId": "49325"
+    },
+    {
+        "id": "169",
+        "name": "SD NEGERI 1 KARANGSARI",
+        "vilId": "49325"
+    },
+    {
+        "id": "1515",
+        "name": "SDN 3 PANARAGAN",
+        "vilId": "31290"
+    },
+    {
+        "id": "1341",
+        "name": "SDN 2 PANARAGAN",
+        "vilId": "31290"
+    },
+    {
+        "id": "1101",
+        "name": "SDN 1 PANARAGAN",
+        "vilId": "31290"
+    },
+    {
+        "id": "1029",
+        "name": "SDN 1 GUNUNGSARI",
+        "vilId": "66511"
+    },
+    {
+        "id": "410",
+        "name": "SD NEGERI 2 GUNUNGSARI",
+        "vilId": "66511"
+    },
+    {
+        "id": "137",
+        "name": "SD NEGERI 1 GUNUNGSARI",
+        "vilId": "66511"
+    },
+    {
+        "id": "683",
+        "name": "SD NEGERI 3 SUSUKAN",
+        "vilId": "50314"
+    },
+    {
+        "id": "292",
+        "name": "SD NEGERI 1 SUSUKAN",
+        "vilId": "50314"
+    },
+    {
+        "id": "1462",
+        "name": "SDN 3 CITEUREUP",
+        "vilId": "49320"
+    },
+    {
+        "id": "1258",
+        "name": "SDN 2 CITEUREUP",
+        "vilId": "49320"
+    },
+    {
+        "id": "1015",
+        "name": "SDN 1 CITEUREUP",
+        "vilId": "49320"
+    },
+    {
+        "id": "941",
+        "name": "SD NEGERI TARIKOLOT",
+        "vilId": "29478"
+    },
+    {
+        "id": "940",
+        "name": "SD NEGERI TARIKOLOT",
+        "vilId": "29478"
+    },
+    {
+        "id": "853",
+        "name": "SD NEGERI KARANGTENGAH",
+        "vilId": "46717"
+    },
+    {
+        "id": "1559",
+        "name": "SDN 3 SUKAMANAH",
+        "vilId": "50399"
+    },
+    {
+        "id": "1398",
+        "name": "SDN 2 SUKAMANAH",
+        "vilId": "50399"
+    },
+    {
+        "id": "1171",
+        "name": "SDN 1 SUKAMANAH",
+        "vilId": "50399"
+    },
+    {
+        "id": "327",
+        "name": "SD NEGERI 2 BENDUNGAN",
+        "vilId": "72864"
+    },
+    {
+        "id": "41",
+        "name": "SD NEGERI 1 BENDUNGAN",
+        "vilId": "72864"
+    },
+    {
+        "id": "418",
+        "name": "SD NEGERI 2 JATISARI",
+        "vilId": "46771"
+    },
+    {
+        "id": "149",
+        "name": "SD NEGERI 1 JATISARI",
+        "vilId": "46771"
+    },
+    {
+        "id": "927",
+        "name": "SD NEGERI SITUSARI",
+        "vilId": "30283"
+    },
+    {
+        "id": "1328",
+        "name": "SDN 2 MEKARWANGI",
+        "vilId": "49664"
+    },
+    {
+        "id": "1088",
+        "name": "SDN 1 MEKARWANGI",
+        "vilId": "49664"
+    },
+    {
+        "id": "961",
+        "name": "SDIT AL-BASYAR",
+        "vilId": "49664"
+    },
+    {
+        "id": "650",
+        "name": "SD NEGERI 3 MEKARWANGI",
+        "vilId": "49664"
+    },
+    {
+        "id": "479",
+        "name": "SD NEGERI 2 MEKARWANGI",
+        "vilId": "49664"
+    },
+    {
+        "id": "216",
+        "name": "SD NEGERI 1 MEKARWANGI",
+        "vilId": "49664"
+    },
+    {
+        "id": "215",
+        "name": "SD NEGERI 1 MEKARWANGI",
+        "vilId": "49664"
+    },
+    {
+        "id": "1646",
+        "name": "SDN 5 CIBADAK",
+        "vilId": "50122"
+    },
+    {
+        "id": "1439",
+        "name": "SDN 3 CIBADAK",
+        "vilId": "50122"
+    },
+    {
+        "id": "1232",
+        "name": "SDN 2 CIBADAK",
+        "vilId": "50122"
+    },
+    {
+        "id": "988",
+        "name": "SDN 1 CIBADAK",
+        "vilId": "50122"
+    },
+    {
+        "id": "1389",
+        "name": "SDN 2 SUKAHARJA",
+        "vilId": "56765"
+    },
+    {
+        "id": "1158",
+        "name": "SDN 1 SUKAHARJA",
+        "vilId": "56765"
+    },
+    {
+        "id": "929",
+        "name": "SD NEGERI SUKAHARJA",
+        "vilId": "56765"
+    },
+    {
+        "id": "1548",
+        "name": "SDN 3 SIRNAJAYA",
+        "vilId": "31152"
+    },
+    {
+        "id": "1385",
+        "name": "SDN 2 SIRNAJAYA",
+        "vilId": "31152"
+    },
+    {
+        "id": "1154",
+        "name": "SDN 1 SIRNAJAYA",
+        "vilId": "31152"
+    },
+    {
+        "id": "900",
+        "name": "SD NEGERI PARUNG",
+        "vilId": "30077"
+    },
+    {
+        "id": "2",
+        "name": "SD BUDI BHAKTI",
+        "vilId": "25958"
+    },
+    {
+        "id": "783",
+        "name": "SD NEGERI CIBUNTU",
+        "vilId": "31440"
+    },
+    {
+        "id": "346",
+        "name": "SD NEGERI 2 CIBUNTU",
+        "vilId": "31440"
+    },
+    {
+        "id": "67",
+        "name": "SD NEGERI 1 CIBUNTU",
+        "vilId": "31440"
+    },
+    {
+        "id": "698",
+        "name": "SD NEGERI 4 CIHIDEUNGHILIR",
+        "vilId": "25967"
+    },
+    {
+        "id": "354",
+        "name": "SD NEGERI 2 CIHIDEUNGHILIR",
+        "vilId": "25967"
+    },
+    {
+        "id": "77",
+        "name": "SD NEGERI 1 CIHIDEUNGHILIR",
+        "vilId": "25967"
+    },
+    {
+        "id": "3",
+        "name": "SD ISLAM MUMTAZ",
+        "vilId": "25967"
+    },
+    {
+        "id": "894",
+        "name": "SD NEGERI PAMIJAHAN",
+        "vilId": "28896"
+    },
+    {
+        "id": "1485",
+        "name": "SDN 3 KERTAJAYA",
+        "vilId": "49266"
+    },
+    {
+        "id": "1304",
+        "name": "SDN 2 KERTAJAYA",
+        "vilId": "49266"
+    },
+    {
+        "id": "1303",
+        "name": "SDN 2 KERTAJAYA",
+        "vilId": "49266"
+    },
+    {
+        "id": "1064",
+        "name": "SDN 1 KERTAJAYA",
+        "vilId": "49266"
+    },
+    {
+        "id": "635",
+        "name": "SD NEGERI 3 KERTAJAYA",
+        "vilId": "49266"
+    },
+    {
+        "id": "444",
+        "name": "SD NEGERI 2 KERTAJAYA",
+        "vilId": "49266"
+    },
+    {
+        "id": "177",
+        "name": "SD NEGERI 1 KERTAJAYA",
+        "vilId": "49266"
+    },
+    {
+        "id": "1324",
+        "name": "SDN 2 MEKARJAYA",
+        "vilId": "72830"
+    },
+    {
+        "id": "1084",
+        "name": "SDN 1 MEKARJAYA",
+        "vilId": "72830"
+    },
+    {
+        "id": "876",
+        "name": "SD NEGERI MEKARJAYA",
+        "vilId": "72830"
+    },
+    {
+        "id": "875",
+        "name": "SD NEGERI MEKARJAYA",
+        "vilId": "72830"
+    },
+    {
+        "id": "477",
+        "name": "SD NEGERI 2 MEKARJAYA",
+        "vilId": "72830"
+    },
+    {
+        "id": "213",
+        "name": "SD NEGERI 1 MEKARJAYA",
+        "vilId": "72830"
+    },
+    {
+        "id": "1469",
+        "name": "SDN 3 JAGABAYA",
+        "vilId": "49801"
+    },
+    {
+        "id": "1275",
+        "name": "SDN 2 JAGABAYA",
+        "vilId": "49801"
+    },
+    {
+        "id": "1035",
+        "name": "SDN 1 JAGABAYA",
+        "vilId": "49801"
+    },
+    {
+        "id": "773",
+        "name": "SD NEGERI BANGUNJAYA",
+        "vilId": "65649"
+    },
+    {
+        "id": "762",
+        "name": "SD NEGERI 6 BANGUNJAYA",
+        "vilId": "65649"
+    },
+    {
+        "id": "748",
+        "name": "SD NEGERI 5 BANGUNJAYA",
+        "vilId": "65649"
+    },
+    {
+        "id": "690",
+        "name": "SD NEGERI 4 BANGUNJAYA",
+        "vilId": "65649"
+    },
+    {
+        "id": "319",
+        "name": "SD NEGERI 2 BANGUNJAYA",
+        "vilId": "65649"
+    },
+    {
+        "id": "32",
+        "name": "SD NEGERI 1 BANGUNJAYA",
+        "vilId": "65649"
+    },
+    {
+        "id": "1457",
+        "name": "SDN 3 CIOMAS",
+        "vilId": "50475"
+    },
+    {
+        "id": "707",
+        "name": "SD NEGERI 4 CIOMAS",
+        "vilId": "50475"
+    },
+    {
+        "id": "385",
+        "name": "SD NEGERI 2 CIOMAS",
+        "vilId": "50475"
+    },
+    {
+        "id": "384",
+        "name": "SD NEGERI 2 CIOMAS",
+        "vilId": "50475"
+    },
+    {
+        "id": "110",
+        "name": "SD NEGERI 1 CIOMAS",
+        "vilId": "50475"
+    },
+    {
+        "id": "109",
+        "name": "SD NEGERI 1 CIOMAS",
+        "vilId": "50475"
+    },
+    {
+        "id": "815",
+        "name": "SD NEGERI CITAPEN",
+        "vilId": "31099"
+    },
+    {
+        "id": "814",
+        "name": "SD NEGERI CITAPEN",
+        "vilId": "31099"
+    },
+    {
+        "id": "1440",
+        "name": "SDN 3 CIBEUREUM",
+        "vilId": "49808"
+    },
+    {
+        "id": "1233",
+        "name": "SDN 2 CIBEUREUM",
+        "vilId": "49808"
+    },
+    {
+        "id": "989",
+        "name": "SDN 1 CIBEUREUM",
+        "vilId": "49808"
+    },
+    {
+        "id": "782",
+        "name": "SD NEGERI CIBEUREUM",
+        "vilId": "49808"
+    },
+    {
+        "id": "587",
+        "name": "SD NEGERI 3 CIBEUREUM",
+        "vilId": "49808"
+    },
+    {
+        "id": "61",
+        "name": "SD NEGERI 1 CIBEUREUM",
+        "vilId": "49808"
+    },
+    {
+        "id": "380",
+        "name": "SD NEGERI 2 CINAGARA",
+        "vilId": "28391"
+    },
+    {
+        "id": "104",
+        "name": "SD NEGERI 1 CINAGARA",
+        "vilId": "28391"
+    },
+    {
+        "id": "808",
+        "name": "SD NEGERI CIPICUNG",
+        "vilId": "49515"
+    },
+    {
+        "id": "898",
+        "name": "SD NEGERI PARAKAN",
+        "vilId": "50448"
+    },
+    {
+        "id": "1188",
+        "name": "SDN 1 SUKAWENING",
+        "vilId": "29669"
+    },
+    {
+        "id": "1527",
+        "name": "SDN 3 PURWASARI",
+        "vilId": "31975"
+    },
+    {
+        "id": "1358",
+        "name": "SDN 2 PURWASARI",
+        "vilId": "31975"
+    },
+    {
+        "id": "1357",
+        "name": "SDN 2 PURWASARI",
+        "vilId": "31975"
+    },
+    {
+        "id": "1119",
+        "name": "SDN 1 PURWASARI",
+        "vilId": "31975"
+    },
+    {
+        "id": "1118",
+        "name": "SDN 1 PURWASARI",
+        "vilId": "31975"
+    },
+    {
+        "id": "665",
+        "name": "SD NEGERI 3 PURWASARI",
+        "vilId": "31975"
+    },
+    {
+        "id": "512",
+        "name": "SD NEGERI 2 PURWASARI",
+        "vilId": "31975"
+    },
+    {
+        "id": "250",
+        "name": "SD NEGERI 1 PURWASARI",
+        "vilId": "31975"
+    },
+    {
+        "id": "1636",
+        "name": "SDN 4 SUKAMANTRI",
+        "vilId": "50064"
+    },
+    {
+        "id": "1560",
+        "name": "SDN 3 SUKAMANTRI",
+        "vilId": "50064"
+    },
+    {
+        "id": "1399",
+        "name": "SDN 2 SUKAMANTRI",
+        "vilId": "50064"
+    },
+    {
+        "id": "1172",
+        "name": "SDN 1 SUKAMANTRI",
+        "vilId": "50064"
+    },
+    {
+        "id": "791",
+        "name": "SD NEGERI CIKAHURIPAN",
+        "vilId": "31006"
+    },
+    {
+        "id": "781",
+        "name": "SD NEGERI CIBENTANG",
+        "vilId": "39727"
+    },
+    {
+        "id": "972",
+        "name": "SDN 1 BANTARSARI",
+        "vilId": "32020"
+    },
+    {
+        "id": "934",
+        "name": "SD NEGERI SUKARASA",
+        "vilId": "50549"
+    },
+    {
+        "id": "881",
+        "name": "SD NEGERI NANGGERANG",
+        "vilId": "49937"
+    },
+    {
+        "id": "1672",
+        "name": "SDN 5 WANGUNJAYA",
+        "vilId": "49948"
+    },
+    {
+        "id": "1643",
+        "name": "SDN 4 WANGUNJAYA",
+        "vilId": "49948"
+    },
+    {
+        "id": "1576",
+        "name": "SDN 3 WANGUNJAYA",
+        "vilId": "49948"
+    },
+    {
+        "id": "1423",
+        "name": "SDN 2 WANGUNJAYA",
+        "vilId": "49948"
+    },
+    {
+        "id": "1202",
+        "name": "SDN 1 WANGUNJAYA",
+        "vilId": "49948"
+    },
+    {
+        "id": "595",
+        "name": "SD NEGERI 3 CIKADU",
+        "vilId": "49858"
+    },
+    {
+        "id": "357",
+        "name": "SD NEGERI 2 CIKADU",
+        "vilId": "49858"
+    },
+    {
+        "id": "81",
+        "name": "SD NEGERI 1 CIKADU",
+        "vilId": "49858"
+    },
+    {
+        "id": "751",
+        "name": "SD NEGERI 5 CIMANGGU",
+        "vilId": "49279"
+    },
+    {
+        "id": "703",
+        "name": "SD NEGERI 4 CIMANGGU",
+        "vilId": "49279"
+    },
+    {
+        "id": "599",
+        "name": "SD NEGERI 3 CIMANGGU",
+        "vilId": "49279"
+    },
+    {
+        "id": "373",
+        "name": "SD NEGERI 2 CIMANGGU",
+        "vilId": "49279"
+    },
+    {
+        "id": "97",
+        "name": "SD NEGERI 1 CIMANGGU",
+        "vilId": "49279"
+    },
+    {
+        "id": "351",
+        "name": "SD NEGERI 2 CIHAUR",
+        "vilId": "39982"
+    },
+    {
+        "id": "74",
+        "name": "SD NEGERI 1 CIHAUR",
+        "vilId": "39982"
+    },
+    {
+        "id": "406",
+        "name": "SD NEGERI 2 GANDASOLI",
+        "vilId": "30348"
+    },
+    {
+        "id": "133",
+        "name": "SD NEGERI 1 GANDASOLI",
+        "vilId": "30348"
+    },
+    {
+        "id": "394",
+        "name": "SD NEGERI 2 CIRENDANG",
+        "vilId": "28427"
+    },
+    {
+        "id": "121",
+        "name": "SD NEGERI 1 CIRENDANG",
+        "vilId": "28427"
+    },
+    {
+        "id": "4",
+        "name": "SD ISLAM PLUS BAITUSSALAM",
+        "vilId": "28427"
+    },
+    {
+        "id": "754",
+        "name": "SD NEGERI 5 MANGUNJAYA",
+        "vilId": "31219"
+    },
+    {
+        "id": "725",
+        "name": "SD NEGERI 4 MANGUNJAYA",
+        "vilId": "31219"
+    },
+    {
+        "id": "469",
+        "name": "SD NEGERI 2 MANGUNJAYA",
+        "vilId": "31219"
+    },
+    {
+        "id": "669",
+        "name": "SD NEGERI 3 SAMPORA",
+        "vilId": "50167"
+    },
+    {
+        "id": "524",
+        "name": "SD NEGERI 2 SAMPORA",
+        "vilId": "50167"
+    },
+    {
+        "id": "263",
+        "name": "SD NEGERI 1 SAMPORA",
+        "vilId": "50167"
+    },
+    {
+        "id": "222",
+        "name": "SD NEGERI 1 PADABEUNGHAR",
+        "vilId": "28562"
+    },
+    {
+        "id": "774",
+        "name": "SD NEGERI BANTARPANJANG",
+        "vilId": "31931"
+    },
+    {
+        "id": "1518",
+        "name": "SDN 3 PANUMBANGAN",
+        "vilId": "28117"
+    },
+    {
+        "id": "1343",
+        "name": "SDN 2 PANUMBANGAN",
+        "vilId": "28117"
+    },
+    {
+        "id": "1104",
+        "name": "SDN 1 PANUMBANGAN",
+        "vilId": "28117"
+    },
+    {
+        "id": "1446",
+        "name": "SDN 3 CIJULANG",
+        "vilId": "31181"
+    },
+    {
+        "id": "1445",
+        "name": "SDN 3 CIJULANG",
+        "vilId": "31181"
+    },
+    {
+        "id": "1243",
+        "name": "SDN 2 CIJULANG",
+        "vilId": "31181"
+    },
+    {
+        "id": "1242",
+        "name": "SDN 2 CIJULANG",
+        "vilId": "31181"
+    },
+    {
+        "id": "999",
+        "name": "SDN 1 CIJULANG",
+        "vilId": "31181"
+    },
+    {
+        "id": "700",
+        "name": "SD NEGERI 4 CIJULANG",
+        "vilId": "31181"
+    },
+    {
+        "id": "80",
+        "name": "SD NEGERI 1 CIJULANG",
+        "vilId": "31181"
+    },
+    {
+        "id": "1271",
+        "name": "SDN 2 HEGARMANAH",
+        "vilId": "61425"
+    },
+    {
+        "id": "1031",
+        "name": "SDN 1 HEGARMANAH",
+        "vilId": "61425"
+    },
+    {
+        "id": "1305",
+        "name": "SDN 2 KERTARAHARJA",
+        "vilId": "49709"
+    },
+    {
+        "id": "1065",
+        "name": "SDN 1 KERTARAHARJA",
+        "vilId": "49709"
+    },
+    {
+        "id": "775",
+        "name": "SD NEGERI BENDA",
+        "vilId": "50572"
+    },
+    {
+        "id": "1519",
+        "name": "SDN 3 PASAWAHAN",
+        "vilId": "30426"
+    },
+    {
+        "id": "1345",
+        "name": "SDN 2 PASAWAHAN",
+        "vilId": "30426"
+    },
+    {
+        "id": "1106",
+        "name": "SDN 1 PASAWAHAN",
+        "vilId": "30426"
+    },
+    {
+        "id": "901",
+        "name": "SD NEGERI PASAWAHAN",
+        "vilId": "30426"
+    },
+    {
+        "id": "660",
+        "name": "SD NEGERI 3 PASAWAHAN",
+        "vilId": "30426"
+    },
+    {
+        "id": "812",
+        "name": "SD NEGERI CISAAT",
+        "vilId": "50474"
+    },
+    {
+        "id": "1426",
+        "name": "SDN 3 BANGBAYANG",
+        "vilId": "39723"
+    },
+    {
+        "id": "1209",
+        "name": "SDN 2 BANGBAYANG",
+        "vilId": "39723"
+    },
+    {
+        "id": "965",
+        "name": "SDN 1 BANGBAYANG",
+        "vilId": "39723"
+    },
+    {
+        "id": "784",
+        "name": "SD NEGERI CIDAHU",
+        "vilId": "50435"
+    },
+    {
+        "id": "347",
+        "name": "SD NEGERI 2 CIDAHU",
+        "vilId": "50435"
+    },
+    {
+        "id": "68",
+        "name": "SD NEGERI 1 CIDAHU",
+        "vilId": "50435"
+    },
+    {
+        "id": "1611",
+        "name": "SDN 4 MEKARMUKTI",
+        "vilId": "31102"
+    },
+    {
+        "id": "1502",
+        "name": "SDN 3 MEKARMUKTI",
+        "vilId": "31102"
+    },
+    {
+        "id": "1325",
+        "name": "SDN 2 MEKARMUKTI",
+        "vilId": "31102"
+    },
+    {
+        "id": "1085",
+        "name": "SDN 1 MEKARMUKTI",
+        "vilId": "31102"
+    },
+    {
+        "id": "577",
+        "name": "SD NEGERI 3 BOJONGSARI",
+        "vilId": "39885"
+    },
+    {
+        "id": "331",
+        "name": "SD NEGERI 2 BOJONGSARI",
+        "vilId": "39885"
+    },
+    {
+        "id": "46",
+        "name": "SD NEGERI 1 BOJONGSARI",
+        "vilId": "39885"
+    },
+    {
+        "id": "1253",
+        "name": "SDN 2 CIPARAY",
+        "vilId": "29269"
+    },
+    {
+        "id": "1010",
+        "name": "SDN 1 CIPARAY",
+        "vilId": "29269"
+    },
+    {
+        "id": "1285",
+        "name": "SDN 2 KARANGANYAR",
+        "vilId": "49027"
+    },
+    {
+        "id": "1046",
+        "name": "SDN 1 KARANGANYAR",
+        "vilId": "49027"
+    },
+    {
+        "id": "850",
+        "name": "SD NEGERI KARANGANYAR",
+        "vilId": "49027"
+    },
+    {
+        "id": "749",
+        "name": "SD NEGERI 5 CIBENDA",
+        "vilId": "31174"
+    },
+    {
+        "id": "695",
+        "name": "SD NEGERI 4 CIBENDA",
+        "vilId": "31174"
+    },
+    {
+        "id": "585",
+        "name": "SD NEGERI 3 CIBENDA",
+        "vilId": "31174"
+    },
+    {
+        "id": "342",
+        "name": "SD NEGERI 2 CIBENDA",
+        "vilId": "31174"
+    },
+    {
+        "id": "59",
+        "name": "SD NEGERI 1 CIBENDA",
+        "vilId": "31174"
+    },
+    {
+        "id": "712",
+        "name": "SD NEGERI 4 CIWARU",
+        "vilId": "28354"
+    },
+    {
+        "id": "612",
+        "name": "SD NEGERI 3 CIWARU",
+        "vilId": "28354"
+    },
+    {
+        "id": "399",
+        "name": "SD NEGERI 2 CIWARU",
+        "vilId": "28354"
+    },
+    {
+        "id": "126",
+        "name": "SD NEGERI 1 CIWARU",
+        "vilId": "28354"
+    },
+    {
+        "id": "1466",
+        "name": "SDN 3 GIRIMUKTI",
+        "vilId": "49873"
+    },
+    {
+        "id": "1267",
+        "name": "SDN 2 GIRIMUKTI",
+        "vilId": "49873"
+    },
+    {
+        "id": "1026",
+        "name": "SDN 1 GIRIMUKTI",
+        "vilId": "49873"
+    },
+    {
+        "id": "1138",
+        "name": "SDN 1 SIDAMULYA",
+        "vilId": "39830"
+    },
+    {
+        "id": "533",
+        "name": "SD NEGERI 2 SIDAMULYA",
+        "vilId": "39830"
+    },
+    {
+        "id": "270",
+        "name": "SD NEGERI 1 SIDAMULYA",
+        "vilId": "39830"
+    },
+    {
+        "id": "671",
+        "name": "SD NEGERI 3 SELAJAMBE",
+        "vilId": "28512"
+    },
+    {
+        "id": "528",
+        "name": "SD NEGERI 2 SELAJAMBE",
+        "vilId": "28512"
+    },
+    {
+        "id": "266",
+        "name": "SD NEGERI 1 SELAJAMBE",
+        "vilId": "28512"
+    },
+    {
+        "id": "807",
+        "name": "SD NEGERI CIPETIR",
+        "vilId": "28393"
+    },
+    {
+        "id": "1500",
+        "name": "SDN 3 MARGALUYU",
+        "vilId": "50717"
+    },
+    {
+        "id": "1080",
+        "name": "SDN 1 MARGALUYU",
+        "vilId": "50717"
+    },
+    {
+        "id": "909",
+        "name": "SD NEGERI SAGARANTEN",
+        "vilId": "28358"
+    },
+    {
+        "id": "1441",
+        "name": "SDN 3 CIDOLOG",
+        "vilId": "28099"
+    },
+    {
+        "id": "1235",
+        "name": "SDN 2 CIDOLOG",
+        "vilId": "28099"
+    },
+    {
+        "id": "991",
+        "name": "SDN 1 CIDOLOG",
+        "vilId": "28099"
+    },
+    {
+        "id": "1570",
+        "name": "SDN 3 SUMBERJAYA",
+        "vilId": "49265"
+    },
+    {
+        "id": "1412",
+        "name": "SDN 2 SUMBERJAYA",
+        "vilId": "49265"
+    },
+    {
+        "id": "1189",
+        "name": "SDN 1 SUMBERJAYA",
+        "vilId": "49265"
+    },
+    {
+        "id": "554",
+        "name": "SD NEGERI 2 SUMBERJAYA",
+        "vilId": "49265"
+    },
+    {
+        "id": "291",
+        "name": "SD NEGERI 1 SUMBERJAYA",
+        "vilId": "49265"
+    },
+    {
+        "id": "777",
+        "name": "SD NEGERI BUNIASIH",
+        "vilId": "28676"
+    },
+    {
+        "id": "1226",
+        "name": "SDN 2 BUNISARI",
+        "vilId": "31199"
+    },
+    {
+        "id": "49",
+        "name": "SD NEGERI 1 BUNISARI",
+        "vilId": "31199"
+    },
+    {
+        "id": "1180",
+        "name": "SDN 1 SUKARAHARJA",
+        "vilId": "28298"
+    },
+    {
+        "id": "795",
+        "name": "SD NEGERI CIKONDANG",
+        "vilId": "31342"
+    },
+    {
+        "id": "1396",
+        "name": "SDN 2 SUKAKERTA",
+        "vilId": "30836"
+    },
+    {
+        "id": "1167",
+        "name": "SDN 1 SUKAKERTA",
+        "vilId": "30836"
+    },
+    {
+        "id": "1632",
+        "name": "SDN 4 SINDANGSARI",
+        "vilId": "50466"
+    },
+    {
+        "id": "1547",
+        "name": "SDN 3 SINDANGSARI",
+        "vilId": "50466"
+    },
+    {
+        "id": "1546",
+        "name": "SDN 3 SINDANGSARI",
+        "vilId": "50466"
+    },
+    {
+        "id": "1545",
+        "name": "SDN 3 SINDANGSARI",
+        "vilId": "50466"
+    },
+    {
+        "id": "1383",
+        "name": "SDN 2 SINDANGSARI",
+        "vilId": "50466"
+    },
+    {
+        "id": "1382",
+        "name": "SDN 2 SINDANGSARI",
+        "vilId": "50466"
+    },
+    {
+        "id": "1381",
+        "name": "SDN 2 SINDANGSARI",
+        "vilId": "50466"
+    },
+    {
+        "id": "1380",
+        "name": "SDN 2 SINDANGSARI",
+        "vilId": "50466"
+    },
+    {
+        "id": "1152",
+        "name": "SDN 1 SINDANGSARI",
+        "vilId": "50466"
+    },
+    {
+        "id": "1151",
+        "name": "SDN 1 SINDANGSARI",
+        "vilId": "50466"
+    },
+    {
+        "id": "1150",
+        "name": "SDN 1 SINDANGSARI",
+        "vilId": "50466"
+    },
+    {
+        "id": "1149",
+        "name": "SDN 1 SINDANGSARI",
+        "vilId": "50466"
+    },
+    {
+        "id": "923",
+        "name": "SD NEGERI SINDANGSARI",
+        "vilId": "50466"
+    },
+    {
+        "id": "922",
+        "name": "SD NEGERI SINDANGSARI",
+        "vilId": "50466"
+    },
+    {
+        "id": "760",
+        "name": "SD NEGERI 5 SINDANGSARI",
+        "vilId": "50466"
+    },
+    {
+        "id": "742",
+        "name": "SD NEGERI 4 SINDANGSARI",
+        "vilId": "50466"
+    },
+    {
+        "id": "1507",
+        "name": "SDN 3 MULYASARI",
+        "vilId": "71268"
+    },
+    {
+        "id": "1330",
+        "name": "SDN 2 MULYASARI",
+        "vilId": "71268"
+    },
+    {
+        "id": "1090",
+        "name": "SDN 1 MULYASARI",
+        "vilId": "71268"
+    },
+    {
+        "id": "759",
+        "name": "SD NEGERI 5 SINDANGJAYA",
+        "vilId": "39969"
+    },
+    {
+        "id": "741",
+        "name": "SD NEGERI 4 SINDANGJAYA",
+        "vilId": "39969"
+    },
+    {
+        "id": "676",
+        "name": "SD NEGERI 3 SINDANGJAYA",
+        "vilId": "39969"
+    },
+    {
+        "id": "540",
+        "name": "SD NEGERI 2 SINDANGJAYA",
+        "vilId": "39969"
+    },
+    {
+        "id": "277",
+        "name": "SD NEGERI 1 SINDANGJAYA",
+        "vilId": "39969"
+    },
+    {
+        "id": "1677",
+        "name": "SDN 6 MALEBER",
+        "vilId": "31382"
+    },
+    {
+        "id": "1661",
+        "name": "SDN 5 MALEBER",
+        "vilId": "31382"
+    },
+    {
+        "id": "1609",
+        "name": "SDN 4 MALEBER",
+        "vilId": "31382"
+    },
+    {
+        "id": "1315",
+        "name": "SDN 2 MALEBER",
+        "vilId": "31382"
+    },
+    {
+        "id": "1074",
+        "name": "SDN 1 MALEBER",
+        "vilId": "31382"
+    },
+    {
+        "id": "868",
+        "name": "SD NEGERI MALEBER",
+        "vilId": "31382"
+    },
+    {
+        "id": "1540",
+        "name": "SDN 3 SINDANGASIH",
+        "vilId": "50187"
+    },
+    {
+        "id": "1373",
+        "name": "SDN 2 SINDANGASIH",
+        "vilId": "50187"
+    },
+    {
+        "id": "1140",
+        "name": "SDN 1 SINDANGASIH",
+        "vilId": "50187"
+    },
+    {
+        "id": "1311",
+        "name": "SDN 2 KUTAWARINGIN",
+        "vilId": "28515"
+    },
+    {
+        "id": "1071",
+        "name": "SDN 1 KUTAWARINGIN",
+        "vilId": "28515"
+    },
+    {
+        "id": "638",
+        "name": "SD NEGERI 3 KUTAWARINGIN",
+        "vilId": "28515"
+    },
+    {
+        "id": "457",
+        "name": "SD NEGERI 2 KUTAWARINGIN",
+        "vilId": "28515"
+    },
+    {
+        "id": "190",
+        "name": "SD NEGERI 1 KUTAWARINGIN",
+        "vilId": "28515"
+    },
+    {
+        "id": "877",
+        "name": "SD NEGERI MEKARMULYA",
+        "vilId": "49747"
+    },
+    {
+        "id": "1565",
+        "name": "SDN 3 SUKANAGARA",
+        "vilId": "50127"
+    },
+    {
+        "id": "1564",
+        "name": "SDN 3 SUKANAGARA",
+        "vilId": "50127"
+    },
+    {
+        "id": "1405",
+        "name": "SDN 2 SUKANAGARA",
+        "vilId": "50127"
+    },
+    {
+        "id": "1404",
+        "name": "SDN 2 SUKANAGARA",
+        "vilId": "50127"
+    },
+    {
+        "id": "1179",
+        "name": "SDN 1 SUKANAGARA",
+        "vilId": "50127"
+    },
+    {
+        "id": "1178",
+        "name": "SDN 1 SUKANAGARA",
+        "vilId": "50127"
+    },
+    {
+        "id": "761",
+        "name": "SD NEGERI 5 SUKANAGARA",
+        "vilId": "50127"
+    },
+    {
+        "id": "745",
+        "name": "SD NEGERI 4 SUKANAGARA",
+        "vilId": "50127"
+    },
+    {
+        "id": "681",
+        "name": "SD NEGERI 3 SUKANAGARA",
+        "vilId": "50127"
+    },
+    {
+        "id": "550",
+        "name": "SD NEGERI 2 SUKANAGARA",
+        "vilId": "50127"
+    },
+    {
+        "id": "287",
+        "name": "SD NEGERI 1 SUKANAGARA",
+        "vilId": "50127"
+    },
+    {
+        "id": "1471",
+        "name": "SDN 3 JAYAGIRI",
+        "vilId": "31009"
+    },
+    {
+        "id": "1279",
+        "name": "SDN 2 JAYAGIRI",
+        "vilId": "31009"
+    },
+    {
+        "id": "1040",
+        "name": "SDN 1 JAYAGIRI",
+        "vilId": "31009"
+    },
+    {
+        "id": "1293",
+        "name": "SDN 2 KARYAMUKTI",
+        "vilId": "72718"
+    },
+    {
+        "id": "1054",
+        "name": "SDN 1 KARYAMUKTI",
+        "vilId": "72718"
+    },
+    {
+        "id": "334",
+        "name": "SD NEGERI 2 CAMPAKA",
+        "vilId": "75375"
+    },
+    {
+        "id": "50",
+        "name": "SD NEGERI 1 CAMPAKA",
+        "vilId": "75375"
+    },
+    {
+        "id": "1375",
+        "name": "SDN 2 SINDANGHAYU",
+        "vilId": "49403"
+    },
+    {
+        "id": "1142",
+        "name": "SDN 1 SINDANGHAYU",
+        "vilId": "49403"
+    },
+    {
+        "id": "1413",
+        "name": "SDN 2 TALAGASARI",
+        "vilId": "50124"
+    },
+    {
+        "id": "1190",
+        "name": "SDN 1 TALAGASARI",
+        "vilId": "50124"
+    },
+    {
+        "id": "1474",
+        "name": "SDN 3 KADUPANDAK",
+        "vilId": "49363"
+    },
+    {
+        "id": "1282",
+        "name": "SDN 2 KADUPANDAK",
+        "vilId": "49363"
+    },
+    {
+        "id": "1043",
+        "name": "SDN 1 KADUPANDAK",
+        "vilId": "49363"
+    },
+    {
+        "id": "1604",
+        "name": "SDN 4 KERTASARI",
+        "vilId": "51991"
+    },
+    {
+        "id": "1487",
+        "name": "SDN 3 KERTASARI",
+        "vilId": "51991"
+    },
+    {
+        "id": "1306",
+        "name": "SDN 2 KERTASARI",
+        "vilId": "51991"
+    },
+    {
+        "id": "1066",
+        "name": "SDN 1 KERTASARI",
+        "vilId": "51991"
+    },
+    {
+        "id": "345",
+        "name": "SD NEGERI 2 CIBULUH",
+        "vilId": "31313"
+    },
+    {
+        "id": "66",
+        "name": "SD NEGERI 1 CIBULUH",
+        "vilId": "31313"
+    },
+    {
+        "id": "1543",
+        "name": "SDN 3 SINDANGLAYA",
+        "vilId": "49892"
+    },
+    {
+        "id": "1377",
+        "name": "SDN 2 SINDANGLAYA",
+        "vilId": "49892"
+    },
+    {
+        "id": "1145",
+        "name": "SDN 1 SINDANGLAYA",
+        "vilId": "49892"
+    },
+    {
+        "id": "1528",
+        "name": "SDN 3 PUSAKASARI",
+        "vilId": "28175"
+    },
+    {
+        "id": "1359",
+        "name": "SDN 2 PUSAKASARI",
+        "vilId": "28175"
+    },
+    {
+        "id": "1121",
+        "name": "SDN 1 PUSAKASARI",
+        "vilId": "28175"
+    },
+    {
+        "id": "1336",
+        "name": "SDN 2 PADAMULYA",
+        "vilId": "49324"
+    },
+    {
+        "id": "1096",
+        "name": "SDN 1 PADAMULYA",
+        "vilId": "49324"
+    },
+    {
+        "id": "486",
+        "name": "SD NEGERI 2 PADAMULYA",
+        "vilId": "49324"
+    },
+    {
+        "id": "225",
+        "name": "SD NEGERI 1 PADAMULYA",
+        "vilId": "49324"
+    },
+    {
+        "id": "726",
+        "name": "SD NEGERI 4 MARGAMUKTI",
+        "vilId": "29659"
+    },
+    {
+        "id": "647",
+        "name": "SD NEGERI 3 MARGAMUKTI",
+        "vilId": "29659"
+    },
+    {
+        "id": "210",
+        "name": "SD NEGERI 1 MARGAMUKTI",
+        "vilId": "29659"
+    },
+    {
+        "id": "1321",
+        "name": "SDN 2 MARGAMULYA",
+        "vilId": "49727"
+    },
+    {
+        "id": "1081",
+        "name": "SDN 1 MARGAMULYA",
+        "vilId": "49727"
+    },
+    {
+        "id": "461",
+        "name": "SD NEGERI 2 LEBAKWANGI",
+        "vilId": "50731"
+    },
+    {
+        "id": "194",
+        "name": "SD NEGERI 1 LEBAKWANGI",
+        "vilId": "50731"
+    },
+    {
+        "id": "359",
+        "name": "SD NEGERI 2 CIKALONG",
+        "vilId": "49531"
+    },
+    {
+        "id": "83",
+        "name": "SD NEGERI 1 CIKALONG",
+        "vilId": "49531"
+    },
+    {
+        "id": "1653",
+        "name": "SDN 5 JELEGONG",
+        "vilId": "28102"
+    },
+    {
+        "id": "1597",
+        "name": "SDN 4 JELEGONG",
+        "vilId": "28102"
+    },
+    {
+        "id": "1473",
+        "name": "SDN 3 JELEGONG",
+        "vilId": "28102"
+    },
+    {
+        "id": "1281",
+        "name": "SDN 2 JELEGONG",
+        "vilId": "28102"
+    },
+    {
+        "id": "1042",
+        "name": "SDN 1 JELEGONG",
+        "vilId": "28102"
+    },
+    {
+        "id": "1586",
+        "name": "SDN 4 CIKONENG",
+        "vilId": "50486"
+    },
+    {
+        "id": "1448",
+        "name": "SDN 3 CIKONENG",
+        "vilId": "50486"
+    },
+    {
+        "id": "1244",
+        "name": "SDN 2 CIKONENG",
+        "vilId": "50486"
+    },
+    {
+        "id": "1001",
+        "name": "SDN 1 CIKONENG",
+        "vilId": "50486"
+    },
+    {
+        "id": "710",
+        "name": "SD NEGERI 4 CIPEDES",
+        "vilId": "31675"
+    },
+    {
+        "id": "607",
+        "name": "SD NEGERI 3 CIPEDES",
+        "vilId": "31675"
+    },
+    {
+        "id": "115",
+        "name": "SD NEGERI 1 CIPEDES",
+        "vilId": "31675"
+    },
+    {
+        "id": "1458",
+        "name": "SDN 3 CIPAKU",
+        "vilId": "32500"
+    },
+    {
+        "id": "1252",
+        "name": "SDN 2 CIPAKU",
+        "vilId": "32500"
+    },
+    {
+        "id": "1009",
+        "name": "SDN 1 CIPAKU",
+        "vilId": "32500"
+    },
+    {
+        "id": "1274",
+        "name": "SDN 2 INDRAGIRI",
+        "vilId": "28155"
+    },
+    {
+        "id": "1034",
+        "name": "SDN 1 INDRAGIRI",
+        "vilId": "28155"
+    },
+    {
+        "id": "496",
+        "name": "SD NEGERI 2 PANANJUNG",
+        "vilId": "31251"
+    },
+    {
+        "id": "629",
+        "name": "SD NEGERI 3 KARANGMULYA",
+        "vilId": "39671"
+    },
+    {
+        "id": "435",
+        "name": "SD NEGERI 2 KARANGMULYA",
+        "vilId": "39671"
+    },
+    {
+        "id": "167",
+        "name": "SD NEGERI 1 KARANGMULYA",
+        "vilId": "39671"
+    },
+    {
+        "id": "1655",
+        "name": "SDN 5 KARANGPAWITAN",
+        "vilId": "31227"
+    },
+    {
+        "id": "1654",
+        "name": "SDN 5 KARANGPAWITAN",
+        "vilId": "31227"
+    },
+    {
+        "id": "1599",
+        "name": "SDN 4 KARANGPAWITAN",
+        "vilId": "31227"
+    },
+    {
+        "id": "1478",
+        "name": "SDN 3 KARANGPAWITAN",
+        "vilId": "31227"
+    },
+    {
+        "id": "1292",
+        "name": "SDN 2 KARANGPAWITAN",
+        "vilId": "31227"
+    },
+    {
+        "id": "1291",
+        "name": "SDN 2 KARANGPAWITAN",
+        "vilId": "31227"
+    },
+    {
+        "id": "1053",
+        "name": "SDN 1 KARANGPAWITAN",
+        "vilId": "31227"
+    },
+    {
+        "id": "1052",
+        "name": "SDN 1 KARANGPAWITAN",
+        "vilId": "31227"
+    },
+    {
+        "id": "720",
+        "name": "SD NEGERI 4 KARANGPAWITAN",
+        "vilId": "31227"
+    },
+    {
+        "id": "630",
+        "name": "SD NEGERI 3 KARANGPAWITAN",
+        "vilId": "31227"
+    },
+    {
+        "id": "542",
+        "name": "SD NEGERI 2 SITUGEDE",
+        "vilId": "28349"
+    },
+    {
+        "id": "279",
+        "name": "SD NEGERI 1 SITUGEDE",
+        "vilId": "28349"
+    },
+    {
+        "id": "1569",
+        "name": "SDN 3 SUKASENANG",
+        "vilId": "49814"
+    },
+    {
+        "id": "1410",
+        "name": "SDN 2 SUKASENANG",
+        "vilId": "49814"
+    },
+    {
+        "id": "1186",
+        "name": "SDN 1 SUKASENANG",
+        "vilId": "49814"
+    },
+    {
+        "id": "603",
+        "name": "SD NEGERI 3 CINTAKARYA",
+        "vilId": "31175"
+    },
+    {
+        "id": "383",
+        "name": "SD NEGERI 2 CINTAKARYA",
+        "vilId": "31175"
+    },
+    {
+        "id": "107",
+        "name": "SD NEGERI 1 CINTAKARYA",
+        "vilId": "31175"
+    },
+    {
+        "id": "701",
+        "name": "SD NEGERI 4 CIKEMBULAN",
+        "vilId": "32222"
+    },
+    {
+        "id": "362",
+        "name": "SD NEGERI 2 CIKEMBULAN",
+        "vilId": "32222"
+    },
+    {
+        "id": "86",
+        "name": "SD NEGERI 1 CIKEMBULAN",
+        "vilId": "32222"
+    },
+    {
+        "id": "474",
+        "name": "SD NEGERI 2 MARGACINTA",
+        "vilId": "31183"
+    },
+    {
+        "id": "209",
+        "name": "SD NEGERI 1 MARGACINTA",
+        "vilId": "31183"
+    },
+    {
+        "id": "13",
+        "name": "SD IT AN-NAHAR",
+        "vilId": "31183"
+    },
+    {
+        "id": "924",
+        "name": "SD NEGERI SINDANGSUKA",
+        "vilId": "28382"
+    },
+    {
+        "id": "1388",
+        "name": "SDN 2 SUKAHAJI",
+        "vilId": "31373"
+    },
+    {
+        "id": "1157",
+        "name": "SDN 1 SUKAHAJI",
+        "vilId": "31373"
+    },
+    {
+        "id": "1617",
+        "name": "SDN 4 PAMALAYAN",
+        "vilId": "28086"
+    },
+    {
+        "id": "1513",
+        "name": "SDN 3 PAMALAYAN",
+        "vilId": "28086"
+    },
+    {
+        "id": "1338",
+        "name": "SDN 2 PAMALAYAN",
+        "vilId": "28086"
+    },
+    {
+        "id": "1098",
+        "name": "SDN 1 PAMALAYAN",
+        "vilId": "28086"
+    },
+    {
+        "id": "19",
+        "name": "SD MODEL AULADY",
+        "vilId": "28086"
+    },
+    {
+        "id": "1552",
+        "name": "SDN 3 SUKAHURIP",
+        "vilId": "31714"
+    },
+    {
+        "id": "1551",
+        "name": "SDN 3 SUKAHURIP",
+        "vilId": "31714"
+    },
+    {
+        "id": "1550",
+        "name": "SDN 3 SUKAHURIP",
+        "vilId": "31714"
+    },
+    {
+        "id": "1391",
+        "name": "SDN 2 SUKAHURIP",
+        "vilId": "31714"
+    },
+    {
+        "id": "1390",
+        "name": "SDN 2 SUKAHURIP",
+        "vilId": "31714"
+    },
+    {
+        "id": "1162",
+        "name": "SDN 1 SUKAHURIP",
+        "vilId": "31714"
+    },
+    {
+        "id": "1161",
+        "name": "SDN 1 SUKAHURIP",
+        "vilId": "31714"
+    },
+    {
+        "id": "1160",
+        "name": "SDN 1 SUKAHURIP",
+        "vilId": "31714"
+    },
+    {
+        "id": "1159",
+        "name": "SDN 1 SUKAHURIP",
+        "vilId": "31714"
+    },
+    {
+        "id": "1589",
+        "name": "SDN 4 CINTANAGARA",
+        "vilId": "28182"
+    },
+    {
+        "id": "1454",
+        "name": "SDN 3 CINTANAGARA",
+        "vilId": "28182"
+    },
+    {
+        "id": "1248",
+        "name": "SDN 2 CINTANAGARA",
+        "vilId": "28182"
+    },
+    {
+        "id": "1006",
+        "name": "SDN 1 CINTANAGARA",
+        "vilId": "28182"
+    },
+    {
+        "id": "939",
+        "name": "SD NEGERI TAMBAKBAYA",
+        "vilId": "49829"
+    },
+    {
+        "id": "360",
+        "name": "SD NEGERI 2 CIKANDANG",
+        "vilId": "39872"
+    },
+    {
+        "id": "84",
+        "name": "SD NEGERI 1 CIKANDANG",
+        "vilId": "39872"
+    },
+    {
+        "id": "485",
+        "name": "SD NEGERI 2 PADAHURIP",
+        "vilId": "28518"
+    },
+    {
+        "id": "224",
+        "name": "SD NEGERI 1 PADAHURIP",
+        "vilId": "28518"
+    },
+    {
+        "id": "480",
+        "name": "SD NEGERI 2 MULYAJAYA",
+        "vilId": "30787"
+    },
+    {
+        "id": "217",
+        "name": "SD NEGERI 1 MULYAJAYA",
+        "vilId": "30787"
+    },
+    {
+        "id": "1671",
+        "name": "SDN 5 TANJUNGJAYA",
+        "vilId": "49321"
+    },
+    {
+        "id": "1639",
+        "name": "SDN 4 TANJUNGJAYA",
+        "vilId": "49321"
+    },
+    {
+        "id": "1571",
+        "name": "SDN 3 TANJUNGJAYA",
+        "vilId": "49321"
+    },
+    {
+        "id": "1415",
+        "name": "SDN 2 TANJUNGJAYA",
+        "vilId": "49321"
+    },
+    {
+        "id": "1193",
+        "name": "SDN 1 TANJUNGJAYA",
+        "vilId": "49321"
+    },
+    {
+        "id": "1192",
+        "name": "SDN 1 TANJUNGJAYA",
+        "vilId": "49321"
+    },
+    {
+        "id": "786",
+        "name": "SD NEGERI CIGINTUNG",
+        "vilId": "31970"
+    },
+    {
+        "id": "1622",
+        "name": "SDN 4 PURWAJAYA",
+        "vilId": "62013"
+    },
+    {
+        "id": "1525",
+        "name": "SDN 3 PURWAJAYA",
+        "vilId": "62013"
+    },
+    {
+        "id": "1355",
+        "name": "SDN 2 PURWAJAYA",
+        "vilId": "62013"
+    },
+    {
+        "id": "1116",
+        "name": "SDN 1 PURWAJAYA",
+        "vilId": "62013"
+    },
+    {
+        "id": "417",
+        "name": "SD NEGERI 2 JATIMULYA",
+        "vilId": "72833"
+    },
+    {
+        "id": "148",
+        "name": "SD NEGERI 1 JATIMULYA",
+        "vilId": "72833"
+    },
+    {
+        "id": "711",
+        "name": "SD NEGERI 4 CITANGTU",
+        "vilId": "28420"
+    },
+    {
+        "id": "611",
+        "name": "SD NEGERI 3 CITANGTU",
+        "vilId": "28420"
+    },
+    {
+        "id": "396",
+        "name": "SD NEGERI 2 CITANGTU",
+        "vilId": "28420"
+    },
+    {
+        "id": "123",
+        "name": "SD NEGERI 1 CITANGTU",
+        "vilId": "28420"
+    },
+    {
+        "id": "1647",
+        "name": "SDN 5 CIKUPA",
+        "vilId": "50126"
+    },
+    {
+        "id": "1587",
+        "name": "SDN 4 CIKUPA",
+        "vilId": "50126"
+    },
+    {
+        "id": "1449",
+        "name": "SDN 3 CIKUPA",
+        "vilId": "50126"
+    },
+    {
+        "id": "1245",
+        "name": "SDN 2 CIKUPA",
+        "vilId": "50126"
+    },
+    {
+        "id": "1003",
+        "name": "SDN 1 CIKUPA",
+        "vilId": "50126"
+    },
+    {
+        "id": "1002",
+        "name": "SDN 1 CIKUPA",
+        "vilId": "50126"
+    },
+    {
+        "id": "797",
+        "name": "SD NEGERI CIKUPA",
+        "vilId": "50126"
+    },
+    {
+        "id": "1607",
+        "name": "SDN 4 KUJANG",
+        "vilId": "28076"
+    },
+    {
+        "id": "1491",
+        "name": "SDN 3 KUJANG",
+        "vilId": "28076"
+    },
+    {
+        "id": "1310",
+        "name": "SDN 2 KUJANG",
+        "vilId": "28076"
+    },
+    {
+        "id": "1070",
+        "name": "SDN 1 KUJANG",
+        "vilId": "28076"
+    },
+    {
+        "id": "467",
+        "name": "SD NEGERI 2 MANDALAJAYA",
+        "vilId": "28674"
+    },
+    {
+        "id": "203",
+        "name": "SD NEGERI 1 MANDALAJAYA",
+        "vilId": "28674"
+    },
+    {
+        "id": "558",
+        "name": "SD NEGERI 2 TARAJU",
+        "vilId": "28687"
+    },
+    {
+        "id": "296",
+        "name": "SD NEGERI 1 TARAJU",
+        "vilId": "28687"
+    },
+    {
+        "id": "855",
+        "name": "SD NEGERI KAWUNGSARI",
+        "vilId": "28650"
+    },
+    {
+        "id": "363",
+        "name": "SD NEGERI 2 CIKEUSAL",
+        "vilId": "50405"
+    },
+    {
+        "id": "87",
+        "name": "SD NEGERI 1 CIKEUSAL",
+        "vilId": "50405"
+    },
+    {
+        "id": "602",
+        "name": "SD NEGERI 3 CINTAJAYA",
+        "vilId": "29736"
+    },
+    {
+        "id": "382",
+        "name": "SD NEGERI 2 CINTAJAYA",
+        "vilId": "29736"
+    },
+    {
+        "id": "106",
+        "name": "SD NEGERI 1 CINTAJAYA",
+        "vilId": "29736"
+    },
+    {
+        "id": "1277",
+        "name": "SDN 2 JANGGALA",
+        "vilId": "28100"
+    },
+    {
+        "id": "1038",
+        "name": "SDN 1 JANGGALA",
+        "vilId": "28100"
+    },
+    {
+        "id": "1499",
+        "name": "SDN 3 MARGAJAYA",
+        "vilId": "49737"
+    },
+    {
+        "id": "1498",
+        "name": "SDN 3 MARGAJAYA",
+        "vilId": "49737"
+    },
+    {
+        "id": "1320",
+        "name": "SDN 2 MARGAJAYA",
+        "vilId": "49737"
+    },
+    {
+        "id": "1319",
+        "name": "SDN 2 MARGAJAYA",
+        "vilId": "49737"
+    },
+    {
+        "id": "1079",
+        "name": "SDN 1 MARGAJAYA",
+        "vilId": "49737"
+    },
+    {
+        "id": "1078",
+        "name": "SDN 1 MARGAJAYA",
+        "vilId": "49737"
+    },
+    {
+        "id": "682",
+        "name": "SD NEGERI 3 SUKARAPIH",
+        "vilId": "30842"
+    },
+    {
+        "id": "552",
+        "name": "SD NEGERI 2 SUKARAPIH",
+        "vilId": "30842"
+    },
+    {
+        "id": "289",
+        "name": "SD NEGERI 1 SUKARAPIH",
+        "vilId": "30842"
+    },
+    {
+        "id": "465",
+        "name": "SD NEGERI 2 LINGGAJATI",
+        "vilId": "29944"
+    },
+    {
+        "id": "199",
+        "name": "SD NEGERI 1 LINGGAJATI",
+        "vilId": "29944"
+    },
+    {
+        "id": "1411",
+        "name": "SDN 2 SUKASETIA",
+        "vilId": "28109"
+    },
+    {
+        "id": "1187",
+        "name": "SDN 1 SUKASETIA",
+        "vilId": "28109"
+    },
+    {
+        "id": "614",
+        "name": "SD NEGERI 3 GERESIK",
+        "vilId": "28436"
+    },
+    {
+        "id": "408",
+        "name": "SD NEGERI 2 GERESIK",
+        "vilId": "28436"
+    },
+    {
+        "id": "135",
+        "name": "SD NEGERI 1 GERESIK",
+        "vilId": "28436"
+    },
+    {
+        "id": "557",
+        "name": "SD NEGERI 2 TANJUNGKERTA",
+        "vilId": "29754"
+    },
+    {
+        "id": "295",
+        "name": "SD NEGERI 1 TANJUNGKERTA",
+        "vilId": "29754"
+    },
+    {
+        "id": "809",
+        "name": "SD NEGERI CIPONDOK",
+        "vilId": "28330"
+    },
+    {
+        "id": "390",
+        "name": "SD NEGERI 2 CIPONDOK",
+        "vilId": "28330"
+    },
+    {
+        "id": "116",
+        "name": "SD NEGERI 1 CIPONDOK",
+        "vilId": "28330"
+    },
+    {
+        "id": "1407",
+        "name": "SDN 2 SUKARESIK",
+        "vilId": "31255"
+    },
+    {
+        "id": "1183",
+        "name": "SDN 1 SUKARESIK",
+        "vilId": "31255"
+    },
+    {
+        "id": "1182",
+        "name": "SDN 1 SUKARESIK",
+        "vilId": "31255"
+    },
+    {
+        "id": "553",
+        "name": "SD NEGERI 2 SUKARESIK",
+        "vilId": "31255"
+    },
+    {
+        "id": "1443",
+        "name": "SDN 3 CIGEMBOR",
+        "vilId": "28062"
+    },
+    {
+        "id": "1238",
+        "name": "SDN 2 CIGEMBOR",
+        "vilId": "28062"
+    },
+    {
+        "id": "994",
+        "name": "SDN 1 CIGEMBOR",
+        "vilId": "28062"
+    },
+    {
+        "id": "1660",
+        "name": "SDN 5 LINGGASARI",
+        "vilId": "32760"
+    },
+    {
+        "id": "1493",
+        "name": "SDN 3 LINGGASARI",
+        "vilId": "32760"
+    },
+    {
+        "id": "1313",
+        "name": "SDN 2 LINGGASARI",
+        "vilId": "32760"
+    },
+    {
+        "id": "1073",
+        "name": "SDN 1 LINGGASARI",
+        "vilId": "32760"
+    },
+    {
+        "id": "1668",
+        "name": "SDN 5 SINDANGRASA",
+        "vilId": "31280"
+    },
+    {
+        "id": "1631",
+        "name": "SDN 4 SINDANGRASA",
+        "vilId": "31280"
+    },
+    {
+        "id": "1544",
+        "name": "SDN 3 SINDANGRASA",
+        "vilId": "31280"
+    },
+    {
+        "id": "1379",
+        "name": "SDN 2 SINDANGRASA",
+        "vilId": "31280"
+    },
+    {
+        "id": "1148",
+        "name": "SDN 1 SINDANGRASA",
+        "vilId": "31280"
+    },
+    {
+        "id": "1147",
+        "name": "SDN 1 SINDANGRASA",
+        "vilId": "31280"
+    },
+    {
+        "id": "677",
+        "name": "SD NEGERI 3 SINDANGRASA",
+        "vilId": "31280"
+    },
+    {
+        "id": "1521",
+        "name": "SDN 3 PAWINDAN",
+        "vilId": "28066"
+    },
+    {
+        "id": "1111",
+        "name": "SDN 1 PAWINDAN",
+        "vilId": "28066"
+    },
+    {
+        "id": "1591",
+        "name": "SDN 4 CISADAP",
+        "vilId": "28067"
+    },
+    {
+        "id": "1459",
+        "name": "SDN 3 CISADAP",
+        "vilId": "28067"
+    },
+    {
+        "id": "1255",
+        "name": "SDN 2 CISADAP",
+        "vilId": "28067"
+    },
+    {
+        "id": "1012",
+        "name": "SDN 1 CISADAP",
+        "vilId": "28067"
+    },
+    {
+        "id": "1272",
+        "name": "SDN 2 IMBANAGARA",
+        "vilId": "28068"
+    },
+    {
+        "id": "1032",
+        "name": "SDN 1 IMBANAGARA",
+        "vilId": "28068"
+    },
+    {
+        "id": "1652",
+        "name": "SDN 5 IMBANAGARA RAYA",
+        "vilId": "28069"
+    },
+    {
+        "id": "1596",
+        "name": "SDN 4 IMBANAGARA RAYA",
+        "vilId": "28069"
+    },
+    {
+        "id": "1273",
+        "name": "SDN 2 IMBANAGARA RAYA",
+        "vilId": "28069"
+    },
+    {
+        "id": "1033",
+        "name": "SDN 1 IMBANAGARA RAYA",
+        "vilId": "28069"
+    },
+    {
+        "id": "1344",
+        "name": "SDN 2 PANYINGKIRAN",
+        "vilId": "31686"
+    },
+    {
+        "id": "1105",
+        "name": "SDN 1 PANYINGKIRAN",
+        "vilId": "31686"
+    },
+    {
+        "id": "1463",
+        "name": "SDN 3 DARMACAANG",
+        "vilId": "28075"
+    },
+    {
+        "id": "1261",
+        "name": "SDN 2 DARMACAANG",
+        "vilId": "28075"
+    },
+    {
+        "id": "1019",
+        "name": "SDN 1 DARMACAANG",
+        "vilId": "28075"
+    },
+    {
+        "id": "1662",
+        "name": "SDN 5 NASOL",
+        "vilId": "28077"
+    },
+    {
+        "id": "1616",
+        "name": "SDN 4 NASOL",
+        "vilId": "28077"
+    },
+    {
+        "id": "1511",
+        "name": "SDN 3 NASOL",
+        "vilId": "28077"
+    },
+    {
+        "id": "1334",
+        "name": "SDN 2 NASOL",
+        "vilId": "28077"
+    },
+    {
+        "id": "1094",
+        "name": "SDN 1 NASOL",
+        "vilId": "28077"
+    },
+    {
+        "id": "1452",
+        "name": "SDN 3 CIMARI",
+        "vilId": "28078"
+    },
+    {
+        "id": "1247",
+        "name": "SDN 2 CIMARI",
+        "vilId": "28078"
+    },
+    {
+        "id": "1005",
+        "name": "SDN 1 CIMARI",
+        "vilId": "28078"
+    },
+    {
+        "id": "1265",
+        "name": "SDN 2 GEGEMPALAN",
+        "vilId": "28079"
+    },
+    {
+        "id": "1023",
+        "name": "SDN 1 GEGEMPALAN",
+        "vilId": "28079"
+    },
+    {
+        "id": "1270",
+        "name": "SDN 2 HANDAPHERANG",
+        "vilId": "28080"
+    },
+    {
+        "id": "1030",
+        "name": "SDN 1 HANDAPHERANG",
+        "vilId": "28080"
+    },
+    {
+        "id": "1239",
+        "name": "SDN 2 CIHARALANG",
+        "vilId": "28081"
+    },
+    {
+        "id": "995",
+        "name": "SDN 1 CIHARALANG",
+        "vilId": "28081"
+    },
+    {
+        "id": "1581",
+        "name": "SDN 4 BOJONGMENGGER",
+        "vilId": "28082"
+    },
+    {
+        "id": "1435",
+        "name": "SDN 3 BOJONGMENGGER",
+        "vilId": "28082"
+    },
+    {
+        "id": "1222",
+        "name": "SDN 2 BOJONGMENGGER",
+        "vilId": "28082"
+    },
+    {
+        "id": "980",
+        "name": "SDN 1 BOJONGMENGGER",
+        "vilId": "28082"
+    },
+    {
+        "id": "1475",
+        "name": "SDN 3 KARANGKAMULYAN",
+        "vilId": "49929"
+    },
+    {
+        "id": "1286",
+        "name": "SDN 2 KARANGKAMULYAN",
+        "vilId": "49929"
+    },
+    {
+        "id": "1047",
+        "name": "SDN 1 KARANGKAMULYAN",
+        "vilId": "49929"
+    },
+    {
+        "id": "432",
+        "name": "SD NEGERI 2 KARANGKAMULYAN",
+        "vilId": "49929"
+    },
+    {
+        "id": "164",
+        "name": "SD NEGERI 1 KARANGKAMULYAN",
+        "vilId": "49929"
+    },
+    {
+        "id": "1061",
+        "name": "SDN 1 KERTABUMI",
+        "vilId": "28084"
+    },
+    {
+        "id": "998",
+        "name": "SDN 1 CIJEUNGJING",
+        "vilId": "29733"
+    },
+    {
+        "id": "1464",
+        "name": "SDN 3 DEWASARI",
+        "vilId": "28087"
+    },
+    {
+        "id": "1263",
+        "name": "SDN 2 DEWASARI",
+        "vilId": "28087"
+    },
+    {
+        "id": "1021",
+        "name": "SDN 1 DEWASARI",
+        "vilId": "28087"
+    },
+    {
+        "id": "1200",
+        "name": "SDN 1 UTAMA",
+        "vilId": "31655"
+    },
+    {
+        "id": "1483",
+        "name": "SDN 3 KERTAHARJA",
+        "vilId": "39654"
+    },
+    {
+        "id": "1301",
+        "name": "SDN 2 KERTAHARJA",
+        "vilId": "39654"
+    },
+    {
+        "id": "1300",
+        "name": "SDN 2 KERTAHARJA",
+        "vilId": "39654"
+    },
+    {
+        "id": "1062",
+        "name": "SDN 1 KERTAHARJA",
+        "vilId": "39654"
+    },
+    {
+        "id": "721",
+        "name": "SD NEGERI 4 KERTAHARJA",
+        "vilId": "39654"
+    },
+    {
+        "id": "634",
+        "name": "SD NEGERI 3 KERTAHARJA",
+        "vilId": "39654"
+    },
+    {
+        "id": "176",
+        "name": "SD NEGERI 1 KERTAHARJA",
+        "vilId": "39654"
+    },
+    {
+        "id": "1624",
+        "name": "SDN 4 SADANANYA",
+        "vilId": "28092"
+    },
+    {
+        "id": "1531",
+        "name": "SDN 3 SADANANYA",
+        "vilId": "28092"
+    },
+    {
+        "id": "1362",
+        "name": "SDN 2 SADANANYA",
+        "vilId": "28092"
+    },
+    {
+        "id": "1125",
+        "name": "SDN 1 SADANANYA",
+        "vilId": "28092"
+    },
+    {
+        "id": "1577",
+        "name": "SDN 3 WERASARI",
+        "vilId": "29457"
+    },
+    {
+        "id": "1424",
+        "name": "SDN 2 WERASARI",
+        "vilId": "29457"
+    },
+    {
+        "id": "1203",
+        "name": "SDN 1 WERASARI",
+        "vilId": "29457"
+    },
+    {
+        "id": "1495",
+        "name": "SDN 3 MANGKUBUMI",
+        "vilId": "31716"
+    },
+    {
+        "id": "1317",
+        "name": "SDN 2 MANGKUBUMI",
+        "vilId": "31716"
+    },
+    {
+        "id": "1076",
+        "name": "SDN 1 MANGKUBUMI",
+        "vilId": "31716"
+    },
+    {
+        "id": "975",
+        "name": "SDN 1 BENDASARI",
+        "vilId": "28096"
+    },
+    {
+        "id": "1323",
+        "name": "SDN 2 MEKARJADI",
+        "vilId": "28098"
+    },
+    {
+        "id": "1083",
+        "name": "SDN 1 MEKARJADI",
+        "vilId": "28098"
+    },
+    {
+        "id": "1585",
+        "name": "SDN 4 CIHAURBEUTI",
+        "vilId": "28111"
+    },
+    {
+        "id": "1444",
+        "name": "SDN 3 CIHAURBEUTI",
+        "vilId": "28111"
+    },
+    {
+        "id": "1240",
+        "name": "SDN 2 CIHAURBEUTI",
+        "vilId": "28111"
+    },
+    {
+        "id": "996",
+        "name": "SDN 1 CIHAURBEUTI",
+        "vilId": "28111"
+    },
+    {
+        "id": "1620",
+        "name": "SDN 4 PASIRTAMIANG",
+        "vilId": "28112"
+    },
+    {
+        "id": "1520",
+        "name": "SDN 3 PASIRTAMIANG",
+        "vilId": "28112"
+    },
+    {
+        "id": "1348",
+        "name": "SDN 2 PASIRTAMIANG",
+        "vilId": "28112"
+    },
+    {
+        "id": "1109",
+        "name": "SDN 1 PASIRTAMIANG",
+        "vilId": "28112"
+    },
+    {
+        "id": "1514",
+        "name": "SDN 3 PAMOKOLAN",
+        "vilId": "28114"
+    },
+    {
+        "id": "1340",
+        "name": "SDN 2 PAMOKOLAN",
+        "vilId": "28114"
+    },
+    {
+        "id": "1100",
+        "name": "SDN 1 PAMOKOLAN",
+        "vilId": "28114"
+    },
+    {
+        "id": "1610",
+        "name": "SDN 4 MEDANGLAYANG",
+        "vilId": "28116"
+    },
+    {
+        "id": "1501",
+        "name": "SDN 3 MEDANGLAYANG",
+        "vilId": "28116"
+    },
+    {
+        "id": "1322",
+        "name": "SDN 2 MEDANGLAYANG",
+        "vilId": "28116"
+    },
+    {
+        "id": "1082",
+        "name": "SDN 1 MEDANGLAYANG",
+        "vilId": "28116"
+    },
+    {
+        "id": "1467",
+        "name": "SDN 3 GOLAT",
+        "vilId": "28119"
+    },
+    {
+        "id": "1268",
+        "name": "SDN 2 GOLAT",
+        "vilId": "28119"
+    },
+    {
+        "id": "1027",
+        "name": "SDN 1 GOLAT",
+        "vilId": "28119"
+    },
+    {
+        "id": "1541",
+        "name": "SDN 3 SINDANGHERANG",
+        "vilId": "28120"
+    },
+    {
+        "id": "1376",
+        "name": "SDN 2 SINDANGHERANG",
+        "vilId": "28120"
+    },
+    {
+        "id": "1143",
+        "name": "SDN 1 SINDANGHERANG",
+        "vilId": "28120"
+    },
+    {
+        "id": "1578",
+        "name": "SDN 4 BANJARANGSANA",
+        "vilId": "28121"
+    },
+    {
+        "id": "1429",
+        "name": "SDN 3 BANJARANGSANA",
+        "vilId": "28121"
+    },
+    {
+        "id": "1212",
+        "name": "SDN 2 BANJARANGSANA",
+        "vilId": "28121"
+    },
+    {
+        "id": "968",
+        "name": "SDN 1 BANJARANGSANA",
+        "vilId": "28121"
+    },
+    {
+        "id": "1621",
+        "name": "SDN 4 PAYUNGAGUNG",
+        "vilId": "28122"
+    },
+    {
+        "id": "1522",
+        "name": "SDN 3 PAYUNGAGUNG",
+        "vilId": "28122"
+    },
+    {
+        "id": "1350",
+        "name": "SDN 2 PAYUNGAGUNG",
+        "vilId": "28122"
+    },
+    {
+        "id": "1112",
+        "name": "SDN 1 PAYUNGAGUNG",
+        "vilId": "28122"
+    },
+    {
+        "id": "1523",
+        "name": "SDN 3 PAYUNGSARI",
+        "vilId": "30593"
+    },
+    {
+        "id": "1351",
+        "name": "SDN 2 PAYUNGSARI",
+        "vilId": "30593"
+    },
+    {
+        "id": "1113",
+        "name": "SDN 1 PAYUNGSARI",
+        "vilId": "30593"
+    },
+    {
+        "id": "1378",
+        "name": "SDN 2 SINDANGMUKTI",
+        "vilId": "30568"
+    },
+    {
+        "id": "1146",
+        "name": "SDN 1 SINDANGMUKTI",
+        "vilId": "30568"
+    },
+    {
+        "id": "1374",
+        "name": "SDN 2 SINDANGBARANG",
+        "vilId": "31918"
+    },
+    {
+        "id": "1141",
+        "name": "SDN 1 SINDANGBARANG",
+        "vilId": "31918"
+    },
+    {
+        "id": "538",
+        "name": "SD NEGERI 2 SINDANGBARANG",
+        "vilId": "31918"
+    },
+    {
+        "id": "275",
+        "name": "SD NEGERI 1 SINDANGBARANG",
+        "vilId": "31918"
+    },
+    {
+        "id": "1223",
+        "name": "SDN 2 BUANAMEKAR",
+        "vilId": "29499"
+    },
+    {
+        "id": "981",
+        "name": "SDN 1 BUANAMEKAR",
+        "vilId": "29499"
+    },
+    {
+        "id": "1685",
+        "name": "SDN 8 PANJALU",
+        "vilId": "28130"
+    },
+    {
+        "id": "1683",
+        "name": "SDN 7 PANJALU",
+        "vilId": "28130"
+    },
+    {
+        "id": "1678",
+        "name": "SDN 6 PANJALU",
+        "vilId": "28130"
+    },
+    {
+        "id": "1663",
+        "name": "SDN 5 PANJALU",
+        "vilId": "28130"
+    },
+    {
+        "id": "1619",
+        "name": "SDN 4 PANJALU",
+        "vilId": "28130"
+    },
+    {
+        "id": "1517",
+        "name": "SDN 3 PANJALU",
+        "vilId": "28130"
+    },
+    {
+        "id": "1103",
+        "name": "SDN 1 PANJALU",
+        "vilId": "28130"
+    },
+    {
+        "id": "501",
+        "name": "SD NEGERI 2 PANJALU",
+        "vilId": "28130"
+    },
+    {
+        "id": "1486",
+        "name": "SDN 3 KERTAMANDALA",
+        "vilId": "28131"
+    },
+    {
+        "id": "445",
+        "name": "SD NEGERI 2 KERTAMANDALA",
+        "vilId": "28131"
+    },
+    {
+        "id": "178",
+        "name": "SD NEGERI 1 KERTAMANDALA",
+        "vilId": "28131"
+    },
+    {
+        "id": "1666",
+        "name": "SDN 5 SANDINGTAMAN",
+        "vilId": "28133"
+    },
+    {
+        "id": "1627",
+        "name": "SDN 4 SANDINGTAMAN",
+        "vilId": "28133"
+    },
+    {
+        "id": "1130",
+        "name": "SDN 1 SANDINGTAMAN",
+        "vilId": "28133"
+    },
+    {
+        "id": "670",
+        "name": "SD NEGERI 3 SANDINGTAMAN",
+        "vilId": "28133"
+    },
+    {
+        "id": "525",
+        "name": "SD NEGERI 2 SANDINGTAMAN",
+        "vilId": "28133"
+    },
+    {
+        "id": "1496",
+        "name": "SDN 3 MAPARAH",
+        "vilId": "28134"
+    },
+    {
+        "id": "472",
+        "name": "SD NEGERI 2 MAPARAH",
+        "vilId": "28134"
+    },
+    {
+        "id": "207",
+        "name": "SD NEGERI 1 MAPARAH",
+        "vilId": "28134"
+    },
+    {
+        "id": "1208",
+        "name": "SDN 2 BAHARA",
+        "vilId": "28135"
+    },
+    {
+        "id": "28",
+        "name": "SD NEGERI 1 BAHARA",
+        "vilId": "28135"
+    },
+    {
+        "id": "140",
+        "name": "SD NEGERI 1 HUJUNGTIWU",
+        "vilId": "28136"
+    },
+    {
+        "id": "1316",
+        "name": "SDN 2 MANDALARE",
+        "vilId": "28137"
+    },
+    {
+        "id": "1075",
+        "name": "SDN 1 MANDALARE",
+        "vilId": "28137"
+    },
+    {
+        "id": "1480",
+        "name": "SDN 3 KAWALI",
+        "vilId": "28138"
+    },
+    {
+        "id": "1295",
+        "name": "SDN 2 KAWALI",
+        "vilId": "28138"
+    },
+    {
+        "id": "1056",
+        "name": "SDN 1 KAWALI",
+        "vilId": "28138"
+    },
+    {
+        "id": "1425",
+        "name": "SDN 2 WINDURAJA",
+        "vilId": "28141"
+    },
+    {
+        "id": "1204",
+        "name": "SDN 1 WINDURAJA",
+        "vilId": "28141"
+    },
+    {
+        "id": "1296",
+        "name": "SDN 2 KAWALIMUKTI",
+        "vilId": "28146"
+    },
+    {
+        "id": "1057",
+        "name": "SDN 1 KAWALIMUKTI",
+        "vilId": "28146"
+    },
+    {
+        "id": "1134",
+        "name": "SDN 1 SELASARI",
+        "vilId": "31172"
+    },
+    {
+        "id": "1133",
+        "name": "SDN 1 SELASARI",
+        "vilId": "31172"
+    },
+    {
+        "id": "766",
+        "name": "SD NEGERI 6 SELASARI",
+        "vilId": "31172"
+    },
+    {
+        "id": "758",
+        "name": "SD NEGERI 5 SELASARI",
+        "vilId": "31172"
+    },
+    {
+        "id": "738",
+        "name": "SD NEGERI 4 SELASARI",
+        "vilId": "31172"
+    },
+    {
+        "id": "672",
+        "name": "SD NEGERI 3 SELASARI",
+        "vilId": "31172"
+    },
+    {
+        "id": "529",
+        "name": "SD NEGERI 2 SELASARI",
+        "vilId": "31172"
+    },
+    {
+        "id": "1618",
+        "name": "SDN 4 PANAWANGAN",
+        "vilId": "28149"
+    },
+    {
+        "id": "1516",
+        "name": "SDN 3 PANAWANGAN",
+        "vilId": "28149"
+    },
+    {
+        "id": "1342",
+        "name": "SDN 2 PANAWANGAN",
+        "vilId": "28149"
+    },
+    {
+        "id": "1102",
+        "name": "SDN 1 PANAWANGAN",
+        "vilId": "28149"
+    },
+    {
+        "id": "1626",
+        "name": "SDN 4 SAGALAHERANG",
+        "vilId": "28150"
+    },
+    {
+        "id": "1534",
+        "name": "SDN 3 SAGALAHERANG",
+        "vilId": "28150"
+    },
+    {
+        "id": "1364",
+        "name": "SDN 2 SAGALAHERANG",
+        "vilId": "28150"
+    },
+    {
+        "id": "1127",
+        "name": "SDN 1 SAGALAHERANG",
+        "vilId": "28150"
+    },
+    {
+        "id": "1510",
+        "name": "SDN 3 NAGARAPAGEUH",
+        "vilId": "28151"
+    },
+    {
+        "id": "1333",
+        "name": "SDN 2 NAGARAPAGEUH",
+        "vilId": "28151"
+    },
+    {
+        "id": "1093",
+        "name": "SDN 1 NAGARAPAGEUH",
+        "vilId": "28151"
+    },
+    {
+        "id": "1615",
+        "name": "SDN 4 NAGARAJATI",
+        "vilId": "28152"
+    },
+    {
+        "id": "1508",
+        "name": "SDN 3 NAGARAJATI",
+        "vilId": "28152"
+    },
+    {
+        "id": "1331",
+        "name": "SDN 2 NAGARAJATI",
+        "vilId": "28152"
+    },
+    {
+        "id": "1091",
+        "name": "SDN 1 NAGARAJATI",
+        "vilId": "28152"
+    },
+    {
+        "id": "1509",
+        "name": "SDN 3 NAGARAJAYA",
+        "vilId": "28153"
+    },
+    {
+        "id": "1332",
+        "name": "SDN 2 NAGARAJAYA",
+        "vilId": "28153"
+    },
+    {
+        "id": "1092",
+        "name": "SDN 1 NAGARAJAYA",
+        "vilId": "28153"
+    },
+    {
+        "id": "1605",
+        "name": "SDN 4 KERTAYASA",
+        "vilId": "39666"
+    },
+    {
+        "id": "1489",
+        "name": "SDN 3 KERTAYASA",
+        "vilId": "39666"
+    },
+    {
+        "id": "1488",
+        "name": "SDN 3 KERTAYASA",
+        "vilId": "39666"
+    },
+    {
+        "id": "1308",
+        "name": "SDN 2 KERTAYASA",
+        "vilId": "39666"
+    },
+    {
+        "id": "1307",
+        "name": "SDN 2 KERTAYASA",
+        "vilId": "39666"
+    },
+    {
+        "id": "1068",
+        "name": "SDN 1 KERTAYASA",
+        "vilId": "39666"
+    },
+    {
+        "id": "1067",
+        "name": "SDN 1 KERTAYASA",
+        "vilId": "39666"
+    },
+    {
+        "id": "451",
+        "name": "SD NEGERI 2 KERTAYASA",
+        "vilId": "39666"
+    },
+    {
+        "id": "185",
+        "name": "SD NEGERI 1 KERTAYASA",
+        "vilId": "39666"
+    },
+    {
+        "id": "1590",
+        "name": "SDN 4 CINYASAG",
+        "vilId": "28156"
+    },
+    {
+        "id": "1456",
+        "name": "SDN 3 CINYASAG",
+        "vilId": "28156"
+    },
+    {
+        "id": "1251",
+        "name": "SDN 2 CINYASAG",
+        "vilId": "28156"
+    },
+    {
+        "id": "1008",
+        "name": "SDN 1 CINYASAG",
+        "vilId": "28156"
+    },
+    {
+        "id": "1665",
+        "name": "SDN 5 SADAPAINGAN",
+        "vilId": "28157"
+    },
+    {
+        "id": "1625",
+        "name": "SDN 4 SADAPAINGAN",
+        "vilId": "28157"
+    },
+    {
+        "id": "1532",
+        "name": "SDN 3 SADAPAINGAN",
+        "vilId": "28157"
+    },
+    {
+        "id": "1363",
+        "name": "SDN 2 SADAPAINGAN",
+        "vilId": "28157"
+    },
+    {
+        "id": "1126",
+        "name": "SDN 1 SADAPAINGAN",
+        "vilId": "28157"
+    },
+    {
+        "id": "1651",
+        "name": "SDN 5 GARDUJAYA",
+        "vilId": "28159"
+    },
+    {
+        "id": "1594",
+        "name": "SDN 4 GARDUJAYA",
+        "vilId": "28159"
+    },
+    {
+        "id": "1465",
+        "name": "SDN 3 GARDUJAYA",
+        "vilId": "28159"
+    },
+    {
+        "id": "1264",
+        "name": "SDN 2 GARDUJAYA",
+        "vilId": "28159"
+    },
+    {
+        "id": "1022",
+        "name": "SDN 1 GARDUJAYA",
+        "vilId": "28159"
+    },
+    {
+        "id": "1598",
+        "name": "SDN 4 KARANGPANINGAL",
+        "vilId": "28308"
+    },
+    {
+        "id": "1476",
+        "name": "SDN 3 KARANGPANINGAL",
+        "vilId": "28308"
+    },
+    {
+        "id": "1289",
+        "name": "SDN 2 KARANGPANINGAL",
+        "vilId": "28308"
+    },
+    {
+        "id": "1288",
+        "name": "SDN 2 KARANGPANINGAL",
+        "vilId": "28308"
+    },
+    {
+        "id": "1287",
+        "name": "SDN 2 KARANGPANINGAL",
+        "vilId": "28308"
+    },
+    {
+        "id": "1050",
+        "name": "SDN 1 KARANGPANINGAL",
+        "vilId": "28308"
+    },
+    {
+        "id": "1049",
+        "name": "SDN 1 KARANGPANINGAL",
+        "vilId": "28308"
+    },
+    {
+        "id": "1048",
+        "name": "SDN 1 KARANGPANINGAL",
+        "vilId": "28308"
+    },
+    {
+        "id": "1645",
+        "name": "SDN 5 BUNISEURI",
+        "vilId": "28167"
+    },
+    {
+        "id": "1582",
+        "name": "SDN 4 BUNISEURI",
+        "vilId": "28167"
+    },
+    {
+        "id": "1437",
+        "name": "SDN 3 BUNISEURI",
+        "vilId": "28167"
+    },
+    {
+        "id": "1227",
+        "name": "SDN 2 BUNISEURI",
+        "vilId": "28167"
+    },
+    {
+        "id": "984",
+        "name": "SDN 1 BUNISEURI",
+        "vilId": "28167"
+    },
+    {
+        "id": "954",
+        "name": "SD PLUS AL HUDA",
+        "vilId": "28167"
+    },
+    {
+        "id": "1536",
+        "name": "SDN 3 SELACAI",
+        "vilId": "28168"
+    },
+    {
+        "id": "1367",
+        "name": "SDN 2 SELACAI",
+        "vilId": "28168"
+    },
+    {
+        "id": "1131",
+        "name": "SDN 1 SELACAI",
+        "vilId": "28168"
+    },
+    {
+        "id": "1470",
+        "name": "SDN 3 JALATRANG",
+        "vilId": "28626"
+    },
+    {
+        "id": "1276",
+        "name": "SDN 2 JALATRANG",
+        "vilId": "28626"
+    },
+    {
+        "id": "1036",
+        "name": "SDN 1 JALATRANG",
+        "vilId": "28626"
+    },
+    {
+        "id": "839",
+        "name": "SD NEGERI JALATRANG",
+        "vilId": "28626"
+    },
+    {
+        "id": "1442",
+        "name": "SDN 3 CIEURIH",
+        "vilId": "29211"
+    },
+    {
+        "id": "1236",
+        "name": "SDN 2 CIEURIH",
+        "vilId": "29211"
+    },
+    {
+        "id": "992",
+        "name": "SDN 1 CIEURIH",
+        "vilId": "29211"
+    },
+    {
+        "id": "589",
+        "name": "SD NEGERI 3 CIEURIH",
+        "vilId": "29211"
+    },
+    {
+        "id": "348",
+        "name": "SD NEGERI 2 CIEURIH",
+        "vilId": "29211"
+    },
+    {
+        "id": "69",
+        "name": "SD NEGERI 1 CIEURIH",
+        "vilId": "29211"
+    },
+    {
+        "id": "1266",
+        "name": "SDN 2 GEREBA",
+        "vilId": "28519"
+    },
+    {
+        "id": "1024",
+        "name": "SDN 1 GEREBA",
+        "vilId": "28519"
+    },
+    {
+        "id": "828",
+        "name": "SD NEGERI GEREBA",
+        "vilId": "28519"
+    },
+    {
+        "id": "1628",
+        "name": "SDN 4 SELAMANIK",
+        "vilId": "28177"
+    },
+    {
+        "id": "1537",
+        "name": "SDN 3 SELAMANIK",
+        "vilId": "28177"
+    },
+    {
+        "id": "1368",
+        "name": "SDN 2 SELAMANIK",
+        "vilId": "28177"
+    },
+    {
+        "id": "1132",
+        "name": "SDN 1 SELAMANIK",
+        "vilId": "28177"
+    },
+    {
+        "id": "1230",
+        "name": "SDN 2 CIAKAR",
+        "vilId": "50140"
+    },
+    {
+        "id": "1229",
+        "name": "SDN 2 CIAKAR",
+        "vilId": "50140"
+    },
+    {
+        "id": "986",
+        "name": "SDN 1 Ciakar",
+        "vilId": "50140"
+    },
+    {
+        "id": "582",
+        "name": "SD NEGERI 3 CIAKAR",
+        "vilId": "50140"
+    },
+    {
+        "id": "54",
+        "name": "SD NEGERI 1 CIAKAR",
+        "vilId": "50140"
+    },
+    {
+        "id": "1278",
+        "name": "SDN 2 JATINAGARA",
+        "vilId": "28180"
+    },
+    {
+        "id": "1039",
+        "name": "SDN 1 JATINAGARA",
+        "vilId": "28180"
+    },
+    {
+        "id": "1262",
+        "name": "SDN 2 DAYEUHLUHUR",
+        "vilId": "31980"
+    },
+    {
+        "id": "1020",
+        "name": "SDN 1 DAYEUHLUHUR",
+        "vilId": "31980"
+    },
+    {
+        "id": "1580",
+        "name": "SDN 4 BAYASARI",
+        "vilId": "28185"
+    },
+    {
+        "id": "1432",
+        "name": "SDN 3 BAYASARI",
+        "vilId": "28185"
+    },
+    {
+        "id": "1218",
+        "name": "SDN 2 BAYASARI",
+        "vilId": "28185"
+    },
+    {
+        "id": "974",
+        "name": "SDN 1 BAYASARI",
+        "vilId": "28185"
+    },
+    {
+        "id": "1122",
+        "name": "SDN 1 RAJADESA",
+        "vilId": "28186"
+    },
+    {
+        "id": "955",
+        "name": "SD PLUS ALMUAAWANAH",
+        "vilId": "28186"
+    },
+    {
+        "id": "1641",
+        "name": "SDN 4 TANJUNGSUKUR",
+        "vilId": "28187"
+    },
+    {
+        "id": "1574",
+        "name": "SDN 3 TANJUNGSUKUR",
+        "vilId": "28187"
+    },
+    {
+        "id": "1419",
+        "name": "SDN 2 TANJUNGSUKUR",
+        "vilId": "28187"
+    },
+    {
+        "id": "1197",
+        "name": "SDN 1 TANJUNGSUKUR",
+        "vilId": "28187"
+    },
+    {
+        "id": "1206",
+        "name": "SDN 2 ANDAPRAJA",
+        "vilId": "28190"
+    },
+    {
+        "id": "963",
+        "name": "SDN 1 ANDAPRAJA",
+        "vilId": "28190"
+    },
+    {
+        "id": "1642",
+        "name": "SDN 4 TIGAHERANG",
+        "vilId": "28193"
+    },
+    {
+        "id": "1575",
+        "name": "SDN 3 TIGAHERANG",
+        "vilId": "28193"
+    },
+    {
+        "id": "1421",
+        "name": "SDN 2 TIGAHERANG",
+        "vilId": "28193"
+    },
+    {
+        "id": "1199",
+        "name": "SDN 1 TIGAHERANG",
+        "vilId": "28193"
+    },
+    {
+        "id": "1384",
+        "name": "SDN 2 SIRNABAYA",
+        "vilId": "30524"
+    },
+    {
+        "id": "1153",
+        "name": "SDN 1 SIRNABAYA",
+        "vilId": "30524"
+    },
+    {
+        "id": "1535",
+        "name": "SDN 3 SALAKARIA",
+        "vilId": "28198"
+    },
+    {
+        "id": "1366",
+        "name": "SDN 2 SALAKARIA",
+        "vilId": "28198"
+    },
+    {
+        "id": "1129",
+        "name": "SDN 1 SALAKARIA",
+        "vilId": "28198"
+    },
+    {
+        "id": "1497",
+        "name": "SDN 3 MARGAHARJA",
+        "vilId": "28199"
+    },
+    {
+        "id": "1318",
+        "name": "SDN 2 MARGAHARJA",
+        "vilId": "28199"
+    },
+    {
+        "id": "1077",
+        "name": "SDN 1 MARGAHARJA",
+        "vilId": "28199"
+    },
+    {
+        "id": "1583",
+        "name": "SDN 4 BUNTER",
+        "vilId": "28201"
+    },
+    {
+        "id": "1228",
+        "name": "SDN 2 BUNTER",
+        "vilId": "28201"
+    },
+    {
+        "id": "985",
+        "name": "SDN 1 BUNTER",
+        "vilId": "28201"
+    },
+    {
+        "id": "579",
+        "name": "SD NEGERI 3 BUNTER",
+        "vilId": "28201"
+    },
+    {
+        "id": "1254",
+        "name": "SDN 2 CIPARIGI",
+        "vilId": "31312"
+    },
+    {
+        "id": "1011",
+        "name": "SDN 1 CIPARIGI",
+        "vilId": "31312"
+    },
+    {
+        "id": "1679",
+        "name": "SDN 6 RANCAH",
+        "vilId": "28203"
+    },
+    {
+        "id": "1664",
+        "name": "SDN 5 RANCAH",
+        "vilId": "28203"
+    },
+    {
+        "id": "1623",
+        "name": "SDN 4 RANCAH",
+        "vilId": "28203"
+    },
+    {
+        "id": "1529",
+        "name": "SDN 3 RANCAH",
+        "vilId": "28203"
+    },
+    {
+        "id": "1360",
+        "name": "SDN 2 RANCAH",
+        "vilId": "28203"
+    },
+    {
+        "id": "1123",
+        "name": "SDN 1 RANCAH",
+        "vilId": "28203"
+    },
+    {
+        "id": "1659",
+        "name": "SDN 5 KIARAPAYUNG",
+        "vilId": "49527"
+    },
+    {
+        "id": "1606",
+        "name": "SDN 4 KIARAPAYUNG",
+        "vilId": "49527"
+    },
+    {
+        "id": "1490",
+        "name": "SDN 3 KIARAPAYUNG",
+        "vilId": "49527"
+    },
+    {
+        "id": "1309",
+        "name": "SDN 2 KIARAPAYUNG",
+        "vilId": "49527"
+    },
+    {
+        "id": "1069",
+        "name": "SDN 1 KIARAPAYUNG",
+        "vilId": "49527"
+    },
+    {
+        "id": "1648",
+        "name": "SDN 5 CILEUNGSIR",
+        "vilId": "28205"
+    },
+    {
+        "id": "1588",
+        "name": "SDN 4 CILEUNGSIR",
+        "vilId": "28205"
+    },
+    {
+        "id": "1450",
+        "name": "SDN 3 CILEUNGSIR",
+        "vilId": "28205"
+    },
+    {
+        "id": "1246",
+        "name": "SDN 2 CILEUNGSIR",
+        "vilId": "28205"
+    },
+    {
+        "id": "1004",
+        "name": "SDN 1 CILEUNGSIR",
+        "vilId": "28205"
+    },
+    {
+        "id": "1675",
+        "name": "SDN 6 CISONTROL",
+        "vilId": "28206"
+    },
+    {
+        "id": "1650",
+        "name": "SDN 5 CISONTROL",
+        "vilId": "28206"
+    },
+    {
+        "id": "1593",
+        "name": "SDN 4 CISONTROL",
+        "vilId": "28206"
+    },
+    {
+        "id": "1461",
+        "name": "SDN 3 CISONTROL",
+        "vilId": "28206"
+    },
+    {
+        "id": "1257",
+        "name": "SDN 2 CISONTROL",
+        "vilId": "28206"
+    },
+    {
+        "id": "1014",
+        "name": "SDN 1 CISONTROL",
+        "vilId": "28206"
+    },
+    {
+        "id": "1680",
+        "name": "SDN 6 SITUMANDALA",
+        "vilId": "28207"
+    },
+    {
+        "id": "1633",
+        "name": "SDN 4 SITUMANDALA",
+        "vilId": "28207"
+    },
+    {
+        "id": "1549",
+        "name": "SDN 3 SITUMANDALA",
+        "vilId": "28207"
+    },
+    {
+        "id": "1386",
+        "name": "SDN 2 SITUMANDALA",
+        "vilId": "28207"
+    },
+    {
+        "id": "1155",
+        "name": "SDN 1 SITUMANDALA",
+        "vilId": "28207"
+    },
+    {
+        "id": "1684",
+        "name": "SDN 8 KAWUNGLARANG",
+        "vilId": "28208"
+    },
+    {
+        "id": "1682",
+        "name": "SDN 7 KAWUNGLARANG",
+        "vilId": "28208"
+    },
+    {
+        "id": "1676",
+        "name": "SDN 6 KAWUNGLARANG",
+        "vilId": "28208"
+    },
+    {
+        "id": "1657",
+        "name": "SDN 5 KAWUNGLARANG",
+        "vilId": "28208"
+    },
+    {
+        "id": "1602",
+        "name": "SDN 4 KAWUNGLARANG",
+        "vilId": "28208"
+    },
+    {
+        "id": "1482",
+        "name": "SDN 3 KAWUNGLARANG",
+        "vilId": "28208"
+    },
+    {
+        "id": "1298",
+        "name": "SDN 2 KAWUNGLARANG",
+        "vilId": "28208"
+    },
+    {
+        "id": "1059",
+        "name": "SDN 1 KAWUNGLARANG",
+        "vilId": "28208"
+    },
+    {
+        "id": "1349",
+        "name": "SDN 2 PATAKAHARJA",
+        "vilId": "28209"
+    },
+    {
+        "id": "1110",
+        "name": "SDN 1 PATAKAHARJA",
+        "vilId": "28209"
+    },
+    {
+        "id": "1434",
+        "name": "SDN 3 BOJONGGEDANG",
+        "vilId": "28210"
+    },
+    {
+        "id": "1221",
+        "name": "SDN 2 BOJONGGEDANG",
+        "vilId": "28210"
+    },
+    {
+        "id": "978",
+        "name": "SDN 1 BOJONGGEDANG",
+        "vilId": "28210"
+    },
+    {
+        "id": "1477",
+        "name": "SDN 3 KARANGPARI",
+        "vilId": "39731"
+    },
+    {
+        "id": "1290",
+        "name": "SDN 2 KARANGPARI",
+        "vilId": "39731"
+    },
+    {
+        "id": "1051",
+        "name": "SDN 1 KARANGPARI",
+        "vilId": "39731"
+    },
+    {
+        "id": "1260",
+        "name": "SDN 2 DADIHARJA",
+        "vilId": "28212"
+    },
+    {
+        "id": "1017",
+        "name": "SDN 1 DADIHARJA",
+        "vilId": "28212"
+    },
+    {
+        "id": "1037",
+        "name": "SDN 1 JANGALAHARJA",
+        "vilId": "28213"
+    },
+    {
+        "id": "1025",
+        "name": "SDN 1 GIRIHARJA",
+        "vilId": "49647"
+    },
+    {
+        "id": "1414",
+        "name": "SDN 2 TAMBAKSARI",
+        "vilId": "49135"
+    },
+    {
+        "id": "1191",
+        "name": "SDN 1 TAMBAKSARI",
+        "vilId": "49135"
+    },
+    {
+        "id": "1656",
+        "name": "SDN 5 KASO",
+        "vilId": "28218"
+    },
+    {
+        "id": "1600",
+        "name": "SDN 4 KASO",
+        "vilId": "28218"
+    },
+    {
+        "id": "1479",
+        "name": "SDN 3 KASO",
+        "vilId": "28218"
+    },
+    {
+        "id": "1294",
+        "name": "SDN 2 KASO",
+        "vilId": "28218"
+    },
+    {
+        "id": "1055",
+        "name": "SDN 1 KASO",
+        "vilId": "28218"
+    },
+    {
+        "id": "1370",
+        "name": "SDN 2 SIDAHARJA",
+        "vilId": "39676"
+    },
+    {
+        "id": "1369",
+        "name": "SDN 2 SIDAHARJA",
+        "vilId": "39676"
+    },
+    {
+        "id": "1136",
+        "name": "SDN 1 SIDAHARJA",
+        "vilId": "39676"
+    },
+    {
+        "id": "1135",
+        "name": "SDN 1 SIDAHARJA",
+        "vilId": "39676"
+    },
+    {
+        "id": "739",
+        "name": "SD NEGERI 4 SIDAHARJA",
+        "vilId": "39676"
+    },
+    {
+        "id": "673",
+        "name": "SD NEGERI 3 SIDAHARJA",
+        "vilId": "39676"
+    },
+    {
+        "id": "1649",
+        "name": "SDN 5 CINTARATU",
+        "vilId": "31171"
+    },
+    {
+        "id": "1455",
+        "name": "SDN 3 CINTARATU",
+        "vilId": "31171"
+    },
+    {
+        "id": "1250",
+        "name": "SDN 2 CINTARATU",
+        "vilId": "31171"
+    },
+    {
+        "id": "1249",
+        "name": "SDN 2 CINTARATU",
+        "vilId": "31171"
+    },
+    {
+        "id": "1007",
+        "name": "SDN 1 CINTARATU",
+        "vilId": "31171"
+    },
+    {
+        "id": "706",
+        "name": "SD NEGERI 4 CINTARATU",
+        "vilId": "31171"
+    },
+    {
+        "id": "604",
+        "name": "SD NEGERI 3 CINTARATU",
+        "vilId": "31171"
+    },
+    {
+        "id": "108",
+        "name": "SD NEGERI 1 CINTARATU",
+        "vilId": "31171"
+    },
+    {
+        "id": "537",
+        "name": "SD NEGERI 2 SINDANGANGIN",
+        "vilId": "28227"
+    },
+    {
+        "id": "274",
+        "name": "SD NEGERI 1 SINDANGANGIN",
+        "vilId": "28227"
+    },
+    {
+        "id": "555",
+        "name": "SD NEGERI 2 TAMBAKREJA",
+        "vilId": "32029"
+    },
+    {
+        "id": "293",
+        "name": "SD NEGERI 1 TAMBAKREJA",
+        "vilId": "32029"
+    },
+    {
+        "id": "1431",
+        "name": "SDN 3 BAREGBEG",
+        "vilId": "28283"
+    },
+    {
+        "id": "1217",
+        "name": "SDN 2 BAREGBEG",
+        "vilId": "28283"
+    },
+    {
+        "id": "1216",
+        "name": "SDN 2 BAREGBEG",
+        "vilId": "28283"
+    },
+    {
+        "id": "973",
+        "name": "SDN 1 BAREGBEG",
+        "vilId": "28283"
+    },
+    {
+        "id": "571",
+        "name": "SD NEGERI 3 BAREGBEG",
+        "vilId": "28283"
+    },
+    {
+        "id": "36",
+        "name": "SD NEGERI 1 BAREGBEG",
+        "vilId": "28283"
+    },
+    {
+        "id": "1283",
+        "name": "SDN 2 KALAPASAWIT",
+        "vilId": "28230"
+    },
+    {
+        "id": "623",
+        "name": "SD NEGERI 3 KALAPASAWIT",
+        "vilId": "28230"
+    },
+    {
+        "id": "155",
+        "name": "SD NEGERI 1 KALAPASAWIT",
+        "vilId": "28230"
+    },
+    {
+        "id": "1353",
+        "name": "SDN 2 PULOERANG",
+        "vilId": "28231"
+    },
+    {
+        "id": "662",
+        "name": "SD NEGERI 3 PULOERANG",
+        "vilId": "28231"
+    },
+    {
+        "id": "247",
+        "name": "SD NEGERI 1 PULOERANG",
+        "vilId": "28231"
+    },
+    {
+        "id": "1601",
+        "name": "SDN 4 KAWASEN",
+        "vilId": "28232"
+    },
+    {
+        "id": "1481",
+        "name": "SDN 3 KAWASEN",
+        "vilId": "28232"
+    },
+    {
+        "id": "1297",
+        "name": "SDN 2 KAWASEN",
+        "vilId": "28232"
+    },
+    {
+        "id": "1058",
+        "name": "SDN 1 KAWASEN",
+        "vilId": "28232"
+    },
+    {
+        "id": "1234",
+        "name": "SDN 2 CICAPAR",
+        "vilId": "28233"
+    },
+    {
+        "id": "990",
+        "name": "SDN 1 CICAPAR",
+        "vilId": "28233"
+    },
+    {
+        "id": "1361",
+        "name": "SDN 2 RATAWANGI",
+        "vilId": "28241"
+    },
+    {
+        "id": "1124",
+        "name": "SDN 1 RATAWANGI",
+        "vilId": "28241"
+    },
+    {
+        "id": "1259",
+        "name": "SDN 2 CIULU",
+        "vilId": "28242"
+    },
+    {
+        "id": "1016",
+        "name": "SDN 1 CIULU",
+        "vilId": "28242"
+    },
+    {
+        "id": "1339",
+        "name": "SDN 2 PAMARICAN",
+        "vilId": "28244"
+    },
+    {
+        "id": "1099",
+        "name": "SDN 1 PAMARICAN",
+        "vilId": "28244"
+    },
+    {
+        "id": "1667",
+        "name": "SDN 5 SIDAMULIH",
+        "vilId": "32084"
+    },
+    {
+        "id": "1629",
+        "name": "SDN 4 SIDAMULIH",
+        "vilId": "32084"
+    },
+    {
+        "id": "1538",
+        "name": "SDN 3 SIDAMULIH",
+        "vilId": "32084"
+    },
+    {
+        "id": "1371",
+        "name": "SDN 2 SIDAMULIH",
+        "vilId": "32084"
+    },
+    {
+        "id": "1137",
+        "name": "SDN 1 SIDAMULIH",
+        "vilId": "32084"
+    },
+    {
+        "id": "674",
+        "name": "SD NEGERI 3 SIDAMULIH",
+        "vilId": "32084"
+    },
+    {
+        "id": "532",
+        "name": "SD NEGERI 2 SIDAMULIH",
+        "vilId": "32084"
+    },
+    {
+        "id": "269",
+        "name": "SD NEGERI 1 SIDAMULIH",
+        "vilId": "32084"
+    },
+    {
+        "id": "1658",
+        "name": "SDN 5 KERTAHAYU",
+        "vilId": "29184"
+    },
+    {
+        "id": "1603",
+        "name": "SDN 4 KERTAHAYU",
+        "vilId": "29184"
+    },
+    {
+        "id": "1484",
+        "name": "SDN 3 KERTAHAYU",
+        "vilId": "29184"
+    },
+    {
+        "id": "1302",
+        "name": "SDN 2 KERTAHAYU",
+        "vilId": "29184"
+    },
+    {
+        "id": "1063",
+        "name": "SDN 1 KERTAHAYU",
+        "vilId": "29184"
+    },
+    {
+        "id": "1428",
+        "name": "SDN 3 BANGUNSARI",
+        "vilId": "45753"
+    },
+    {
+        "id": "1211",
+        "name": "SDN 2 BANGUNSARI",
+        "vilId": "45753"
+    },
+    {
+        "id": "967",
+        "name": "SDN 1 BANGUNSARI",
+        "vilId": "45753"
+    },
+    {
+        "id": "1347",
+        "name": "SDN 2 PASIRNAGARA",
+        "vilId": "28256"
+    },
+    {
+        "id": "1108",
+        "name": "SDN 1 PASIRNAGARA",
+        "vilId": "28256"
+    },
+    {
+        "id": "1451",
+        "name": "SDN 3 CIMARAGAS",
+        "vilId": "28258"
+    },
+    {
+        "id": "375",
+        "name": "SD NEGERI 2 CIMARAGAS",
+        "vilId": "28258"
+    },
+    {
+        "id": "99",
+        "name": "SD NEGERI 1 CIMARAGAS",
+        "vilId": "28258"
+    },
+    {
+        "id": "692",
+        "name": "SD NEGERI 4 BEBER",
+        "vilId": "51690"
+    },
+    {
+        "id": "573",
+        "name": "SD NEGERI 3 BEBER",
+        "vilId": "51690"
+    },
+    {
+        "id": "326",
+        "name": "SD NEGERI 2 BEBER",
+        "vilId": "51690"
+    },
+    {
+        "id": "40",
+        "name": "SD NEGERI 1 BEBER",
+        "vilId": "51690"
+    },
+    {
+        "id": "735",
+        "name": "SD NEGERI 4 RAKSABAYA",
+        "vilId": "28260"
+    },
+    {
+        "id": "668",
+        "name": "SD NEGERI 3 RAKSABAYA",
+        "vilId": "28260"
+    },
+    {
+        "id": "255",
+        "name": "SD NEGERI 1 RAKSABAYA",
+        "vilId": "28260"
+    },
+    {
+        "id": "979",
+        "name": "SDN 1 BOJONGMALANG",
+        "vilId": "28261"
+    },
+    {
+        "id": "1592",
+        "name": "SDN 4 CISAGA",
+        "vilId": "30206"
+    },
+    {
+        "id": "1460",
+        "name": "SDN 3 CISAGA",
+        "vilId": "30206"
+    },
+    {
+        "id": "1256",
+        "name": "SDN 2 CISAGA",
+        "vilId": "30206"
+    },
+    {
+        "id": "1013",
+        "name": "SDN 1 CISAGA",
+        "vilId": "30206"
+    },
+    {
+        "id": "1299",
+        "name": "SDN 2 KEPEL",
+        "vilId": "49022"
+    },
+    {
+        "id": "1060",
+        "name": "SDN 1 KEPEL",
+        "vilId": "49022"
+    },
+    {
+        "id": "1427",
+        "name": "SDN 3 BANGUNHARJA",
+        "vilId": "28268"
+    },
+    {
+        "id": "1210",
+        "name": "SDN 2 BANGUNHARJA",
+        "vilId": "28268"
+    },
+    {
+        "id": "966",
+        "name": "SDN 1 BANGUNHARJA",
+        "vilId": "28268"
+    },
+    {
+        "id": "1018",
+        "name": "SDN 1 DANASARI",
+        "vilId": "39461"
+    },
+    {
+        "id": "1630",
+        "name": "SDN 4 SINDANGKASIH",
+        "vilId": "30317"
+    },
+    {
+        "id": "1542",
+        "name": "SDN 3 SINDANGKASIH",
+        "vilId": "30317"
+    },
+    {
+        "id": "1144",
+        "name": "SDN 1 SINDANGKASIH",
+        "vilId": "30317"
+    },
+    {
+        "id": "960",
+        "name": "SDIT AL-AMIN",
+        "vilId": "30317"
+    },
+    {
+        "id": "1595",
+        "name": "SDN 4 GUNUNGCUPU",
+        "vilId": "49453"
+    },
+    {
+        "id": "1468",
+        "name": "SDN 3 GUNUNGCUPU",
+        "vilId": "49453"
+    },
+    {
+        "id": "1269",
+        "name": "SDN 2 GUNUNGCUPU",
+        "vilId": "49453"
+    },
+    {
+        "id": "1028",
+        "name": "SDN 1 GUNUNGCUPU",
+        "vilId": "49453"
+    },
+    {
+        "id": "1224",
+        "name": "SDN 2 BUDIASIH",
+        "vilId": "28276"
+    },
+    {
+        "id": "982",
+        "name": "SDN 1 BUDIASIH",
+        "vilId": "28276"
+    },
+    {
+        "id": "1436",
+        "name": "SDN 3 BUDIHARJA",
+        "vilId": "31109"
+    },
+    {
+        "id": "1225",
+        "name": "SDN 2 BUDIHARJA",
+        "vilId": "31109"
+    },
+    {
+        "id": "983",
+        "name": "SDN 1 BUDIHARJA",
+        "vilId": "31109"
+    },
+    {
+        "id": "1422",
+        "name": "SDN 2 WANASIGRA",
+        "vilId": "28282"
+    },
+    {
+        "id": "1201",
+        "name": "SDN 1 WANASIGRA",
+        "vilId": "28282"
+    },
+    {
+        "id": "1365",
+        "name": "SDN 2 SAGULING",
+        "vilId": "31166"
+    },
+    {
+        "id": "1128",
+        "name": "SDN 1 SAGULING",
+        "vilId": "31166"
+    },
+    {
+        "id": "1352",
+        "name": "SDN 2 PETIRHILIR",
+        "vilId": "28287"
+    },
+    {
+        "id": "1114",
+        "name": "SDN 1 PETIRHILIR",
+        "vilId": "28287"
+    },
+    {
+        "id": "1120",
+        "name": "SDN 1 PUSAKANAGARA",
+        "vilId": "28288"
+    },
+    {
+        "id": "1472",
+        "name": "SDN 3 JELAT",
+        "vilId": "28289"
+    },
+    {
+        "id": "1280",
+        "name": "SDN 2 JELAT",
+        "vilId": "28289"
+    },
+    {
+        "id": "1041",
+        "name": "SDN 1 JELAT",
+        "vilId": "28289"
+    },
+    {
+        "id": "1045",
+        "name": "SDN 1 KARANGAMPEL",
+        "vilId": "37285"
+    },
+    {
+        "id": "1420",
+        "name": "SDN 2 TENGGERRAHARJA",
+        "vilId": "28293"
+    },
+    {
+        "id": "1198",
+        "name": "SDN 1 TENGGERRAHARJA",
+        "vilId": "28293"
+    },
+    {
+        "id": "643",
+        "name": "SD NEGERI 3 LUMBUNG",
+        "vilId": "50892"
+    },
+    {
+        "id": "200",
+        "name": "SD NEGERI 1 LUMBUNG",
+        "vilId": "50892"
+    },
+    {
+        "id": "1494",
+        "name": "SDN 3 LUMBUNGSARI",
+        "vilId": "28300"
+    },
+    {
+        "id": "1314",
+        "name": "SDN 2 LUMBUNGSARI",
+        "vilId": "28300"
+    },
+    {
+        "id": "201",
+        "name": "SD NEGERI 1 LUMBUNGSARI",
+        "vilId": "28300"
+    },
+    {
+        "id": "1207",
+        "name": "SDN 2 AWILUAR",
+        "vilId": "28301"
+    },
+    {
+        "id": "964",
+        "name": "SDN 1 AWILUAR",
+        "vilId": "28301"
+    },
+    {
+        "id": "402",
+        "name": "SD NEGERI 2 DARMARAJA",
+        "vilId": "29486"
+    },
+    {
+        "id": "129",
+        "name": "SD NEGERI 1 DARMARAJA",
+        "vilId": "29486"
+    },
+    {
+        "id": "1533",
+        "name": "SDN 3 SADEWATA",
+        "vilId": "28304"
+    },
+    {
+        "id": "520",
+        "name": "SD NEGERI 2 SADEWATA",
+        "vilId": "28304"
+    },
+    {
+        "id": "259",
+        "name": "SD NEGERI 1 SADEWATA",
+        "vilId": "28304"
+    },
+    {
+        "id": "1215",
+        "name": "SDN 2 BANTARDAWA",
+        "vilId": "28305"
+    },
+    {
+        "id": "971",
+        "name": "SDN 1 BANTARDAWA",
+        "vilId": "28305"
+    },
+    {
+        "id": "1524",
+        "name": "SDN 3 PURWADADI",
+        "vilId": "50545"
+    },
+    {
+        "id": "1354",
+        "name": "SDN 2 PURWADADI",
+        "vilId": "50545"
+    },
+    {
+        "id": "1115",
+        "name": "SDN 1 PURWADADI",
+        "vilId": "50545"
+    },
+    {
+        "id": "1539",
+        "name": "SDN 3 SIDARAHAYU",
+        "vilId": "28309"
+    },
+    {
+        "id": "1372",
+        "name": "SDN 2 SIDARAHAYU",
+        "vilId": "28309"
+    },
+    {
+        "id": "1139",
+        "name": "SDN 1 SIDARAHAYU",
+        "vilId": "28309"
+    },
+    {
+        "id": "1337",
+        "name": "SDN 2 PADARINGAN",
+        "vilId": "28310"
+    },
+    {
+        "id": "1097",
+        "name": "SDN 1 PADARINGAN",
+        "vilId": "28310"
+    },
+    {
+        "id": "1346",
+        "name": "SDN 2 PASIRLAWANG",
+        "vilId": "28311"
+    },
+    {
+        "id": "1107",
+        "name": "SDN 1 PASIRLAWANG",
+        "vilId": "28311"
+    },
+    {
+        "id": "1644",
+        "name": "SDN 5 BANJARANYAR",
+        "vilId": "46418"
+    },
+    {
+        "id": "1579",
+        "name": "SDN 4 BANJARANYAR",
+        "vilId": "46418"
+    },
+    {
+        "id": "1430",
+        "name": "SDN 3 BANJARANYAR",
+        "vilId": "46418"
+    },
+    {
+        "id": "1213",
+        "name": "SDN 2 BANJARANYAR",
+        "vilId": "46418"
+    },
+    {
+        "id": "969",
+        "name": "SDN 1 BANJARANYAR",
+        "vilId": "46418"
+    },
+    {
+        "id": "1237",
+        "name": "SDN 2 CIGAYAM",
+        "vilId": "28316"
+    },
+    {
+        "id": "993",
+        "name": "SDN 1 CIGAYAM",
+        "vilId": "28316"
+    },
+    {
+        "id": "1608",
+        "name": "SDN 4 LANGKAPSARI",
+        "vilId": "28317"
+    },
+    {
+        "id": "1492",
+        "name": "SDN 3 LANGKAPSARI",
+        "vilId": "28317"
+    },
+    {
+        "id": "1312",
+        "name": "SDN 2 LANGKAPSARI",
+        "vilId": "28317"
+    },
+    {
+        "id": "1072",
+        "name": "SDN 1 LANGKAPSARI",
+        "vilId": "28317"
+    },
+    {
+        "id": "1284",
+        "name": "SDN 2 KALIJAYA",
+        "vilId": "33114"
+    },
+    {
+        "id": "1044",
+        "name": "SDN 1 KALIJAYA",
+        "vilId": "33114"
+    },
+    {
+        "id": "1447",
+        "name": "SDN 3 CIKASO",
+        "vilId": "28530"
+    },
+    {
+        "id": "1000",
+        "name": "SDN 1 CIKASO",
+        "vilId": "28530"
+    },
+    {
+        "id": "793",
+        "name": "SD NEGERI CIKASO",
+        "vilId": "28530"
+    },
+    {
+        "id": "920",
+        "name": "SD NEGERI SINDANGJAWA",
+        "vilId": "28878"
+    },
+    {
+        "id": "539",
+        "name": "SD NEGERI 2 SINDANGJAWA",
+        "vilId": "28878"
+    },
+    {
+        "id": "276",
+        "name": "SD NEGERI 1 SINDANGJAWA",
+        "vilId": "28878"
+    },
+    {
+        "id": "794",
+        "name": "SD NEGERI CIKETAK",
+        "vilId": "28325"
+    },
+    {
+        "id": "565",
+        "name": "SD NEGERI 2 WINDUJANTEN",
+        "vilId": "28327"
+    },
+    {
+        "id": "303",
+        "name": "SD NEGERI 1 WINDUJANTEN",
+        "vilId": "28327"
+    },
+    {
+        "id": "622",
+        "name": "SD NEGERI 3 KADUGEDE",
+        "vilId": "28328"
+    },
+    {
+        "id": "421",
+        "name": "SD NEGERI 2 KADUGEDE",
+        "vilId": "28328"
+    },
+    {
+        "id": "152",
+        "name": "SD NEGERI 1 KADUGEDE",
+        "vilId": "28328"
+    },
+    {
+        "id": "325",
+        "name": "SD NEGERI 2 BAYUNING",
+        "vilId": "28331"
+    },
+    {
+        "id": "39",
+        "name": "SD NEGERI 1 BAYUNING",
+        "vilId": "28331"
+    },
+    {
+        "id": "12",
+        "name": "SD IT AL-KAUTSAR",
+        "vilId": "28331"
+    },
+    {
+        "id": "944",
+        "name": "SD NEGERI TINGGAR",
+        "vilId": "50733"
+    },
+    {
+        "id": "813",
+        "name": "SD NEGERI CISUKADANA",
+        "vilId": "28334"
+    },
+    {
+        "id": "873",
+        "name": "SD NEGERI MARGABAKTI",
+        "vilId": "31706"
+    },
+    {
+        "id": "904",
+        "name": "SD NEGERI PINARA",
+        "vilId": "28336"
+    },
+    {
+        "id": "804",
+        "name": "SD NEGERI CINIRU",
+        "vilId": "28482"
+    },
+    {
+        "id": "803",
+        "name": "SD NEGERI CINIRU",
+        "vilId": "28482"
+    },
+    {
+        "id": "866",
+        "name": "SD NEGERI LONGKEWANG",
+        "vilId": "28341"
+    },
+    {
+        "id": "833",
+        "name": "SD NEGERI GUNUNGMANIK",
+        "vilId": "29584"
+    },
+    {
+        "id": "495",
+        "name": "SD NEGERI 2 PAMUPUKAN",
+        "vilId": "28344"
+    },
+    {
+        "id": "234",
+        "name": "SD NEGERI 1 PAMUPUKAN",
+        "vilId": "28344"
+    },
+    {
+        "id": "684",
+        "name": "SD NEGERI 3 TANGKOLO",
+        "vilId": "28345"
+    },
+    {
+        "id": "556",
+        "name": "SD NEGERI 2 TANGKOLO",
+        "vilId": "28345"
+    },
+    {
+        "id": "294",
+        "name": "SD NEGERI 1 TANGKOLO",
+        "vilId": "28345"
+    },
+    {
+        "id": "743",
+        "name": "SD NEGERI 4 SUBANG",
+        "vilId": "28347"
+    },
+    {
+        "id": "678",
+        "name": "SD NEGERI 3 SUBANG",
+        "vilId": "28347"
+    },
+    {
+        "id": "543",
+        "name": "SD NEGERI 2 SUBANG",
+        "vilId": "28347"
+    },
+    {
+        "id": "280",
+        "name": "SD NEGERI 1 SUBANG",
+        "vilId": "28347"
+    },
+    {
+        "id": "831",
+        "name": "SD NEGERI GUNUNGACI",
+        "vilId": "28348"
+    },
+    {
+        "id": "798",
+        "name": "SD NEGERI CILAYUNG",
+        "vilId": "29627"
+    },
+    {
+        "id": "613",
+        "name": "SD NEGERI 3 GARAJATI",
+        "vilId": "28355"
+    },
+    {
+        "id": "407",
+        "name": "SD NEGERI 2 GARAJATI",
+        "vilId": "28355"
+    },
+    {
+        "id": "134",
+        "name": "SD NEGERI 1 GARAJATI",
+        "vilId": "28355"
+    },
+    {
+        "id": "322",
+        "name": "SD NEGERI 2 BAOK",
+        "vilId": "58863"
+    },
+    {
+        "id": "35",
+        "name": "SD NEGERI 1 BAOK",
+        "vilId": "58863"
+    },
+    {
+        "id": "769",
+        "name": "SD NEGERI ANDAMUI",
+        "vilId": "28357"
+    },
+    {
+        "id": "398",
+        "name": "SD NEGERI 2 CITUNDUN",
+        "vilId": "28359"
+    },
+    {
+        "id": "125",
+        "name": "SD NEGERI 1 CITUNDUN",
+        "vilId": "28359"
+    },
+    {
+        "id": "861",
+        "name": "SD NEGERI LEBAKHERANG",
+        "vilId": "28360"
+    },
+    {
+        "id": "851",
+        "name": "SD NEGERI KARANGBARU",
+        "vilId": "30883"
+    },
+    {
+        "id": "863",
+        "name": "SD NEGERI LINGGAJAYA",
+        "vilId": "31719"
+    },
+    {
+        "id": "816",
+        "name": "SD NEGERI CITIKUR",
+        "vilId": "28363"
+    },
+    {
+        "id": "338",
+        "name": "SD NEGERI 2 CIANGIR",
+        "vilId": "50146"
+    },
+    {
+        "id": "55",
+        "name": "SD NEGERI 1 CIANGIR",
+        "vilId": "50146"
+    },
+    {
+        "id": "767",
+        "name": "SD NEGERI 7 CIBINGBIN",
+        "vilId": "49287"
+    },
+    {
+        "id": "763",
+        "name": "SD NEGERI 6 CIBINGBIN",
+        "vilId": "49287"
+    },
+    {
+        "id": "588",
+        "name": "SD NEGERI 3 CIBINGBIN",
+        "vilId": "49287"
+    },
+    {
+        "id": "343",
+        "name": "SD NEGERI 2 CIBINGBIN",
+        "vilId": "49287"
+    },
+    {
+        "id": "62",
+        "name": "SD NEGERI 1 CIBINGBIN",
+        "vilId": "49287"
+    },
+    {
+        "id": "397",
+        "name": "SD NEGERI 2 CITENJO",
+        "vilId": "28368"
+    },
+    {
+        "id": "124",
+        "name": "SD NEGERI 1 CITENJO",
+        "vilId": "28368"
+    },
+    {
+        "id": "819",
+        "name": "SD NEGERI DUKUHBADAG",
+        "vilId": "39960"
+    },
+    {
+        "id": "823",
+        "name": "SD NEGERI DUKUHPICUNG",
+        "vilId": "28374"
+    },
+    {
+        "id": "949",
+        "name": "SD NEGERI WALAHARCAGEUR",
+        "vilId": "28375"
+    },
+    {
+        "id": "562",
+        "name": "SD NEGERI 2 WILANAGARA",
+        "vilId": "28376"
+    },
+    {
+        "id": "300",
+        "name": "SD NEGERI 1 WILANAGARA",
+        "vilId": "28376"
+    },
+    {
+        "id": "785",
+        "name": "SD NEGERI CIGEDANG",
+        "vilId": "28377"
+    },
+    {
+        "id": "393",
+        "name": "SD NEGERI 2 CIRAHAYU",
+        "vilId": "28380"
+    },
+    {
+        "id": "120",
+        "name": "SD NEGERI 1 CIRAHAYU",
+        "vilId": "28380"
+    },
+    {
+        "id": "502",
+        "name": "SD NEGERI 2 PANYOSOGAN",
+        "vilId": "28384"
+    },
+    {
+        "id": "239",
+        "name": "SD NEGERI 1 PANYOSOGAN",
+        "vilId": "28384"
+    },
+    {
+        "id": "409",
+        "name": "SD NEGERI 2 GUNUNGKARUNG",
+        "vilId": "30389"
+    },
+    {
+        "id": "136",
+        "name": "SD NEGERI 1 GUNUNGKARUNG",
+        "vilId": "30389"
+    },
+    {
+        "id": "403",
+        "name": "SD NEGERI 2 DUKUHMAJA",
+        "vilId": "39861"
+    },
+    {
+        "id": "130",
+        "name": "SD NEGERI 1 DUKUHMAJA",
+        "vilId": "39861"
+    },
+    {
+        "id": "596",
+        "name": "SD NEGERI 3 CIKADUWETAN",
+        "vilId": "28389"
+    },
+    {
+        "id": "358",
+        "name": "SD NEGERI 2 CIKADUWETAN",
+        "vilId": "28389"
+    },
+    {
+        "id": "82",
+        "name": "SD NEGERI 1 CIKADUWETAN",
+        "vilId": "28389"
+    },
+    {
+        "id": "459",
+        "name": "SD NEGERI 2 LANGSEB",
+        "vilId": "28390"
+    },
+    {
+        "id": "192",
+        "name": "SD NEGERI 1 LANGSEB",
+        "vilId": "28390"
+    },
+    {
+        "id": "381",
+        "name": "SD NEGERI 2 CINEUMBEUY",
+        "vilId": "28392"
+    },
+    {
+        "id": "105",
+        "name": "SD NEGERI 1 CINEUMBEUY",
+        "vilId": "28392"
+    },
+    {
+        "id": "870",
+        "name": "SD NEGERI MANCAGAR",
+        "vilId": "28411"
+    },
+    {
+        "id": "869",
+        "name": "SD NEGERI MANCAGAR",
+        "vilId": "28411"
+    },
+    {
+        "id": "536",
+        "name": "SD NEGERI 2 SINDANG",
+        "vilId": "39699"
+    },
+    {
+        "id": "273",
+        "name": "SD NEGERI 1 SINDANG",
+        "vilId": "39699"
+    },
+    {
+        "id": "902",
+        "name": "SD NEGERI PASAYANGAN",
+        "vilId": "60202"
+    },
+    {
+        "id": "888",
+        "name": "SD NEGERI PAJAWANKIDUL",
+        "vilId": "28399"
+    },
+    {
+        "id": "489",
+        "name": "SD NEGERI 2 PAGUNDAN",
+        "vilId": "28400"
+    },
+    {
+        "id": "228",
+        "name": "SD NEGERI 1 PAGUNDAN",
+        "vilId": "28400"
+    },
+    {
+        "id": "872",
+        "name": "SD NEGERI MANGGARI",
+        "vilId": "77548"
+    },
+    {
+        "id": "829",
+        "name": "SD NEGERI GEWOK",
+        "vilId": "28403"
+    },
+    {
+        "id": "957",
+        "name": "SD YOS SUDARSO",
+        "vilId": "28404"
+    },
+    {
+        "id": "811",
+        "name": "SD NEGERI CIRUKEM",
+        "vilId": "28404"
+    },
+    {
+        "id": "893",
+        "name": "SD NEGERI PAKEMBANGAN",
+        "vilId": "28505"
+    },
+    {
+        "id": "892",
+        "name": "SD NEGERI PAKEMBANGAN",
+        "vilId": "28505"
+    },
+    {
+        "id": "930",
+        "name": "SD NEGERI SUKAIMUT",
+        "vilId": "28406"
+    },
+    {
+        "id": "792",
+        "name": "SD NEGERI CIKANANGA",
+        "vilId": "28407"
+    },
+    {
+        "id": "827",
+        "name": "SD NEGERI GARAWANGI",
+        "vilId": "29358"
+    },
+    {
+        "id": "849",
+        "name": "SD NEGERI KARAMATWANGI",
+        "vilId": "28414"
+    },
+    {
+        "id": "942",
+        "name": "SD NEGERI TEMBONG",
+        "vilId": "50747"
+    },
+    {
+        "id": "456",
+        "name": "SD NEGERI 2 KUTAKEMBARAN",
+        "vilId": "28418"
+    },
+    {
+        "id": "189",
+        "name": "SD NEGERI 1 KUTAKEMBARAN",
+        "vilId": "28418"
+    },
+    {
+        "id": "842",
+        "name": "SD NEGERI KADATUAN",
+        "vilId": "28419"
+    },
+    {
+        "id": "753",
+        "name": "SD NEGERI 5 KUNINGAN",
+        "vilId": "41790"
+    },
+    {
+        "id": "723",
+        "name": "SD NEGERI 4 KUNINGAN",
+        "vilId": "41790"
+    },
+    {
+        "id": "455",
+        "name": "SD NEGERI 2 KUNINGAN",
+        "vilId": "41790"
+    },
+    {
+        "id": "308",
+        "name": "SD NEGERI 17 KUNINGAN",
+        "vilId": "41790"
+    },
+    {
+        "id": "307",
+        "name": "SD NEGERI 11 KUNINGAN",
+        "vilId": "41790"
+    },
+    {
+        "id": "306",
+        "name": "SD NEGERI 10 KUNINGAN",
+        "vilId": "41790"
+    },
+    {
+        "id": "6",
+        "name": "SD IT AL ISTIQOMAH",
+        "vilId": "41790"
+    },
+    {
+        "id": "686",
+        "name": "SD NEGERI 3 WINDUHAJI",
+        "vilId": "28797"
+    },
+    {
+        "id": "563",
+        "name": "SD NEGERI 2 WINDUHAJI",
+        "vilId": "28797"
+    },
+    {
+        "id": "301",
+        "name": "SD NEGERI 1 WINDUHAJI",
+        "vilId": "28797"
+    },
+    {
+        "id": "566",
+        "name": "SD NEGERI 2 WINDUSENGKAHAN",
+        "vilId": "28423"
+    },
+    {
+        "id": "304",
+        "name": "SD NEGERI 1 WINDUSENGKAHAN",
+        "vilId": "28423"
+    },
+    {
+        "id": "956",
+        "name": "SD TAHFIDZ GRAHA QURAN",
+        "vilId": "28424"
+    },
+    {
+        "id": "790",
+        "name": "SD NEGERI CIJOHO",
+        "vilId": "28424"
+    },
+    {
+        "id": "699",
+        "name": "SD NEGERI 4 CIJOHO",
+        "vilId": "28424"
+    },
+    {
+        "id": "768",
+        "name": "SD NEGERI 7 PURWAWINANGUN",
+        "vilId": "29108"
+    },
+    {
+        "id": "765",
+        "name": "SD NEGERI 6 PURWAWINANGUN",
+        "vilId": "29108"
+    },
+    {
+        "id": "757",
+        "name": "SD NEGERI 5 PURWAWINANGUN",
+        "vilId": "29108"
+    },
+    {
+        "id": "733",
+        "name": "SD NEGERI 4 PURWAWINANGUN",
+        "vilId": "29108"
+    },
+    {
+        "id": "666",
+        "name": "SD NEGERI 3 PURWAWINANGUN",
+        "vilId": "29108"
+    },
+    {
+        "id": "513",
+        "name": "SD NEGERI 2 PURWAWINANGUN",
+        "vilId": "29108"
+    },
+    {
+        "id": "251",
+        "name": "SD NEGERI 1 PURWAWINANGUN",
+        "vilId": "29108"
+    },
+    {
+        "id": "11",
+        "name": "SD IT AL-IMAM",
+        "vilId": "29108"
+    },
+    {
+        "id": "1",
+        "name": "SD AISYIYAH KUNINGAN",
+        "vilId": "29108"
+    },
+    {
+        "id": "608",
+        "name": "SD NEGERI 3 CIPORANG",
+        "vilId": "28667"
+    },
+    {
+        "id": "391",
+        "name": "SD NEGERI 2 CIPORANG",
+        "vilId": "28667"
+    },
+    {
+        "id": "118",
+        "name": "SD NEGERI 1 CIPORANG",
+        "vilId": "28667"
+    },
+    {
+        "id": "117",
+        "name": "SD NEGERI 1 CIPORANG",
+        "vilId": "28667"
+    },
+    {
+        "id": "688",
+        "name": "SD NEGERI 4 AWIRARANGAN",
+        "vilId": "28429"
+    },
+    {
+        "id": "568",
+        "name": "SD NEGERI 3 AWIRARANGAN",
+        "vilId": "28429"
+    },
+    {
+        "id": "21",
+        "name": "SD NEGERI 1 AWIRARANGAN",
+        "vilId": "28429"
+    },
+    {
+        "id": "18",
+        "name": "SD LINIMASA",
+        "vilId": "28429"
+    },
+    {
+        "id": "15",
+        "name": "SD IT DARUL AMANAH",
+        "vilId": "28429"
+    },
+    {
+        "id": "344",
+        "name": "SD NEGERI 2 CIBINUANG",
+        "vilId": "28430"
+    },
+    {
+        "id": "63",
+        "name": "SD NEGERI 1 CIBINUANG",
+        "vilId": "28430"
+    },
+    {
+        "id": "631",
+        "name": "SD NEGERI 3 KARANGTAWANG",
+        "vilId": "31822"
+    },
+    {
+        "id": "438",
+        "name": "SD NEGERI 2 KARANGTAWANG",
+        "vilId": "31822"
+    },
+    {
+        "id": "170",
+        "name": "SD NEGERI 1 KARANGTAWANG",
+        "vilId": "31822"
+    },
+    {
+        "id": "441",
+        "name": "SD NEGERI 2 KEDUNGARUM",
+        "vilId": "28432"
+    },
+    {
+        "id": "173",
+        "name": "SD NEGERI 1 KEDUNGARUM",
+        "vilId": "28432"
+    },
+    {
+        "id": "567",
+        "name": "SD NEGERI 3 ANCARAN",
+        "vilId": "28433"
+    },
+    {
+        "id": "309",
+        "name": "SD NEGERI 2 ANCARAN",
+        "vilId": "28433"
+    },
+    {
+        "id": "20",
+        "name": "SD NEGERI 1 ANCARAN",
+        "vilId": "28433"
+    },
+    {
+        "id": "440",
+        "name": "SD NEGERI 2 KASTURI",
+        "vilId": "29162"
+    },
+    {
+        "id": "172",
+        "name": "SD NEGERI 1 KASTURI",
+        "vilId": "29162"
+    },
+    {
+        "id": "487",
+        "name": "SD NEGERI 2 PADAREK",
+        "vilId": "29131"
+    },
+    {
+        "id": "226",
+        "name": "SD NEGERI 1 PADAREK",
+        "vilId": "29131"
+    },
+    {
+        "id": "422",
+        "name": "SD NEGERI 2 KADURAMA",
+        "vilId": "28437"
+    },
+    {
+        "id": "153",
+        "name": "SD NEGERI 1 KADURAMA",
+        "vilId": "28437"
+    },
+    {
+        "id": "583",
+        "name": "SD NEGERI 3 CIAWIGEBANG",
+        "vilId": "28438"
+    },
+    {
+        "id": "339",
+        "name": "SD NEGERI 2 CIAWIGEBANG",
+        "vilId": "28438"
+    },
+    {
+        "id": "56",
+        "name": "SD NEGERI 1 CIAWIGEBANG",
+        "vilId": "28438"
+    },
+    {
+        "id": "460",
+        "name": "SD NEGERI 2 LEBAKSIUH",
+        "vilId": "29735"
+    },
+    {
+        "id": "193",
+        "name": "SD NEGERI 1 LEBAKSIUH",
+        "vilId": "29735"
+    },
+    {
+        "id": "609",
+        "name": "SD NEGERI 3 CIPUTAT",
+        "vilId": "50791"
+    },
+    {
+        "id": "392",
+        "name": "SD NEGERI 2 CIPUTAT",
+        "vilId": "50791"
+    },
+    {
+        "id": "119",
+        "name": "SD NEGERI 1 CIPUTAT",
+        "vilId": "50791"
+    },
+    {
+        "id": "534",
+        "name": "SD NEGERI 2 SIDARAJA",
+        "vilId": "28442"
+    },
+    {
+        "id": "271",
+        "name": "SD NEGERI 1 SIDARAJA",
+        "vilId": "28442"
+    },
+    {
+        "id": "848",
+        "name": "SD NEGERI KAPANDAYAN",
+        "vilId": "28443"
+    },
+    {
+        "id": "350",
+        "name": "SD NEGERI 2 CIGARUKGAK",
+        "vilId": "28449"
+    },
+    {
+        "id": "72",
+        "name": "SD NEGERI 1 CIGARUKGAK",
+        "vilId": "28449"
+    },
+    {
+        "id": "593",
+        "name": "SD NEGERI 3 CIHIRUP",
+        "vilId": "28451"
+    },
+    {
+        "id": "355",
+        "name": "SD NEGERI 2 CIHIRUP",
+        "vilId": "28451"
+    },
+    {
+        "id": "78",
+        "name": "SD NEGERI 1 CIHIRUP",
+        "vilId": "28451"
+    },
+    {
+        "id": "885",
+        "name": "SD NEGERI PADARAMA",
+        "vilId": "28455"
+    },
+    {
+        "id": "365",
+        "name": "SD NEGERI 2 CIKUBANGMULYA",
+        "vilId": "28456"
+    },
+    {
+        "id": "89",
+        "name": "SD NEGERI 1 CIKUBANGMULYA",
+        "vilId": "28456"
+    },
+    {
+        "id": "821",
+        "name": "SD NEGERI DUKUHDALEM",
+        "vilId": "28612"
+    },
+    {
+        "id": "820",
+        "name": "SD NEGERI DUKUHDALEM",
+        "vilId": "28612"
+    },
+    {
+        "id": "789",
+        "name": "SD NEGERI CIJAGAMULYA",
+        "vilId": "28459"
+    },
+    {
+        "id": "449",
+        "name": "SD NEGERI 2 KERTAWINANGUN",
+        "vilId": "29974"
+    },
+    {
+        "id": "448",
+        "name": "SD NEGERI 2 KERTAWINANGUN",
+        "vilId": "29974"
+    },
+    {
+        "id": "183",
+        "name": "SD NEGERI 1 KERTAWINANGUN",
+        "vilId": "29974"
+    },
+    {
+        "id": "182",
+        "name": "SD NEGERI 1 KERTAWINANGUN",
+        "vilId": "29974"
+    },
+    {
+        "id": "364",
+        "name": "SD NEGERI 2 CIKEUSIK",
+        "vilId": "49882"
+    },
+    {
+        "id": "88",
+        "name": "SD NEGERI 1 CIKEUSIK",
+        "vilId": "49882"
+    },
+    {
+        "id": "65",
+        "name": "SD NEGERI 1 CIBULAN",
+        "vilId": "29127"
+    },
+    {
+        "id": "483",
+        "name": "SD NEGERI 2 NANGGELA",
+        "vilId": "29104"
+    },
+    {
+        "id": "482",
+        "name": "SD NEGERI 2 NANGGELA",
+        "vilId": "29104"
+    },
+    {
+        "id": "220",
+        "name": "SD NEGERI 1 NANGGELA",
+        "vilId": "29104"
+    },
+    {
+        "id": "219",
+        "name": "SD NEGERI 1 NANGGELA",
+        "vilId": "29104"
+    },
+    {
+        "id": "776",
+        "name": "SD NEGERI BUNDER",
+        "vilId": "50121"
+    },
+    {
+        "id": "714",
+        "name": "SD NEGERI 4 JALAKSANA",
+        "vilId": "28474"
+    },
+    {
+        "id": "619",
+        "name": "SD NEGERI 3 JALAKSANA",
+        "vilId": "28474"
+    },
+    {
+        "id": "144",
+        "name": "SD NEGERI 1 JALAKSANA",
+        "vilId": "28474"
+    },
+    {
+        "id": "526",
+        "name": "SD NEGERI 2 SANGKANERANG",
+        "vilId": "28475"
+    },
+    {
+        "id": "264",
+        "name": "SD NEGERI 1 SANGKANERANG",
+        "vilId": "28475"
+    },
+    {
+        "id": "915",
+        "name": "SD NEGERI SAYANA",
+        "vilId": "28476"
+    },
+    {
+        "id": "509",
+        "name": "SD NEGERI 2 PEUSING",
+        "vilId": "28477"
+    },
+    {
+        "id": "246",
+        "name": "SD NEGERI 1 PEUSING",
+        "vilId": "28477"
+    },
+    {
+        "id": "530",
+        "name": "SD NEGERI 2 SEMBAWA",
+        "vilId": "32863"
+    },
+    {
+        "id": "267",
+        "name": "SD NEGERI 1 SEMBAWA",
+        "vilId": "32863"
+    },
+    {
+        "id": "908",
+        "name": "SD NEGERI SADAMANTRA",
+        "vilId": "28479"
+    },
+    {
+        "id": "884",
+        "name": "SD NEGERI PADAMENAK",
+        "vilId": "28483"
+    },
+    {
+        "id": "312",
+        "name": "SD NEGERI 2 BABAKANMULYA",
+        "vilId": "28561"
+    },
+    {
+        "id": "311",
+        "name": "SD NEGERI 2 BABAKANMULYA",
+        "vilId": "28561"
+    },
+    {
+        "id": "24",
+        "name": "SD NEGERI 1 BABAKANMULYA",
+        "vilId": "28561"
+    },
+    {
+        "id": "23",
+        "name": "SD NEGERI 1 BABAKANMULYA",
+        "vilId": "28561"
+    },
+    {
+        "id": "569",
+        "name": "SD NEGERI 3 BANDORASA KULON",
+        "vilId": "28488"
+    },
+    {
+        "id": "317",
+        "name": "SD NEGERI 2 BANDORASA KULON",
+        "vilId": "28488"
+    },
+    {
+        "id": "30",
+        "name": "SD NEGERI 1 BANDORASA KULON",
+        "vilId": "28488"
+    },
+    {
+        "id": "865",
+        "name": "SD NEGERI LINGGASANA",
+        "vilId": "28489"
+    },
+    {
+        "id": "531",
+        "name": "SD NEGERI 2 SETIANEGARA",
+        "vilId": "28493"
+    },
+    {
+        "id": "268",
+        "name": "SD NEGERI 1 SETIANEGARA",
+        "vilId": "28493"
+    },
+    {
+        "id": "846",
+        "name": "SD NEGERI KALIAREN",
+        "vilId": "28495"
+    },
+    {
+        "id": "580",
+        "name": "SD NEGERI 3 CARACAS",
+        "vilId": "30091"
+    },
+    {
+        "id": "336",
+        "name": "SD NEGERI 2 CARACAS",
+        "vilId": "30091"
+    },
+    {
+        "id": "52",
+        "name": "SD NEGERI 1 CARACAS",
+        "vilId": "30091"
+    },
+    {
+        "id": "864",
+        "name": "SD NEGERI LINGGAMEKAR",
+        "vilId": "28498"
+    },
+    {
+        "id": "862",
+        "name": "SD NEGERI LINGGAINDAH",
+        "vilId": "28499"
+    },
+    {
+        "id": "810",
+        "name": "SD NEGERI CIREA",
+        "vilId": "28500"
+    },
+    {
+        "id": "916",
+        "name": "SD NEGERI SEDA",
+        "vilId": "28502"
+    },
+    {
+        "id": "946",
+        "name": "SD NEGERI TRIJAYA",
+        "vilId": "28503"
+    },
+    {
+        "id": "871",
+        "name": "SD NEGERI MANDIRANCAN",
+        "vilId": "32099"
+    },
+    {
+        "id": "882",
+        "name": "SD NEGERI NANGGERANGJAYA",
+        "vilId": "28510"
+    },
+    {
+        "id": "911",
+        "name": "SD NEGERI SALAKADOMAS",
+        "vilId": "28511"
+    },
+    {
+        "id": "335",
+        "name": "SD NEGERI 2 CANTILAN",
+        "vilId": "28513"
+    },
+    {
+        "id": "51",
+        "name": "SD NEGERI 1 CANTILAN",
+        "vilId": "28513"
+    },
+    {
+        "id": "586",
+        "name": "SD NEGERI 3 CIBERUNG",
+        "vilId": "32211"
+    },
+    {
+        "id": "60",
+        "name": "SD NEGERI 1 CIBERUNG",
+        "vilId": "32211"
+    },
+    {
+        "id": "840",
+        "name": "SD NEGERI JAMBERAMA",
+        "vilId": "28516"
+    },
+    {
+        "id": "314",
+        "name": "SD NEGERI 2 BAGAWAT",
+        "vilId": "28517"
+    },
+    {
+        "id": "26",
+        "name": "SD NEGERI 1 BAGAWAT",
+        "vilId": "28517"
+    },
+    {
+        "id": "366",
+        "name": "SD NEGERI 2 CILAJA",
+        "vilId": "49595"
+    },
+    {
+        "id": "90",
+        "name": "SD NEGERI 1 CILAJA",
+        "vilId": "49595"
+    },
+    {
+        "id": "796",
+        "name": "SD NEGERI CIKUBANGSARI",
+        "vilId": "28521"
+    },
+    {
+        "id": "515",
+        "name": "SD NEGERI 2 RAGAWACANA",
+        "vilId": "28525"
+    },
+    {
+        "id": "253",
+        "name": "SD NEGERI 1 RAGAWACANA",
+        "vilId": "28525"
+    },
+    {
+        "id": "887",
+        "name": "SD NEGERI PAJAMBON",
+        "vilId": "28526"
+    },
+    {
+        "id": "423",
+        "name": "SD NEGERI 2 KALAPAGUNUNG",
+        "vilId": "28528"
+    },
+    {
+        "id": "154",
+        "name": "SD NEGERI 1 KALAPAGUNUNG",
+        "vilId": "28528"
+    },
+    {
+        "id": "858",
+        "name": "SD NEGERI KRAMATMULYA",
+        "vilId": "28529"
+    },
+    {
+        "id": "454",
+        "name": "SD NEGERI 2 KRAMATMULYA",
+        "vilId": "28529"
+    },
+    {
+        "id": "188",
+        "name": "SD NEGERI 1 KRAMATMULYA",
+        "vilId": "28529"
+    },
+    {
+        "id": "434",
+        "name": "SD NEGERI 2 KARANGMANGU",
+        "vilId": "46310"
+    },
+    {
+        "id": "166",
+        "name": "SD NEGERI 1 KARANGMANGU",
+        "vilId": "46310"
+    },
+    {
+        "id": "952",
+        "name": "SD NEGERI WIDARASARI",
+        "vilId": "28532"
+    },
+    {
+        "id": "377",
+        "name": "SD NEGERI 2 CIMENGA",
+        "vilId": "49812"
+    },
+    {
+        "id": "101",
+        "name": "SD NEGERI 1 CIMENGA",
+        "vilId": "49812"
+    },
+    {
+        "id": "779",
+        "name": "SD NEGERI CAGEUR",
+        "vilId": "28534"
+    },
+    {
+        "id": "910",
+        "name": "SD NEGERI SAKERTA BARAT",
+        "vilId": "28535"
+    },
+    {
+        "id": "897",
+        "name": "SD NEGERI PANINGGARAN",
+        "vilId": "38931"
+    },
+    {
+        "id": "806",
+        "name": "SD NEGERI CIPASUNG",
+        "vilId": "29124"
+    },
+    {
+        "id": "401",
+        "name": "SD NEGERI 2 DARMA",
+        "vilId": "73722"
+    },
+    {
+        "id": "128",
+        "name": "SD NEGERI 1 DARMA",
+        "vilId": "73722"
+    },
+    {
+        "id": "838",
+        "name": "SD NEGERI JAGARA",
+        "vilId": "28543"
+    },
+    {
+        "id": "316",
+        "name": "SD NEGERI 2 BAKOM",
+        "vilId": "28544"
+    },
+    {
+        "id": "29",
+        "name": "SD NEGERI 1 BAKOM",
+        "vilId": "28544"
+    },
+    {
+        "id": "5",
+        "name": "SD ISLAM TERPADU AL-ADHA",
+        "vilId": "28544"
+    },
+    {
+        "id": "834",
+        "name": "SD NEGERI GUNUNGSIRAH",
+        "vilId": "28548"
+    },
+    {
+        "id": "522",
+        "name": "SD NEGERI 2 SAKERTA TIMUR",
+        "vilId": "28549"
+    },
+    {
+        "id": "261",
+        "name": "SD NEGERI 1 SAKERTA TIMUR",
+        "vilId": "28549"
+    },
+    {
+        "id": "560",
+        "name": "SD NEGERI 2 TUGUMULYA",
+        "vilId": "28550"
+    },
+    {
+        "id": "298",
+        "name": "SD NEGERI 1 TUGUMULYA",
+        "vilId": "28550"
+    },
+    {
+        "id": "958",
+        "name": "SD YOS SUDARSO CIGUGUR",
+        "vilId": "31195"
+    },
+    {
+        "id": "787",
+        "name": "SD NEGERI CIGUGUR",
+        "vilId": "31195"
+    },
+    {
+        "id": "697",
+        "name": "SD NEGERI 4 CIGUGUR",
+        "vilId": "31195"
+    },
+    {
+        "id": "591",
+        "name": "SD NEGERI 3 CIGUGUR",
+        "vilId": "31195"
+    },
+    {
+        "id": "73",
+        "name": "SD NEGERI 1 CIGUGUR",
+        "vilId": "31195"
+    },
+    {
+        "id": "696",
+        "name": "SD NEGERI 4 CIGADUNG",
+        "vilId": "49510"
+    },
+    {
+        "id": "590",
+        "name": "SD NEGERI 3 CIGADUNG",
+        "vilId": "49510"
+    },
+    {
+        "id": "70",
+        "name": "SD NEGERI 1 CIGADUNG",
+        "vilId": "49510"
+    },
+    {
+        "id": "564",
+        "name": "SD NEGERI 2 WINDUHERANG",
+        "vilId": "28554"
+    },
+    {
+        "id": "302",
+        "name": "SD NEGERI 1 WINDUHERANG",
+        "vilId": "28554"
+    },
+    {
+        "id": "805",
+        "name": "SD NEGERI CIPARI",
+        "vilId": "32005"
+    },
+    {
+        "id": "14",
+        "name": "SD IT BINAUL UMMAH KUNINGAN",
+        "vilId": "32005"
+    },
+    {
+        "id": "597",
+        "name": "SD NEGERI 3 CILEULEUY",
+        "vilId": "28557"
+    },
+    {
+        "id": "367",
+        "name": "SD NEGERI 2 CILEULEUY",
+        "vilId": "28557"
+    },
+    {
+        "id": "91",
+        "name": "SD NEGERI 1 CILEULEUY",
+        "vilId": "28557"
+    },
+    {
+        "id": "663",
+        "name": "SD NEGERI 3 PUNCAK",
+        "vilId": "72731"
+    },
+    {
+        "id": "510",
+        "name": "SD NEGERI 2 PUNCAK",
+        "vilId": "72731"
+    },
+    {
+        "id": "248",
+        "name": "SD NEGERI 1 PUNCAK",
+        "vilId": "72731"
+    },
+    {
+        "id": "832",
+        "name": "SD NEGERI GUNUNGKELING",
+        "vilId": "28559"
+    },
+    {
+        "id": "959",
+        "name": "SD YOS SUDARSO CISANTANA",
+        "vilId": "28560"
+    },
+    {
+        "id": "610",
+        "name": "SD NEGERI 3 CISANTANA",
+        "vilId": "28560"
+    },
+    {
+        "id": "395",
+        "name": "SD NEGERI 2 CISANTANA",
+        "vilId": "28560"
+    },
+    {
+        "id": "122",
+        "name": "SD NEGERI 1 CISANTANA",
+        "vilId": "28560"
+    },
+    {
+        "id": "17",
+        "name": "SD IT TUNAS QUR`ANI",
+        "vilId": "28560"
+    },
+    {
+        "id": "420",
+        "name": "SD NEGERI 2 KADUELA",
+        "vilId": "49482"
+    },
+    {
+        "id": "151",
+        "name": "SD NEGERI 1 KADUELA",
+        "vilId": "49482"
+    },
+    {
+        "id": "400",
+        "name": "SD NEGERI 2 CIWIRU",
+        "vilId": "28565"
+    },
+    {
+        "id": "127",
+        "name": "SD NEGERI 1 CIWIRU",
+        "vilId": "28565"
+    },
+    {
+        "id": "801",
+        "name": "SD NEGERI CIMARA",
+        "vilId": "29710"
+    },
+    {
+        "id": "704",
+        "name": "SD NEGERI 4 CIMARA",
+        "vilId": "29710"
+    },
+    {
+        "id": "600",
+        "name": "SD NEGERI 3 CIMARA",
+        "vilId": "29710"
+    },
+    {
+        "id": "374",
+        "name": "SD NEGERI 2 CIMARA",
+        "vilId": "29710"
+    },
+    {
+        "id": "98",
+        "name": "SD NEGERI 1 CIMARA",
+        "vilId": "29710"
+    },
+    {
+        "id": "500",
+        "name": "SD NEGERI 2 PANIIS",
+        "vilId": "49586"
+    },
+    {
+        "id": "238",
+        "name": "SD NEGERI 1 PANIIS",
+        "vilId": "49586"
+    },
+    {
+        "id": "926",
+        "name": "SD NEGERI SINGKUP",
+        "vilId": "31736"
+    },
+    {
+        "id": "925",
+        "name": "SD NEGERI SINGKUP",
+        "vilId": "31736"
+    },
+    {
+        "id": "835",
+        "name": "SD NEGERI HAURKUNING",
+        "vilId": "29550"
+    },
+    {
+        "id": "615",
+        "name": "SD NEGERI 3 HAURKUNING",
+        "vilId": "29550"
+    },
+    {
+        "id": "857",
+        "name": "SD NEGERI KERTAYUGA",
+        "vilId": "28573"
+    },
+    {
+        "id": "221",
+        "name": "SD NEGERI 1 NUSAHERANG",
+        "vilId": "28575"
+    },
+    {
+        "id": "620",
+        "name": "SD NEGERI 3 JAMBAR",
+        "vilId": "28576"
+    },
+    {
+        "id": "415",
+        "name": "SD NEGERI 2 JAMBAR",
+        "vilId": "28576"
+    },
+    {
+        "id": "145",
+        "name": "SD NEGERI 1 JAMBAR",
+        "vilId": "28576"
+    },
+    {
+        "id": "450",
+        "name": "SD NEGERI 2 KERTAWIRAMA",
+        "vilId": "28578"
+    },
+    {
+        "id": "184",
+        "name": "SD NEGERI 1 KERTAWIRAMA",
+        "vilId": "28578"
+    },
+    {
+        "id": "780",
+        "name": "SD NEGERI CIASIH",
+        "vilId": "28579"
+    },
+    {
+        "id": "481",
+        "name": "SD NEGERI 2 MUNCANGELA",
+        "vilId": "28580"
+    },
+    {
+        "id": "218",
+        "name": "SD NEGERI 1 MUNCANGELA",
+        "vilId": "28580"
+    },
+    {
+        "id": "439",
+        "name": "SD NEGERI 2 KAROYA",
+        "vilId": "49939"
+    },
+    {
+        "id": "171",
+        "name": "SD NEGERI 1 KAROYA",
+        "vilId": "49939"
+    },
+    {
+        "id": "376",
+        "name": "SD NEGERI 2 CIMARANTEN",
+        "vilId": "28583"
+    },
+    {
+        "id": "100",
+        "name": "SD NEGERI 1 CIMARANTEN",
+        "vilId": "28583"
+    },
+    {
+        "id": "523",
+        "name": "SD NEGERI 2 SALAREUMA",
+        "vilId": "28586"
+    },
+    {
+        "id": "262",
+        "name": "SD NEGERI 1 SALAREUMA",
+        "vilId": "28586"
+    },
+    {
+        "id": "544",
+        "name": "SD NEGERI 2 SUGANANGAN",
+        "vilId": "28587"
+    },
+    {
+        "id": "281",
+        "name": "SD NEGERI 1 SUGANANGAN",
+        "vilId": "28587"
+    },
+    {
+        "id": "917",
+        "name": "SD NEGERI SILEBU",
+        "vilId": "50285"
+    },
+    {
+        "id": "508",
+        "name": "SD NEGERI 2 PATALAGAN",
+        "vilId": "28591"
+    },
+    {
+        "id": "245",
+        "name": "SD NEGERI 1 PATALAGAN",
+        "vilId": "28591"
+    },
+    {
+        "id": "845",
+        "name": "SD NEGERI KAHIYANGAN",
+        "vilId": "28592"
+    },
+    {
+        "id": "938",
+        "name": "SD NEGERI TAJURBUNTU",
+        "vilId": "28593"
+    },
+    {
+        "id": "895",
+        "name": "SD NEGERI PANCALANG",
+        "vilId": "28594"
+    },
+    {
+        "id": "936",
+        "name": "SD NEGERI SUMBAKELING",
+        "vilId": "28595"
+    },
+    {
+        "id": "914",
+        "name": "SD NEGERI SAREWU",
+        "vilId": "28596"
+    },
+    {
+        "id": "921",
+        "name": "SD NEGERI SINDANGKEMPENG",
+        "vilId": "28597"
+    },
+    {
+        "id": "905",
+        "name": "SD NEGERI RAJAWETAN",
+        "vilId": "39790"
+    },
+    {
+        "id": "559",
+        "name": "SD NEGERI 2 TENJOLAYAR",
+        "vilId": "29398"
+    },
+    {
+        "id": "297",
+        "name": "SD NEGERI 1 TENJOLAYAR",
+        "vilId": "29398"
+    },
+    {
+        "id": "817",
+        "name": "SD NEGERI DANALAMPAH",
+        "vilId": "28602"
+    },
+    {
+        "id": "826",
+        "name": "SD NEGERI GARATENGAH",
+        "vilId": "28603"
+    },
+    {
+        "id": "516",
+        "name": "SD NEGERI 2 RAJADANU",
+        "vilId": "28604"
+    },
+    {
+        "id": "254",
+        "name": "SD NEGERI 1 RAJADANU",
+        "vilId": "28604"
+    },
+    {
+        "id": "416",
+        "name": "SD NEGERI 2 JAPARA",
+        "vilId": "28606"
+    },
+    {
+        "id": "147",
+        "name": "SD NEGERI 1 JAPARA",
+        "vilId": "28606"
+    },
+    {
+        "id": "951",
+        "name": "SD NEGERI WANO",
+        "vilId": "28607"
+    },
+    {
+        "id": "361",
+        "name": "SD NEGERI 2 CIKELENG",
+        "vilId": "28610"
+    },
+    {
+        "id": "85",
+        "name": "SD NEGERI 1 CIKELENG",
+        "vilId": "28610"
+    },
+    {
+        "id": "847",
+        "name": "SD NEGERI KALIMATI",
+        "vilId": "44378"
+    },
+    {
+        "id": "598",
+        "name": "SD NEGERI 3 CILEUYA",
+        "vilId": "28613"
+    },
+    {
+        "id": "368",
+        "name": "SD NEGERI 2 CILEUYA",
+        "vilId": "28613"
+    },
+    {
+        "id": "92",
+        "name": "SD NEGERI 1 CILEUYA",
+        "vilId": "28613"
+    },
+    {
+        "id": "428",
+        "name": "SD NEGERI 2 KANANGA",
+        "vilId": "52311"
+    },
+    {
+        "id": "160",
+        "name": "SD NEGERI 1 KANANGA",
+        "vilId": "52311"
+    },
+    {
+        "id": "802",
+        "name": "SD NEGERI CIMULYA",
+        "vilId": "28622"
+    },
+    {
+        "id": "463",
+        "name": "SD NEGERI 2 LEGOKHERANG",
+        "vilId": "28623"
+    },
+    {
+        "id": "196",
+        "name": "SD NEGERI 1 LEGOKHERANG",
+        "vilId": "28623"
+    },
+    {
+        "id": "332",
+        "name": "SD NEGERI 2 BUNGURBERES",
+        "vilId": "28624"
+    },
+    {
+        "id": "47",
+        "name": "SD NEGERI 1 BUNGURBERES",
+        "vilId": "28624"
+    },
+    {
+        "id": "799",
+        "name": "SD NEGERI CILEBAK",
+        "vilId": "28625"
+    },
+    {
+        "id": "507",
+        "name": "SD NEGERI 2 PATALA",
+        "vilId": "28627"
+    },
+    {
+        "id": "244",
+        "name": "SD NEGERI 1 PATALA",
+        "vilId": "28627"
+    },
+    {
+        "id": "800",
+        "name": "SD NEGERI CILIMUSARI",
+        "vilId": "28629"
+    },
+    {
+        "id": "903",
+        "name": "SD NEGERI PASIRAGUNG",
+        "vilId": "28631"
+    },
+    {
+        "id": "947",
+        "name": "SD NEGERI TUNDAGAN",
+        "vilId": "39228"
+    },
+    {
+        "id": "778",
+        "name": "SD NEGERI BUNIGEULIS",
+        "vilId": "28689"
+    },
+    {
+        "id": "578",
+        "name": "SD NEGERI 3 BUNIGEULIS",
+        "vilId": "28689"
+    },
+    {
+        "id": "333",
+        "name": "SD NEGERI 2 BUNIGEULIS",
+        "vilId": "28689"
+    },
+    {
+        "id": "48",
+        "name": "SD NEGERI 1 BUNIGEULIS",
+        "vilId": "28689"
+    },
+    {
+        "id": "411",
+        "name": "SD NEGERI 2 HANTARA",
+        "vilId": "28634"
+    },
+    {
+        "id": "138",
+        "name": "SD NEGERI 1 HANTARA",
+        "vilId": "28634"
+    },
+    {
+        "id": "890",
+        "name": "SD NEGERI PAKAPASAN GIRANG",
+        "vilId": "28635"
+    },
+    {
+        "id": "891",
+        "name": "SD NEGERI PAKAPASAN HILIR",
+        "vilId": "28637"
+    },
+    {
+        "id": "899",
+        "name": "SD NEGERI PARTAWANGUNAN",
+        "vilId": "28639"
+    },
+    {
+        "id": "387",
+        "name": "SD NEGERI 2 CIPANCUR",
+        "vilId": "30479"
+    },
+    {
+        "id": "112",
+        "name": "SD NEGERI 1 CIPANCUR",
+        "vilId": "30479"
+    },
+    {
+        "id": "637",
+        "name": "SD NEGERI 3 KERTAWANA",
+        "vilId": "28641"
+    },
+    {
+        "id": "180",
+        "name": "SD NEGERI 1 KERTAWANA",
+        "vilId": "28641"
+    },
+    {
+        "id": "950",
+        "name": "SD NEGERI WANASARAYA",
+        "vilId": "28642"
+    },
+    {
+        "id": "937",
+        "name": "SD NEGERI SUMURWIRU",
+        "vilId": "28645"
+    },
+    {
+        "id": "518",
+        "name": "SD NEGERI 2 RANDUSARI",
+        "vilId": "49011"
+    },
+    {
+        "id": "257",
+        "name": "SD NEGERI 1 RANDUSARI",
+        "vilId": "49011"
+    },
+    {
+        "id": "628",
+        "name": "SD NEGERI 3 KARANGKANCANA",
+        "vilId": "28652"
+    },
+    {
+        "id": "433",
+        "name": "SD NEGERI 2 KARANGKANCANA",
+        "vilId": "28652"
+    },
+    {
+        "id": "165",
+        "name": "SD NEGERI 1 KARANGKANCANA",
+        "vilId": "28652"
+    },
+    {
+        "id": "844",
+        "name": "SD NEGERI KADUAGUNG",
+        "vilId": "28678"
+    },
+    {
+        "id": "843",
+        "name": "SD NEGERI KADUAGUNG",
+        "vilId": "28678"
+    },
+    {
+        "id": "527",
+        "name": "SD NEGERI 2 SEGONG",
+        "vilId": "28654"
+    },
+    {
+        "id": "265",
+        "name": "SD NEGERI 1 SEGONG",
+        "vilId": "28654"
+    },
+    {
+        "id": "473",
+        "name": "SD NEGERI 2 MARGACINA",
+        "vilId": "28657"
+    },
+    {
+        "id": "208",
+        "name": "SD NEGERI 1 MARGACINA",
+        "vilId": "28657"
+    },
+    {
+        "id": "616",
+        "name": "SD NEGERI 3 JABRANTI",
+        "vilId": "28658"
+    },
+    {
+        "id": "412",
+        "name": "SD NEGERI 2 JABRANTI",
+        "vilId": "28658"
+    },
+    {
+        "id": "141",
+        "name": "SD NEGERI 1 JABRANTI",
+        "vilId": "28658"
+    },
+    {
+        "id": "918",
+        "name": "SD NEGERI SIMPAYJAYA",
+        "vilId": "28659"
+    },
+    {
+        "id": "788",
+        "name": "SD NEGERI CIHANJARO",
+        "vilId": "28660"
+    },
+    {
+        "id": "825",
+        "name": "SD NEGERI GARAHAJI",
+        "vilId": "28661"
+    },
+    {
+        "id": "405",
+        "name": "SD NEGERI 2 GALAHERANG",
+        "vilId": "28662"
+    },
+    {
+        "id": "132",
+        "name": "SD NEGERI 1 GALAHERANG",
+        "vilId": "28662"
+    },
+    {
+        "id": "708",
+        "name": "SD NEGERI 4 CIPAKEM",
+        "vilId": "28663"
+    },
+    {
+        "id": "605",
+        "name": "SD NEGERI 3 CIPAKEM",
+        "vilId": "28663"
+    },
+    {
+        "id": "386",
+        "name": "SD NEGERI 2 CIPAKEM",
+        "vilId": "28663"
+    },
+    {
+        "id": "111",
+        "name": "SD NEGERI 1 CIPAKEM",
+        "vilId": "28663"
+    },
+    {
+        "id": "824",
+        "name": "SD NEGERI DUKUHTENGAH",
+        "vilId": "44669"
+    },
+    {
+        "id": "859",
+        "name": "SD NEGERI KUTAMANDARAKAN",
+        "vilId": "28673"
+    },
+    {
+        "id": "830",
+        "name": "SD NEGERI GIRIWARINGIN",
+        "vilId": "28675"
+    },
+    {
+        "id": "856",
+        "name": "SD NEGERI KERTAUNGARAN",
+        "vilId": "28679"
+    },
+    {
+        "id": "919",
+        "name": "SD NEGERI SINDANGAGUNG",
+        "vilId": "28680"
+    },
+    {
+        "id": "772",
+        "name": "SD NEGERI BALONG",
+        "vilId": "67456"
+    },
+    {
+        "id": "447",
+        "name": "SD NEGERI 2 KERTAWANGUNAN",
+        "vilId": "28683"
+    },
+    {
+        "id": "181",
+        "name": "SD NEGERI 1 KERTAWANGUNAN",
+        "vilId": "28683"
+    },
+    {
+        "id": "313",
+        "name": "SD NEGERI 2 BABAKANREUMA",
+        "vilId": "28684"
+    },
+    {
+        "id": "25",
+        "name": "SD NEGERI 1 BABAKANREUMA",
+        "vilId": "28684"
+    },
+    {
+        "id": "945",
+        "name": "SD NEGERI TIRTAWANGUNAN",
+        "vilId": "28685"
+    },
+    {
+        "id": "841",
+        "name": "SD NEGERI JAMBUGEULIS",
+        "vilId": "28690"
+    },
+    {
+        "id": "453",
+        "name": "SD NEGERI 2 KOREAK",
+        "vilId": "28691"
+    },
+    {
+        "id": "187",
+        "name": "SD NEGERI 1 KOREAK",
+        "vilId": "28691"
+    },
+    {
+        "id": "436",
+        "name": "SD NEGERI 2 KARANGMUNCANG",
+        "vilId": "28692"
+    },
+    {
+        "id": "168",
+        "name": "SD NEGERI 1 KARANGMUNCANG",
+        "vilId": "28692"
+    },
+    {
+        "id": "497",
+        "name": "SD NEGERI 2 PANAWUAN",
+        "vilId": "28694"
+    },
+    {
+        "id": "235",
+        "name": "SD NEGERI 1 PANAWUAN",
+        "vilId": "28694"
+    },
+    {
+        "id": "943",
+        "name": "SD NEGERI TIMBANG",
+        "vilId": "38905"
+    },
+    {
+        "id": "770",
+        "name": "SD NEGERI BABAKANJATI",
+        "vilId": "28696"
+    },
+    {
+        "id": "837",
+        "name": "SD NEGERI INDAPATRA",
+        "vilId": "28697"
+    },
+    {
+        "id": "912",
+        "name": "SD NEGERI SANGKANMULYA",
+        "vilId": "28699"
+    },
+    {
+        "id": "64",
+        "name": "SD NEGERI 1 CIBOGO",
+        "vilId": "50169"
+    },
+    {
+        "id": "10",
+        "name": "SD IT AL-HUDA",
+        "vilId": "28798"
+    },
+    {
+        "id": "713",
+        "name": "SD NEGERI 4 JADIMULYA",
+        "vilId": "31209"
+    },
+    {
+        "id": "618",
+        "name": "SD NEGERI 3 JADIMULYA",
+        "vilId": "31209"
+    },
+    {
+        "id": "414",
+        "name": "SD NEGERI 2 JADIMULYA",
+        "vilId": "31209"
+    },
+    {
+        "id": "143",
+        "name": "SD NEGERI 1 JADIMULYA",
+        "vilId": "31209"
+    },
+    {
+        "id": "729",
+        "name": "SD NEGERI 4 PADAHERANG",
+        "vilId": "49323"
+    },
+    {
+        "id": "651",
+        "name": "SD NEGERI 3 PADAHERANG",
+        "vilId": "49323"
+    },
+    {
+        "id": "484",
+        "name": "SD NEGERI 2 PADAHERANG",
+        "vilId": "49323"
+    },
+    {
+        "id": "223",
+        "name": "SD NEGERI 1 PADAHERANG",
+        "vilId": "49323"
+    },
+    {
+        "id": "541",
+        "name": "SD NEGERI 2 SINDANGWANGI",
+        "vilId": "49658"
+    },
+    {
+        "id": "278",
+        "name": "SD NEGERI 1 SINDANGWANGI",
+        "vilId": "49658"
+    },
+    {
+        "id": "424",
+        "name": "SD NEGERI 2 KALIJATI",
+        "vilId": "31259"
+    },
+    {
+        "id": "156",
+        "name": "SD NEGERI 1 KALIJATI",
+        "vilId": "31259"
+    },
+    {
+        "id": "717",
+        "name": "SD NEGERI 4 KARANGBENDA",
+        "vilId": "31792"
+    },
+    {
+        "id": "626",
+        "name": "SD NEGERI 3 KARANGBENDA",
+        "vilId": "31792"
+    },
+    {
+        "id": "429",
+        "name": "SD NEGERI 2 KARANGBENDA",
+        "vilId": "31792"
+    },
+    {
+        "id": "161",
+        "name": "SD NEGERI 1 KARANGBENDA",
+        "vilId": "31792"
+    },
+    {
+        "id": "369",
+        "name": "SD NEGERI 2 CILIANG",
+        "vilId": "31169"
+    },
+    {
+        "id": "93",
+        "name": "SD NEGERI 1 CILIANG",
+        "vilId": "31169"
+    },
+    {
+        "id": "718",
+        "name": "SD NEGERI 4 KARANGJALADRI",
+        "vilId": "31173"
+    },
+    {
+        "id": "430",
+        "name": "SD NEGERI 2 KARANGJALADRI",
+        "vilId": "31173"
+    },
+    {
+        "id": "162",
+        "name": "SD NEGERI 1 KARANGJALADRI",
+        "vilId": "31173"
+    },
+    {
+        "id": "658",
+        "name": "SD NEGERI 3 PARAKANMANGGU",
+        "vilId": "31176"
+    },
+    {
+        "id": "504",
+        "name": "SD NEGERI 2 PARAKANMANGGU",
+        "vilId": "31176"
+    },
+    {
+        "id": "241",
+        "name": "SD NEGERI 1 PARAKANMANGGU",
+        "vilId": "31176"
+    },
+    {
+        "id": "572",
+        "name": "SD NEGERI 3 BATUKARAS",
+        "vilId": "31177"
+    },
+    {
+        "id": "323",
+        "name": "SD NEGERI 2 BATUKARAS",
+        "vilId": "31177"
+    },
+    {
+        "id": "37",
+        "name": "SD NEGERI 1 BATUKARAS",
+        "vilId": "31177"
+    },
+    {
+        "id": "584",
+        "name": "SD NEGERI 3 CIBANTEN",
+        "vilId": "31179"
+    },
+    {
+        "id": "341",
+        "name": "SD NEGERI 2 CIBANTEN",
+        "vilId": "31179"
+    },
+    {
+        "id": "58",
+        "name": "SD NEGERI 1 CIBANTEN",
+        "vilId": "31179"
+    },
+    {
+        "id": "452",
+        "name": "SD NEGERI 2 KONDANGJAJAR",
+        "vilId": "31182"
+    },
+    {
+        "id": "186",
+        "name": "SD NEGERI 1 KONDANGJAJAR",
+        "vilId": "31182"
+    },
+    {
+        "id": "389",
+        "name": "SD NEGERI 2 CIPARANTI",
+        "vilId": "31185"
+    },
+    {
+        "id": "114",
+        "name": "SD NEGERI 1 CIPARANTI",
+        "vilId": "31185"
+    },
+    {
+        "id": "640",
+        "name": "SD NEGERI 3 LEGOKJAWA",
+        "vilId": "31186"
+    },
+    {
+        "id": "464",
+        "name": "SD NEGERI 2 LEGOKJAWA",
+        "vilId": "31186"
+    },
+    {
+        "id": "197",
+        "name": "SD NEGERI 1 LEGOKJAWA",
+        "vilId": "31186"
+    },
+    {
+        "id": "649",
+        "name": "SD NEGERI 3 MASAWAH",
+        "vilId": "31187"
+    },
+    {
+        "id": "476",
+        "name": "SD NEGERI 2 MASAWAH",
+        "vilId": "31187"
+    },
+    {
+        "id": "212",
+        "name": "SD NEGERI 1 MASAWAH",
+        "vilId": "31187"
+    },
+    {
+        "id": "601",
+        "name": "SD NEGERI 3 CIMERAK",
+        "vilId": "31188"
+    },
+    {
+        "id": "378",
+        "name": "SD NEGERI 2 CIMERAK",
+        "vilId": "31188"
+    },
+    {
+        "id": "102",
+        "name": "SD NEGERI 1 CIMERAK",
+        "vilId": "31188"
+    },
+    {
+        "id": "324",
+        "name": "SD NEGERI 2 BATUMALANG",
+        "vilId": "31192"
+    },
+    {
+        "id": "38",
+        "name": "SD NEGERI 1 BATUMALANG",
+        "vilId": "31192"
+    },
+    {
+        "id": "642",
+        "name": "SD NEGERI 3 LIMUSGEDE",
+        "vilId": "31194"
+    },
+    {
+        "id": "1453",
+        "name": "SDN 3 CIMINDI",
+        "vilId": "31196"
+    },
+    {
+        "id": "705",
+        "name": "SD NEGERI 4 CIMINDI",
+        "vilId": "31196"
+    },
+    {
+        "id": "379",
+        "name": "SD NEGERI 2 CIMINDI",
+        "vilId": "31196"
+    },
+    {
+        "id": "103",
+        "name": "SD NEGERI 1 CIMINDI",
+        "vilId": "31196"
+    },
+    {
+        "id": "488",
+        "name": "SD NEGERI 2 PAGERBUMI",
+        "vilId": "31197"
+    },
+    {
+        "id": "227",
+        "name": "SD NEGERI 1 PAGERBUMI",
+        "vilId": "31197"
+    },
+    {
+        "id": "139",
+        "name": "SD NEGERI 1 HARUMANDALA",
+        "vilId": "31201"
+    },
+    {
+        "id": "752",
+        "name": "SD NEGERI 5 KARANGKAMIRI",
+        "vilId": "31202"
+    },
+    {
+        "id": "719",
+        "name": "SD NEGERI 4 KARANGKAMIRI",
+        "vilId": "31202"
+    },
+    {
+        "id": "627",
+        "name": "SD NEGERI 3 KARANGKAMIRI",
+        "vilId": "31202"
+    },
+    {
+        "id": "431",
+        "name": "SD NEGERI 2 KARANGKAMIRI",
+        "vilId": "31202"
+    },
+    {
+        "id": "163",
+        "name": "SD NEGERI 1 KARANGKAMIRI",
+        "vilId": "31202"
+    },
+    {
+        "id": "724",
+        "name": "SD NEGERI 4 LANGKAPLANCAR",
+        "vilId": "31204"
+    },
+    {
+        "id": "639",
+        "name": "SD NEGERI 3 LANGKAPLANCAR",
+        "vilId": "31204"
+    },
+    {
+        "id": "458",
+        "name": "SD NEGERI 2 LANGKAPLANCAR",
+        "vilId": "31204"
+    },
+    {
+        "id": "191",
+        "name": "SD NEGERI 1 LANGKAPLANCAR",
+        "vilId": "31204"
+    },
+    {
+        "id": "694",
+        "name": "SD NEGERI 4 BOJONGKONDANG",
+        "vilId": "31206"
+    },
+    {
+        "id": "576",
+        "name": "SD NEGERI 3 BOJONGKONDANG",
+        "vilId": "31206"
+    },
+    {
+        "id": "330",
+        "name": "SD NEGERI 2 BOJONGKONDANG",
+        "vilId": "31206"
+    },
+    {
+        "id": "45",
+        "name": "SD NEGERI 1 BOJONGKONDANG",
+        "vilId": "31206"
+    },
+    {
+        "id": "419",
+        "name": "SD NEGERI 2 JAYASARI",
+        "vilId": "49743"
+    },
+    {
+        "id": "150",
+        "name": "SD NEGERI 1 JAYASARI",
+        "vilId": "49743"
+    },
+    {
+        "id": "617",
+        "name": "SD NEGERI 3 JADIKARYA",
+        "vilId": "31210"
+    },
+    {
+        "id": "413",
+        "name": "SD NEGERI 2 JADIKARYA",
+        "vilId": "31210"
+    },
+    {
+        "id": "142",
+        "name": "SD NEGERI 1 JADIKARYA",
+        "vilId": "31210"
+    },
+    {
+        "id": "320",
+        "name": "SD NEGERI 2 BANGUNKARYA",
+        "vilId": "31212"
+    },
+    {
+        "id": "33",
+        "name": "SD NEGERI 1 BANGUNKARYA",
+        "vilId": "31212"
+    },
+    {
+        "id": "715",
+        "name": "SD NEGERI 4 JANGRAGA",
+        "vilId": "31221"
+    },
+    {
+        "id": "621",
+        "name": "SD NEGERI 3 JANGRAGA",
+        "vilId": "31221"
+    },
+    {
+        "id": "146",
+        "name": "SD NEGERI 1 JANGRAGA",
+        "vilId": "31221"
+    },
+    {
+        "id": "657",
+        "name": "SD NEGERI 3 PANYUTRAN",
+        "vilId": "31222"
+    },
+    {
+        "id": "503",
+        "name": "SD NEGERI 2 PANYUTRAN",
+        "vilId": "31222"
+    },
+    {
+        "id": "240",
+        "name": "SD NEGERI 1 PANYUTRAN",
+        "vilId": "31222"
+    },
+    {
+        "id": "349",
+        "name": "SD NEGERI 2 CIGANJENG",
+        "vilId": "31223"
+    },
+    {
+        "id": "71",
+        "name": "SD NEGERI 1 CIGANJENG",
+        "vilId": "31223"
+    },
+    {
+        "id": "730",
+        "name": "SD NEGERI 4 PALEDAH",
+        "vilId": "31226"
+    },
+    {
+        "id": "653",
+        "name": "SD NEGERI 3 PALEDAH",
+        "vilId": "31226"
+    },
+    {
+        "id": "491",
+        "name": "SD NEGERI 2 PALEDAH",
+        "vilId": "31226"
+    },
+    {
+        "id": "230",
+        "name": "SD NEGERI 1 PALEDAH",
+        "vilId": "31226"
+    },
+    {
+        "id": "632",
+        "name": "SD NEGERI 3 KEDUNGWULUH",
+        "vilId": "32469"
+    },
+    {
+        "id": "442",
+        "name": "SD NEGERI 2 KEDUNGWULUH",
+        "vilId": "32469"
+    },
+    {
+        "id": "174",
+        "name": "SD NEGERI 1 KEDUNGWULUH",
+        "vilId": "32469"
+    },
+    {
+        "id": "661",
+        "name": "SD NEGERI 3 PASIRGEULIS",
+        "vilId": "31231"
+    },
+    {
+        "id": "506",
+        "name": "SD NEGERI 2 PASIRGEULIS",
+        "vilId": "31231"
+    },
+    {
+        "id": "243",
+        "name": "SD NEGERI 1 PASIRGEULIS",
+        "vilId": "31231"
+    },
+    {
+        "id": "727",
+        "name": "SD NEGERI 4 MARUYUNGSARI",
+        "vilId": "31234"
+    },
+    {
+        "id": "648",
+        "name": "SD NEGERI 3 MARUYUNGSARI",
+        "vilId": "31234"
+    },
+    {
+        "id": "475",
+        "name": "SD NEGERI 2 MARUYUNGSARI",
+        "vilId": "31234"
+    },
+    {
+        "id": "211",
+        "name": "SD NEGERI 1 MARUYUNGSARI",
+        "vilId": "31234"
+    },
+    {
+        "id": "734",
+        "name": "SD NEGERI 4 PUTRAPINGGAN",
+        "vilId": "31236"
+    },
+    {
+        "id": "667",
+        "name": "SD NEGERI 3 PUTRAPINGGAN",
+        "vilId": "31236"
+    },
+    {
+        "id": "514",
+        "name": "SD NEGERI 2 PUTRAPINGGAN",
+        "vilId": "31236"
+    },
+    {
+        "id": "252",
+        "name": "SD NEGERI 1 PUTRAPINGGAN",
+        "vilId": "31236"
+    },
+    {
+        "id": "404",
+        "name": "SD NEGERI 2 EMPLAK",
+        "vilId": "31237"
+    },
+    {
+        "id": "131",
+        "name": "SD NEGERI 1 EMPLAK",
+        "vilId": "31237"
+    },
+    {
+        "id": "315",
+        "name": "SD NEGERI 2 BAGOLO",
+        "vilId": "31238"
+    },
+    {
+        "id": "27",
+        "name": "SD NEGERI 1 BAGOLO",
+        "vilId": "31238"
+    },
+    {
+        "id": "16",
+        "name": "SD IT IBNU AHKAM KALIPUCANG",
+        "vilId": "31238"
+    },
+    {
+        "id": "755",
+        "name": "SD NEGERI 5 PAMOTAN",
+        "vilId": "47216"
+    },
+    {
+        "id": "731",
+        "name": "SD NEGERI 4 PAMOTAN",
+        "vilId": "47216"
+    },
+    {
+        "id": "654",
+        "name": "SD NEGERI 3 PAMOTAN",
+        "vilId": "47216"
+    },
+    {
+        "id": "492",
+        "name": "SD NEGERI 2 PAMOTAN",
+        "vilId": "47216"
+    },
+    {
+        "id": "231",
+        "name": "SD NEGERI 1 PAMOTAN",
+        "vilId": "47216"
+    },
+    {
+        "id": "716",
+        "name": "SD NEGERI 4 KALIPUCANG",
+        "vilId": "44027"
+    },
+    {
+        "id": "625",
+        "name": "SD NEGERI 3 KALIPUCANG",
+        "vilId": "44027"
+    },
+    {
+        "id": "427",
+        "name": "SD NEGERI 2 KALIPUCANG",
+        "vilId": "44027"
+    },
+    {
+        "id": "159",
+        "name": "SD NEGERI 1 KALIPUCANG",
+        "vilId": "44027"
+    },
+    {
+        "id": "691",
+        "name": "SD NEGERI 4 BANJARHARJA",
+        "vilId": "31242"
+    },
+    {
+        "id": "570",
+        "name": "SD NEGERI 3 BANJARHARJA",
+        "vilId": "31242"
+    },
+    {
+        "id": "321",
+        "name": "SD NEGERI 2 BANJARHARJA",
+        "vilId": "31242"
+    },
+    {
+        "id": "34",
+        "name": "SD NEGERI 1 BANJARHARJA",
+        "vilId": "31242"
+    },
+    {
+        "id": "746",
+        "name": "SD NEGERI 4 TUNGGILIS",
+        "vilId": "31243"
+    },
+    {
+        "id": "685",
+        "name": "SD NEGERI 3 TUNGGILIS",
+        "vilId": "31243"
+    },
+    {
+        "id": "561",
+        "name": "SD NEGERI 2 TUNGGILIS",
+        "vilId": "31243"
+    },
+    {
+        "id": "299",
+        "name": "SD NEGERI 1 TUNGGILIS",
+        "vilId": "31243"
+    },
+    {
+        "id": "709",
+        "name": "SD NEGERI 4 CIPARAKAN",
+        "vilId": "31244"
+    },
+    {
+        "id": "606",
+        "name": "SD NEGERI 3 CIPARAKAN",
+        "vilId": "31244"
+    },
+    {
+        "id": "388",
+        "name": "SD NEGERI 2 CIPARAKAN",
+        "vilId": "31244"
+    },
+    {
+        "id": "113",
+        "name": "SD NEGERI 1 CIPARAKAN",
+        "vilId": "31244"
+    },
+    {
+        "id": "664",
+        "name": "SD NEGERI 3 PURBAHAYU",
+        "vilId": "31247"
+    },
+    {
+        "id": "511",
+        "name": "SD NEGERI 2 PURBAHAYU",
+        "vilId": "31247"
+    },
+    {
+        "id": "249",
+        "name": "SD NEGERI 1 PURBAHAYU",
+        "vilId": "31247"
+    },
+    {
+        "id": "764",
+        "name": "SD NEGERI 6 PANGANDARAN",
+        "vilId": "73552"
+    },
+    {
+        "id": "756",
+        "name": "SD NEGERI 5 PANGANDARAN",
+        "vilId": "73552"
+    },
+    {
+        "id": "732",
+        "name": "SD NEGERI 4 PANGANDARAN",
+        "vilId": "73552"
+    },
+    {
+        "id": "656",
+        "name": "SD NEGERI 3 PANGANDARAN",
+        "vilId": "73552"
+    },
+    {
+        "id": "498",
+        "name": "SD NEGERI 2 PANGANDARAN",
+        "vilId": "73552"
+    },
+    {
+        "id": "236",
+        "name": "SD NEGERI 1 PANGANDARAN",
+        "vilId": "73552"
+    },
+    {
+        "id": "886",
+        "name": "SD NEGERI PAGERGUNUNG",
+        "vilId": "41884"
+    },
+    {
+        "id": "652",
+        "name": "SD NEGERI 3 PAJATEN",
+        "vilId": "31257"
+    },
+    {
+        "id": "490",
+        "name": "SD NEGERI 2 PAJATEN",
+        "vilId": "31257"
+    },
+    {
+        "id": "229",
+        "name": "SD NEGERI 1 PAJATEN",
+        "vilId": "31257"
+    },
+    {
+        "id": "633",
+        "name": "SD NEGERI 3 KERSARATU",
+        "vilId": "49612"
+    },
+    {
+        "id": "443",
+        "name": "SD NEGERI 2 KERSARATU",
+        "vilId": "49612"
+    },
+    {
+        "id": "175",
+        "name": "SD NEGERI 1 KERSARATU",
+        "vilId": "49612"
+    }
+]
