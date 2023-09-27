@@ -47,7 +47,7 @@ export default function useStepOnesComposables() {
     }
     const getSchools = async (id) => {
         try {
-            console.log(id)
+            // console.log(id)
             let response = await useBase.fetchData('/api/survey-sekolah/schools?id=' + id, 'get')
             // console.log(response)
             schools.value = response.data;
@@ -95,17 +95,10 @@ export default function useStepOnesComposables() {
             if (edit) {
                 url = '/api/survey-sekolah/update/' + id
             }
-            console.log(url)
+            // console.log(url)
             let response = await useBase.postMultiData(url, 'post', formData)
-            console.log(response)
+            // console.log(response)
             isLoading.value = false;
-            // await route.push('/admin/survey-sekolah')
-            // console.log('test')
-            // if (!edit) {
-            //     alert.showAlert('Data berhasil dibuat');
-            // } else {
-            //     alert.showAlert('Data berhasil diedit');
-            // }
         } catch (e) {
             // this.errorStepOne = e.response.data
             handleError(e.response.data)

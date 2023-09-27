@@ -13,6 +13,7 @@
         "laravel/tinker": "^2.8",
         "laravolt/indonesia": "^0.34.0",
         "mbezhanov/faker-provider-collection": "^2.0",
+        "orangehill/iseed": "^3.0",
         "tymon/jwt-auth": "^2.0"
     },
     "require-dev": {

@@ -5,6 +5,7 @@
                 v-if="errorMessage"
                 class="bg-red-700 p-4 rounded-md text-white space-y-3 mb-4"
             >
+                <!-- {{ errorMessage }} -->
                 <p
                     class="text-xs border-b border-[#ffffff75;] pb-3"
                     v-for="(error, i) in errorMessage.errors"
@@ -122,9 +123,9 @@ import { useStepOnesComposables as stepOne } from "@/composables";
 import { useRoute, useRouter } from "vue-router";
 import { useStepOneStore, useBaseStore } from "@/store";
 export default {
-    // props: {
-    //     id: null,
-    // },
+    props: {
+        id: null,
+    },
     setup() {
         const {
             getVillages,
@@ -135,7 +136,7 @@ export default {
             errorMessage,
         } = stepOne();
         const selectedImage = ref("");
-        const edit = ref("false");
+        const create = ref("true");
         const id = ref("");
         // const data = ref("");
         // const stepOne =
@@ -170,9 +171,9 @@ export default {
         };
 
         const handleSubmit = async () => {
-            console.log(edit.value);
+            console.log(create.value);
             try {
-                if (!edit.value) {
+                if (!create.value) {
                     console.log("edit");
                     await postStepOne(form.value, true, id.value);
                 } else {
@@ -213,6 +214,7 @@ export default {
             const data = await stepOneStore.stepOneData;
             if (data) {
                 form.value = data;
+                create.value = false;
                 id.value = data.id;
                 search.value.village = form.value.villageId;
                 search.value.school = form.value.schoolId;
@@ -222,7 +224,6 @@ export default {
             }
         };
         onMounted(() => {
-            console.log("gigii");
             stepOneEdit();
             fetchVillage();
             // console.log("halo");
@@ -230,7 +231,7 @@ export default {
             imageInput.value = document.getElementById("imageInput");
         });
         onBeforeUnmount(async () => {
-            console.log("coba");
+            // console.log("coba");
             await stepOneStore.removeState();
         });
 
@@ -241,13 +242,13 @@ export default {
                 fetchSchool(id);
             }
         );
-        watch(
-            form,
-            (newForm) => {
-                console.log(newForm);
-            },
-            { deep: true }
-        );
+        // watch(
+        //     form,
+        //     (newForm) => {
+        //         console.log(newForm);
+        //     },
+        //     { deep: true }
+        // );
         return {
             form,
             villages,

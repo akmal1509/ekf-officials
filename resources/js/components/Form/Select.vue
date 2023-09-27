@@ -25,14 +25,14 @@
         >
             <li class="p-2">
                 <!-- <input
-                    ref="inputInLi"
+                    ref="inputSelected"
                     v-model="searchQuery"
                     @input="filterOptions"
                     class="w-full p-2 border-b form-control focus-visible:border-rkYellow focus-visible:ring-rkYellow focus-visible:outline-rkYellow"
                     placeholder="Cari opsi..."
                 /> -->
                 <input
-                    ref="inputInLi"
+                    ref="inputSelected"
                     type="text"
                     v-model="searchQuery"
                     @input="filterOptions"
@@ -105,7 +105,6 @@ export default {
     },
     computed: {
         filteredOptions(props) {
-            // console.log(props.search); #note: cek select ini dia ngerender 3 kali dibagian create survey
             if (props.search) {
                 this.select = this.data.find(
                     (item) => item.id === props.search
@@ -124,7 +123,7 @@ export default {
             this.isDropdownOpen = !this.isDropdownOpen;
             if (this.isDropdownOpen) {
                 this.$nextTick(() => {
-                    this.$refs.inputInLi.focus();
+                    this.$refs.inputSelected.focus();
                 });
             }
         },

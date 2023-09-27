@@ -42,9 +42,9 @@ export const useStepOneStore = defineStore('steoOne', {
                 await this.router.push('/admin/survey-sekolah')
                 this.error = ''
                 if (!edit) {
-                    alert.showAlert('Data berhasil dibuat');
+                    this.alert.showAlert('Data berhasil dibuat');
                 } else {
-                    alert.showAlert('Data berhasil diedit');
+                    this.alert.showAlert('Data berhasil diedit');
                 }
             } catch (e) {
                 this.error = e
@@ -52,7 +52,6 @@ export const useStepOneStore = defineStore('steoOne', {
             }
         },
         async removeState() {
-            console.log('hapu')
             this.stepOneData = ''
         }
 

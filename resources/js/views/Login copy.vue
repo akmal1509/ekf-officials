@@ -18,14 +18,14 @@
             <form @submit.prevent="useAuth.handleLogin(form)">
                 <div class="mt-5 mb-2">
                     <!-- <input type="text" v-model="form.username" /> -->
-                    <Input
+                    <InputAkm
                         required
                         v-model="form.username"
                         placeholder="Username"
                     />
                 </div>
                 <div class="">
-                    <Input
+                    <InputAkm
                         required
                         v-model="form.password"
                         type="password"
@@ -41,14 +41,14 @@
 <script>
 // throw new Error("bad_error");
 import { ref, watch, computed, onMounted } from "vue";
-import { Input, Button } from "../components";
-// const InputAkm = () => import("@/components/Form/InputAkm.vue");
+// import { Input, Button } from "../components";
+const InputAkm = () => import("@/components/Form/InputAkm.vue");
 // try {
 //     const InputAkm = () => import("@/components/Form/InputAkm.vue");
 // } catch (e) {
 //     throw new Error(e);
 // }
-// const Button = () => import("@/components/Admin/Button/Button.vue");
+const Button = () => import("@/components/Admin/Button/Button.vue");
 import { useAuthStore } from "@/store";
 import { Alert } from "flowbite-vue";
 import { Logo } from "@/assets";
@@ -78,7 +78,7 @@ export default {
         };
     },
     components: {
-        Input,
+        InputAkm,
         Button,
         Alert,
     },

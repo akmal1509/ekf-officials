@@ -5,6 +5,7 @@
             :value="modelValue"
             :type="type"
             :placeholder="placeholder"
+            autocomplete="off"
             class="mt-2 w-full form-control"
             @input="$emit('update:modelValue', $event.target.value)"
         />
@@ -12,6 +13,8 @@
 </template>
 
 <script setup>
+// throw new Error("asdasd");
+// import { defineProps } from "vue";
 defineProps({
     label: {
         type: String,

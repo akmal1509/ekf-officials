@@ -90,7 +90,7 @@ export default {
         onMounted(() => {
             fetchData();
         });
-        console.log(total);
+        // console.log(total);
         return {
             stepOnes,
             total,

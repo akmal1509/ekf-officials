@@ -30,7 +30,10 @@ import { useSidebarStore } from "@/store/SidebarStore";
 import { computed, onMounted, ref, watch } from "vue";
 import { Alert } from "flowbite-vue";
 import { useAlertStore } from "@/store";
-import { Navbar, BottomNav, Sidebar } from "../components";
+// import { Navbar, BottomNav, Sidebar } from "../components";
+import { Sidebar } from "../components";
+import Navbar from "../components/Admin/Navbar.vue";
+import BottomNav from "../components/Admin/BottomNav.vue";
 
 export default {
     setup() {

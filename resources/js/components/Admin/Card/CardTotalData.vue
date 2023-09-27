@@ -71,7 +71,7 @@
     </div>
 </template>
 <script setup>
-import Card from "./Card.vue";
+import { Card } from ".";
 import { defineProps, computed } from "vue";
 
 const props = defineProps({

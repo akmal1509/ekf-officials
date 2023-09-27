@@ -1,5 +1,9 @@
 <template>
     <div>
+        <div class="bg-gradient text-white shadow-lg rounded-2xl p-4 mb-4">
+            <p class="font-semibold text-lg">Selamat Datang!</p>
+            <p class="font-normal mt-4">{{ authUser.name }}</p>
+        </div>
         <div v-if="!authUser.admin">
             <CardTotalData
                 :data="countStepOnes.total"
@@ -52,7 +56,9 @@
 </template>
 <script>
 import { ref, onMounted, computed } from "vue";
-import { CardTotalData } from "@/components";
+// import CardTotalData from "../../components/Admin/Card/CardTotalData.vue";
+import { CardTotalData, Card } from "../../components";
+// const CardTotalData = () => import("@/components/Admin/Card/CardTotalData.vue");
 import { useStepOnesComposables as stepOne } from "@/composables";
 import { useAuthStore } from "@/store";
 
@@ -77,7 +83,7 @@ export default {
         onMounted(() => {
             fetchData();
         });
-        console.log(countStepOnes);
+        // console.log(countStepOnes);
         return {
             countStepOnes,
             isLoading,
@@ -90,6 +96,7 @@ export default {
     },
     components: {
         CardTotalData,
+        Card,
     },
 };
 </script>

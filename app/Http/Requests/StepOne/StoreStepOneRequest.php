@@ -44,7 +44,7 @@ class StoreStepOneRequest extends FormRequest
             'headmaster.required' => 'Kepala desa harus diisi',
             'phoneHeadmaster.required' => 'Nomor telepon kepala desa harus diisi',
             'schoolOperator.required' => 'Operator sekolah diisi',
-            'phoneSchoolOperator.required' => 'Nomor telepon harus diisi',
+            'phoneOperator.required' => 'Nomor telepon harus diisi',
             'chairman.required' => 'Ketua komite harus diisi',
             'phoneChairman.required' => 'Nomor telepon ketua komite harus diisi',
             'image.required' => 'Foto harus diupload',

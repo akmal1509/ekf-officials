@@ -1,5 +1,5 @@
 <template>
-    <nav class="flex items-center py-5 px-6 bg-white shadow-md">
+    <nav class="flex items-center py-5 px-6 bg-white shadow-md min-h-[86px]">
         <div class="flex flex-grow justify-center">
             <div class="flex flex-col items-center ml-7">
                 <Suspense>

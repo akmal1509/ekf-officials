@@ -2,13 +2,13 @@
     <div>
         <form @submit.prevent="handleSubmit()">
             <div
-                v-if="errorMessage"
+                v-if="stepError"
                 class="bg-red-700 p-4 rounded-md text-white space-y-3 mb-4"
             >
-                <!-- {{ errorMessage }} -->
+                <!-- {{ stepError }} -->
                 <p
                     class="text-xs border-b border-[#ffffff75;] pb-3"
-                    v-for="(error, i) in errorMessage.errors"
+                    v-for="(error, i) in stepError.errors"
                 >
                     {{ error[0] }}
                 </p>
@@ -80,28 +80,10 @@
                 </div>
                 <div>
                     <label for="">Foto Bersama Orang tua / Wali murid</label>
-                    <div
-                        @click="openFileInput"
-                        class="border border-dashed border-gray-300 p-4 mt-3 cursor-pointer"
-                    >
-                        <div v-if="!imagePreview" class="flex justify-center">
-                            <p class="text-gray-500">
-                                Klik di sini untuk memilih gambar
-                            </p>
-                        </div>
-                        <img
-                            v-else
-                            :src="imagePreview"
-                            alt="Pratinjau Gambar"
-                            class="w-full"
-                        />
-                    </div>
-                    <input
-                        ref="imageInput"
-                        type="file"
-                        accept="image/*"
-                        @change="handleFileChange"
-                        style="display: none"
+                    <ImageUpload
+                        v-model="form.image"
+                        @update:imageInput="form.image = $event"
+                        :imageData="imageData"
                     />
                 </div>
             </div>
@@ -110,18 +92,20 @@
     </div>
 </template>
 <script>
-import { Select, Input, Button } from "@/components";
+import { Select, Input, Button, ImageUpload } from "@/components";
 import {
     ref,
     onMounted,
     watchEffect,
     watch,
     onBeforeUnmount,
+    onBeforeMount,
     computed,
 } from "vue";
+
 import { useStepOnesComposables as stepOne } from "@/composables";
-import { useRoute, useRouter } from "vue-router";
-import { useStepOneStore, useBaseStore } from "@/store";
+import { useRouter } from "vue-router";
+import { useStepOneStore } from "@/store";
 export default {
     props: {
         id: null,
@@ -135,19 +119,14 @@ export default {
             postStepOne,
             errorMessage,
         } = stepOne();
-        const selectedImage = ref("");
-        const edit = ref("false");
+        const create = ref("true");
         const id = ref("");
-        // const data = ref("");
-        // const stepOne =
         const stepOneStore = useStepOneStore();
         const stepError = computed(() => stepOneStore.error);
-        const baseStore = useBaseStore();
         // const errors = computed(() => baseStore.message);
 
         const route = useRouter();
-        const imagePreview = ref("");
-        const imageInput = ref(null);
+        const imageData = ref(null);
         const form = ref({
             villageId: "",
             schoolId: "",
@@ -165,79 +144,53 @@ export default {
             school: null,
         });
 
-        const openFileInput = () => {
-            // Klik pada kotak div akan mengklik input file yang tersembunyi
-            imageInput.value.click();
-        };
-
         const handleSubmit = async () => {
-            console.log(edit.value);
+            console.log(create.value);
             try {
-                if (!edit.value) {
+                if (!create.value) {
                     console.log("edit");
-                    await postStepOne(form.value, true, id.value);
+                    await stepOneStore.storeData(form.value, true, id.value);
                 } else {
                     console.log("tambah");
-                    await postStepOne(form.value, false);
+                    await stepOneStore.storeData(form.value, false);
                 }
             } catch (error) {
                 console.log(errorMessage.value);
-                // console.log(error);
-                // console.log("ini error");
-                // baseStore.setError(error);
                 return;
             }
-            route.push("/admin/survey-sekolah");
         };
 
-        const handleFileChange = (event) => {
-            // Ambil gambar yang dipilih
-            selectedImage.value = event.target.files[0];
-            form.value.image = selectedImage.value;
-
-            // Buat tampilan pratinjau gambar
-            const reader = new FileReader();
-            reader.onload = (e) => {
-                imagePreview.value = e.target.result;
-            };
-            reader.readAsDataURL(selectedImage.value);
-        };
         const fetchVillage = async () => {
             await getVillages();
-            // console.log(villages.value);
         };
         const fetchSchool = async (id) => {
             await getSchools(id);
-            // console.log(schools);
         };
         const stepOneEdit = async () => {
             const data = await stepOneStore.stepOneData;
             if (data) {
                 form.value = data;
+                create.value = false;
                 id.value = data.id;
                 search.value.village = form.value.villageId;
                 search.value.school = form.value.schoolId;
-                imagePreview.value = data.image;
+                imageData.value = data.image;
                 form.value.image = "";
-                // console.log(search.value.village);
+                console.log(imageData.value);
             }
         };
-        onMounted(() => {
-            stepOneEdit();
+        onBeforeMount(async () => {
+            await stepOneEdit();
             fetchVillage();
-            // console.log("halo");
-
-            imageInput.value = document.getElementById("imageInput");
         });
         onBeforeUnmount(async () => {
-            console.log("coba");
+            // console.log("coba");
             await stepOneStore.removeState();
         });
 
         watch(
             () => form.value.villageId,
             (id) => {
-                // console.log(id);
                 fetchSchool(id);
             }
         );
@@ -253,30 +206,18 @@ export default {
             villages,
             search,
             schools,
-            openFileInput,
-            handleFileChange,
-            imageInput,
-            imagePreview,
             stepOne,
             handleSubmit,
             errorMessage,
             stepError,
+            imageData,
         };
     },
     components: {
         Select,
         Input,
         Button,
+        ImageUpload,
     },
-    // watch: {
-    //     "form.chairman": (newValue, oldValue) => {
-    //         console.log(
-    //             "Nilai form.chairman berubah dari",
-    //             oldValue,
-    //             "menjadi",
-    //             newValue
-    //         );
-    //     },
-    // },
 };
 </script>

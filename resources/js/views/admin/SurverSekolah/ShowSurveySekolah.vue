@@ -15,7 +15,7 @@
             <ShowingData>
                 <template v-slot:label>Operator Sekolah</template>
                 <template v-slot:nama>{{ data.schoolOperator }}</template>
-                <template v-slot:tel>{{ data.phoneSchoolOperator }}</template>
+                <template v-slot:tel>{{ data.phoneOperator }}</template>
             </ShowingData>
             <ShowingData>
                 <template v-slot:label>Ketua Komite</template>

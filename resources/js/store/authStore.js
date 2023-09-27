@@ -6,7 +6,8 @@ export const useAuthStore = defineStore('auth', {
     state: () => ({
         authUser: null,
         token: null,
-        error: null
+        error: null,
+        alert: useAlertStore()
     }),
     getters: {
         user: (state) => state.authUser,
@@ -21,21 +22,21 @@ export const useAuthStore = defineStore('auth', {
             } catch (e) {
                 // this.router.push('/mejakami')
                 localStorage.setItem('authToken', '')
-                console.log(e)
+                // console.log(e)
             }
         },
         async handleLogin(form) {
             try {
                 const useAlert = useAlertStore();
-                useAlert.showAlert();
                 const data = await authComposables.loginUser(form)
                 this.token = data.access_token;
                 localStorage.setItem('authToken', data.access_token)
-                this.router.push('/admin/dashboard')
+                await this.router.push('/admin/dashboard')
+                this.alert.showAlert('Anda Berhasil Login');
 
             } catch (e) {
                 this.error = 'Username atau password salah'
-                console.log(e)
+                // console.log(e)
             }
         },
         async handleLogout() {
