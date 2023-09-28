@@ -38,7 +38,7 @@
     </div>
 </template>
 <script>
-import { useSidebarStore } from "@/store/SidebarStore";
+import { useSidebarStore } from "@/store";
 
 export default {
     methods: {
