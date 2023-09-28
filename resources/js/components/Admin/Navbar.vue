@@ -48,9 +48,9 @@
             </template>
             <template v-slot:body>
                 <router-link to="/admin/profile">
-                    <DropDownList label="Profile" />
+                    <DropdownList label="Profile" />
                 </router-link>
-                <DropDownList
+                <DropdownList
                     label="Logout"
                     @click="authStore.handleLogout()"
                 />
@@ -61,8 +61,9 @@
 <script>
 import { Logo, Avatar } from "@/assets/index.js";
 // import { Dropdown } from "../";
-import Dropdown from "./Dropdown/Dropdown.vue";
-import DropDownList from "./Dropdown/DropDownList.vue";
+// import Dropdown from "./Dropdown/Dropdown.vue";
+// import DropdownList from "./Dropdown/DropdownList.vue";
+import { Dropdown, DropdownList } from "./Dropdown";
 import { useAuthStore } from "@/store";
 import ImageSkeleton from "../Skeleton/ImageSkeleton.vue";
 import { ref } from "vue";
@@ -89,7 +90,7 @@ export default {
     },
     components: {
         Dropdown,
-        DropDownList,
+        DropdownList,
         ImageSkeleton,
     },
     data() {
