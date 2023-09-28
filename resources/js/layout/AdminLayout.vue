@@ -26,7 +26,7 @@
     </div>
 </template>
 <script>
-import { useSidebarStore } from "@/store/SidebarStore";
+import { useSidebarStore } from "@/store/SidebarStore.vue";
 import { computed, onMounted, ref, watch } from "vue";
 import { Alert } from "flowbite-vue";
 import { useAlertStore } from "@/store";
