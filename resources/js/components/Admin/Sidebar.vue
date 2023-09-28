@@ -32,10 +32,10 @@
                     />
                 </div>
                 <div class="">
-                    <DropDownSidebar
+                    <DropdownSidebar
                         v-if="isAdmin"
                         :data="dapilCategory"
-                    ></DropDownSidebar>
+                    ></DropdownSidebar>
                 </div>
                 <div class="">
                     <MenuSideBar
@@ -69,7 +69,8 @@
 import { useSidebarStore } from "@/store/SidebarStore";
 import { Logo } from "@/assets/index.js";
 import ImageSkeleton from "../Skeleton/ImageSkeleton.vue";
-import DropDownSidebar from "./Dropdown/DropDownSidebar.vue";
+// import { DropdownSidebar } from "@/components";
+import { DropdownSidebar } from "./Dropdown";
 import MenuSideBar from "./MenuSideBar.vue";
 import { useAuthStore } from "@/store";
 
@@ -94,7 +95,7 @@ export default {
 
     components: {
         ImageSkeleton,
-        DropDownSidebar,
+        DropdownSidebar,
         MenuSideBar,
     },
     data() {
