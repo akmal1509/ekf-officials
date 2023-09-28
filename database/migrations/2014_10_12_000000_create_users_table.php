@@ -18,7 +18,7 @@ return new class extends Migration
             $table->text('address');
             $table->char('phone')->nullable();
             $table->boolean('admin')->default('0');
-            $table->string('avatar')->default('https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1');
+            $table->string('avatar')->nullable();
             $table->timestamp('email_verified_at')->nullable();
             $table->string('password');
             $table->rememberToken();

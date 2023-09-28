@@ -17,6 +17,8 @@ export default function useStepOnesComposables() {
     const isLoading = ref(true)
     // const error = ref(errorHandle)
     const useBase = new useBaseComposables();
+    const newToken = localStorage.getItem('authToken')
+    useBase.setToken(newToken);
 
     const getStepOnes = async (page, size, params) => {
         try {
@@ -91,6 +93,7 @@ export default function useStepOnesComposables() {
             if (form.image) {
                 formData.append("image", form.image);
             }
+            console.log([...formData.entries()]);
             let url = '/api/survey-sekolah/'
             if (edit) {
                 url = '/api/survey-sekolah/update/' + id

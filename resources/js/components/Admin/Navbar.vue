@@ -1,24 +1,26 @@
 <template>
     <nav class="flex items-center py-5 px-6 bg-white shadow-md min-h-[86px]">
         <div class="flex flex-grow justify-center">
-            <div class="flex flex-col items-center ml-7">
-                <Suspense>
-                    <template #default>
-                        <ImageSkeleton
-                            v-if="!isLogoLoaded"
-                            width="w-16"
-                            height="h-full"
-                        />
-                        <div v-else>
-                            <img :src="Logo" class="w-16" alt="" />
-                        </div>
-                    </template>
-                </Suspense>
+            <router-link to="/admin/dashboard">
+                <div class="flex flex-col items-center ml-7">
+                    <Suspense>
+                        <template #default>
+                            <ImageSkeleton
+                                v-if="!isLogoLoaded"
+                                width="w-16"
+                                height="h-full"
+                            />
+                            <div v-else>
+                                <img :src="Logo" class="w-16" alt="" />
+                            </div>
+                        </template>
+                    </Suspense>
 
-                <p class="text-rkRed text-[12px] font-semibold">
-                    Relawan Kang Fuji
-                </p>
-            </div>
+                    <p class="text-rkRed text-[12px] font-semibold">
+                        Relawan Kang Fuji
+                    </p>
+                </div>
+            </router-link>
         </div>
         <Dropdown>
             <template v-slot:button>

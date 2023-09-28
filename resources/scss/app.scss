@@ -54,6 +54,24 @@ aside {
     }
 }
 
+.accordian-akm {
+    // .accordian-header:first-child{
+
+    // }
+    .accordian-header {
+        @apply bg-white first-of-type:rounded-md;
+        button {
+            @apply p-3 focus:ring-0 bg-transparent;
+        }
+    }
+    .accordian-content {
+        @apply bg-white;
+        label {
+            @apply font-semibold;
+        }
+    }
+}
+
 .vs__dropdown-toggle {
     @apply rounded-md border-gray-200 placeholder:text-gray-400 placeholder:text-[14px] focus:border-rkYellow focus:ring-rkYellow px-3 py-2 min-h-fit bg-white #{!important};
 }

@@ -32,10 +32,8 @@ export async function checkAuth() {
         await authStore.getMe();
 
         if (authStore.authUser) {
-            console.log('halo')
             return true;
         } else {
-            console.log('hali')
             return false;
         }
     } catch (error) {

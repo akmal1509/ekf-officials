@@ -5,16 +5,20 @@ import { getCurrentInstance } from 'vue';
 
 class useBaseComposables {
     constructor() {
-        const tokenStorage = localStorage.getItem('authToken');
+        // const tokenStorage = localStorage.getItem('authToken')
         // this.router = useRouter();
 
-        // console.log(tokenStorage)
+
         this.api = axios.create({
             headers: {
-                Authorization: 'Bearer ' + tokenStorage,
                 'Content-Type': 'application/json'
             }
         });
+        this.token = null;
+    }
+    setToken(token) {
+        this.token = token;
+        this.api.defaults.headers.common['Authorization'] = `Bearer ${token}`;
     }
 
     async fetchMe(token) {
@@ -33,6 +37,7 @@ class useBaseComposables {
     }
     async fetchData(endpoint, method, params = {}) {
         try {
+            // console.log(tokenStorage)
             // console.log(this.token)
             const response = await this.api.request({
                 url: endpoint,
@@ -51,6 +56,32 @@ class useBaseComposables {
 
         }
     }
+    async fetchData2(endpoint, method, params = {}, token) {
+        try {
+            // console.log(tokenStorage)
+            // console.log(this.token)
+            const response = await this.api.request({
+                url: endpoint,
+                method: method,
+                params: params,
+                headers: {
+                    Authorization: 'Bearer ' + token,
+                    'Content-Type': 'application/json'
+                }
+            });
+            return response.data;
+        } catch (e) {
+            if (e.response && e.response.status === 401) {
+                localStorage.setItem('authToken', '')
+                window.location.href = '/mejakami';
+            } else {
+                console.log(e)
+                throw new Error('Error fetching data:' + e);
+            }
+
+        }
+    }
+
     async postMultiData(endpoint, method, data) {
         try {
             const response = await this.api.request({
@@ -62,6 +93,28 @@ class useBaseComposables {
                 }
             });
             console.log('aman')
+            return response;
+        } catch (error) {
+            if (error.response.status === 401) {
+                // Redirect ke halaman login atau halaman lain sesuai kebijakan Anda
+                this.$router.push('/login'); // Gantilah '/login' dengan rute yang sesuai
+            }
+            console.log(error)
+            throw error
+        }
+    }
+    async postMultiData2(endpoint, method, data, token) {
+        try {
+            const response = await this.api.request({
+                url: endpoint,
+                method: method,
+                data: data,
+                headers: {
+                    Authorization: 'Bearer ' + token,
+                    'Content-Type': 'multipart/form-data'
+                }
+            });
+            // console.log('aman')
             return response;
         } catch (error) {
             if (error.response.status === 401) {

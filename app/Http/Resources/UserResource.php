@@ -18,35 +18,15 @@ class UserResource extends JsonResource
     {
         // return parent::toArray($request);
         return [
-            'id' => $this->id,
+            'id' => $this->id ?? 1,
             'name' => $this->name,
             'username' => $this->username,
             'phone' => $this->phone,
             'admin' => $this->admin,
             'address' => $this->address,
-            'avatar' => $this->avatar,
+            'avatar' => $this->avatar ?  asset('upload') . '/' . $this->avatar : '',
             'assignment' => $this->whenLoaded('assignments', function () {
                 return $this->assignments->map(function ($assignment) {
-                    // $dapil =  $assignment->dapils->map(function ($dapil) {
-                    //     return;
-                    //     // return [
-                    //     //     'province' => [
-                    //     //         'id' => $dapil->provinces->id
-                    //     //     ]
-                    //     // ];
-                    // });
-                    // $dapil = $assignment->dapils->provinces->map(function ($village) {
-                    //     return [
-                    //         'id' => $village->id,
-                    //         'name' => $village->name
-                    //     ];
-                    // });
-                    // $village = $assignment->districts->villages->map(function ($village) {
-                    //     return [
-                    //         'id' => $village->id,
-                    //         'name' => $village->name
-                    //     ];
-                    // });
                     return [
                         'id' => $assignment->id,
                         'dapil' => [
@@ -74,60 +54,6 @@ class UserResource extends JsonResource
                     ];
                 });
             })
-            // 'assignment' => $this->when($this->relationLoaded('assignments'), function () {
-            //     return $this->assignments->map(function ($assignment) {
-            //         return [
-            //             'id' => $assignment->id,
-            //             'district' => [
-            //                 'id' => $assignment->
-            //             ]
-            //         ];
-            //     });
-            // })
-            // 'assignment' => $this->whenLoaded('assignments', function(){
-            //     return[
-            //         'district' => $this->relation
-            //     ]
-            // })
-            // 'assignment' => $this->whenLoaded('assignments', function () {
-            //     return $this->assignments->map(function ($assignment) {
-            //         return [
-            //             'id' => $assignment->id,
-            //             'district' => $assignment->whenLoaded('districts', function () use ($assignment) {
-            //                 return $assignment->districts->map(function ($distrist) {
-            //                     return [
-            //                         'id' => $distrist->id
-            //                     ];
-            //                 });
-            //             })
-            //         ];
-            //     });
-            // })
-            // 'assignment' => $this->whenLoaded('assignments', function () {
-            //     return [
-            //         'id' => $this->id,
-            //         'district' => $this->relationLoaded('districts', function () {
-            //             return [
-            //                 'id' => $this->id
-            //             ];
-            //         })
-            //     ];
-            // }),
-            // 'at' => $this->whenLoaded('assignments.districts', function () {
-            //     $data = [
-            //         'id' => $this->id,
-            //         // 'district' => $this->whenLoaded('districts', function () {
-            //         //     $data = [
-            //         //         'id' => $this->id
-            //         //     ];
-            //         //     return $data;
-            //         // })
-            //     ];
-            //     return $data;
-            // })
-
-            // 'assignment' => AssignmentResource::collection($this->whenLoaded('assignments')),
-            // 'villages' => VillageResource::collection($this->whenLoaded('villages'))
         ];
     }
 }

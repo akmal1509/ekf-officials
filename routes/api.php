@@ -61,6 +61,7 @@ Route::group([
     Route::get('/show/{id}', 'show');
     Route::post('/', 'store');
     Route::post('/update/{id}', 'update');
+    // Route::post('/update/{id}', 'update');
     Route::post('/delete/{id}', 'delete');
     Route::get('/me', 'getMe');
 });

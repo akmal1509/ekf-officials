@@ -4,7 +4,7 @@
         <transition name="fades">
             <div
                 v-if="alertOpen"
-                class="absolute w-full fades z-50 flex justify-end top-8 px-4"
+                class="fixed w-full fades z-50 flex justify-end top-8 px-4"
             >
                 <Alert
                     class="w-full flex justify-center shadow-lg !bg-red-700 text-white"
@@ -44,8 +44,14 @@ export default {
         const useAlert = useAlertStore();
         const message = computed(() => useAlert.message);
         const alertOpen = computed(() => useAlert.alertOpen);
+        isOpen.value = alertOpen.value;
+        console.log(isOpen.value);
+        console.log(alertOpen.value);
         // const message = computed(() => useAlert.message);
         const isSidebarOpen = useSidebarStore().sidebarOpen;
+        // watch(alertOpen, (newIs) => {
+        //     console.log(newIs);
+        // });
         // const checkAlert = async () => {
         //     message.value = useAlert.message;
         //     console.log("haha");

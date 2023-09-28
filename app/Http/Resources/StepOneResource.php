@@ -17,7 +17,9 @@ class StepOneResource extends JsonResource
     public function toArray(Request $request): array
     {
         $data = parent::toArray($request);
-        $data['image'] = asset('upload') . '/' . $data['image'];
+        if ($data['image'] != null) {
+            $data['image'] = asset('upload') . '/' . $data['image'];
+        }
         return $data;
     }
 }
