@@ -66,7 +66,7 @@
 </template>
 
 <script>
-import { useSidebarStore } from "@/store/SidebarStore";
+import { useSidebarStore } from "@/store";
 import { Logo } from "@/assets/index.js";
 import ImageSkeleton from "../Skeleton/ImageSkeleton.vue";
 // import { DropdownSidebar } from "@/components";
