@@ -6,7 +6,7 @@ const BottomNav = defineAsyncComponent(() => import('./BottomNav.vue'))
 const Sidebar = defineAsyncComponent(() => import('./Sidebar.vue'))
 const Navbar = defineAsyncComponent(() => import('./Navbar.vue'))
 const ShowingData = defineAsyncComponent(() => import('./ShowingData.vue'))
-const MenuSidebar = defineAsyncComponent(() => import('./MenuSidebar.vue'))
+const MenuSidebar = defineAsyncComponent(() => import('./MenuSideBar.vue'))
 
 // import CardTotalData from './Card/CardTotalData.vue'
 
