@@ -141,8 +141,8 @@ export default {
             phoneChairman: "",
             image: null,
         });
-        const village = ref(null);
-        const school = ref(null);
+        const village = ref("");
+        const school = ref("");
         // const search = ref({
         //     village: null,
         //     school: null,
