@@ -56,7 +56,7 @@ export const useAuthStore = defineStore('auth', {
                 this.alert.showAlert('Anda Berhasil Login');
 
             } catch (e) {
-                // this.error = 'Username atau password salah'
+                this.error = 'Username atau password salah'
                 console.log(e)
             }
         },
