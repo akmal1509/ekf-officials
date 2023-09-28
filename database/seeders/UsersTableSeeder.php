@@ -14,19 +14,20 @@ class UsersTableSeeder extends Seeder
      */
     public function run()
     {
-
+        
 
         \DB::table('users')->delete();
-
-        \DB::table('users')->insert(array(
-            0 =>
-            array(
+        
+        \DB::table('users')->insert(array (
+            0 => 
+            array (
                 'id' => 1,
                 'name' => 'Akmaluddin',
                 'username' => 'akmalciamis',
                 'address' => 'Ciamis',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -34,14 +35,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            1 =>
-            array(
+            1 => 
+            array (
                 'id' => 2,
                 'name' => 'Iyus Muhamad Rusli',
                 'username' => 'iyuscikoneng',
                 'address' => 'Cikoneng',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -49,14 +51,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            2 =>
-            array(
+            2 => 
+            array (
                 'id' => 3,
                 'name' => 'Ikhwan',
                 'username' => 'ikhwansadananya',
                 'address' => 'Sadananya',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -64,14 +67,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            3 =>
-            array(
+            3 => 
+            array (
                 'id' => 4,
                 'name' => 'Fajar Ma',
                 'username' => 'fajarsindangkasih',
                 'address' => 'Sindangkasih',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -79,14 +83,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            4 =>
-            array(
+            4 => 
+            array (
                 'id' => 5,
                 'name' => 'M Rifai',
                 'username' => 'rifaicihaurbeuti',
                 'address' => 'Cihaurbeuti',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -94,14 +99,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            5 =>
-            array(
+            5 => 
+            array (
                 'id' => 6,
                 'name' => 'Agus',
                 'username' => 'aguspanumbangan',
                 'address' => 'Panumbangan',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -109,14 +115,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            6 =>
-            array(
+            6 => 
+            array (
                 'id' => 7,
                 'name' => 'Rahmat',
                 'username' => 'rakhmatpanjalu',
                 'address' => 'Panjalu',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -124,14 +131,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            7 =>
-            array(
+            7 => 
+            array (
                 'id' => 8,
                 'name' => 'Luqi',
                 'username' => 'luqipanjalu',
                 'address' => 'Panjalu',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -139,14 +147,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            8 =>
-            array(
+            8 => 
+            array (
                 'id' => 9,
                 'name' => 'Debi',
                 'username' => 'debisukamantri',
                 'address' => 'Sukamantri',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -154,14 +163,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            9 =>
-            array(
+            9 => 
+            array (
                 'id' => 10,
                 'name' => 'Acep Agung Gumelar',
                 'username' => 'acepsukamantri',
                 'address' => 'Sukamantri',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -169,14 +179,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            10 =>
-            array(
+            10 => 
+            array (
                 'id' => 11,
                 'name' => 'Andri Nurdin',
                 'username' => 'andrikawali',
                 'address' => 'Kawali',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -184,14 +195,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            11 =>
-            array(
+            11 => 
+            array (
                 'id' => 12,
                 'name' => 'Opa',
                 'username' => 'opapanawangan',
                 'address' => 'Panawangan',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -199,14 +211,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            12 =>
-            array(
+            12 => 
+            array (
                 'id' => 13,
                 'name' => 'Irfan Hendriawan',
                 'username' => 'irfancipaku',
                 'address' => 'Cipaku',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -214,14 +227,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            13 =>
-            array(
+            13 => 
+            array (
                 'id' => 14,
                 'name' => 'Nina Herliani',
                 'username' => 'ninalumbung',
                 'address' => 'Lumbung',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -229,14 +243,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            14 =>
-            array(
+            14 => 
+            array (
                 'id' => 15,
                 'name' => 'Ridan',
                 'username' => 'ridanjatinagara',
                 'address' => 'Jatinagara',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -244,14 +259,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            15 =>
-            array(
+            15 => 
+            array (
                 'id' => 16,
                 'name' => 'Ridho',
                 'username' => 'ridhorajadesa',
                 'address' => 'Rajadesa',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -259,14 +275,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            16 =>
-            array(
+            16 => 
+            array (
                 'id' => 17,
                 'name' => 'Ara',
                 'username' => 'arasukadana',
                 'address' => 'Sukadana',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -274,14 +291,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            17 =>
-            array(
+            17 => 
+            array (
                 'id' => 18,
                 'name' => 'Fares',
                 'username' => 'faresrancah',
                 'address' => 'Rancah',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -289,14 +307,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            18 =>
-            array(
+            18 => 
+            array (
                 'id' => 19,
                 'name' => 'Ahmad Ubaedilah',
                 'username' => 'ahmadtambaksari',
                 'address' => 'Tambaksari',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -304,14 +323,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            19 =>
-            array(
+            19 => 
+            array (
                 'id' => 20,
                 'name' => 'Tatun',
                 'username' => 'tatuncisaga',
                 'address' => 'Cisaga',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -319,14 +339,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            20 =>
-            array(
+            20 => 
+            array (
                 'id' => 21,
                 'name' => 'Aji Purnomo',
                 'username' => 'ajilakbok',
                 'address' => 'Lakbok',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -334,14 +355,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            21 =>
-            array(
+            21 => 
+            array (
                 'id' => 22,
                 'name' => 'Adit',
                 'username' => 'aditbanjarsari',
                 'address' => 'Banjarsari',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -349,14 +371,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            22 =>
-            array(
+            22 => 
+            array (
                 'id' => 23,
                 'name' => 'Debi Riswanto',
                 'username' => 'debipurwadadi',
                 'address' => 'Purwadadi',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -364,14 +387,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            23 =>
-            array(
+            23 => 
+            array (
                 'id' => 24,
                 'name' => 'Rudi',
                 'username' => 'rudibanjaranyar',
                 'address' => 'Banjaranyar',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -379,14 +403,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            24 =>
-            array(
+            24 => 
+            array (
                 'id' => 25,
                 'name' => 'Yadi',
                 'username' => 'yadicijeungjing',
                 'address' => 'Cijeungjing',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -394,14 +419,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            25 =>
-            array(
+            25 => 
+            array (
                 'id' => 26,
                 'name' => 'Wildan Ali',
                 'username' => 'wildancidolong',
                 'address' => 'Cidolong',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -409,14 +435,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            26 =>
-            array(
+            26 => 
+            array (
                 'id' => 27,
                 'name' => 'Egi',
                 'username' => 'egipamarican',
                 'address' => 'Pamarican',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -424,14 +451,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            27 =>
-            array(
+            27 => 
+            array (
                 'id' => 28,
                 'name' => 'Dudi',
                 'username' => 'dudicimaragas',
                 'address' => 'Cimaragas',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -439,14 +467,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            28 =>
-            array(
+            28 => 
+            array (
                 'id' => 29,
                 'name' => 'Neni',
                 'username' => 'nenibaregbeg',
                 'address' => 'Baregbeg',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -454,14 +483,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            29 =>
-            array(
+            29 => 
+            array (
                 'id' => 30,
                 'name' => 'Ahmad Rio Nugraha',
                 'username' => 'ahmadsindangagung',
                 'address' => 'Sindangagung',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -469,14 +499,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            30 =>
-            array(
+            30 => 
+            array (
                 'id' => 31,
                 'name' => 'Viky Fazri',
                 'username' => 'vikygarawangi',
                 'address' => 'Garawangi',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -484,14 +515,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            31 =>
-            array(
+            31 => 
+            array (
                 'id' => 32,
                 'name' => 'Alda Apriliani',
                 'username' => 'aldacigugur',
                 'address' => 'Cigugur',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -499,14 +531,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            32 =>
-            array(
+            32 => 
+            array (
                 'id' => 33,
                 'name' => 'Sevilla Maghfira Luna A',
                 'username' => 'sevillakuningan',
                 'address' => 'Kuningan',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -514,14 +547,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            33 =>
-            array(
+            33 => 
+            array (
                 'id' => 34,
                 'name' => 'Hanip Wahyu Romdhon',
                 'username' => 'hanipciniru',
                 'address' => 'Ciniru',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -529,14 +563,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            34 =>
-            array(
+            34 => 
+            array (
                 'id' => 35,
                 'name' => 'Muhammad Hanif Firdaus',
                 'username' => 'muhammadcigandamekar',
                 'address' => 'Cigandamekar',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -544,14 +579,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            35 =>
-            array(
+            35 => 
+            array (
                 'id' => 36,
                 'name' => 'Fauzy Nur Kholid',
                 'username' => 'fauzycilimus',
                 'address' => 'Cilimus',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -559,14 +595,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            36 =>
-            array(
+            36 => 
+            array (
                 'id' => 38,
                 'name' => 'Ikhsan Hasanudin',
                 'username' => 'ikhsankramatmulya',
                 'address' => 'Kramatmulya',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -574,14 +611,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            37 =>
-            array(
+            37 => 
+            array (
                 'id' => 39,
                 'name' => 'Qodry',
                 'username' => 'qodryjapara',
                 'address' => 'Japara',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -589,14 +627,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            38 =>
-            array(
+            38 => 
+            array (
                 'id' => 40,
                 'name' => 'Rendi',
                 'username' => 'rendimandirancan',
                 'address' => 'Mandirancan',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -604,14 +643,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            39 =>
-            array(
+            39 => 
+            array (
                 'id' => 41,
                 'name' => 'Fauzan',
                 'username' => 'fauzanciawigebang',
                 'address' => 'Ciawigebang',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -619,14 +659,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            40 =>
-            array(
+            40 => 
+            array (
                 'id' => 42,
                 'name' => 'Rikal Irwansyah',
                 'username' => 'rikalcidahu',
                 'address' => 'Cidahu',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -634,14 +675,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            41 =>
-            array(
+            41 => 
+            array (
                 'id' => 43,
                 'name' => 'Jujun',
                 'username' => 'jujuncipicung',
                 'address' => 'Cipicung',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -649,14 +691,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            42 =>
-            array(
+            42 => 
+            array (
                 'id' => 44,
                 'name' => 'Adam Permana',
                 'username' => 'adamkalimanggis',
                 'address' => 'Kalimanggis',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -664,14 +707,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            43 =>
-            array(
+            43 => 
+            array (
                 'id' => 45,
                 'name' => 'Aryadi',
                 'username' => 'aryadilebakwangi',
                 'address' => 'Lebakwangi',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -679,14 +723,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            44 =>
-            array(
+            44 => 
+            array (
                 'id' => 46,
                 'name' => 'Mochammad Fahri Akbar Husaini',
                 'username' => 'fahrimaleber',
                 'address' => 'Maleber',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -694,14 +739,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            45 =>
-            array(
+            45 => 
+            array (
                 'id' => 47,
                 'name' => 'Elsa Damayanti',
                 'username' => 'elsaluragung',
                 'address' => 'Luragung',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -709,14 +755,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            46 =>
-            array(
+            46 => 
+            array (
                 'id' => 48,
                 'name' => 'Reza',
                 'username' => 'rezacibeureum',
                 'address' => 'Cibeureum',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -724,14 +771,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            47 =>
-            array(
+            47 => 
+            array (
                 'id' => 49,
                 'name' => 'Sawad',
                 'username' => 'sawadcibingbin',
                 'address' => 'Cibingbin',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -739,14 +787,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            48 =>
-            array(
+            48 => 
+            array (
                 'id' => 50,
                 'name' => 'Opi',
                 'username' => 'opiciwaru',
                 'address' => 'Ciwaru',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -754,14 +803,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            49 =>
-            array(
+            49 => 
+            array (
                 'id' => 51,
                 'name' => 'Tofan Maulana',
                 'username' => 'tofancimahi',
                 'address' => 'Cimahi',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -769,14 +819,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            50 =>
-            array(
+            50 => 
+            array (
                 'id' => 52,
                 'name' => 'Pepi',
                 'username' => 'pepikadugede',
                 'address' => 'Kadugede',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -784,14 +835,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            51 =>
-            array(
+            51 => 
+            array (
                 'id' => 53,
                 'name' => 'Ajat Sudrajat',
                 'username' => 'ajatnusaherang',
                 'address' => 'Nusaherang',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -799,14 +851,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            52 =>
-            array(
+            52 => 
+            array (
                 'id' => 54,
                 'name' => 'Jajang Jamani',
                 'username' => 'jajangdarma',
                 'address' => 'Darma',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -814,14 +867,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            53 =>
-            array(
+            53 => 
+            array (
                 'id' => 55,
                 'name' => 'Didi Supriadi',
                 'username' => 'didiselajambe',
                 'address' => 'Selajambe',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -829,14 +883,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            54 =>
-            array(
+            54 => 
+            array (
                 'id' => 56,
                 'name' => 'Yoyon',
                 'username' => 'yoyonsubang',
                 'address' => 'Subang',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -844,14 +899,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            55 =>
-            array(
+            55 => 
+            array (
                 'id' => 57,
                 'name' => 'Saryo',
                 'username' => 'saryocilebak',
                 'address' => 'Cilebak',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -859,14 +915,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            56 =>
-            array(
+            56 => 
+            array (
                 'id' => 58,
                 'name' => 'Acep Wildan',
                 'username' => 'acepparigi',
                 'address' => 'Parigi',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -874,14 +931,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            57 =>
-            array(
+            57 => 
+            array (
                 'id' => 59,
                 'name' => 'Sendi',
                 'username' => 'sendiparigi',
                 'address' => 'Parigi',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -889,14 +947,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            58 =>
-            array(
+            58 => 
+            array (
                 'id' => 60,
                 'name' => 'Jeje',
                 'username' => 'jejesidamulih',
                 'address' => 'Sidamulih',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -904,14 +963,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            59 =>
-            array(
+            59 => 
+            array (
                 'id' => 61,
                 'name' => 'Wahyu Sidiq',
                 'username' => 'wahyusidamulih',
                 'address' => 'Sidamulih',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -919,14 +979,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            60 =>
-            array(
+            60 => 
+            array (
                 'id' => 62,
                 'name' => 'Devi',
                 'username' => 'devimangunjaya',
                 'address' => 'Mangunjaya',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -934,14 +995,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            61 =>
-            array(
+            61 => 
+            array (
                 'id' => 63,
                 'name' => 'Gugun',
                 'username' => 'gugunpadaherang',
                 'address' => 'Padaherang',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -949,14 +1011,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            62 =>
-            array(
+            62 => 
+            array (
                 'id' => 64,
                 'name' => 'Ridwan',
                 'username' => 'ridwanpadaherang',
                 'address' => 'Padaherang',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -964,14 +1027,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            63 =>
-            array(
+            63 => 
+            array (
                 'id' => 65,
                 'name' => 'Acep Purnawijaya',
                 'username' => 'acepkalipucang',
                 'address' => 'Kalipucang',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -979,14 +1043,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            64 =>
-            array(
+            64 => 
+            array (
                 'id' => 66,
                 'name' => 'Sirojudin Abas',
                 'username' => 'sirojudinkalipucang',
                 'address' => 'Kalipucang',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -994,14 +1059,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            65 =>
-            array(
+            65 => 
+            array (
                 'id' => 67,
                 'name' => 'Hendri',
                 'username' => 'hendripangandaran',
                 'address' => 'Pangandaran',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -1009,14 +1075,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            66 =>
-            array(
+            66 => 
+            array (
                 'id' => 68,
                 'name' => 'Nova',
                 'username' => 'novapangandaran',
                 'address' => 'Pangandaran',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -1024,14 +1091,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            67 =>
-            array(
+            67 => 
+            array (
                 'id' => 69,
                 'name' => 'Kamaludin',
                 'username' => 'kamaludincijulang',
                 'address' => 'Cijulang',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -1039,14 +1107,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            68 =>
-            array(
+            68 => 
+            array (
                 'id' => 70,
                 'name' => 'Bayu',
                 'username' => 'bayucijulang',
                 'address' => 'Cijulang',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -1054,14 +1123,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            69 =>
-            array(
+            69 => 
+            array (
                 'id' => 71,
                 'name' => 'Fajri',
                 'username' => 'fajricimerak',
                 'address' => 'Cimerak',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -1069,14 +1139,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            70 =>
-            array(
+            70 => 
+            array (
                 'id' => 72,
                 'name' => 'Cucu',
                 'username' => 'cucucimerak',
                 'address' => 'Cimerak',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -1084,14 +1155,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            71 =>
-            array(
+            71 => 
+            array (
                 'id' => 73,
                 'name' => 'Jujun',
                 'username' => 'jujuncigugur',
                 'address' => 'Cigugur',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -1099,14 +1171,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            72 =>
-            array(
+            72 => 
+            array (
                 'id' => 74,
                 'name' => 'Ita',
                 'username' => 'itacigugur',
                 'address' => 'Cigugur',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -1114,14 +1187,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            73 =>
-            array(
+            73 => 
+            array (
                 'id' => 75,
                 'name' => 'Mimin',
                 'username' => 'miminlangkaplancar',
                 'address' => 'Langkaplancar',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -1129,14 +1203,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            74 =>
-            array(
+            74 => 
+            array (
                 'id' => 76,
                 'name' => 'Ahmad',
                 'username' => 'ahmadlangkaplancar',
                 'address' => 'Langkaplancar',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -1144,14 +1219,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            75 =>
-            array(
+            75 => 
+            array (
                 'id' => 77,
                 'name' => 'admin',
                 'username' => 'admin',
                 'address' => 'Langkaplancar',
                 'phone' => NULL,
                 'admin' => 1,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -1159,14 +1235,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            76 =>
-            array(
+            76 => 
+            array (
                 'id' => 78,
                 'name' => 'Iim Soimudin',
                 'username' => 'iimjalaksana',
                 'address' => 'jalaksana',
                 'phone' => '12312312',
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -1174,14 +1251,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            77 =>
-            array(
+            77 => 
+            array (
                 'id' => 79,
                 'name' => 'Fauji',
                 'username' => 'faujibanjaranyar',
                 'address' => 'Banjaranyar',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -1189,14 +1267,15 @@ class UsersTableSeeder extends Seeder
                 'created_at' => NULL,
                 'updated_at' => NULL,
             ),
-            78 =>
-            array(
+            78 => 
+            array (
                 'id' => 80,
                 'name' => 'Tester Banjar Anyar',
                 'username' => 'tester',
                 'address' => 'Banjaranyar',
                 'phone' => NULL,
                 'admin' => 0,
+                'avatar' => 'https://robohash.org/recusandae-aliquam-consequatur.png?size=300x300&set=set1',
                 'email_verified_at' => NULL,
                 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
                 'remember_token' => NULL,
@@ -1205,5 +1284,7 @@ class UsersTableSeeder extends Seeder
                 'updated_at' => NULL,
             ),
         ));
+        
+        
     }
 }

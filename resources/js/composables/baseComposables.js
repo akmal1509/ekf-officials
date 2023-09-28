@@ -11,18 +11,18 @@ class useBaseComposables {
         // console.log(tokenStorage)
         this.api = axios.create({
             headers: {
-                Authorization: `Bearer ${tokenStorage}`
+                Authorization: 'Bearer ' + tokenStorage,
+                'Content-Type': 'application/json'
             }
         });
     }
 
-    async fetchMe(endpoint, method, token) {
+    async fetchMe(token) {
         try {
-            const response = await this.api.request({
-                url: endpoint,
-                method: method,
+            const response = await axios.post('/api/auth/me', null, {
                 headers: {
-                    Authorization: `Bearer ${token}`
+                    Authorization: 'Bearer ' + token,
+                    'Content-Type': 'application/json'
                 }
             });
             return response.data;

@@ -106,6 +106,7 @@ export default {
     computed: {
         filteredOptions(props) {
             if (props.search) {
+                console.log(props.search);
                 this.select = this.data.find(
                     (item) => item.id === props.search
                 );

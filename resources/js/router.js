@@ -1,6 +1,6 @@
 import { createWebHistory, createRouter } from "vue-router";
 import { useAuthStore, useSidebarStore, useStepOneStore } from "./store";
-import { CreateSurveySekolah, DapilCategory, Dashboard, Login, ShowSurveySekolah, SurveySekolah, Maintenance } from "./views";
+import { CreateSurveySekolah, DapilCategory, Dashboard, Login, ShowSurveySekolah, SurveySekolah, Maintenance, Profile } from "./views";
 import { AdminLayout, AuthLayout, BaseLayout, FrontLayout } from "./layout";
 import { checkAuth, checkSurveySekolahOwnership, guestOnly, requireAuth } from "./plugins/middleware/middleware";
 
@@ -35,6 +35,11 @@ const routes = [
                 path: 'dashboard',
                 name: 'dashboard',
                 component: Dashboard
+            },
+            {
+                path: 'profile',
+                name: 'profile',
+                component: Profile
             },
             {
                 path: 'survey-sekolah',

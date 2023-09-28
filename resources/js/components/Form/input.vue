@@ -2,11 +2,16 @@
     <div>
         <label v-if="label" for="" class="">{{ label }}</label>
         <input
+            :readonly="readOnly"
             :value="modelValue"
             :type="type"
             :placeholder="placeholder"
             autocomplete="off"
             class="mt-2 w-full form-control"
+            :class="{
+                '!bg-gray-200 focus:border-0 focus:ring-0 text-gray-400':
+                    readOnly,
+            }"
             @input="$emit('update:modelValue', $event.target.value)"
         />
     </div>
@@ -31,6 +36,10 @@ defineProps({
     placeholder: {
         type: String,
         default: "",
+    },
+    readOnly: {
+        type: Boolean,
+        default: false,
     },
 });
 </script>

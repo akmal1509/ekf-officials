@@ -16,9 +16,9 @@ class AssignmentsTableSeeder extends Seeder
     {
         
 
-        \DB::table('assignments')->delete();
+        \DB::table('Assignments')->delete();
         
-        \DB::table('assignments')->insert(array (
+        \DB::table('Assignments')->insert(array (
             0 => 
             array (
                 'id' => 1,
@@ -918,6 +918,16 @@ class AssignmentsTableSeeder extends Seeder
                 'deleted_at' => NULL,
                 'created_at' => '2023-09-09 10:53:20',
                 'updated_at' => '2023-09-09 10:53:20',
+            ),
+            90 => 
+            array (
+                'id' => 91,
+                'userId' => 80,
+                'dapilDistrictId' => 2,
+                'districtId' => 2251,
+                'deleted_at' => NULL,
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
         ));
         

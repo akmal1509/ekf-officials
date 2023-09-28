@@ -37,9 +37,7 @@ export default {
         const imagePreview = ref("");
         const imageInput = ref("");
         const selectedImage = ref("");
-        if (props.imageData) {
-            imagePreview.value = props.imageData;
-        }
+
         const handleFileChange = (event) => {
             selectedImage.value = event.target.files[0];
             imageInput.value = selectedImage.value;
@@ -53,13 +51,31 @@ export default {
             imageInput.value.click();
         };
 
+        const imageChange = async () => {
+            // console.log(props.imageData);
+            imagePreview.value = props.imageData;
+        };
+
+        watch(
+            () => props.imageData,
+            (newImage) => {
+                // Di sini Anda dapat memproses imageData yang baru
+                console.log("New imageData:", newImage);
+                if (newImage) {
+                    // Jika imageData sudah tersedia, lakukan sesuatu
+                    imagePreview.value = newImage;
+                }
+            }
+        );
+        watch(selectedImage, (newImageInput) => {
+            console.log(newImageInput);
+            emit("update:imageInput", newImageInput);
+        });
+
         onMounted(() => {
+            imageChange();
             console.log(props.imageData);
-        }),
-            watch(selectedImage, (newImageInput) => {
-                console.log(newImageInput);
-                emit("update:imageInput", newImageInput);
-            });
+        });
 
         return {
             handleFileChange,

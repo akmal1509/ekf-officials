@@ -34,10 +34,10 @@ class DapilDistrict extends Model
     {
         return $this->belongsTo(City::class, 'cityId', 'id');
     }
-    // public function provinces()
-    // {
-    //     return $this->belongsTo(Province::class, 'provinceId', 'id');
-    // }
+    public function provinces()
+    {
+        return $this->belongsTo(Province::class, 'provinceId', 'id');
+    }
     // public function villages()
     // {
     //     return $this->belongsTo(Village::class, 'villageId', 'id');

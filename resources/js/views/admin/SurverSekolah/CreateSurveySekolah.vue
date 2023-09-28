@@ -20,7 +20,7 @@
                         text="Pilih Kelurahan"
                         :data="villages"
                         v-model="form.villageId"
-                        :search="search.village"
+                        :search="village"
                         @update:search="form.villageId = $event"
                     ></Select>
                 </div>
@@ -31,7 +31,7 @@
                         text="Pilih Sekolah"
                         :data="schools"
                         v-model="form.schoolId"
-                        :search="search.school"
+                        :search="school"
                         @update:search="form.schoolId = $event"
                     ></Select>
                 </div>
@@ -47,6 +47,7 @@
                             <Input
                                 class="basis-1/2"
                                 label="Nomor Telfon "
+                                type="number"
                                 v-model="form.phoneHeadmaster"
                             />
                         </div>
@@ -60,6 +61,7 @@
                             />
                             <Input
                                 label="Nomor Telfon"
+                                type="number"
                                 v-model="form.phoneOperator"
                             />
                         </div>
@@ -73,6 +75,7 @@
                             />
                             <Input
                                 label="Nomor Telfon"
+                                type="number"
                                 v-model="form.phoneChairman"
                             />
                         </div>
@@ -138,24 +141,25 @@ export default {
             phoneChairman: "",
             image: null,
         });
-
-        const search = ref({
-            village: null,
-            school: null,
-        });
+        const village = ref(null);
+        const school = ref(null);
+        // const search = ref({
+        //     village: null,
+        //     school: null,
+        // });
 
         const handleSubmit = async () => {
-            console.log(create.value);
+            // console.log(create.value);
             try {
                 if (!create.value) {
-                    console.log("edit");
+                    // console.log("edit");
                     await stepOneStore.storeData(form.value, true, id.value);
                 } else {
-                    console.log("tambah");
+                    // console.log("tambah");
                     await stepOneStore.storeData(form.value, false);
                 }
             } catch (error) {
-                console.log(errorMessage.value);
+                // console.log(errorMessage.value);
                 return;
             }
         };
@@ -170,17 +174,17 @@ export default {
             const data = await stepOneStore.stepOneData;
             if (data) {
                 form.value = data;
+                imageData.value = data.image;
                 create.value = false;
                 id.value = data.id;
-                search.value.village = form.value.villageId;
-                search.value.school = form.value.schoolId;
-                imageData.value = data.image;
+                village.value = form.value.villageId;
+                school.value = form.value.schoolId;
                 form.value.image = "";
                 console.log(imageData.value);
             }
         };
         onBeforeMount(async () => {
-            await stepOneEdit();
+            stepOneEdit();
             fetchVillage();
         });
         onBeforeUnmount(async () => {
@@ -194,17 +198,18 @@ export default {
                 fetchSchool(id);
             }
         );
-        watch(
-            form,
-            (newForm) => {
-                console.log(newForm);
-            },
-            { deep: true }
-        );
+        // watch(
+        //     form,
+        //     (newForm) => {
+        //         console.log(newForm);
+        //     },
+        //     { deep: true }
+        // );
         return {
             form,
             villages,
-            search,
+            village,
+            school,
             schools,
             stepOne,
             handleSubmit,

@@ -45,7 +45,9 @@
                 </Suspense>
             </template>
             <template v-slot:body>
-                <DropDownList label="Profile" />
+                <router-link to="/admin/profile">
+                    <DropDownList label="Profile" />
+                </router-link>
                 <DropDownList
                     label="Logout"
                     @click="authStore.handleLogout()"

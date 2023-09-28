@@ -1,39 +1,86 @@
 import axios from "axios";
-import { useBaseComposables } from '.'
+import { useBaseComposables, useErrorHandling } from '.'
 import { ref } from "vue";
 
-class useAuthComposables {
-    constructor() {
-        this.useBase = new useBaseComposables()
-        this.user = ref('')
-    }
-    async getUser(token) {
+
+
+export default function useAuthComposables() {
+    const { errorMessage, handleError } = useErrorHandling();
+    const authUser = ref('');
+    const fullMe = ref('');
+    const useBase = new useBaseComposables()
+    const token = ref('')
+
+    // const getMe = async () => {
+    //     try {
+    //         const response = await useBase.fetchMe('/api/auth/me', 'post');
+    //         // console.log(response)
+    //         // return response;
+    //         return response
+    //     } catch (e) {
+    //         throw e
+    //     }
+    // }
+    const getMe = async (token) => {
         try {
-            const response = await this.useBase.fetchMe('/api/auth/me', 'post', token);
-            return response;
-        } catch (error) {
-            // console.log(e)
-            throw new Error('Error fetching data:' + error);
-            // return error
+            const response = await useBase.fetchMe(token);
+            // console.log(response)
+            // return response;
+            return response
+        } catch (e) {
+            throw e
         }
     }
 
-    async loginUser(form) {
+    const getFullMe = async () => {
         try {
-            const response = await axios.post('/api/auth/login', form);
-            return response.data;
-        } catch (error) {
-            throw new Error('Error fetching data:' + error);
+            const response = await useBase.fetchData('/api/user/me', 'get');
+            fullMe.value = response.data
+        } catch (e) {
+            throw e
         }
     }
-    async logoutUser(token) {
+
+    const loginUser = async (form) => {
         try {
-            const response = await this.useBase.fetchMe('/api/auth/logout', 'post', token);
+            console.log(form)
+            const response = await axios.post('/api/auth/login', form);
+            // console.log(response.data)
+            return response.data
+            // console.log(token.value)
+        } catch (error) {
+            throw e
+        }
+    }
+    // const loginUser = async (form) => {
+    //     try {
+    //         console.log(form)
+    //         const response = await axios.post('/api/auth/login', form);
+    //         // console.log(response.data)
+    //         token.value = response.data
+    //         // console.log(token.value)
+    //     } catch (error) {
+    //         throw e
+    //     }
+    // }
+    const logoutUser = async (token) => {
+        try {
+            console.log('logoutcompo')
+            // const response = await useBase.fetchMe('/api/auth/logout', 'post');
+            const response = await useBase.fetchMe(token);
             return response.data;
         } catch (error) {
-            throw new Error('Error fetching data:' + error);
+            throw e
         }
+    }
+    return {
+        authUser,
+        getMe,
+        loginUser,
+        logoutUser,
+        token,
+        getFullMe,
+        fullMe
+
     }
 }
-
-export default useAuthComposables

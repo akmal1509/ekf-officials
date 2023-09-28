@@ -26,16 +26,18 @@ export async function checkSurveySekolahOwnership(context, next) {
 
 }
 
-export async function checkAuth() {
+export async function checkAuth(required) {
     const authStore = auth();
     try {
         await authStore.getMe();
 
-        if (authStore.authUser) {
+        if ((required && authStore.authUser) || (!required && !authStore.authUser)) {
             console.log('halo')
+            console.log(authStore.authUser)
             return true;
         } else {
             console.log('hali')
+            console.log(required)
             return false;
         }
     } catch (error) {
@@ -44,7 +46,8 @@ export async function checkAuth() {
 }
 
 export async function requireAuth(context, next) {
-    const isAuthenticated = await checkAuth(true);
+    const authStore = auth();
+    const isAuthenticated = authStore.getMe();
     if (!isAuthenticated) {
         next('/mejakami');
     } else {
@@ -54,14 +57,27 @@ export async function requireAuth(context, next) {
 
 export async function guestOnly(context, next) {
     const tokenStorage = localStorage.getItem('authToken')
-    if (!tokenStorage) {
+
+    const authStore = auth();
+    const isAuthenticated = authStore.getMe();
+    if (!isAuthenticated) {
         next();
     } else {
-        const isAuthenticated = await checkAuth();
-        if (!isAuthenticated) {
-            next();
-        } else {
-            next("/admin/dashboard");
-        }
+        next("/admin/dashboard");
     }
+
 }
+// export async function guestOnly(context, next) {
+//     const tokenStorage = localStorage.getItem('authToken')
+//     if (!tokenStorage) {
+//         next();
+//     } else {
+//         const authStore = auth();
+//         const isAuthenticated = authStore.getMe();
+//         if (!isAuthenticated) {
+//             next();
+//         } else {
+//             next("/admin/dashboard");
+//         }
+//     }
+// }

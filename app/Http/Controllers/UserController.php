@@ -44,14 +44,21 @@ class UserController extends Controller
         return UserResource::otherCollection($result);
     }
 
-    public function store(StoreUserRequest $request)
+    public function getMe()
     {
-        $result = $this->userRepository->create($request)->toJson();
-         // return $result;
+        $result = $this->userRepository->getMe()->toJson();
+        // return $result;
         return UserResource::otherCollection($result);
     }
 
-      public function update(UpdateUserRequest $request, $id)
+    public function store(StoreUserRequest $request)
+    {
+        $result = $this->userRepository->create($request)->toJson();
+        // return $result;
+        return UserResource::otherCollection($result);
+    }
+
+    public function update(UpdateUserRequest $request, $id)
     {
         $result = $this->userRepository->update($id, $request)->toJson();
         return UserResource::otherCollection($result);

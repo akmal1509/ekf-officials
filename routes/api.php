@@ -9,6 +9,7 @@ use App\Http\Controllers\DoctorController;
 use App\Http\Controllers\SpecialistController;
 use App\Http\Controllers\DoctorScheduleController;
 use App\Http\Controllers\StepOneController;
+use App\Http\Controllers\UserController;
 
 /*
 |--------------------------------------------------------------------------
@@ -49,6 +50,19 @@ Route::group([
     Route::post('/delete/{id}', 'delete');
     Route::get('/villages', 'getVillages');
     Route::get('/schools', 'getSchools');
+});
+Route::group([
+    'middleware' => 'api',
+    'prefix' => 'user',
+    'controller' => UserController::class
+], function () {
+    Route::get('/', 'index');
+    Route::get('/count', 'count');
+    Route::get('/show/{id}', 'show');
+    Route::post('/', 'store');
+    Route::post('/update/{id}', 'update');
+    Route::post('/delete/{id}', 'delete');
+    Route::get('/me', 'getMe');
 });
 // Route::group([
 //     'prefix' => 'survey-sekolah',

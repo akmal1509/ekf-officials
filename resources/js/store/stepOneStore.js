@@ -7,6 +7,7 @@ export const useStepOneStore = defineStore('steoOne', {
     state: () => ({
         stepOneData: null,
         error: null,
+        isLoading: false,
         alert: useAlertStore()
     }),
     getters: {
@@ -16,9 +17,11 @@ export const useStepOneStore = defineStore('steoOne', {
         async getStepOneShow(id) {
             const { showStepOne, getStepOneShow, errorMessage } = stepCompose()
             try {
+                this.isLoading = true
                 await getStepOneShow(id)
                 // console.log(showStepOne.value)
                 this.stepOneData = { ...showStepOne.value }
+                this.isLoading = false
             } catch (e) {
                 this.error = errorMessage
                 console.log(e)

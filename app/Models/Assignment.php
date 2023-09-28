@@ -17,6 +17,11 @@ class Assignment extends Model
         return $this->belongsTo(DapilDistrict::class, 'dapilDistrictId', 'id');
     }
 
+    // public function dapilCategories()
+    // {
+    //     return $this->
+    // }
+
     public function users()
     {
         return $this->belongsTo(User::class, 'userId', 'id');
@@ -25,10 +30,11 @@ class Assignment extends Model
     {
         return $this->belongsTo(District::class, 'districtId', 'id');
     }
+    // publ
 
     public function getDapilNameAttribute()
     {
-        return $this->dapils->name;
+        return 'Dapil ' . $this->dapils->dapilCategoryId . ' ' . $this->dapils->cities->name;
     }
 
     public function getProvinceNameAttribute()

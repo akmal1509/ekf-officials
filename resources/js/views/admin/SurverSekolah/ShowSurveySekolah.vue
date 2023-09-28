@@ -7,17 +7,17 @@
             <Modal @update:go-function="deleteStepOne" label="Delete" />
         </div>
         <div class="space-y-4 mt-4">
-            <ShowingData>
+            <ShowingData :isLoading="isLoading">
                 <template v-slot:label>Kepala Sekolah</template>
                 <template v-slot:nama>{{ data.headmaster }}</template>
                 <template v-slot:tel>{{ data.phoneHeadmaster }}</template>
             </ShowingData>
-            <ShowingData>
+            <ShowingData :isLoading="isLoading">
                 <template v-slot:label>Operator Sekolah</template>
                 <template v-slot:nama>{{ data.schoolOperator }}</template>
                 <template v-slot:tel>{{ data.phoneOperator }}</template>
             </ShowingData>
-            <ShowingData>
+            <ShowingData :isLoading="isLoading">
                 <template v-slot:label>Ketua Komite</template>
                 <template v-slot:nama>{{ data.chairman }}</template>
                 <template v-slot:tel>{{ data.phoneChairman }}</template>
@@ -34,26 +34,36 @@
 <script>
 import { useRouter } from "vue-router";
 import { useStepOneStore } from "@/store";
-import { onBeforeUnmount } from "vue";
+import { onBeforeUnmount, onMounted, computed, ref } from "vue";
 import { onBeforeRouteLeave } from "vue-router";
 import { ShowingData, Button, Modal } from "@/components";
 export default {
     setup() {
-        const route = useRouter();
         const stepOneStore = useStepOneStore();
-        const data = stepOneStore.stepOneData;
+        const data = ref("");
+        const isLoading = ref(true);
+        // const isLoading = computed(() => stepOneStore.isLoading);
+        const fetchData = async () => {
+            data.value = await stepOneStore.stepOneData;
+            isLoading.value = false;
+        };
+
         const deleteStepOne = async () => {
             console.log(data.id);
             await stepOneStore.deleteStepOneData(data.id);
         };
         onBeforeRouteLeave(async () => {
-            console.log("coba");
             await stepOneStore.removeState();
+        });
+
+        onMounted(() => {
+            fetchData();
         });
 
         return {
             data,
             deleteStepOne,
+            isLoading,
         };
     },
     components: {

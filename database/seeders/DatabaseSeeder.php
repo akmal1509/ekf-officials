@@ -31,5 +31,7 @@ class DatabaseSeeder extends Seeder
             EducationLevelSeeder::class,
             SchoolSeeder::class
         ]);
+        // $this->call(UsersTableSeeder::class);
+        // $this->call(AssignmentsTableSeeder::class);
     }
 }
