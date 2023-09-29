@@ -1,5 +1,6 @@
 <template>
     <div>
+        <Button typeButton="link" href="/profile/changepassword" class="mb-4" width="inline">Ganti Password</Button>
         <Accordion flush class="accordian-akm">
             <AccordionPanel>
                 <AccordionHeader class="accordian-header">
@@ -9,37 +10,26 @@
                     <form @submit.prevent="handleSubmit" class="space-y-3">
                         <div>
                             <label for="">Foto Profile</label>
-                            <ImageUpload
-                                v-model="form.avatar"
-                                @update:imageInput="form.avatar = $event"
-                                :imageData="imageData"
-                                :defaultImage="Avatar"
-                            />
+                            <ImageUpload v-model="form.avatar" @update:imageInput="form.avatar = $event"
+                                :imageData="imageData" :defaultImage="Avatar" />
                         </div>
                         <Input label="Nama" v-model="form.name" />
                         <Input label="Username" v-model="form.username" />
                         <Input label="No. Telfon" v-model="form.phone" />
                         <div>
                             <label for="">Alamat </label>
-                            <textarea
-                                class="form-control mt-2 w-full"
-                                label="Alamat"
-                                v-model="form.address"
-                            ></textarea>
+                            <textarea class="form-control mt-2 w-full" label="Alamat" v-model="form.address"></textarea>
                         </div>
                         <Button type="submit">Update data profile</Button>
                     </form>
                 </AccordionContent>
             </AccordionPanel>
-            <accordion-panel>
+            <accordion-panel v-if="!authStore.authUser.admin">
                 <accordion-header class="accordian-header">
                     <p>Penugasan</p>
                 </accordion-header>
                 <accordion-content class="accordian-content">
-                    <div
-                        v-if="fullMeData && fullMeData.assignment"
-                        class="space-y-3"
-                    >
+                    <div v-if="fullMeData && fullMeData.assignment" class="space-y-3">
                         <div>
                             <label for="">Provinsi</label>
                             <p>{{ fullMeData.assignment[0].province.name }}</p>
@@ -55,13 +45,9 @@
                         <div>
                             <label for="">Desa</label>
                             <div>
-                                <p
-                                    v-for="(desa, index) in fullMeData
-                                        .assignment[0].district.villages"
-                                    class="inline"
-                                >
-                                    <span v-if="index !== 0">, </span
-                                    >{{ desa.name }}
+                                <p v-for="(desa, index) in fullMeData
+                                    .assignment[0].district.villages" class="inline">
+                                    <span v-if="index !== 0">, </span>{{ desa.name }}
                                 </p>
                             </div>
                         </div>

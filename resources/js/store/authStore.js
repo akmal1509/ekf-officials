@@ -1,7 +1,7 @@
 import { defineStore } from "pinia";
 import { useAlertStore } from ".";
 import { useAuthComposables } from "../composables";
-const { getMe, loginUser, logoutUser, token, authUser, getFullMe, fullMe, updateUser } = useAuthComposables()
+const { getMe, loginUser, logoutUser, token, authUser, getFullMe, fullMe, updateUser, changePassword } = useAuthComposables()
 // const authComposables = new useAuthComposables();
 export const useAuthStore = defineStore('auth', {
     state: () => ({
@@ -9,6 +9,13 @@ export const useAuthStore = defineStore('auth', {
         fullMe: null,
         token: null,
         error: null,
+        errorIdent: {
+            data: {
+                errors: {
+
+                }
+            }
+        },
         alert: useAlertStore()
     }),
     getters: {
@@ -58,6 +65,29 @@ export const useAuthStore = defineStore('auth', {
             } catch (e) {
                 this.error = 'Username atau password salah'
                 console.log(e)
+            }
+        },
+        async changePassword(form) {
+            try {
+                const data = await changePassword(form)
+                this.alert.showAlert('Password berhasil diubah');
+                console.log(data)
+                this.error = ''
+            } catch (e) {
+                // console.log(e.response.data.errors)
+                this.errorIdent = e
+                console.log(this.errorIdent)
+                console.log(e)
+                // throw e()
+                if (typeof e == 'object') {
+                    this.error = e.response.data.errors
+                } else {
+                    this.error = {
+                        error: [
+                            'Password lama salah'
+                        ]
+                    }
+                }
             }
         },
         async handleLogout() {

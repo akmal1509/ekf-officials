@@ -20,9 +20,13 @@
                                 </div>
                                 <div class="pl-2 basis-9/12">
                                     <p class="font-semibold">{{ data.schools.name }}</p>
-                                    <div class="text-sm pt-2">
+                                    <div class="text-sm pt-2" v-if="!authStore.authUser.admin">
                                         <p>Kelapa Sekolah</p>
                                         <p class="">{{ data.headmaster }}</p>
+                                    </div>
+                                    <div class="text-sm pt-2" v-else>
+                                        <p>Korcam</p>
+                                        <p class="">{{ data.users.name }}</p>
                                     </div>
                                 </div>
                             </Card>
@@ -47,10 +51,12 @@
 <script>
 import { CardTotalData, Card, Paginate, ButtonCreate, CardSkeleton } from "@/components";
 import { useStepOnesComposables as stepOne } from "@/composables";
+import { useAuthStore } from '@/store'
 import { ref, onMounted, watchEffect } from "vue";
 export default {
     setup() {
         const { stepOnes, getStepOnes } = stepOne();
+        const authStore = useAuthStore()
         const total = ref(0);
         const currentPage = ref(1);
         const pageSize = ref("5");
@@ -93,6 +99,7 @@ export default {
             searchQuery,
             currentPage,
             pageSize,
+            authStore
         };
     },
     components: {

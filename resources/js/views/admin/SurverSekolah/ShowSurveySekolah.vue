@@ -1,12 +1,16 @@
 <template>
     <div>
         <div class="flex">
-            <router-link :to="`/admin/survey-sekolah/edit/${data.id}`"
-                ><Button width="inline-block">Edit</Button>
+            <router-link :to="`/admin/survey-sekolah/edit/${data.id}`"><Button width="inline-block">Edit</Button>
             </router-link>
             <Modal @update:go-function="deleteStepOne" label="Delete" />
         </div>
         <div class="space-y-4 mt-4">
+            <ShowingData :isLoading="isLoading" v-if="authStore.authUser.admin" :village="data.villages.name">
+                <template v-slot:label>Korcam {{ data.villages.district.name }}</template>
+                <template v-slot:nama>{{ data.users.name }}</template>
+                <template v-slot:tel>{{ data.users.phone ?? '-' }}</template>
+            </ShowingData>
             <ShowingData :isLoading="isLoading">
                 <template v-slot:label>Kepala Sekolah</template>
                 <template v-slot:nama>{{ data.headmaster }}</template>
@@ -33,14 +37,22 @@
 </template>
 <script>
 import { useRouter } from "vue-router";
-import { useStepOneStore } from "@/store";
+import { useStepOneStore, useAuthStore } from "@/store";
 import { onBeforeUnmount, onMounted, computed, ref } from "vue";
 import { onBeforeRouteLeave } from "vue-router";
 import { ShowingData, Button, Modal } from "@/components";
 export default {
     setup() {
         const stepOneStore = useStepOneStore();
-        const data = ref("");
+        const authStore = useAuthStore()
+        const data = ref({
+            villages: {
+                name: '',
+                district: {
+                    name: ''
+                }
+            }
+        });
         const isLoading = ref(true);
         // const isLoading = computed(() => stepOneStore.isLoading);
         const fetchData = async () => {
@@ -64,6 +76,7 @@ export default {
             data,
             deleteStepOne,
             isLoading,
+            authStore
         };
     },
     components: {

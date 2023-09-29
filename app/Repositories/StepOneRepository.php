@@ -26,8 +26,10 @@ class StepOneRepository extends BaseRepository
         $this->model = $model;
         $this->option['with'] = [
             'schools:id,name',
-            'villages:id,district_code',
-            'villages.district:id,code'
+            'villages:id,district_code,name',
+            'villages.district:id,name,code,city_code',
+            'villages.district.city:id,name,code',
+            'users:id,name'
         ];
         $this->table = 'step_ones';
     }

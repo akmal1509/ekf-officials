@@ -69,6 +69,10 @@ class useBaseComposables {
                     'Content-Type': 'application/json'
                 }
             });
+            console.log(response)
+            if (response.data.code === 500) {
+                throw (response.data.message.error_message)
+            }
             return response.data;
         } catch (e) {
             if (e.response && e.response.status === 401) {
@@ -76,7 +80,7 @@ class useBaseComposables {
                 window.location.href = '/mejakami';
             } else {
                 console.log(e)
-                throw new Error('Error fetching data:' + e);
+                throw e;
             }
 
         }

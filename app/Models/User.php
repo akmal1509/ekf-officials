@@ -7,6 +7,7 @@ use Tymon\JWTAuth\Contracts\JWTSubject;
 use Illuminate\Notifications\Notifiable;
 use Illuminate\Database\Eloquent\SoftDeletes;
 use Illuminate\Contracts\Auth\MustVerifyEmail;
+use Illuminate\Contracts\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 
@@ -49,9 +50,27 @@ class User extends Authenticatable implements JWTSubject
         'email_verified_at' => 'datetime',
     ];
 
+    public function scopeFilter(Builder $query, array $filters)
+    {
+        $query->when($filters['sort'] ?? false, function ($query, $sort) {
+            return $query->orderBy($sort['column'], $sort['dir']);
+        });
+        $query->when($filters['guest'] ?? false, function ($query, $filter) {
+            return $query->where('userId', auth()->user()->id);
+        });
+        $query->when($filters['search']['name'] ?? false, function ($query, $filter) {
+            return $query->where('name', 'LIKE', '%' . $filter . '%');
+        });
+    }
+
     public function assignments()
     {
         return $this->hasMany(Assignment::class, 'userId', 'id');
+    }
+
+    public function stepOnes()
+    {
+        return $this->hasMany(StepOne::class, 'userId', 'id');
     }
 
     public function getJWTIdentifier()

@@ -1,6 +1,6 @@
 import { createWebHistory, createRouter } from "vue-router";
 import { useAuthStore, useSidebarStore, useStepOneStore } from "./store";
-import { CreateSurveySekolah, DapilCategory, Dashboard, Login, ShowSurveySekolah, SurveySekolah, Maintenance, Profile } from "./views";
+import { CreateSurveySekolah, DapilCategory, Dashboard, Login, ShowSurveySekolah, SurveySekolah, Maintenance, Profile, User, ChangePassword } from "./views";
 import { AdminLayout, AuthLayout, BaseLayout, FrontLayout } from "./layout";
 import { checkAuth, checkSurveySekolahOwnership, guestOnly, requireAuth } from "./plugins/Middleware/middleware";
 
@@ -40,6 +40,23 @@ const routes = [
                 path: 'profile',
                 name: 'profile',
                 component: Profile
+            },
+            {
+                path: '/profile/changepassword',
+                name: 'ChangePassword',
+                component: ChangePassword
+            },
+            {
+                path: 'pengguna',
+                component: BaseLayout,
+                children: [
+                    {
+                        path: '',
+                        // redirect: '/admin/dashboard',
+                        name: 'Pengguna',
+                        component: User
+                    },
+                ]
             },
             {
                 path: 'survey-sekolah',

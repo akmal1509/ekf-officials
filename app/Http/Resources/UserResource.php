@@ -53,7 +53,8 @@ class UserResource extends JsonResource
                         ]
                     ];
                 });
-            })
+            }),
+            'totalSurvey' => $this->step_ones_count
         ];
     }
 }

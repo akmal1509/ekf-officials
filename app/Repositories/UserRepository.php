@@ -3,6 +3,7 @@
 namespace App\Repositories;
 
 use App\Models\User;
+use Exception;
 
 class UserRepository extends BaseRepository
 {
@@ -23,7 +24,9 @@ class UserRepository extends BaseRepository
             'assignments.dapils.provinces:id,code,name',
             'assignments.dapils.cities:id,code,name',
             'assignments.districts:id,name,code',
-            'assignments.districts.villages:id,name,code,district_code'
+            'assignments.districts.villages:id,name,code,district_code',
+            'stepOnes:id,schoolId,userId',
+            'stepOnes.schools:id,name'
 
             // 'assignments',
             // 'assignments.dapils',
@@ -33,9 +36,37 @@ class UserRepository extends BaseRepository
             // 'assignments.districts.villages'
             // 'assignments'
         ];
+
+        $this->option['withCount'] = [
+            'stepOnes'
+        ];
     }
 
     // Write something awesome :)
+
+    public function changePassword($data)
+    {
+        try {
+            $resource = $this->model->where('id', auth()->user()->id)->first();
+            $oldPassword = $data['oldPassword'];
+            $newPassword = bcrypt($data['newPassword']);
+            if (!password_verify($oldPassword, $resource->password)) {
+
+                throw new \Exception('Terjadi kesalahan dalam permintaan.');
+                // return $this
+                //     ->setCode(500)
+                //     ->setStatus(false)
+                //     ->setMessage('Password tidak sama');
+            }
+            $resource['password'] = $newPassword;
+            $resource->save();
+            return $this
+                ->setCode(200)
+                ->setStatus(true);
+        } catch (\Exception $exception) {
+            return $this->exceptionResponse($exception);
+        }
+    }
 
     public function getMe()
     {

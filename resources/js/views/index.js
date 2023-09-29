@@ -4,6 +4,8 @@ import { SurveySekolah, CreateSurveySekolah, DapilCategory, ShowSurveySekolah, D
 const Maintenance = () => import('./Maintenance.vue')
 const Login = () => import('./Login.vue')
 const Profile = () => import('./admin/Profile/Profile.vue')
+const User = () => import('./admin/User/User.vue')
+const ChangePassword = () => import('./admin/Profile/ChangePassword.vue')
 // const Dashboard = () => import('./admin')
 
-export { Login, Dashboard, DapilCategory, SurveySekolah, CreateSurveySekolah, ShowSurveySekolah, Maintenance, Profile }
+export { Login, Dashboard, DapilCategory, SurveySekolah, CreateSurveySekolah, ShowSurveySekolah, Maintenance, Profile, User, ChangePassword }

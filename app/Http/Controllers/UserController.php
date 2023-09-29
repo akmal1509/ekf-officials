@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
+use App\Http\Requests\ChangePasswordRequest;
 use App\Repositories\UserRepository;
 use App\Http\Resources\UserResource;
 use App\Http\Requests\User\UpdateUserRequest;
@@ -23,6 +24,7 @@ class UserController extends Controller
     public function __construct(UserRepository $userRepository)
     {
         $this->userRepository = $userRepository;
+        $this->middleware('auth:api');
     }
 
     /**
@@ -35,6 +37,12 @@ class UserController extends Controller
         $result = $this->userRepository->filter($request->all())->toJson();
         // return $result;
         return UserResource::paginateCollection($result);
+    }
+
+    public function changePassword(ChangePasswordRequest $request)
+    {
+        $result = $this->userRepository->changePassword($request)->toJson();
+        return $result;
     }
 
     public function show($id)

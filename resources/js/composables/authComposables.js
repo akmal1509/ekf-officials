@@ -6,12 +6,14 @@ import { ref } from "vue";
 
 export default function useAuthComposables() {
     const { errorMessage, handleError } = useErrorHandling();
+
     const authUser = ref('');
     const fullMe = ref('');
     const useBase = new useBaseComposables()
     const newToken = localStorage.getItem('authToken')
     useBase.setToken(newToken);
     const token = ref('')
+    const allUser = ref('')
 
     const getMe = async (token) => {
         try {
@@ -30,6 +32,27 @@ export default function useAuthComposables() {
             throw e
         }
     }
+
+    const getAllUser = async (page, size, params) => {
+        try {
+            const response = await useBase.fetchData2('/api/user?page=' + page + '&limit=' + size + '&' + params, 'get', null, newToken)
+            allUser.value = response
+
+        } catch (e) {
+            throw (e)
+        }
+    }
+
+    const changePassword = async (form) => {
+        try {
+            const response = await useBase.fetchData2('/api/user/changepassword', 'post', form, newToken)
+            return response
+        } catch (e) {
+            console.log(e)
+            throw (e)
+        }
+    }
+
     const updateUser = async (form, token, id) => {
         try {
             const formData = new FormData();
@@ -78,7 +101,10 @@ export default function useAuthComposables() {
         token,
         getFullMe,
         fullMe,
-        updateUser
+        updateUser,
+        allUser,
+        getAllUser,
+        changePassword
 
     }
 }
