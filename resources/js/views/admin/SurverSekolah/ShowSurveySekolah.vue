@@ -61,8 +61,8 @@ export default {
         };
 
         const deleteStepOne = async () => {
-            console.log(data.id);
-            await stepOneStore.deleteStepOneData(data.id);
+            console.log(data.value.id);
+            await stepOneStore.deleteStepOneData(data.value.id);
         };
         onBeforeRouteLeave(async () => {
             await stepOneStore.removeState();
