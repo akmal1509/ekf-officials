@@ -15,25 +15,19 @@
             <template v-if="error">
                 <Alert type="danger" class="mt-5">{{ error }} </Alert>
             </template>
-            <form @submit.prevent="useAuth.handleLogin(form)">
+            <form @submit.prevent="">
                 <div class="mt-5 mb-2">
                     <!-- <input type="text" v-model="form.username" /> -->
-                    <Input
-                        required
-                        v-model="form.username"
-                        placeholder="Username"
-                    />
+                    <Input required v-model="form.username" placeholder="Username" />
                 </div>
                 <div class="">
-                    <Input
-                        required
-                        v-model="form.password"
-                        type="password"
-                        placeholder="Password"
-                    />
+                    <Input required v-model="form.password" type="password" placeholder="Password" />
                 </div>
                 <!-- <a href="javascript:;" type="button">Submit</a> -->
-                <Button typeButton="submit" class="mt-8">Masuk</Button>
+                <Button typeButton="submit" class="mt-8">
+                    <spinner v-if="isLoading" color="white" size="6" />
+                    <p v-else>Masuk</p>
+                </Button>
             </form>
         </div>
     </div>
@@ -52,12 +46,20 @@ import { Input, Button } from "../components";
 import { useAuthStore } from "@/store";
 import { Alert } from "flowbite-vue";
 import { Logo } from "@/assets";
+import { Spinner } from 'flowbite-vue'
+// import { ref } from "vue";
 
 export default {
     setup() {
         const useAuth = useAuthStore();
         const token = computed(() => useAuth.token);
         const error = computed(() => useAuth.error);
+        const isLoading = ref(false)
+        const handleLogin = async () => {
+            isLoading.value = true
+            await useAuth.handleLogin(form)
+            isLoading.value = false
+        }
         const form = ref({
             username: "",
             password: "",
@@ -70,6 +72,7 @@ export default {
             useAuth,
             token,
             error,
+            isLoading
         };
     },
     data() {
@@ -81,6 +84,7 @@ export default {
         Input,
         Button,
         Alert,
+        Spinner
     },
 };
 </script>
