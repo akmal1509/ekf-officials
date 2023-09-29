@@ -8,7 +8,8 @@ import { ImageSkeleton } from './Skeleton'
 
 const Paginate = defineAsyncComponent(() => import('./Paginate.vue'))
 const Modal = defineAsyncComponent(() => import('./Modal.vue'))
+const ModalLoading = defineAsyncComponent(() => import('./ModalLoading.vue'))
 const CardSkeleton = defineAsyncComponent(() => import('./Skeleton/CardSkeleton.vue'))
 
 
-export { Input, Button, Dropdown, Paginate, Sidebar, BottomNav, Navbar, CardMultipleData, CardTotalData, Card, ButtonCreate, ImageSkeleton, Select, ShowingData, Modal, DropdownList, DropdownSidebar, ImageUpload, CardSkeleton }
+export { Input, Button, Dropdown, Paginate, Sidebar, BottomNav, Navbar, CardMultipleData, CardTotalData, Card, ButtonCreate, ImageSkeleton, Select, ShowingData, Modal, DropdownList, DropdownSidebar, ImageUpload, CardSkeleton, ModalLoading }

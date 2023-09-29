@@ -1,93 +1,48 @@
 <template>
     <div>
+        <ModalLoading :isLoading="isLoading"></ModalLoading>
         <form @submit.prevent="handleSubmit()">
-            <div
-                v-if="stepError"
-                class="bg-red-700 p-4 rounded-md text-white space-y-3 mb-4"
-            >
+            <div v-if="stepError" class="bg-red-700 p-4 rounded-md text-white space-y-3 mb-4">
                 <!-- {{ stepError }} -->
-                <p
-                    class="text-xs border-b border-[#ffffff75;] pb-3"
-                    v-for="(error, i) in stepError.errors"
-                >
+                <p class="text-xs border-b border-[#ffffff75;] pb-3" v-for="(error, i) in stepError.errors">
                     {{ error[0] }}
                 </p>
             </div>
             <div class="space-y-4 text-sm">
                 <div class="">
-                    <Select
-                        label="Kelurahan/Desa"
-                        text="Pilih Kelurahan"
-                        :data="villages"
-                        v-model="form.villageId"
-                        :search="village"
-                        @update:search="form.villageId = $event"
-                    ></Select>
+                    <Select label="Kelurahan/Desa" text="Pilih Kelurahan" :data="villages" v-model="form.villageId"
+                        :search="village" @update:search="form.villageId = $event"></Select>
                 </div>
                 <div class="">
-                    <Select
-                        label="Sekolah"
-                        depend="Pilih Desa / Kelurahan dulu"
-                        text="Pilih Sekolah"
-                        :data="schools"
-                        v-model="form.schoolId"
-                        :search="school"
-                        @update:search="form.schoolId = $event"
-                    ></Select>
+                    <Select label="Sekolah" depend="Pilih Desa / Kelurahan dulu" text="Pilih Sekolah" :data="schools"
+                        v-model="form.schoolId" :search="school" @update:search="form.schoolId = $event"></Select>
                 </div>
                 <div class="space-y-4">
                     <div class="border border-gray-200">
                         <p class="mb-2 p-2 bg-white">Kelapa Sekolah</p>
                         <div class="flex space-x-4 p-2">
-                            <Input
-                                class="basis-1/2"
-                                label="Nama Lengkap"
-                                v-model="form.headmaster"
-                            />
-                            <Input
-                                class="basis-1/2"
-                                label="Nomor Telfon "
-                                type="number"
-                                v-model="form.phoneHeadmaster"
-                            />
+                            <Input class="basis-1/2" label="Nama Lengkap" v-model="form.headmaster" />
+                            <Input class="basis-1/2" label="Nomor Telfon " type="number" v-model="form.phoneHeadmaster" />
                         </div>
                     </div>
                     <div class="border border-gray-200">
                         <p class="mb-2 p-2 bg-white">Operator Sekolah</p>
                         <div class="flex space-x-4 p-2">
-                            <Input
-                                label="Nama Lengkap"
-                                v-model="form.schoolOperator"
-                            />
-                            <Input
-                                label="Nomor Telfon"
-                                type="number"
-                                v-model="form.phoneOperator"
-                            />
+                            <Input label="Nama Lengkap" v-model="form.schoolOperator" />
+                            <Input label="Nomor Telfon" type="number" v-model="form.phoneOperator" />
                         </div>
                     </div>
                     <div class="border border-gray-200">
                         <p class="mb-2 p-2 bg-white">Ketua Komite Sekolah</p>
                         <div class="flex space-x-4 p-2">
-                            <Input
-                                label="Nama Lengkap"
-                                v-model="form.chairman"
-                            />
-                            <Input
-                                label="Nomor Telfon"
-                                type="number"
-                                v-model="form.phoneChairman"
-                            />
+                            <Input label="Nama Lengkap" v-model="form.chairman" />
+                            <Input label="Nomor Telfon" type="number" v-model="form.phoneChairman" />
                         </div>
                     </div>
                 </div>
                 <div>
                     <label for="">Foto Bersama Orang tua / Wali murid</label>
-                    <ImageUpload
-                        v-model="form.image"
-                        @update:imageInput="form.image = $event"
-                        :imageData="imageData"
-                    />
+                    <ImageUpload v-model="form.image" @update:imageInput="form.image = $event" :imageData="imageData" />
                 </div>
             </div>
             <Button class="mt-5" type="submit">Submit</Button>
@@ -95,7 +50,7 @@
     </div>
 </template>
 <script>
-import { Select, Input, Button, ImageUpload } from "@/components";
+import { Select, Input, Button, ImageUpload, ModalLoading } from "@/components";
 import {
     ref,
     onMounted,
@@ -126,6 +81,7 @@ export default {
         const id = ref("");
         const stepOneStore = useStepOneStore();
         const stepError = computed(() => stepOneStore.error);
+        const isLoading = ref(false)
         // const errors = computed(() => baseStore.message);
 
         const route = useRouter();
@@ -151,6 +107,7 @@ export default {
         const handleSubmit = async () => {
             // console.log(create.value);
             try {
+                isLoading.value = true
                 if (!create.value) {
                     // console.log("edit");
                     await stepOneStore.storeData(form.value, true, id.value);
@@ -158,6 +115,7 @@ export default {
                     // console.log("tambah");
                     await stepOneStore.storeData(form.value, false);
                 }
+                isLoading.value = false
             } catch (error) {
                 // console.log(errorMessage.value);
                 return;
@@ -215,6 +173,7 @@ export default {
             handleSubmit,
             errorMessage,
             stepError,
+            isLoading,
             imageData,
         };
     },
@@ -223,6 +182,7 @@ export default {
         Input,
         Button,
         ImageUpload,
+        ModalLoading
     },
 };
 </script>
