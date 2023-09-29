@@ -15,7 +15,7 @@
             <template v-if="error">
                 <Alert type="danger" class="mt-5">{{ error }} </Alert>
             </template>
-            <form @submit.prevent="">
+            <form @submit.prevent="handleLogin">
                 <div class="mt-5 mb-2">
                     <!-- <input type="text" v-model="form.username" /> -->
                     <Input required v-model="form.username" placeholder="Username" />
@@ -57,7 +57,7 @@ export default {
         const isLoading = ref(false)
         const handleLogin = async () => {
             isLoading.value = true
-            await useAuth.handleLogin(form)
+            await useAuth.handleLogin(form.value)
             isLoading.value = false
         }
         const form = ref({
@@ -72,7 +72,8 @@ export default {
             useAuth,
             token,
             error,
-            isLoading
+            isLoading,
+            handleLogin
         };
     },
     data() {

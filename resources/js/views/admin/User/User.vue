@@ -1,8 +1,8 @@
 <template>
     <div>
-        <p class="text-lg font-semibold">Data Survey Sekolah</p>
+        <p class="text-lg font-semibold">Data User</p>
         <div>
-            <CardTotalData :data="total" :isLoading="isLoading" label="Survey Sekolah" icon="school" />
+            <CardTotalData :data="total" :isLoading="isLoading" label="User" icon="user" />
         </div>
         <div>
             <input type="text" v-model="searchQuery.name" @input="$event.target.composing = false"
