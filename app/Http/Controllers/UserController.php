@@ -61,6 +61,7 @@ class UserController extends Controller
     public function update(UpdateUserRequest $request, $id)
     {
         $result = $this->userRepository->update($id, $request)->toJson();
+        return $result;
         return UserResource::otherCollection($result);
     }
 

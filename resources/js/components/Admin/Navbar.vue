@@ -36,10 +36,10 @@
                             width="w-11"
                             height="h-full"
                         />
-                        <div v-else>
+                        <div v-else class="w-11 h-11">
                             <img
-                                :src="Avatar"
-                                class="w-11 h-full bg-rkRed rounded-lg"
+                                :src="imageAvatar ?? Avatar"
+                                class="w-11 h-full bg-rkRed rounded-lg object-cover"
                                 alt=""
                             />
                         </div>
@@ -66,10 +66,15 @@ import { Logo, Avatar } from "@/assets/index.js";
 import { Dropdown, DropdownList } from "./Dropdown";
 import { useAuthStore } from "@/store";
 import ImageSkeleton from "../Skeleton/ImageSkeleton.vue";
-import { ref } from "vue";
+import { ref, computed, onMounted } from "vue";
 export default {
     setup() {
         const authStore = useAuthStore();
+        const imageAvatar = computed(()=>authStore.authUser.avatar)
+        // const imageAvatar = ref('');
+        // const fetchData = async()=>{
+        //     await authStore.authUser
+        // }
         const isAvatarLoaded = ref(false);
         const isLogoLoaded = ref(false);
         const LogoImage = new Image();
@@ -82,10 +87,14 @@ export default {
         AvatarImage.onload = () => {
             isAvatarLoaded.value = true;
         };
+        onMounted(()=>{
+            console.log(imageAvatar)
+        })
         return {
             authStore,
             isAvatarLoaded,
             isLogoLoaded,
+            imageAvatar
         };
     },
     components: {

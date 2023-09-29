@@ -29,6 +29,14 @@ trait HasImage
             $destination = public_path('upload'); // Ubah direktori tujuan ke "public"
             $img = $image->move($destination, $input);
         }
+        if ($request->file('avatar')) {
+            $image = $request->file('avatar');
+            $filenamewithextension = $request->file('avatar')->getClientOriginalName();
+            $filename = pathinfo($filenamewithextension, PATHINFO_FILENAME);
+            $input = Str::slug($filename, '-') . '-' . time() . '.' . $image->getClientOriginalExtension();
+            $destination = public_path('upload'); // Ubah direktori tujuan ke "public"
+            $img = $image->move($destination, $input);
+        }
 
 
         return $input;

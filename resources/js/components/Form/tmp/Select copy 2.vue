@@ -35,7 +35,7 @@
                     ref="inputSelected"
                     type="text"
                     v-model="searchQuery"
-                    @input="$event.target.composing = false"
+                    @input="filterOptions"
                     class="w-full p-2 border-b form-control focus-visible:border-rkYellow focus-visible:ring-rkYellow focus-visible:outline-rkYellow"
                     placeholder="Cari opsi..."
                     autocomplete="off"
@@ -99,8 +99,8 @@ export default {
         };
     },
     watch: {
-        searchQuery(newSearch, oldSearch) {
-            console.log(newSearch)
+        data(newSearch, oldSearch) {
+            this.selectedItem = "";
         },
     },
     computed: {

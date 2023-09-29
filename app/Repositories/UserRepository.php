@@ -49,4 +49,48 @@ class UserRepository extends BaseRepository
             return $this->exceptionResponse($exception);
         }
     }
+    public function create($data)
+    {
+        try {
+            $result = $data->all();
+            $result['userId'] = auth()->user()->id;
+            if ($data->avatar) {
+                $result['avatar'] = $this->uploadImage($data);
+            }
+            if ($data->slug) {
+                $result['slug'] = SlugService::createSlug($this->model, 'slug',  $data['slug']);
+            }
+            $this->model->create($result);
+            return $this
+                ->setCode(200)
+                ->setStatus(true)
+                ->setResult($data);
+        } catch (\Exception $exception) {
+            return $this->exceptionResponse($exception);
+        }
+    }
+    public function update($id, $data)
+    {
+        try {
+            $source = $this->model->where('id', auth()->user()->id)->first();
+            $result = $data->all();
+            if ($data->avatar) {
+                $this->deleteImage($source->avatar);
+                $image = $this->uploadImage($data);
+                $result['avatar'] = $image;
+            }
+            if ($data->slug) {
+                $result['slug'] = SlugService::createSlug($this->model, 'slug',  $data['slug']);
+            }
+
+            $source->update($result);
+            return $this
+                ->setCode(200)
+                ->setStatus(true)
+                ->setMessage($image)
+                ->setResult($source);
+        } catch (\Exception $exception) {
+            return $this->exceptionResponse($exception);
+        }
+    }
 }

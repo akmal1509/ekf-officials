@@ -38,7 +38,7 @@ export default function useAuthComposables() {
             formData.append("phone", form.phone);
             formData.append("address", form.address);
             if (form.avatar) {
-                formData.append("avatar", form.image);
+                formData.append("avatar", form.avatar);
             }
             console.log([...formData.entries()]);
             const response = await useBase.postMultiData2('/api/user/update/' + id, 'post', formData, token);

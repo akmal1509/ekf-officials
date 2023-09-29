@@ -136,7 +136,8 @@ export default {
             // if(fullMeData.)
             console.log(fullMeData.value);
             // form.value = data2;
-            const imageData = form.value.image;
+            imageData.value = data2.avatar;
+            console.log(imageData.value)
             Object.assign(originalForm, data2);
             Object.assign(form.value, data2);
             form.value.avatar = "";

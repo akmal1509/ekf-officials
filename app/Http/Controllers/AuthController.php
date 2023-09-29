@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Support\Facades\Auth;
 use App\Http\Controllers\Controller;
+use App\Http\Resources\AuthUserResource;
 use App\Models\User;
 use Illuminate\Support\Facades\Validator;
 
@@ -67,7 +68,7 @@ class AuthController extends Controller
     public function me()
     {
         // $user = User::with(['assignments:id,districtId'])->where('id', auth()->user()->id)->first();
-        return response()->json(auth()->user());
+        return response()->json(AuthUserResource::make(auth()->user()));
     }
 
     /**
