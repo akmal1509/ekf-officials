@@ -13,33 +13,25 @@ return new class extends Migration
     {
         Schema::create('canvases', function (Blueprint $table) {
             $table->id();
+            $table->bigInteger('parentId')->default(0);
             $table->unsignedBigInteger('createdBy');
-            $table->unsignedBigInteger('updatedBy');
             $table->unsignedBigInteger('villageId');
             $table->string('name');
-            $table->bigInteger('nik');
-            $table->string('phone');
-            $table->integer('rt');
-            $table->integer('rw');
-            $table->text('address');
-            $table->integer('tps');
+            $table->bigInteger('nik')->unique();
+            $table->bigInteger('nkk')->unique();
+            $table->string('phone')->nullable();
+            $table->integer('rt')->nullable();
+            $table->integer('rw')->nullable();
+            $table->text('address')->nullable();
+            $table->integer('tps')->nullable();
             $table->string('ktpImage')->nullable();
-            $table->string('ktpImageR1')->nullable();
-            $table->string('ktpImageR2')->nullable();
             $table->string('rumahImage')->nullable();
             $table->string('withImage')->nullable();
-            $table->string('withImageR1')->nullable();
-            $table->string('withImageR2')->nullable();
             $table->string('kkImage')->nullable();
-            $table->string('kkImage2')->nullable();
-            $table->string('kkImage3')->nullable();
             $table->softDeletes();
             $table->timestamps();
 
             $table->foreign('createdBy')
-                ->references('id')
-                ->on('users');
-            $table->foreign('updatedBy')
                 ->references('id')
                 ->on('users');
             $table->foreign('villageId')

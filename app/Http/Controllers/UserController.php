@@ -62,8 +62,8 @@ class UserController extends Controller
     public function store(StoreUserRequest $request)
     {
         $result = $this->userRepository->create($request)->toJson();
-        // return $result;
-        return UserResource::otherCollection($result);
+        return $result;
+        // return UserResource::otherCollection($result);
     }
 
     public function update(UpdateUserRequest $request, $id)

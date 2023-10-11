@@ -23,6 +23,7 @@ class CanvasController extends Controller
     public function __construct(CanvasRepository $canvasRepository)
     {
         $this->canvasRepository = $canvasRepository;
+        $this->middleware('auth:api', ['except' => ['login']]);
     }
 
     /**
@@ -44,14 +45,19 @@ class CanvasController extends Controller
         return CanvasResource::otherCollection($result);
     }
 
+    public function real()
+    {
+        return $this->canvasRepository->real()->toJson();
+    }
+
     public function store(StoreCanvasRequest $request)
     {
         $result = $this->canvasRepository->create($request)->toJson();
-         // return $result;
+        // return $result;
         return CanvasResource::otherCollection($result);
     }
 
-      public function update(UpdateCanvasRequest $request, $id)
+    public function update(UpdateCanvasRequest $request, $id)
     {
         $result = $this->canvasRepository->update($id, $request)->toJson();
         return CanvasResource::otherCollection($result);

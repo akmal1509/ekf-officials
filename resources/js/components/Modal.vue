@@ -1,17 +1,12 @@
 <template>
-    <Button @click="toggleModal" width="inline-block ml-3" Class="bg-b-g">{{
+    <Button @click="toggleModal" width="inline-block" Class="bg-b-g">{{
         label
     }}</Button>
 
-    <div
-        class="fixed inset-0 flex items-center justify-center z-50"
-        v-if="isOpen"
-    >
+    <div class="fixed inset-0 flex items-center justify-center z-50" v-if="isOpen">
         <div class="modal-overlay fixed inset-0 bg-black opacity-50"></div>
 
-        <div
-            class="modal-container bg-white w-11/12 md:max-w-md mx-auto rounded shadow-lg z-50 overflow-y-auto"
-        >
+        <div class="modal-container bg-white w-11/12 md:max-w-md mx-auto rounded shadow-lg z-50 overflow-y-auto">
             <!-- Modal content -->
             <div class="modal-content py-4 text-left px-6">
                 <!-- Modal header -->
@@ -33,18 +28,8 @@
 
                 <!-- Modal footer -->
                 <div class="modal-footer mt-4 flex justify-end">
-                    <Button
-                        width="inline-block"
-                        Class="bg-red-600"
-                        @click="toggleModal"
-                        >Tutup</Button
-                    >
-                    <Button
-                        @click="customFunction"
-                        width="inline-block"
-                        class="ml-3"
-                        >Iya</Button
-                    >
+                    <Button width="inline-block" Class="bg-red-600" @click="toggleModal">Tutup</Button>
+                    <Button @click="customFunction" width="inline-block" class="ml-3">Iya</Button>
                 </div>
             </div>
         </div>

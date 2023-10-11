@@ -2,11 +2,13 @@
 
 namespace App\Http\Resources;
 
+use App\Traits\ApiCollectionResource;
 use Illuminate\Http\Request;
 use Illuminate\Http\Resources\Json\JsonResource;
 
 class CanvasResource extends JsonResource
 {
+    use ApiCollectionResource;
     /**
      * Transform the resource into an array.
      *

@@ -118,6 +118,12 @@ class BaseRepository
         try {
             $result = $data->all();
             $result['userId'] = auth()->user()->id;
+            if ($data->userId) {
+                $result['userId'] = $data->userId;
+            }
+            if ($data->password) {
+                $result['password'] = bcrypt($data->password);
+            }
             if ($data->image) {
                 $result['image'] = $this->uploadImage($data);
             }

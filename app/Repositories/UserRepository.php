@@ -51,18 +51,34 @@ class UserRepository extends BaseRepository
             $oldPassword = $data['oldPassword'];
             $newPassword = bcrypt($data['newPassword']);
             if (!password_verify($oldPassword, $resource->password)) {
-
                 throw new \Exception('Terjadi kesalahan dalam permintaan.');
-                // return $this
-                //     ->setCode(500)
-                //     ->setStatus(false)
-                //     ->setMessage('Password tidak sama');
             }
             $resource['password'] = $newPassword;
             $resource->save();
             return $this
                 ->setCode(200)
                 ->setStatus(true);
+        } catch (\Exception $exception) {
+            return $this->exceptionResponse($exception);
+        }
+    }
+
+    public function create($data)
+    {
+        try {
+            $result = $data->all();
+
+            if ($data->password) {
+                $result['password'] = bcrypt($data->password);
+            }
+            if ($data->avatar) {
+                $result['avatar'] = $this->uploadImage($data);
+            }
+            $this->model->create($result);
+            return $this
+                ->setCode(200)
+                ->setStatus(true)
+                ->setResult($data);
         } catch (\Exception $exception) {
             return $this->exceptionResponse($exception);
         }
@@ -80,45 +96,23 @@ class UserRepository extends BaseRepository
             return $this->exceptionResponse($exception);
         }
     }
-    public function create($data)
-    {
-        try {
-            $result = $data->all();
-            $result['userId'] = auth()->user()->id;
-            if ($data->avatar) {
-                $result['avatar'] = $this->uploadImage($data);
-            }
-            if ($data->slug) {
-                $result['slug'] = SlugService::createSlug($this->model, 'slug',  $data['slug']);
-            }
-            $this->model->create($result);
-            return $this
-                ->setCode(200)
-                ->setStatus(true)
-                ->setResult($data);
-        } catch (\Exception $exception) {
-            return $this->exceptionResponse($exception);
-        }
-    }
+
     public function update($id, $data)
     {
         try {
-            $source = $this->model->where('id', auth()->user()->id)->first();
+            $source = $this->model->where('id', $id)->first();
             $result = $data->all();
             if ($data->avatar) {
                 $this->deleteImage($source->avatar);
                 $image = $this->uploadImage($data);
                 $result['avatar'] = $image;
             }
-            if ($data->slug) {
-                $result['slug'] = SlugService::createSlug($this->model, 'slug',  $data['slug']);
-            }
+
 
             $source->update($result);
             return $this
                 ->setCode(200)
                 ->setStatus(true)
-                ->setMessage($image)
                 ->setResult($source);
         } catch (\Exception $exception) {
             return $this->exceptionResponse($exception);

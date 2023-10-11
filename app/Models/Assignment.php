@@ -2,25 +2,41 @@
 
 namespace App\Models;
 
-use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
-use Illuminate\Database\Eloquent\SoftDeletes;
 use Laravolt\Indonesia\Models\District;
+use Illuminate\Database\Eloquent\SoftDeletes;
+use Illuminate\Contracts\Database\Eloquent\Builder;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
 
 class Assignment extends Model
 {
     use HasFactory, SoftDeletes;
     protected $guarded = ['id'];
 
+    public function scopeFilter(Builder $query, array $filters)
+    {
+        $query->when($filters['sort'] ?? false, function ($query, $sort) {
+            return $query->orderBy($sort['column'], $sort['dir']);
+        });
+        $query->when($filters['search']['name'] ?? false, function ($query, $sort) {
+            return $query->where(function ($query) use ($sort) {
+                $query->whereHas('users', function ($query) use ($sort) {
+                    $query->where('name', 'LIKE', '%' . $sort . '%');
+                });
+            })->orWhere(function ($query) use ($sort) {
+                return $query->where(function ($query) use ($sort) {
+                    $query->whereHas('districts', function ($query) use ($sort) {
+                        $query->where('name', 'LIKE', '%' . $sort . '%');
+                    });
+                });
+            });
+        });
+    }
+
     public function dapils()
     {
         return $this->belongsTo(DapilDistrict::class, 'dapilDistrictId', 'id');
     }
-
-    // public function dapilCategories()
-    // {
-    //     return $this->
-    // }
 
     public function users()
     {
@@ -30,7 +46,10 @@ class Assignment extends Model
     {
         return $this->belongsTo(District::class, 'districtId', 'id');
     }
-    // publ
+    public function goWil()
+    {
+        return $this->hasMany(DapilDistrictGo::class, 'dapilDistrictId', 'dapilDistrictId');
+    }
 
     public function getDapilNameAttribute()
     {

@@ -5,11 +5,7 @@
                 <div class="flex flex-col items-center ml-7">
                     <Suspense>
                         <template #default>
-                            <ImageSkeleton
-                                v-if="!isLogoLoaded"
-                                width="w-16"
-                                height="h-full"
-                            />
+                            <ImageSkeleton v-if="!isLogoLoaded" width="w-16" height="h-full" />
                             <div v-else>
                                 <img :src="Logo" class="w-16" alt="" />
                             </div>
@@ -31,17 +27,9 @@
                 /> -->
                 <Suspense>
                     <template #default>
-                        <ImageSkeleton
-                            v-if="!isAvatarLoaded"
-                            width="w-11"
-                            height="h-full"
-                        />
+                        <ImageSkeleton v-if="!isAvatarLoaded" width="w-11" height="h-full" />
                         <div v-else class="w-11 h-11">
-                            <img
-                                :src="imageAvatar ?? Avatar"
-                                class="w-11 h-full bg-rkRed rounded-lg object-cover"
-                                alt=""
-                            />
+                            <img :src="imageAvatar ?? Avatar" class="w-11 h-full bg-rkRed rounded-lg object-cover" alt="" />
                         </div>
                     </template>
                 </Suspense>
@@ -50,10 +38,7 @@
                 <router-link to="/admin/profile">
                     <DropdownList label="Profile" />
                 </router-link>
-                <DropdownList
-                    label="Logout"
-                    @click="authStore.handleLogout()"
-                />
+                <DropdownList label="Logout" @click="authStore.handleLogout()" />
             </template>
         </Dropdown>
     </nav>
@@ -70,7 +55,7 @@ import { ref, computed, onMounted } from "vue";
 export default {
     setup() {
         const authStore = useAuthStore();
-        const imageAvatar = computed(()=>authStore.authUser.avatar)
+        const imageAvatar = computed(() => authStore.authUser.avatar)
         // const imageAvatar = ref('');
         // const fetchData = async()=>{
         //     await authStore.authUser
@@ -87,8 +72,8 @@ export default {
         AvatarImage.onload = () => {
             isAvatarLoaded.value = true;
         };
-        onMounted(()=>{
-            console.log(imageAvatar)
+        onMounted(() => {
+            // console.log(imageAvatar)
         })
         return {
             authStore,

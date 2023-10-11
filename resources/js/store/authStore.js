@@ -1,7 +1,7 @@
 import { defineStore } from "pinia";
 import { useAlertStore } from ".";
 import { useAuthComposables } from "../composables";
-const { getMe, loginUser, logoutUser, token, authUser, getFullMe, fullMe, updateUser, changePassword } = useAuthComposables()
+const { getMe, loginUser, logoutUser, token, authUser, getFullMe, fullMe, updateUser, changePassword, storeData } = useAuthComposables()
 // const authComposables = new useAuthComposables();
 export const useAuthStore = defineStore('auth', {
     state: () => ({
@@ -42,11 +42,26 @@ export const useAuthStore = defineStore('auth', {
                 console.log(e)
             }
         },
+        async storeData(form, edit, id) {
+            try {
+
+                await storeData(form, edit, id)
+                // this.dapilCategory = data
+                await this.router.push('/admin/pengguna')
+                if (edit) {
+                    this.alert.showAlert('Pengguna berhasil diUpdate');
+                } else {
+                    this.alert.showAlert('Pengguna berhasil di buat');
+                }
+            } catch (e) {
+                throw e
+            }
+        },
         async updateUser(form) {
             try {
                 await updateUser(form, this.getToken, this.authUser.id)
                 this.alert.showAlert('Profile berhasil diUpdate');
-                console.log('aman')
+                // console.log('aman')
                 // this.route.push('admin')
             } catch (e) {
                 console.log(e)
@@ -74,11 +89,9 @@ export const useAuthStore = defineStore('auth', {
                 console.log(data)
                 this.error = ''
             } catch (e) {
-                // console.log(e.response.data.errors)
                 this.errorIdent = e
                 console.log(this.errorIdent)
                 console.log(e)
-                // throw e()
                 if (typeof e == 'object') {
                     this.error = e.response.data.errors
                 } else {

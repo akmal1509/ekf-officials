@@ -1,8 +1,10 @@
 import { createWebHistory, createRouter } from "vue-router";
 import { useAuthStore, useSidebarStore, useStepOneStore } from "./store";
-import { CreateSurveySekolah, DapilCategory, Dashboard, Login, ShowSurveySekolah, SurveySekolah, Maintenance, Profile, User, ChangePassword } from "./views";
+import { CreateSurveySekolah, DapilCategory, Dashboard, Login, ShowSurveySekolah, SurveySekolah, Maintenance, Profile, User, ChangePassword, Korcam, FormKorcam, FormUser, Canvas, FormCanvas } from "./views";
 import { AdminLayout, AuthLayout, BaseLayout, FrontLayout } from "./layout";
 import { checkAuth, checkSurveySekolahOwnership, guestOnly, requireAuth } from "./plugins/Middleware/middleware";
+import { DapilWilayah, FormDapilCategory, FormDapilWilayah } from "./views/admin";
+// import { component } from "vue/types/umd";
 
 
 const routes = [
@@ -47,15 +49,71 @@ const routes = [
                 component: ChangePassword
             },
             {
+                path: 'canvas',
+                component: BaseLayout,
+                children: [
+                    {
+                        path: '',
+                        name: 'Canvas',
+                        component: Canvas
+                    },
+                    {
+                        path: ':id',
+                        name: 'ShowCanvas',
+                        component: Canvas
+                    },
+                    {
+                        path: 'edit/:id',
+                        name: 'EditShow',
+                        component: FormCanvas
+                    },
+                    {
+                        path: 'create',
+                        name: 'CreateShow',
+                        component: FormCanvas
+                    }
+                ]
+            },
+            {
                 path: 'pengguna',
                 component: BaseLayout,
                 children: [
                     {
                         path: '',
-                        // redirect: '/admin/dashboard',
                         name: 'Pengguna',
                         component: User
                     },
+                    {
+                        path: 'edit/:id',
+                        name: 'EditPengguna',
+                        component: FormUser
+                    },
+                    {
+                        path: 'create',
+                        name: 'CreatePengguna',
+                        component: FormUser
+                    }
+                ]
+            },
+            {
+                path: 'penugasan-korcam',
+                component: BaseLayout,
+                children: [
+                    {
+                        path: '',
+                        name: 'PenugasanKorcam',
+                        component: Korcam
+                    },
+                    {
+                        path: 'edit/:id',
+                        name: 'EditPenugasanKorcam',
+                        component: FormKorcam
+                    },
+                    {
+                        path: 'create',
+                        name: 'CreatePenugasanKorcam',
+                        component: FormKorcam
+                    }
                 ]
             },
             {
@@ -72,12 +130,6 @@ const routes = [
                         name: 'EditSurveySekolah',
                         component: CreateSurveySekolah,
                         props: { key: 'create' },
-                        // beforeRouteLeave(to, from, next) {
-                        //     const stepOneStore = useStepOneStore()
-                        //     stepOneStore.removeState()
-                        //     console.log('halo')
-                        //     next();
-                        // },
                         meta: {
                             middleware: [checkSurveySekolahOwnership]
                         },
@@ -114,19 +166,44 @@ const routes = [
                         redirect: 'dapil-category'
                     },
                     {
+                        path: 'dapil-category/create',
+                        name: 'DapilCategoryCreate',
+                        component: FormDapilCategory
+                    },
+                    {
+                        path: 'dapil-category/edit/:id',
+                        name: 'DapilCategoryEdit',
+                        component: FormDapilCategory
+                    },
+                    {
+                        path: 'dapil-wilayah',
+                        name: 'DapilWilayah',
+                        component: DapilWilayah
+                    },
+                    {
+                        path: 'dapil-wilayah/create',
+                        name: 'DapilWilayahCreate',
+                        component: FormDapilWilayah
+                    },
+                    {
+                        path: 'dapil-wilayah/edit/:id',
+                        name: 'DapilWilayahEdit',
+                        component: FormDapilWilayah
+                    },
+                    {
 
                         path: 'dapil-category',
                         name: 'DapilCategory',
                         component: DapilCategory
 
                     },
-                    {
+                    // {
 
-                        path: 'wilayah',
-                        name: 'Wilayah',
-                        component: DapilCategory
+                    //     path: 'wilayah',
+                    //     name: 'Wilayah',
+                    //     component: DapilCategory
 
-                    }
+                    // }
                 ]
             }
         ]

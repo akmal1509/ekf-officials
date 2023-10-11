@@ -13,7 +13,7 @@
             <template #default>
                 <div v-if="!isLoading">
                     <div class="flex flex-col space-y-5">
-                        <div v-for="data in allUser.data">
+                        <router-link :to="`/admin/pengguna/edit/${data.id}`" v-for="data in allUser.data">
                             <Card class="flex flex-row">
                                 <div class="basis-3/12">
                                     <img :src="data.avatar || Avatar" class="object-cover w-full aspect-square rounded-md"
@@ -21,7 +21,7 @@
                                 </div>
                                 <div class="pl-2 basis-9/12">
                                     <p class="font-semibold">{{ data.name }}</p>
-                                    <div v-if="data.assignment.length = 1">
+                                    <div v-if="data.assignment.length > 0">
                                         <div class="text-sm pt-2">
                                             <p>Kecamatan</p>
                                             <p class="">{{ data.assignment[0].district.name }}</p>
@@ -30,7 +30,7 @@
                                     </div>
                                 </div>
                             </Card>
-                        </div>
+                        </router-link>
                     </div>
                 </div>
                 <div v-else>
@@ -44,7 +44,7 @@
                 @update:current-page="currentPage = $event" />
         </div>
         <div>
-            <ButtonCreate link="/admin/survey-sekolah/create" />
+            <ButtonCreate link="/admin/pengguna/create" />
         </div>
     </div>
 </template>

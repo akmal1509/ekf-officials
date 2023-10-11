@@ -37,8 +37,6 @@ class useBaseComposables {
     }
     async fetchData(endpoint, method, params = {}) {
         try {
-            // console.log(tokenStorage)
-            // console.log(this.token)
             const response = await this.api.request({
                 url: endpoint,
                 method: method,
@@ -58,8 +56,6 @@ class useBaseComposables {
     }
     async fetchData2(endpoint, method, params = {}, token) {
         try {
-            // console.log(tokenStorage)
-            // console.log(this.token)
             const response = await this.api.request({
                 url: endpoint,
                 method: method,
@@ -69,7 +65,7 @@ class useBaseComposables {
                     'Content-Type': 'application/json'
                 }
             });
-            console.log(response)
+            // console.log(response)
             if (response.data.code === 500) {
                 throw (response.data.message.error_message)
             }
@@ -96,7 +92,7 @@ class useBaseComposables {
                     'Content-Type': 'multipart/form-data'
                 }
             });
-            console.log('aman')
+            // console.log('aman')
             return response;
         } catch (error) {
             if (error.response.status === 401) {
@@ -118,7 +114,27 @@ class useBaseComposables {
                     'Content-Type': 'multipart/form-data'
                 }
             });
-            // console.log('aman')
+            return response;
+        } catch (error) {
+            if (error.response.status === 401) {
+                // Redirect ke halaman login atau halaman lain sesuai kebijakan Anda
+                this.$router.push('/login'); // Gantilah '/login' dengan rute yang sesuai
+            }
+            console.log(error)
+            throw error
+        }
+    }
+    async postData2(endpoint, method, data, token) {
+        try {
+            const response = await this.api.request({
+                url: endpoint,
+                method: method,
+                data: data,
+                headers: {
+                    Authorization: 'Bearer ' + token,
+                    'Content-Type': 'multipart/form-data'
+                }
+            });
             return response;
         } catch (error) {
             if (error.response.status === 401) {

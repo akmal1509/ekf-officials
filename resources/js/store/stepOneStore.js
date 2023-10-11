@@ -31,7 +31,6 @@ export const useStepOneStore = defineStore('steoOne', {
             const { deleteStepOneData } = stepCompose()
             try {
                 await deleteStepOneData(id)
-                // this.alert.handleMessage('Delete data berhasil');
                 await this.router.push('/admin/survey-sekolah')
                 this.alert.showAlert('Delete data berhasil');
             } catch (e) {

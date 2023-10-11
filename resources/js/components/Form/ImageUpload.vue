@@ -1,30 +1,13 @@
 <template>
     <div>
-        <div
-            @click="openFileInput"
-            class="border border-dashed border-gray-300 p-4 mt-3 cursor-pointer"
-        >
-            <div
-                v-if="!imagePreview && !defaultImage"
-                class="flex justify-center"
-            >
-                <p class="text-gray-500">Klik di sini untuk memilih gambar</p>
+        <div @click="openFileInput" class="border border-dashed border-gray-300 p-4 mt-3 cursor-pointer">
+            <div v-if="!imagePreview && !defaultImage" class="flex justify-center">
+                <p class="text-gray-500">Pilih Gambar</p>
             </div>
-            <img
-                v-else
-                :src="imagePreview ?? defaultImage"
-                alt="Pratinjau Gambar"
-                class="w-full"
-            />
+            <img v-else :src="imagePreview ?? defaultImage" alt="Pratinjau Gambar" class="w-full" />
             <!-- <p>{{ defaultImage }}</p> -->
         </div>
-        <input
-            ref="imageInput"
-            type="file"
-            accept="image/*"
-            @change="handleFileChange"
-            style="display: none"
-        />
+        <input ref="imageInput" type="file" accept="image/*" @change="handleFileChange" style="display: none" />
     </div>
 </template>
 <script>
