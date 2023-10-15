@@ -12,6 +12,7 @@ const ModalLoading = defineAsyncComponent(() => import('./ModalLoading.vue'))
 const CardSkeleton = defineAsyncComponent(() => import('./Skeleton/CardSkeleton.vue'))
 const SelectMultiple = defineAsyncComponent(() => import('./Form/SelectMultiple.vue'))
 const Select2 = defineAsyncComponent(() => import('./Form/Select2.vue'))
+const ShowData = defineAsyncComponent(() => import('./ShowData.vue'))
 
 
-export { Input, Button, Dropdown, Paginate, Sidebar, BottomNav, Navbar, CardMultipleData, CardTotalData, Card, ButtonCreate, ImageSkeleton, Select, ShowingData, Modal, DropdownList, DropdownSidebar, ImageUpload, CardSkeleton, ModalLoading, SelectMultiple, Select2 }
+export { Input, Button, Dropdown, Paginate, Sidebar, BottomNav, Navbar, CardMultipleData, CardTotalData, Card, ButtonCreate, ImageSkeleton, Select, ShowingData, Modal, DropdownList, DropdownSidebar, ImageUpload, CardSkeleton, ModalLoading, SelectMultiple, Select2, ShowData }

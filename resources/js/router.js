@@ -1,6 +1,6 @@
 import { createWebHistory, createRouter } from "vue-router";
 import { useAuthStore, useSidebarStore, useStepOneStore } from "./store";
-import { CreateSurveySekolah, DapilCategory, Dashboard, Login, ShowSurveySekolah, SurveySekolah, Maintenance, Profile, User, ChangePassword, Korcam, FormKorcam, FormUser, Canvas, FormCanvas } from "./views";
+import { CreateSurveySekolah, DapilCategory, Dashboard, Login, ShowSurveySekolah, SurveySekolah, Maintenance, Profile, User, ChangePassword, Korcam, FormKorcam, FormUser, Canvas, FormCanvas, ShowCanvas } from "./views";
 import { AdminLayout, AuthLayout, BaseLayout, FrontLayout } from "./layout";
 import { checkAuth, checkSurveySekolahOwnership, guestOnly, requireAuth } from "./plugins/Middleware/middleware";
 import { DapilWilayah, FormDapilCategory, FormDapilWilayah } from "./views/admin";
@@ -60,7 +60,7 @@ const routes = [
                     {
                         path: ':id',
                         name: 'ShowCanvas',
-                        component: Canvas
+                        component: ShowCanvas
                     },
                     {
                         path: 'edit/:id',

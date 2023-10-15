@@ -17,4 +17,14 @@ class Canvas extends Model
             return $query->orderBy($sort['column'], $sort['dir']);
         });
     }
+
+    public function childs()
+    {
+        return $this->hasMany(Canvas::class, 'parentId', 'id');
+    }
+
+    public function parents()
+    {
+        return $this->belongsTo(Canvas::class, 'parentId', 'id');
+    }
 }

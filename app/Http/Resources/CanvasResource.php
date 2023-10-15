@@ -16,6 +16,19 @@ class CanvasResource extends JsonResource
      */
     public function toArray(Request $request): array
     {
-        return parent::toArray($request);
+        $data =  parent::toArray($request);
+        if ($data['ktpImage'] != null) {
+            $data['ktpImage'] = asset('upload') . '/' . $data['ktpImage'];
+        }
+        if ($data['rumahImage'] != null) {
+            $data['rumahImage'] = asset('upload') . '/' . $data['rumahImage'];
+        }
+        if ($data['withImage'] != null) {
+            $data['withImage'] = asset('upload') . '/' . $data['withImage'];
+        }
+        if ($data['kkImage'] != null) {
+            $data['kkImage'] = asset('upload') . '/' . $data['kkImage'];
+        }
+        return $data;
     }
 }

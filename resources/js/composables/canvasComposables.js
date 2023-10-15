@@ -25,12 +25,11 @@ export default function canvasComposables() {
         }
     }
 
-
-
     const getReal = async () => {
         try {
             let response = await useBase.fetchData('/api/canvas/real', 'get')
             real.value = response.data;
+            console.log(real.value)
         } catch (e) {
             console.log(e)
         }
@@ -45,14 +44,30 @@ export default function canvasComposables() {
             console.log(e)
         }
     }
-    const storecanvas = async (form, edit = false, id = null) => {
+    const storeCanvas = async (form, edit = false, id = null) => {
         try {
             const formData = new FormData();
+            const real = form.real;
             for (const key in form) {
                 if (form[key] !== null && form[key] !== undefined && form[key] !== "") {
-                    formData.append(key, form[key]);
+                    if (key !== 'real') {
+                        formData.append(key, form[key]);
+                    } else {
+                        let y = 0
+                        for (let i = 0; i < real.length; i++) {
+                            const item = real[i];
+
+                            for (const key in item) {
+                                if (item[key] !== null && item[key] !== undefined && item[key] !== "") {
+                                    formData.append(`real[${y}][${key}]`, item[key]);
+                                }
+                            }
+                            y++;
+                        }
+                    }
                 }
             }
+            console.log(formData)
             let url = '/api/canvas/'
             if (edit) {
                 url = '/api/canvas/update/' + id
@@ -66,16 +81,16 @@ export default function canvasComposables() {
         }
     }
 
-    const showcanvas = async (id) => {
+    const showCanvas = async (id) => {
         try {
             const response = await useBase.fetchData2('/api/canvas/show/' + id, 'get', null, newToken)
-            canvases.value = response
+            canvases.value = response.data
         } catch (e) {
             throw e
         }
     }
 
-    const deletecanvas = async (id) => {
+    const deleteCanvas = async (id) => {
         try {
             const response = await useBase.fetchData2('/api/canvas/delete/' + id, 'post', null, newToken)
             // canvases.value = response
@@ -83,7 +98,7 @@ export default function canvasComposables() {
             throw e
         }
     }
-    const updatecanvas = async (form, edit = false, id = null, token) => {
+    const updateCanvas = async (form, edit = false, id = null, token) => {
         try {
             const formData = new FormData();
             for (const key in form) {
@@ -105,12 +120,13 @@ export default function canvasComposables() {
     return {
         canvases,
         villages,
+        real,
         getReal,
-        storecanvas,
+        storeCanvas,
         getVillages,
         getCanvas,
-        deletecanvas,
-        updatecanvas,
-        showcanvas
+        deleteCanvas,
+        updateCanvas,
+        showCanvas
     }
 }

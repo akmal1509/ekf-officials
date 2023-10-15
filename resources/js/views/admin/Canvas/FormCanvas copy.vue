@@ -7,28 +7,25 @@
             <Modal @update:go-function="deleteData" label="Delete" />
             <form @submit.prevent="handleSubmit" class="mt-4 space-y-3">
                 <div>
-                    <Select label="Refrensi Pemilih" :data="real" v-model="form.parentId" :search="form.parentId"
-                        @update:search="form.parentId = $event"></Select>
+                    <Select label="Refrensi Pemilih" :data="real"></Select>
                 </div>
                 <div class="border border-gray-200">
                     <div class="">
                         <p class="p-2  bg-white">Pemilih Utama</p>
                     </div>
                     <div class="p-4 space-y-3">
-                        <Select label="Desa / Kelurahan" :data="villages" v-model="form.villageId" :search="form.villageId"
-                            @update:search="form.villageId = $event">
-                        </Select>
+                        <Select label="Desa / Kelurahan" :data="villages"></Select>
                         <Input label="Nama Pemilih" v-model="form.name" required></Input>
-                        <Input label="NIK Pemilih" type="number" v-model="form.nik" required></Input>
-                        <Input label="NKK Pemilih" type="number" v-model="form.nkk" required></Input>
+                        <Input label="NIK Pemilih" v-model="form.nik" required></Input>
+                        <Input label="NKK Pemilih" v-model="form.nkk" required></Input>
                         <Input label="Nomor Telfon Pemilih" v-model="form.phone"></Input>
                         <div class="flex space-x-4">
-                            <Input class="basis-1/2" label="RT" v-model="form.rt"></Input>
-                            <Input class="basis-1/2" label="RW" v-model="form.rw"></Input>
+                            <Input class="basis-1/2" label="RT" v-model="form.phone"></Input>
+                            <Input class="basis-1/2" label="RW" v-model="form.phone"></Input>
                         </div>
                         <div class="flex flex-col ">
                             <label for="">Alamat</label>
-                            <textarea class="mt-2 form-control" v-model="form.address"></textarea>
+                            <textarea class="mt-2 form-control"></textarea>
                         </div>
                         <Input label="Tps" type="number" v-model="form.tps"></Input>
                         <div>
@@ -50,25 +47,39 @@
                         </div>
                     </div>
                 </div>
-                <div v-for="(item, index) in  form.real ">
-                    <div class="border border-gray-200">
+                <div class="border border-gray-200">
+                    <div>
+                        <p class="p-2 bg-white">Relasi Pemilih 1</p>
+                    </div>
+                    <div class="p-4 space-y-3">
+                        <Input label="Nama relasi 1" v-model="form.real[]Name"></Input>
+                        <Input label="NIK relasi 1" v-model=" form.real[]Nik "></Input>
+                        <Input label="NKK relasi 1" v-model=" form.real[]Nkk "></Input>
                         <div>
-                            <p class="p-2 bg-white">Relasi Pemilih {{ index + 1 }}</p>
+                            <label for="">Foto KTP relasi 1</label>
+                            <ImageUpload v-model=" form.ktp1 " @update:imageInput="form.ktp = $event" :imageData=" ktp1 " />
                         </div>
-                        <div class="p-4 space-y-3">
-                            <Input :label="`Nama relasi ${index + 1}`" v-model="form.real[index].name"></Input>
-                            <Input :label="`NIK relasi ${index + 1}`" v-model="form.real[index].nik"></Input>
-                            <Input :label="`NKK relasi ${index + 1}`" v-model="form.real[index].nkk"></Input>
-                            <div>
-                                <label for="">Foto KTP relasi {{ index + 1 }}</label>
-                                <ImageUpload v-model="form.real[index].ktp"
-                                    @update:imageInput="form.real[index].ktp = $event" :imageData="relPict.ktp[index]" />
-                            </div>
-                            <div>
-                                <label for="">Foto KK relasi {{ index + 1 }}</label>
-                                <ImageUpload v-model="form.real[index].kk" @update:imageInput="form.real[index].kk = $event"
-                                    :imageData="relPict.kk[index]" />
-                            </div>
+                        <div>
+                            <label for="">Foto KK relasi 1</label>
+                            <ImageUpload v-model=" form.kk1 " @update:imageInput="form.kk = $event" :imageData=" kk1 " />
+                        </div>
+                    </div>
+                </div>
+                <div class="border border-gray-200">
+                    <div>
+                        <p class="p-2 bg-white">Relasi Pemilih 2</p>
+                    </div>
+                    <div class="p-4 space-y-3">
+                        <Input label="Nama relasi 2" v-model=" form.relName "></Input>
+                        <Input label="NIK relasi 2" v-model=" form.relNik "></Input>
+                        <Input label="NKK relasi 2" v-model=" form.relNkk "></Input>
+                        <div>
+                            <label for="">Foto KTP relasi 2</label>
+                            <ImageUpload v-model=" form.ktp2 " @update:imageInput="form.ktp2 = $event" :imageData=" ktp2 " />
+                        </div>
+                        <div>
+                            <label for="">Foto KK relasi 2</label>
+                            <ImageUpload v-model=" form.kk2 " @update:imageInput="form.kk2 = $event" :imageData=" kk2 " />
                         </div>
                     </div>
                 </div>
@@ -92,34 +103,25 @@ export default {
         id: null
     },
     setup(props) {
-        // const assignmentStore = useAssignmentStore()
+        const assignmentStore = useAssignmentStore()
         const alert = useAlertStore()
         const route = useRoute();
         const router = useRouter();
         const id = route.params.id
-
-        const { getReal, real, getVillages, villages, storeCanvas, showCanvas, canvases } = useCanvasComposables()
+        const { getReal, real, getVillages, villages } = useCanvasComposables()
         const isLoading = ref(true)
         const create = ref(true)
         const withImage = ref('')
         const rumah = ref('')
         const ktp = ref('')
-        // const ktp1 = ref('')
-        // const ktp2 = ref('')
+        const ktp1 = ref('')
+        const ktp2 = ref('')
         const kk = ref('')
-        const relPict = ref({
-            ktp: [
-                '',
-                '',
-            ],
-            kk: [
-                '',
-                ''
-            ]
-        })
-        // const kk1 = ref('')
-        // const kk2 = ref('')
+        const kk1 = ref('')
+        const kk2 = ref('')
         const form = ref({
+            users: [],
+            districts: [],
             real: [
                 {},
                 {}
@@ -127,17 +129,13 @@ export default {
         })
         const fetchEdit = async () => {
             console.log(form.value)
-            await getReal()
-            await fetchVillage()
-            await showCanvas(id)
-            form.value = canvases.value
+            await fetchUser()
 
             create.value = false
             isLoading.value = false
         }
         const fetchData = async () => {
             await getReal()
-            console.log(real.value)
             await fetchVillage()
             isLoading.value = false
         }
@@ -149,7 +147,7 @@ export default {
         const deleteData = async () => {
             // console.log(data.value.id);
             await deleteAssignment(id);
-            await router.push('/admin/canvas')
+            await router.push('/admin/penugasan-korcam')
             alert.showAlert('Data berhasil dihapus')
         };
 
@@ -158,12 +156,12 @@ export default {
                 isLoading.value = true
                 if (!create.value) {
                     console.log("edit");
-                    await storeCanvas(form.value, true, route.params.id);
+                    await assignmentStore.storeData(form.value, true, route.params.id);
                 } else {
                     // console.log("tambah");
-                    await storeCanvas(form.value, false);
+                    await assignmentStore.storeData(form.value, false);
                 }
-                router.push('/admin/canvas')
+                // route.push('/admin/dapil/dapil-category')
                 isLoading.value = false
             } catch (e) {
                 console.log(e)
@@ -171,10 +169,6 @@ export default {
                 return
             }
         }
-
-        watch(form, (newForm) => {
-            console.log(newForm)
-        }, { deep: true })
 
 
         onMounted(() => {
@@ -188,14 +182,18 @@ export default {
         return {
             form,
             isLoading,
+            ktp1,
             real,
             villages,
             deleteData,
             handleSubmit,
             id,
             ktp,
-            relPict,
+            ktp1,
+            ktp2,
             kk,
+            kk1,
+            kk2,
             rumah,
             withImage
         }

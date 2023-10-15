@@ -15,8 +15,9 @@
                     <div class="flex flex-col space-y-5">
                         <router-link :to="`/admin/canvas/${data.id}`" v-for="data in canvases.data">
                             <Card class="flex flex-row">
-                                <div class="pl-2 space-y-3">
-
+                                <div class="pl-2 ">
+                                    <p class="font-bold">{{ data.name }}</p>
+                                    <p v-if="data.parents">ref: {{ data.parents.name }}</p>
                                 </div>
                             </Card>
                         </router-link>
