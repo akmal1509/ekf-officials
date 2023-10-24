@@ -13,9 +13,13 @@
                     <Select label="Kelurahan/Desa" text="Pilih Kelurahan" :data="villages" v-model="form.villageId"
                         :search="village" @update:search="form.villageId = $event"></Select>
                 </div>
-                <div class="">
+                <div class="space-y-4">
                     <Select label="Sekolah" depend="Pilih Desa / Kelurahan dulu" text="Pilih Sekolah" :data="schools"
                         v-model="form.schoolId" :search="school" @update:search="form.schoolId = $event"></Select>
+                    <div>
+                        <Input label="Nama Sekolah ( Temporary )" v-model="form.schoolName"></Input>
+                        <p class="text-xs text-gray-700 mt-1">*Diisi hanya jika nama sekolah tidak ada</p>
+                    </div>
                 </div>
                 <div class="space-y-4">
                     <div class="border border-gray-200">
@@ -117,6 +121,7 @@ export default {
                 }
                 isLoading.value = false
             } catch (error) {
+                isLoading.value = false
                 // console.log(errorMessage.value);
                 return;
             }

@@ -13,13 +13,16 @@
             <template #default>
                 <div v-if="!isLoading">
                     <div class="flex flex-col space-y-5">
-                        <router-link v-for="data in stepOnes.data" :to="`/admin/survey-sekolah/${data.id}`">
+                        <router-link v-for="data in  stepOnes.data " :to="`/admin/survey-sekolah/${data.id}`">
                             <Card class="flex flex-row">
                                 <div class="basis-3/12">
                                     <img :src="data.image" class="object-cover w-full aspect-square rounded-md" alt="" />
                                 </div>
                                 <div class="pl-2 basis-9/12">
-                                    <p class="font-semibold">{{ data.schools.name }}</p>
+                                    <p v-if="data.schools" class="font-semibold">{{ data.schools.name }}</p>
+                                    <p v-else class="font-semibold">
+                                        {{ data.schoolName }}
+                                    </p>
                                     <div class="text-sm pt-2" v-if="!authStore.authUser.admin">
                                         <p>Kelapa Sekolah</p>
                                         <p class="">{{ data.headmaster }}</p>

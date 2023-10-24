@@ -17,14 +17,16 @@ return new class extends Migration
             $table->id();
             $table->unsignedBigInteger('userId');
             $table->unsignedBigInteger('villageId');
-            $table->unsignedBigInteger('schoolId');
-            $table->string('headmaster');
-            $table->string('phoneHeadmaster');
-            $table->string('schoolOperator');
-            $table->string('phoneOperator');
-            $table->string('chairman');
-            $table->string('phoneChairman');
+            $table->unsignedBigInteger('schoolId')->nullable();
+            $table->string('schoolName')->nullable();
+            $table->string('headmaster')->nullable();
+            $table->string('phoneHeadmaster')->nullable();
+            $table->string('schoolOperator')->nullable();
+            $table->string('phoneOperator')->nullable();
+            $table->string('chairman')->nullable();
+            $table->string('phoneChairman')->nullable();
             $table->string('image')->nullable();
+            $table->tinyInteger('verify')->default(0);
             $table->softDeletes();
             $table->timestamps();
 
@@ -34,9 +36,9 @@ return new class extends Migration
             $table->foreign('villageId')
                 ->references('id')
                 ->on('indonesia_villages');
-            $table->foreign('schoolId')
-                ->references('id')
-                ->on('schools');
+            // $table->foreign('schoolId')
+            //     ->references('id')
+            //     ->on('schools');
         });
     }
 

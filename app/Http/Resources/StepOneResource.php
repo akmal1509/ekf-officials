@@ -17,6 +17,19 @@ class StepOneResource extends JsonResource
     public function toArray(Request $request): array
     {
         $data = parent::toArray($request);
+        if ($this->verify == 0) {
+            $ver = 'Belum diverifikasi';
+        } else {
+            $ver = 'Sudah diverifikasi';
+        }
+        if ($this->calculate() == 100) {
+            $com = 'Sudah lengkap';
+        } else {
+            $com = 'Belum lengkap';
+        }
+        $data['complete'] = $this->calculate();
+        $data['comtext'] = $com;
+        $data['verificate'] = $ver;
         if ($data['image'] != null) {
             $data['image'] = asset('upload') . '/' . $data['image'];
         }

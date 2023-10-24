@@ -39,6 +39,31 @@ class StepOne extends Model
         });
     }
 
+    public function calculate()
+    {
+        // $filledColumns = collect($this->attributes)->filter(function ($value, $key) {
+        //     return !empty($value);
+        // })->count();
+
+        // $totalColumns = count($this->attributes);
+
+        // return ($filledColumns / $totalColumns) * 100;
+        $attributes = collect($this->attributes)->except(['deleted_at', 'schoolName', 'schoolId', 'verify']);
+
+        $filledColumns = $attributes->filter(function ($value, $key) {
+            return !empty($value);
+        })->count();
+
+        $totalColumns = $attributes->count();
+        // return $totalColumns;
+        // return [
+        //     'data' => $filledColumns,
+        //     'tot' => $totalColumns
+        // ];
+        $percentage = ($filledColumns / $totalColumns) * 100;
+        return number_format($percentage, 2);
+    }
+
     public function assignments()
     {
         return Assignment::where('userId', Auth::user()->id)->get();

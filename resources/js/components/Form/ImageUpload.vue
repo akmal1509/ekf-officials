@@ -7,7 +7,8 @@
             <img v-else :src="imagePreview ?? defaultImage" alt="Pratinjau Gambar" class="w-full" />
             <!-- <p>{{ defaultImage }}</p> -->
         </div>
-        <input ref="imageInput" type="file" accept="image/*" @change="handleFileChange" style="display: none" />
+        <input ref="imageInput" type="file" accept="image/*" capture="camera" @change="handleFileChange"
+            style="display: none" />
     </div>
 </template>
 <script>
