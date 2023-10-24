@@ -84,6 +84,7 @@ export default function useStepOnesComposables() {
             const formData = new FormData();
             formData.append("villageId", form.villageId);
             formData.append("schoolId", form.schoolId);
+            formData.append("reqPip", form.reqPip);
             formData.append("schoolName", form.schoolName);
             formData.append("headmaster", form.headmaster);
             formData.append("phoneHeadmaster", form.phoneHeadmaster);

@@ -21,6 +21,9 @@
                         <p class="text-xs text-gray-700 mt-1">*Diisi hanya jika nama sekolah tidak ada</p>
                     </div>
                 </div>
+                <div>
+                    <Input label="Jumlah pengajuan pip" v-model="form.reqPip"></Input>
+                </div>
                 <div class="space-y-4">
                     <div class="border border-gray-200">
                         <p class="mb-2 p-2 bg-white">Kelapa Sekolah</p>
