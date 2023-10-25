@@ -35,7 +35,13 @@
                     </div>
                     </p>
                 </div>
-
+            </div>
+            <div class="border-gray-200 border rounded-sm text-sm">
+                <div class="bg-white">
+                    <p class="p-2 font-semibold">
+                        Jumlah pengajuan PIP : {{ data.reqPip }}
+                    </p>
+                </div>
             </div>
 
             <ShowingData :isLoading="isLoading" v-if="authStore.authUser.admin" :village="data.villages.name">
