@@ -5,6 +5,12 @@
                     class="mr-2">Edit</Button>
             </router-link>
             <Modal @update:go-function="deleteStepOne" label="Delete" />
+
+        </div>
+        <div>
+            <router-link :to="`/admin/survey-sekolah/sample-data`"><Button width="inline-block" class="mt-4">Lihat Contoh
+                    Data</Button>
+            </router-link>
         </div>
         <div class="space-y-4 mt-4">
 
@@ -17,7 +23,7 @@
                 </div>
             </div>
             <div class="border-gray-200 border rounded-sm text-sm">
-                <div :class="{ 'bg-red-500': data.complete !== 100, 'bg-green-400': data.complete == 100 }">
+                <div :class="{ 'bg-green-600': data.complete == 100.00, 'bg-red-500': data.complete !== 100.00 }">
                     <p class="p-2 font-semibold text-white">
                         Status Selesai : <span class="font-normal">{{ data.comtext }} ({{ data.complete + '%' }})</span>
                     </p>

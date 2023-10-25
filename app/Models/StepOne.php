@@ -61,7 +61,7 @@ class StepOne extends Model
         //     'tot' => $totalColumns
         // ];
         $percentage = ($filledColumns / $totalColumns) * 100;
-        return number_format($percentage, 2);
+        return round($percentage, 2);
     }
 
     public function assignments()

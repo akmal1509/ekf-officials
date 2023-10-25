@@ -2,6 +2,11 @@
     <div>
         <p class="text-lg font-semibold">Data Survey Sekolah</p>
         <div>
+            <router-link :to="`/admin/survey-sekolah/sample-data`"><Button width="inline-block" class="mt-4">Lihat Contoh
+                    Data</Button>
+            </router-link>
+        </div>
+        <div>
             <CardTotalData :data="total" :isLoading="isLoading" label="Survey Sekolah" icon="school" />
         </div>
         <div>
@@ -52,7 +57,7 @@
     </div>
 </template>
 <script>
-import { CardTotalData, Card, Paginate, ButtonCreate, CardSkeleton } from "@/components";
+import { CardTotalData, Card, Paginate, ButtonCreate, CardSkeleton, Button } from "@/components";
 import { useStepOnesComposables as stepOne } from "@/composables";
 import { useAuthStore } from '@/store'
 import { ref, onMounted, watchEffect } from "vue";
@@ -107,6 +112,7 @@ export default {
     },
     components: {
         CardTotalData,
+        Button,
         Card,
         Paginate,
         ButtonCreate,
