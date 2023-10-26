@@ -12,4 +12,9 @@ class IndonesiaCity extends Model
     use HasFactory;
     protected $guarded = ['id'];
     // protected $table = []
+
+    public function districts()
+    {
+        return $this->hasMany(IndonesiaDistrict::class, 'city_code', 'code');
+    }
 }

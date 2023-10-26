@@ -14,5 +14,6 @@ const Canvas = () => import('./admin/Canvas/Canvas.vue')
 const FormCanvas = () => import('./admin/Canvas/FormCanvas.vue')
 const ShowCanvas = () => import('./admin/Canvas/ShowCanvas.vue')
 const SampleSurveySurvey = () => import('./admin/SurverSekolah/SampleSurveySekolah.vue')
+const Pemetaan = () => import('./admin/Pemetaan/Pemetaan.vue')
 
-export { Login, Dashboard, DapilCategory, SurveySekolah, CreateSurveySekolah, ShowSurveySekolah, Maintenance, Profile, User, ChangePassword, Korcam, FormKorcam, FormUser, Canvas, FormCanvas, ShowCanvas, SampleSurveySurvey }
+export { Login, Dashboard, DapilCategory, SurveySekolah, CreateSurveySekolah, ShowSurveySekolah, Maintenance, Profile, User, ChangePassword, Korcam, FormKorcam, FormUser, Canvas, FormCanvas, ShowCanvas, SampleSurveySurvey, Pemetaan }

@@ -6,5 +6,6 @@ import useDapilComposables from './dapilComposables';
 import useDapilWilComposables from "./dapilWilComposables";
 import useAssignmentComposables from "./assignmentComposables";
 import useCanvasComposables from "./canvasComposables";
+import usePemetaanComposables from './pemetaanComposables'
 
-export { useBaseComposables, useStepOnesComposables, useAuthComposables, useErrorHandling, useDapilComposables, useDapilWilComposables, useAssignmentComposables, useCanvasComposables }
+export { useBaseComposables, useStepOnesComposables, useAuthComposables, useErrorHandling, useDapilComposables, useDapilWilComposables, useAssignmentComposables, useCanvasComposables, usePemetaanComposables }

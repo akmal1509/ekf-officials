@@ -37,7 +37,7 @@
                 Tidak ada hasil.
             </li>
             <li v-if="filteredOptions.length === 0 && !searchQuery" class="p-2 text-gray-500">
-                Hubungi admin jika sekolah tidak ada
+                Hubungi admin jika data tidak ada
             </li>
         </ul>
     </div>

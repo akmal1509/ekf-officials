@@ -37,6 +37,11 @@ class StepOne extends Model
                 $query->where('name', 'LIKE', '%' . $filter . '%');
             });
         });
+        $query->when($filters['search']['district'] ?? false, function ($query, $filter) {
+            return $query->whereHas('villages.district', function ($query) use ($filter) {
+                $query->where('name', 'LIKE', '%' . $filter . '%');
+            });
+        });
     }
 
     public function calculate()
@@ -72,6 +77,10 @@ class StepOne extends Model
     {
         return $this->belongsTo(Village::class, 'villageId', 'id');
     }
+    // public function villages()
+    // {
+    //     return $this->belongsTo(IndonesiaVillage::class, 'villageId', 'id');
+    // }
 
     public function setHeadmasterAttribute($value)
     {

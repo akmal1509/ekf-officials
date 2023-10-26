@@ -39,6 +39,18 @@ class DapilDistrict extends Model
         return $this->belongsTo(District::class, 'districtId', 'id');
     }
 
+    public function test()
+    {
+        return $this->belongsToMany(
+            District::class,
+            'dapil_district_gos',
+            'dapilDistrictId',
+            'districtId',
+            'id',
+            'id'
+        );
+    }
+
     public function goWil()
     {
         return $this->hasMany(DapilDistrictGo::class, 'dapilDistrictId', 'id');

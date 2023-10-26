@@ -61,6 +61,21 @@ class StepOneController extends Controller
         $result = $this->stepOneRepository->getSchools(request()->id)->toJson();
         return $result;
     }
+    public function pemetaan()
+    {
+        $result = $this->stepOneRepository->pemetaan(request())->toJson();
+        return $result;
+    }
+    // public function district()
+    // {
+    //     $result = $this->stepOneRepository->pemetaan(request())->toJson();
+    //     return $result;
+    // }
+    // public function pemetaan()
+    // {
+    //     $result = $this->stepOneRepository->pemetaan(request())->toJson();
+    //     return $result;
+    // }
 
     public function store(StoreStepOneRequest $request)
     {

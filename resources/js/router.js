@@ -1,6 +1,6 @@
 import { createWebHistory, createRouter } from "vue-router";
 import { useAuthStore, useSidebarStore, useStepOneStore } from "./store";
-import { CreateSurveySekolah, DapilCategory, Dashboard, Login, ShowSurveySekolah, SurveySekolah, Maintenance, Profile, User, ChangePassword, Korcam, FormKorcam, FormUser, Canvas, FormCanvas, ShowCanvas, SampleSurveySurvey } from "./views";
+import { CreateSurveySekolah, DapilCategory, Dashboard, Login, ShowSurveySekolah, SurveySekolah, Maintenance, Profile, User, ChangePassword, Korcam, FormKorcam, FormUser, Canvas, FormCanvas, ShowCanvas, SampleSurveySurvey, Pemetaan } from "./views";
 import { AdminLayout, AuthLayout, BaseLayout, FrontLayout } from "./layout";
 import { checkAuth, checkSurveySekolahOwnership, guestOnly, requireAuth } from "./plugins/Middleware/middleware";
 import { DapilWilayah, FormDapilCategory, FormDapilWilayah } from "./views/admin";
@@ -115,6 +115,12 @@ const routes = [
                         component: FormKorcam
                     }
                 ]
+            },
+            {
+                path: 'Pemetaan',
+                name: 'Pemetaan',
+                component: Pemetaan,
+
             },
             {
                 path: 'survey-sekolah',

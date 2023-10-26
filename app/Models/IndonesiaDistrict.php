@@ -17,4 +17,33 @@ class IndonesiaDistrict extends Model
     {
         return $this->hasMany(IndonesiaVillage::class, 'district_code', 'code');
     }
+
+    public function stepOne()
+    {
+        return $this->hasManyThrough(
+            StepOne::class,
+            IndonesiaVillage::class,
+            'district_code',
+            'villageId',
+            'code',
+            'id'
+        );
+    }
+
+    public function verifStepOne()
+    {
+        return $this->hasManyThrough(
+            StepOne::class,
+            IndonesiaVillage::class,
+            'district_code',
+            'villageId',
+            'code',
+            'id'
+        )->where('verify', true);
+    }
+
+    public function cities()
+    {
+        return $this->belongsTo(IndonesiaCity::class, 'city_code', 'code');
+    }
 }

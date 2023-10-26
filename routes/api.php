@@ -54,6 +54,9 @@ Route::group([
     Route::post('/delete/{id}', 'delete');
     Route::get('/villages', 'getVillages');
     Route::get('/schools', 'getSchools');
+    Route::get('/pemetaan', 'pemetaan');
+    Route::get('/district', 'district');
+    Route::get('/village', 'village');
 });
 Route::group([
     'middleware' => 'api',

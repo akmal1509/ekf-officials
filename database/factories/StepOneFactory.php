@@ -17,9 +17,12 @@ class StepOneFactory extends Factory
      */
     public function definition(): array
     {
+        $idKecamatan = '2224';
+        $ciamis = \Indonesia::findCity('167', ['villages'])->villages->pluck('id')->toArray();
+        $dataSelect = \Indonesia::findDistrict($idKecamatan, ['villages'])->villages->pluck('id')->toArray();
         return [
             'userId' => '80',
-            'villageId' => '28071',
+            'villageId' => $this->faker->randomElement($ciamis),
             'schoolId' => Schools::all()->random()->id,
             'headmaster' => $this->faker->name(),
             'phoneHeadmaster' => '0808',
