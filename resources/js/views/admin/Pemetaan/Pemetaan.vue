@@ -24,11 +24,20 @@
                 v-model="searchQuery.dapilId" :search="searchQuery.dapilId" @update:search="searchQuery.dapilId = $event">
             </Select> -->
         </div>
-        <VueApexCharts type="bar" height="400" :options="chartOptions" :series="series"></VueApexCharts>
+        <div>
+            <VueApexCharts v-if="!isLoading" type="bar" height="400" :options="chartOptions" :series="series">
+            </VueApexCharts>
+            <div v-else class="flex items-center justify-center h-[400px]">
+                <div class="flex flex-col items-center space-y-5">
+                    <Spinner color="red" size="12"></Spinner>
+                </div>
+            </div>
+        </div>
     </div>
 </template>
 <script>
 import { Select } from '@/components'
+import { Spinner } from "flowbite-vue";
 import { ref, onMounted, watchEffect, watch } from 'vue'
 import VueApexCharts from "vue3-apexcharts";
 import { usePemetaanComposables, useAssignmentComposables } from '@/composables'
@@ -42,6 +51,7 @@ export default {
         const net2 = ref([])
         const net3 = ref([])
         const search = ref('')
+        const isLoading = ref(true)
 
         const selectKota = ref('167')
         const selectOption = ref(1)
@@ -69,14 +79,13 @@ export default {
         ]
 
         const fetchData = async () => {
+            isLoading.value = true
             await getDapil()
             await getDistrict(searchQuery.value.dapilId)
             await getPemetaan(queryParams.value)
             const test = pemetaan.value.data.data
-            // console.log(test.data.data)
-            // net.value = []
 
-            console.log(test)
+
             net.value.splice(0, net.value.length);
             net2.value.splice(0, net2.value.length);
             net3.value.splice(0, net3.value.length);
@@ -85,7 +94,8 @@ export default {
                 net2.value.push(parseInt(item.step_one_count) - parseInt(item.verif_step_one_count));
                 net3.value.push(item.name);
             });
-
+            // console.log(net3.value)
+            isLoading.value = false
 
         }
 
@@ -127,10 +137,6 @@ export default {
                 name: 'Belum Verifikasi',
                 data: net2.value
             },
-            // {
-            //     name: 'Free Cash Flow',
-            //     data: [35, 41, 36, 26, 45, 48, 52, 53, 41]
-            // }
         ]
         const chartOptions = {
             chart: {
@@ -158,11 +164,6 @@ export default {
             xaxis: {
                 categories: net3.value
             },
-            // yaxis: {
-            //     title: {
-            //         text: 'Jumlah'
-            //     }
-            // },
             fill: {
                 opacity: 1
             },
@@ -192,12 +193,14 @@ export default {
             dapil,
             kota,
             selectKota,
-            district
+            district,
+            isLoading
         }
     },
     components: {
         Select,
-        VueApexCharts
+        VueApexCharts,
+        Spinner
     }
 }
 </script>
